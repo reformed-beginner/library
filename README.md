@@ -1,2 +1,2 @@
-# expository-thoughts-matthew
-Expository Thoughts on Matthew
+# expository-thoughts
+Expository Thoughts
