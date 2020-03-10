@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Expository Thoughts
+title: Library
 ---
 
-# 马太福音释经默想
-作者：莱尔
+# REFORMED BEGINNER
+Library
