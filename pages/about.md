@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Elisha Teng, elishateng
+description: 改革宗初学者
+keywords: Reformed, 改革宗
 comments: false
 menu: 关于
 permalink: /about/
 ---
 
-I am Elisha Teng.
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+改革宗初学者
 
 ## 联系
 

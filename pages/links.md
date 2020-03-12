@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-description: 没有链接的博客是孤独的
+description: 和信仰相关的链接
 keywords: 友情链接
 comments: false
 menu: 链接

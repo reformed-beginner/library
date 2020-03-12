@@ -4,6 +4,7 @@ title: 马太福音释经默想
 categories: MatthewExpositoryThoughts
 description: Expository Thoughts on Matthew
 keywords: 马太福音, 释经默想, ExpositoryThoughts, Matthew
+comments: false
 ---
 
 # 马太福音释经默想 (Expository Thoughts on Matthew)

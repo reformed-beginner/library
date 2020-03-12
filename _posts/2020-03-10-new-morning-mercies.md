@@ -4,6 +4,7 @@ title: 晨恩日新
 categories: NewMorningMercies
 description: New Morning Mercies
 keywords: 晨恩日新, NewMorningMercies
+comments: false
 ---
 
 # 晨恩日新 (New Morning Mercies)
