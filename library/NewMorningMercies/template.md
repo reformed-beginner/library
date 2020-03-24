@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 晨恩日新 四月日
+title: 晨恩日新 五月日
 categories: NewMorningMercies
 description: day 1
 keywords: 晨恩日新，保罗区普
 comments: false
-permalink: /library/NewMorningMercies/04
+permalink: /library/NewMorningMercies/05001
 ---
 
-## 四月日
+## 五月日
 
 ### To <br> Do
 
