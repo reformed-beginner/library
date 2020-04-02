@@ -1,0 +1,24 @@
+---
+layout: wiki
+title: 生命册（BOOK OF LIFE）(来：se{p{er h]ayyi^m；腊：biblos 或 biblion
+zo{e{s，“生存者的点名录”）
+categories: NewBibleDictionary
+description: 生命册（BOOK OF LIFE）(来：se{p{er h]ayyi^m；腊：biblos 或 biblion
+zo{e{s，“生存者的点名录”）
+keywords: 生命册（BOOK OF LIFE）(来：se{p{er h]ayyi^m；腊：biblos 或 biblion
+zo{e{s，“生存者的点名录”）
+comments: false
+---
+
+## 生命册（BOOK OF LIFE）(来：se{p{er h]ayyi^m；腊：biblos 或 biblion
+zo{e{s，“生存者的点名录”）
+
+
+
+生命册（BOOK OF LIFE）(来：se{p{er h]ayyi^m；腊：biblos 或 biblion zo{e{s，“生存者的点名录”）
+1. 用在自然的生命上，如：诗六十九28“愿他们从生命册上被涂抹”的意思是“愿他们死亡”。参：出卅二32-33，在那里摩西祈求神说，倘若神要消灭以色列人，那他就宁可将自己的名字从神写的册上抹掉。诗一三九16“你所定的日子……都写在你的册上了”；但十二1“凡名录在册上的”义人，必从末日的灾难中，得着拯救。
+2. 在后期犹太教以及新约圣经中，这个片语是指来世的生命。例如：赛四3所说“一切住耶路撒冷，在生命册上记名的”原本是指肉身的生命，但他尔根却把这生命重新解释为“永生”。同样在新约圣经，生命册是信徒的名册，如：腓四3；启三5，廿二19等等。到最后审判时，凡名字没有记在生命册上的人，都要被扔到火湖里去（启廿12、15）；这是被杀的羔羊的生命册（启十三8，廿一27），“从创世以来”，被拣选之人的名字，都已刻在这本册子上了（十七8）。路十20也有相同的意思：“你们的名记录在天上”；徒十三48；“凡豫定〔名字已被刻上〕得永生的人都信了。”
+F.F.B.
+
+
+

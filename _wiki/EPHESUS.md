@@ -1,0 +1,19 @@
+---
+layout: wiki
+title: 图　“亚西亚的七间教会”之──以弗所（启一、三）
+categories: NewBibleDictionary
+description: 图　“亚西亚的七间教会”之──以弗所（启一、三）
+keywords: 图　“亚西亚的七间教会”之──以弗所（启一、三）
+comments: false
+---
+
+## 图　“亚西亚的七间教会”之──以弗所（启一、三）
+
+
+
+图　“亚西亚的七间教会”之──以弗所（启一、三）
+
+
+
+
+
