@@ -2,7 +2,7 @@
 layout: wiki
 title: 他普亚（TAPPUAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 他普亚（TAPPUAH）（“桲”？）
+description: 圣经新词典 - 他普亚（TAPPUAH）（“桲”？）
 keywords: 他普亚, TAPPUAH
 comments: false
 ---

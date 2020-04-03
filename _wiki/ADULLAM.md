@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚杜兰（ADULLAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚杜兰（ADULLAM）
+description: 圣经新词典 - 亚杜兰（ADULLAM）
 keywords: 亚杜兰, ADULLAM
 comments: false
 ---

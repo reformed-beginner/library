@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄巴底亚书（OBADIAH, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄巴底亚书（OBADIAH, BOOK OF）
+description: 圣经新词典 - 俄巴底亚书（OBADIAH, BOOK OF）
 keywords: 俄巴底亚书, OBADIAH, BOOK OF
 comments: false
 ---

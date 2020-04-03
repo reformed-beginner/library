@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚希甘（AHIKAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚希甘（AHIKAM）（来：~@h]i^qa{m，意思为“我的弟兄已经起来”）
+description: 圣经新词典 - 亚希甘（AHIKAM）（来：~@h]i^qa{m，意思为“我的弟兄已经起来”）
 keywords: 亚希甘, AHIKAM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 谷类（GRAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 谷类（GRAIN）
+description: 圣经新词典 - 谷类（GRAIN）
 keywords: 谷类, GRAIN
 comments: false
 ---

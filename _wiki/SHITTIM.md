@@ -2,7 +2,7 @@
 layout: wiki
 title: 什亭（SHITTIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 什亭（SHITTIM）
+description: 圣经新词典 - 什亭（SHITTIM）
 keywords: 什亭, SHITTIM
 comments: false
 ---

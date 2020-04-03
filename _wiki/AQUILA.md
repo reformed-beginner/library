@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚居拉及百基拉（AQUILA AND PRISCA, PRISCILLA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚居拉及百基拉（AQUILA AND PRISCA, PRISCILLA）
+description: 圣经新词典 - 亚居拉及百基拉（AQUILA AND PRISCA, PRISCILLA）
 keywords: 亚居拉及百基拉, AQUILA AND PRISCA, PRISCILLA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 矮矬（DWARF）
 categories: NewBibleDictionary
-description: 圣经新词典: 矮矬（DWARF）
+description: 圣经新词典 - 矮矬（DWARF）
 keywords: 矮矬, DWARF
 comments: false
 ---

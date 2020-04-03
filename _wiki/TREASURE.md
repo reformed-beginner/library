@@ -2,7 +2,7 @@
 layout: wiki
 title: 宝物，宝盒，财宝；宝库（TREASURE, TREASURY）
 categories: NewBibleDictionary
-description: 圣经新词典: 宝物，宝盒，财宝；宝库（TREASURE, TREASURY）
+description: 圣经新词典 - 宝物，宝盒，财宝；宝库（TREASURE, TREASURY）
 keywords: 宝物，宝盒，财宝；宝库, TREASURE, TREASURY
 comments: false
 ---

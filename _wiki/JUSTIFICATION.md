@@ -2,7 +2,7 @@
 layout: wiki
 title: 称义（JUSTIFICATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 称义（JUSTIFICATION）
+description: 圣经新词典 - 称义（JUSTIFICATION）
 keywords: 称义, JUSTIFICATION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 每拉（MYRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 每拉（MYRA）
+description: 圣经新词典 - 每拉（MYRA）
 keywords: 每拉, MYRA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基底拉（GEDERAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基底拉（GEDERAH）（来：g#d[e{ra^h）
+description: 圣经新词典 - 基底拉（GEDERAH）（来：g#d[e{ra^h）
 keywords: 基底拉, GEDERAH
 comments: false
 ---

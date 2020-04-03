@@ -2,7 +2,7 @@
 layout: wiki
 title: 甲薛（KABZEEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 甲薛（KABZEEL）
+description: 圣经新词典 - 甲薛（KABZEEL）
 keywords: 甲薛, KABZEEL
 comments: false
 ---

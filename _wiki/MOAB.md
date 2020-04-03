@@ -2,7 +2,7 @@
 layout: wiki
 title: 摩押；摩押人（MOAB, MOABITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 摩押；摩押人（MOAB, MOABITES）
+description: 圣经新词典 - 摩押；摩押人（MOAB, MOABITES）
 keywords: 摩押；摩押人, MOAB, MOABITES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶利哥（JERICHO）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶利哥（JERICHO）
+description: 圣经新词典 - 耶利哥（JERICHO）
 keywords: 耶利哥, JERICHO
 comments: false
 ---

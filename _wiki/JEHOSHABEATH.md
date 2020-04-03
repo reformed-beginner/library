@@ -2,7 +2,7 @@
 layout: wiki
 title: 约示巴（JEHOSHABEATH, JEHOSHEBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 约示巴（JEHOSHABEATH, JEHOSHEBA）
+description: 圣经新词典 - 约示巴（JEHOSHABEATH, JEHOSHEBA）
 keywords: 约示巴, JEHOSHABEATH, JEHOSHEBA
 comments: false
 ---

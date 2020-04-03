@@ -2,7 +2,7 @@
 layout: wiki
 title: 土人，化外人（BARBARIAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 土人，化外人（BARBARIAN）
+description: 圣经新词典 - 土人，化外人（BARBARIAN）
 keywords: 土人，化外人, BARBARIAN
 comments: false
 ---

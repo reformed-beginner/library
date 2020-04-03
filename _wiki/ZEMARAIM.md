@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗玛脸（ZEMARAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗玛脸（ZEMARAIM）
+description: 圣经新词典 - 洗玛脸（ZEMARAIM）
 keywords: 洗玛脸, ZEMARAIM
 comments: false
 ---

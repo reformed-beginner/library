@@ -2,7 +2,7 @@
 layout: wiki
 title: 洞（CAVE）
 categories: NewBibleDictionary
-description: 圣经新词典: 洞（CAVE）
+description: 圣经新词典 - 洞（CAVE）
 keywords: 洞, CAVE
 comments: false
 ---

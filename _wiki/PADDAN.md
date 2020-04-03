@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴旦；巴旦亚兰（PADDAN, PADDAN-ARAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴旦；巴旦亚兰（PADDAN, PADDAN-ARAM）
+description: 圣经新词典 - 巴旦；巴旦亚兰（PADDAN, PADDAN-ARAM）
 keywords: 巴旦；巴旦亚兰, PADDAN, PADDAN-ARAM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 中保，媒介（MEDIATOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 中保，媒介（MEDIATOR）
+description: 圣经新词典 - 中保，媒介（MEDIATOR）
 keywords: 中保，媒介, MEDIATOR
 comments: false
 ---

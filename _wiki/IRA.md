@@ -2,7 +2,7 @@
 layout: wiki
 title: 以拉（IRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 以拉（IRA）（来：`i^ra{~）
+description: 圣经新词典 - 以拉（IRA）（来：`i^ra{~）
 keywords: 以拉, IRA
 comments: false
 ---

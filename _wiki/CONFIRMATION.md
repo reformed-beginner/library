@@ -2,7 +2,7 @@
 layout: wiki
 title: 按手，证实（CONFIRMATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 按手，证实（CONFIRMATION）
+description: 圣经新词典 - 按手，证实（CONFIRMATION）
 keywords: 按手，证实, CONFIRMATION
 comments: false
 ---

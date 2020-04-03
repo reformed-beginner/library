@@ -2,7 +2,7 @@
 layout: wiki
 title: 公正（JUSTICE）
 categories: NewBibleDictionary
-description: 圣经新词典: 公正（JUSTICE）〔译注：本文为了忠于英文原著，在翻译时用词力求一致：'justice' 译作“公正”； 'just'
+description: 圣经新词典 - 公正（JUSTICE）〔译注：本文为了忠于英文原著，在翻译时用词力求一致：'justice' 译作“公正”； 'just'
 译作“公正的”、“义的”； 'judgment' 译作“审判”； 'righteousness' 译作“公义”； 'righteous' 译作“公义的”
 keywords: 公正, JUSTICE
 comments: false

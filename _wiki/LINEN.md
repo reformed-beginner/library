@@ -2,7 +2,7 @@
 layout: wiki
 title: 细麻布（LINEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 细麻布（LINEN）
+description: 圣经新词典 - 细麻布（LINEN）
 keywords: 细麻布, LINEN
 comments: false
 ---

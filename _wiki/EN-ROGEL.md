@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐罗结（EN-ROGEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐罗结（EN-ROGEL）（来：`e^n-ro{g{e{l，“漂洗工人的井”）
+description: 圣经新词典 - 隐罗结（EN-ROGEL）（来：`e^n-ro{g{e{l，“漂洗工人的井”）
 keywords: 隐罗结, EN-ROGEL
 comments: false
 ---

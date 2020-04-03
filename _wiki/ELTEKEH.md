@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊利提基（ELTEKEH）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊利提基（ELTEKEH）
+description: 圣经新词典 - 伊利提基（ELTEKEH）
 keywords: 伊利提基, ELTEKEH
 comments: false
 ---

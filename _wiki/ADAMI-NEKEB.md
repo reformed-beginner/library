@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚大米尼吉（ADAMI-NEKEB）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚大米尼吉（ADAMI-NEKEB）
+description: 圣经新词典 - 亚大米尼吉（ADAMI-NEKEB）
 keywords: 亚大米尼吉, ADAMI-NEKEB
 comments: false
 ---

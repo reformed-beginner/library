@@ -2,7 +2,7 @@
 layout: wiki
 title: 以赛亚书（ISAIAH, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 以赛亚书（ISAIAH, BOOK OF）
+description: 圣经新词典 - 以赛亚书（ISAIAH, BOOK OF）
 keywords: 以赛亚书, ISAIAH, BOOK OF
 comments: false
 ---

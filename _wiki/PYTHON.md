@@ -2,7 +2,7 @@
 layout: wiki
 title: 巨蛇，藉鬼附而作预言者（PYTHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 巨蛇，藉鬼附而作预言者（PYTHON）
+description: 圣经新词典 - 巨蛇，藉鬼附而作预言者（PYTHON）
 keywords: 巨蛇，藉鬼附而作预言者, PYTHON
 comments: false
 ---

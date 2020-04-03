@@ -2,7 +2,7 @@
 layout: wiki
 title: 税收（TAXES）
 categories: NewBibleDictionary
-description: 圣经新词典: 税收（TAXES）
+description: 圣经新词典 - 税收（TAXES）
 keywords: 税收, TAXES
 comments: false
 ---

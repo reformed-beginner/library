@@ -2,7 +2,7 @@
 layout: wiki
 title: 信仰，信心，信实（FAITH）
 categories: NewBibleDictionary
-description: 圣经新词典: 信仰，信心，信实（FAITH）
+description: 圣经新词典 - 信仰，信心，信实（FAITH）
 keywords: 信仰，信心，信实, FAITH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 希曷立纳（SHIHOR-LIBNATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 希曷立纳（SHIHOR-LIBNATH）
+description: 圣经新词典 - 希曷立纳（SHIHOR-LIBNATH）
 keywords: 希曷立纳, SHIHOR-LIBNATH
 comments: false
 ---

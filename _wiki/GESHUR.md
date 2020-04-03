@@ -2,7 +2,7 @@
 layout: wiki
 title: 基述；基述人（GESHUR, GESHURITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 基述；基述人（GESHUR, GESHURITES）
+description: 圣经新词典 - 基述；基述人（GESHUR, GESHURITES）
 keywords: 基述；基述人, GESHUR, GESHURITES
 comments: false
 ---

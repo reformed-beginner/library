@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣经（BIBLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣经（BIBLE）
+description: 圣经新词典 - 圣经（BIBLE）
 keywords: 圣经, BIBLE
 comments: false
 ---

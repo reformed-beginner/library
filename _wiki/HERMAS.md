@@ -2,7 +2,7 @@
 layout: wiki
 title: 黑马（HERMAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 黑马（HERMAS）
+description: 圣经新词典 - 黑马（HERMAS）
 keywords: 黑马, HERMAS
 comments: false
 ---

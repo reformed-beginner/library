@@ -2,7 +2,7 @@
 layout: wiki
 title: 散送冥（ZAMZUMMIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 散送冥（ZAMZUMMIM）（zamzummim 一字的意义并不明确，可能从亚拉伯文一个已知的字根衍生出来，解作“低语者”或“窃窃私语的人”
+description: 圣经新词典 - 散送冥（ZAMZUMMIM）（zamzummim 一字的意义并不明确，可能从亚拉伯文一个已知的字根衍生出来，解作“低语者”或“窃窃私语的人”
 keywords: 散送冥, ZAMZUMMIM
 comments: false
 ---

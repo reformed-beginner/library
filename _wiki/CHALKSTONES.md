@@ -2,7 +2,7 @@
 layout: wiki
 title: 灰石（CHALKSTONES）
 categories: NewBibleDictionary
-description: 圣经新词典: 灰石（CHALKSTONES）
+description: 圣经新词典 - 灰石（CHALKSTONES）
 keywords: 灰石, CHALKSTONES
 comments: false
 ---

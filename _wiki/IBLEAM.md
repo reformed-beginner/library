@@ -2,7 +2,7 @@
 layout: wiki
 title: 以伯莲（IBLEAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 以伯莲（IBLEAM）
+description: 圣经新词典 - 以伯莲（IBLEAM）
 keywords: 以伯莲, IBLEAM
 comments: false
 ---

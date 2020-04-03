@@ -2,7 +2,7 @@
 layout: wiki
 title: 示巴（SHIBAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 示巴（SHIBAH）
+description: 圣经新词典 - 示巴（SHIBAH）
 keywords: 示巴, SHIBAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 表　新旧约年代大纲
+description: 圣经新词典 - 表　新旧约年代大纲
 keywords: , 
 comments: false
 ---

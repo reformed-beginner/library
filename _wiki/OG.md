@@ -2,7 +2,7 @@
 layout: wiki
 title: 噩（巴珊王）
 categories: NewBibleDictionary
-description: 圣经新词典: 噩（巴珊王）（OG）（来：`o^g{）
+description: 圣经新词典 - 噩（巴珊王）（OG）（来：`o^g{）
 keywords: 噩, 巴珊王
 comments: false
 ---

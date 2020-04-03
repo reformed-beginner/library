@@ -2,7 +2,7 @@
 layout: wiki
 title: 所作的事，工作，行为（WORKS）
 categories: NewBibleDictionary
-description: 圣经新词典: 所作的事，工作，行为（WORKS）
+description: 圣经新词典 - 所作的事，工作，行为（WORKS）
 keywords: 所作的事，工作，行为, WORKS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 琐拉（ZORAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 琐拉（ZORAH）
+description: 圣经新词典 - 琐拉（ZORAH）
 keywords: 琐拉, ZORAH
 comments: false
 ---

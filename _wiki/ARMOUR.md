@@ -2,7 +2,7 @@
 layout: wiki
 title: 军装和兵器（ARMOUR AND WEAPONS）
 categories: NewBibleDictionary
-description: 圣经新词典: 军装和兵器（ARMOUR AND WEAPONS）
+description: 圣经新词典 - 军装和兵器（ARMOUR AND WEAPONS）
 keywords: 军装和兵器, ARMOUR AND WEAPONS
 comments: false
 ---

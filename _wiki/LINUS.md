@@ -2,7 +2,7 @@
 layout: wiki
 title: 利奴（LINUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 利奴（LINUS）
+description: 圣经新词典 - 利奴（LINUS）
 keywords: 利奴, LINUS
 comments: false
 ---

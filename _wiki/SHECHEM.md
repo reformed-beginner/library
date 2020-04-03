@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　在示剑发掘出的早期堡垒式庙宇据建议的重构图及平面图
+description: 圣经新词典 - 图　在示剑发掘出的早期堡垒式庙宇据建议的重构图及平面图
 keywords: , 
 comments: false
 ---

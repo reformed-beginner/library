@@ -2,7 +2,7 @@
 layout: wiki
 title: 悦纳，收纳（ACCEPTANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 悦纳，收纳（ACCEPTANCE）
+description: 圣经新词典 - 悦纳，收纳（ACCEPTANCE）
 keywords: 悦纳，收纳, ACCEPTANCE
 comments: false
 ---

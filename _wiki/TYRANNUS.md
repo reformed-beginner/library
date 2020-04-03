@@ -2,7 +2,7 @@
 layout: wiki
 title: 推喇奴（TYRANNUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 推喇奴（TYRANNUS）
+description: 圣经新词典 - 推喇奴（TYRANNUS）
 keywords: 推喇奴, TYRANNUS
 comments: false
 ---

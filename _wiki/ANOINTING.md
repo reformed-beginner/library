@@ -2,7 +2,7 @@
 layout: wiki
 title: 膏抹，膏立；受膏者（ANOINTING, ANOINTED）
 categories: NewBibleDictionary
-description: 圣经新词典: 膏抹，膏立；受膏者（ANOINTING, ANOINTED）
+description: 圣经新词典 - 膏抹，膏立；受膏者（ANOINTING, ANOINTED）
 keywords: 膏抹，膏立；受膏者, ANOINTING, ANOINTED
 comments: false
 ---

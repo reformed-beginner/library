@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚萨（ASAPH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚萨（ASAPH）（来：~a{sa{p{）
+description: 圣经新词典 - 亚萨（ASAPH）（来：~a{sa{p{）
 keywords: 亚萨, ASAPH
 comments: false
 ---

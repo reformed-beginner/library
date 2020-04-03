@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚撒（ASA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚撒（ASA）（来：~a{sa{~）
+description: 圣经新词典 - 亚撒（ASA）（来：~a{sa{~）
 keywords: 亚撒, ASA
 comments: false
 ---

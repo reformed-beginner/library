@@ -2,7 +2,7 @@
 layout: wiki
 title: 饼，面，粮（BREAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 饼，面，粮（BREAD）
+description: 圣经新词典 - 饼，面，粮（BREAD）
 keywords: 饼，面，粮, BREAD
 comments: false
 ---

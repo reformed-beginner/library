@@ -2,7 +2,7 @@
 layout: wiki
 title: 无父孤儿（ORPHAN, FATHERLESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 无父孤儿（ORPHAN, FATHERLESS）（来：ya{t[o^m；腊：orphanos）
+description: 圣经新词典 - 无父孤儿（ORPHAN, FATHERLESS）（来：ya{t[o^m；腊：orphanos）
 keywords: 无父孤儿, ORPHAN, FATHERLESS
 comments: false
 ---

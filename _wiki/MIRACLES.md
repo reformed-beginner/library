@@ -2,7 +2,7 @@
 layout: wiki
 title: 神迹（MIRACLES）
 categories: NewBibleDictionary
-description: 圣经新词典: 神迹（MIRACLES）
+description: 圣经新词典 - 神迹（MIRACLES）
 keywords: 神迹, MIRACLES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西公都（SECUNDUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 西公都（SECUNDUS）
+description: 圣经新词典 - 西公都（SECUNDUS）
 keywords: 西公都, SECUNDUS
 comments: false
 ---

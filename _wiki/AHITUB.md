@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚希突（AHITUB）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚希突（AHITUB）（来：~@h]i^t]u^b[，意即“好的弟兄”或“我的弟兄好”
+description: 圣经新词典 - 亚希突（AHITUB）（来：~@h]i^t]u^b[，意即“好的弟兄”或“我的弟兄好”
 keywords: 亚希突, AHITUB
 comments: false
 ---

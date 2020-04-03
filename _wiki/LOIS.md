@@ -2,7 +2,7 @@
 layout: wiki
 title: 罗以（LOIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 罗以（LOIS）
+description: 圣经新词典 - 罗以（LOIS）
 keywords: 罗以, LOIS
 comments: false
 ---

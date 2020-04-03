@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄备得（OBED）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄备得（OBED）（来：`o^b[e{d[, “奴仆”）
+description: 圣经新词典 - 俄备得（OBED）（来：`o^b[e{d[, “奴仆”）
 keywords: 俄备得, OBED
 comments: false
 ---

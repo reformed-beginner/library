@@ -2,7 +2,7 @@
 layout: wiki
 title: 蒙拣选的太太（ELECT LADY）
 categories: NewBibleDictionary
-description: 圣经新词典: 蒙拣选的太太（ELECT LADY）(来：eklekte{ kyria）
+description: 圣经新词典 - 蒙拣选的太太（ELECT LADY）(来：eklekte{ kyria）
 keywords: 蒙拣选的太太, ELECT LADY
 comments: false
 ---

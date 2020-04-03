@@ -2,7 +2,7 @@
 layout: wiki
 title: 财富，钱财（WEALTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 财富，钱财（WEALTH）
+description: 圣经新词典 - 财富，钱财（WEALTH）
 keywords: 财富，钱财, WEALTH
 comments: false
 ---

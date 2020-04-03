@@ -2,7 +2,7 @@
 layout: wiki
 title: 旋风，暴风（WHIRLWIND）
 categories: NewBibleDictionary
-description: 圣经新词典: 旋风，暴风（WHIRLWIND）
+description: 圣经新词典 - 旋风，暴风（WHIRLWIND）
 keywords: 旋风，暴风, WHIRLWIND
 comments: false
 ---

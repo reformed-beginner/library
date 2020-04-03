@@ -2,7 +2,7 @@
 layout: wiki
 title: 道成肉身（INCARNATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 道成肉身（INCARNATION）
+description: 圣经新词典 - 道成肉身（INCARNATION）
 keywords: 道成肉身, INCARNATION
 comments: false
 ---

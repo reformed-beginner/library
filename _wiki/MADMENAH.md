@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛得米那（MADMENAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛得米那（MADMENAH）
+description: 圣经新词典 - 玛得米那（MADMENAH）
 keywords: 玛得米那, MADMENAH
 comments: false
 ---

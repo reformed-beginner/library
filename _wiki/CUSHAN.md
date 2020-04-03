@@ -2,7 +2,7 @@
 layout: wiki
 title: 古珊利萨田（CUSHAN-RISHATHAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 古珊利萨田（CUSHAN-RISHATHAIM）
+description: 圣经新词典 - 古珊利萨田（CUSHAN-RISHATHAIM）
 keywords: 古珊利萨田, CUSHAN-RISHATHAIM
 comments: false
 ---

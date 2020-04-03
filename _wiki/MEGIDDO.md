@@ -2,7 +2,7 @@
 layout: wiki
 title: 米吉多（MEGIDDO）
 categories: NewBibleDictionary
-description: 圣经新词典: 米吉多（MEGIDDO）
+description: 圣经新词典 - 米吉多（MEGIDDO）
 keywords: 米吉多, MEGIDDO
 comments: false
 ---

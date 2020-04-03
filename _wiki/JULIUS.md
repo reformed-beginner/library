@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹流（JULIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹流（JULIUS）
+description: 圣经新词典 - 犹流（JULIUS）
 keywords: 犹流, JULIUS
 comments: false
 ---

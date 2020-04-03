@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐夏琐（EN-HAZOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐夏琐（EN-HAZOR）
+description: 圣经新词典 - 隐夏琐（EN-HAZOR）
 keywords: 隐夏琐, EN-HAZOR
 comments: false
 ---

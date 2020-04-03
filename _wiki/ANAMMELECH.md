@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚拿米勒（ANAMMELECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚拿米勒（ANAMMELECH）
+description: 圣经新词典 - 亚拿米勒（ANAMMELECH）
 keywords: 亚拿米勒, ANAMMELECH
 comments: false
 ---

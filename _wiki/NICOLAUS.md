@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼哥拉；尼哥拉党（NICOLAUS, NICOLAITANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼哥拉；尼哥拉党（NICOLAUS, NICOLAITANS）
+description: 圣经新词典 - 尼哥拉；尼哥拉党（NICOLAUS, NICOLAITANS）
 keywords: 尼哥拉；尼哥拉党, NICOLAUS, NICOLAITANS
 comments: false
 ---

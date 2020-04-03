@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶弗他（JEPHTHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶弗他（JEPHTHAH）
+description: 圣经新词典 - 耶弗他（JEPHTHAH）
 keywords: 耶弗他, JEPHTHAH
 comments: false
 ---

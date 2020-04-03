@@ -2,7 +2,7 @@
 layout: wiki
 title: 约，同盟（COVENANT, ALLIANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 约，同盟（COVENANT, ALLIANCE）
+description: 圣经新词典 - 约，同盟（COVENANT, ALLIANCE）
 keywords: 约，同盟, COVENANT, ALLIANCE
 comments: false
 ---

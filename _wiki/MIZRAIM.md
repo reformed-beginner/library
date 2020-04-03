@@ -2,7 +2,7 @@
 layout: wiki
 title: 麦西（MIZRAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 麦西（MIZRAIM）
+description: 圣经新词典 - 麦西（MIZRAIM）
 keywords: 麦西, MIZRAIM
 comments: false
 ---

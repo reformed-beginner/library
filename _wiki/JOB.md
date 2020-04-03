@@ -2,7 +2,7 @@
 layout: wiki
 title: 约伯（JOB）
 categories: NewBibleDictionary
-description: 圣经新词典: 约伯（JOB）（来：~iyyo^b[）
+description: 圣经新词典 - 约伯（JOB）（来：~iyyo^b[）
 keywords: 约伯, JOB
 comments: false
 ---

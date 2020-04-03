@@ -2,7 +2,7 @@
 layout: wiki
 title: 新郎的朋友（FRIEND OF THE BRIDEGROOM）
 categories: NewBibleDictionary
-description: 圣经新词典: 新郎的朋友（FRIEND OF THE BRIDEGROOM）
+description: 圣经新词典 - 新郎的朋友（FRIEND OF THE BRIDEGROOM）
 keywords: 新郎的朋友, FRIEND OF THE BRIDEGROOM
 comments: false
 ---

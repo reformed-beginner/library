@@ -2,7 +2,7 @@
 layout: wiki
 title: 名字，名称（NAME）
 categories: NewBibleDictionary
-description: 圣经新词典: 名字，名称（NAME）
+description: 圣经新词典 - 名字，名称（NAME）
 keywords: 名字，名称, NAME
 comments: false
 ---

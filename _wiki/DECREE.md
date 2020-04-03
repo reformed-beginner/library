@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣旨，命令（DECREE）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣旨，命令（DECREE）
+description: 圣经新词典 - 圣旨，命令（DECREE）
 keywords: 圣旨，命令, DECREE
 comments: false
 ---

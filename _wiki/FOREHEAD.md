@@ -2,7 +2,7 @@
 layout: wiki
 title: 额（FOREHEAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 额（FOREHEAD）（来：me{s]ah]；腊：meto{pon，直译是“两眼之间”）
+description: 圣经新词典 - 额（FOREHEAD）（来：me{s]ah]；腊：meto{pon，直译是“两眼之间”）
 keywords: 额, FOREHEAD
 comments: false
 ---

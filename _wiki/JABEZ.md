@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅比斯（JABEZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅比斯（JABEZ）（来：ya`be{s]，“他使人哀愁”）
+description: 圣经新词典 - 雅比斯（JABEZ）（来：ya`be{s]，“他使人哀愁”）
 keywords: 雅比斯, JABEZ
 comments: false
 ---

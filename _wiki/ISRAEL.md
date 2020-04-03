@@ -2,7 +2,7 @@
 layout: wiki
 title: 以色列（ISRAEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 以色列（ISRAEL）（来：yis*ra{~e{l，“神较力”）
+description: 圣经新词典 - 以色列（ISRAEL）（来：yis*ra{~e{l，“神较力”）
 keywords: 以色列, ISRAEL
 comments: false
 ---

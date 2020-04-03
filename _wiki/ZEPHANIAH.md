@@ -2,7 +2,7 @@
 layout: wiki
 title: 西番雅（ZEPHANIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西番雅（ZEPHANIAH）
+description: 圣经新词典 - 西番雅（ZEPHANIAH）
 keywords: 西番雅, ZEPHANIAH
 comments: false
 ---

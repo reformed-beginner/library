@@ -2,7 +2,7 @@
 layout: wiki
 title: 绞架（GALLOWS）
 categories: NewBibleDictionary
-description: 圣经新词典: 绞架（GALLOWS）（来：`e{s]，“树木”）
+description: 圣经新词典 - 绞架（GALLOWS）（来：`e{s]，“树木”）
 keywords: 绞架, GALLOWS
 comments: false
 ---

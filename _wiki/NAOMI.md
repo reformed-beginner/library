@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿俄米（NAOMI）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿俄米（NAOMI）（来：no`$mi^，即“我的喜乐”）
+description: 圣经新词典 - 拿俄米（NAOMI）（来：no`$mi^，即“我的喜乐”）
 keywords: 拿俄米, NAOMI
 comments: false
 ---

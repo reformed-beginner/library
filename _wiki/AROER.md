@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚罗珥（AROER）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚罗珥（AROER）
+description: 圣经新词典 - 亚罗珥（AROER）
 keywords: 亚罗珥, AROER
 comments: false
 ---

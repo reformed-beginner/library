@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚玛谢（AMAZIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚玛谢（AMAZIAH）（来：~@ma s]ya^ 或 ~@mas]ya{hu^，意思为“耶和华强大有力”）
+description: 圣经新词典 - 亚玛谢（AMAZIAH）（来：~@ma s]ya^ 或 ~@mas]ya{hu^，意思为“耶和华强大有力”）
 keywords: 亚玛谢, AMAZIAH
 comments: false
 ---

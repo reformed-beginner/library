@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹推古（EUTYCHUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹推古（EUTYCHUS）（意即“幸运”，一个通俗的希腊名字）
+description: 圣经新词典 - 犹推古（EUTYCHUS）（意即“幸运”，一个通俗的希腊名字）
 keywords: 犹推古, EUTYCHUS
 comments: false
 ---

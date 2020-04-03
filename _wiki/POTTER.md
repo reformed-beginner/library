@@ -2,7 +2,7 @@
 layout: wiki
 title: 窑匠；陶器（POTTER, POTTERY）
 categories: NewBibleDictionary
-description: 圣经新词典: 窑匠；陶器（POTTER, POTTERY）
+description: 圣经新词典 - 窑匠；陶器（POTTER, POTTERY）
 keywords: 窑匠；陶器, POTTER, POTTERY
 comments: false
 ---

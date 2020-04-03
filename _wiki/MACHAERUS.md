@@ -2,7 +2,7 @@
 layout: wiki
 title: 马盖耳斯（MACHAERUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 马盖耳斯（MACHAERUS）
+description: 圣经新词典 - 马盖耳斯（MACHAERUS）
 keywords: 马盖耳斯, MACHAERUS
 comments: false
 ---

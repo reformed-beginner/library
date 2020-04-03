@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿弗他利（NAPHTALI）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿弗他利（NAPHTALI）（来：nap{ta{li^，“搏斗者”）
+description: 圣经新词典 - 拿弗他利（NAPHTALI）（来：nap{ta{li^，“搏斗者”）
 keywords: 拿弗他利, NAPHTALI
 comments: false
 ---

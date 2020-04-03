@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶户（JEHU）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶户（JEHU）（来：ye{hu^，意思不详
+description: 圣经新词典 - 耶户（JEHU）（来：ye{hu^，意思不详
 keywords: 耶户, JEHU
 comments: false
 ---

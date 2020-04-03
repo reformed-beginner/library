@@ -2,7 +2,7 @@
 layout: wiki
 title: 抹利（MAHLI）
 categories: NewBibleDictionary
-description: 圣经新词典: 抹利（MAHLI）（来：mah]li^，即“软弱”、“多病”之意）
+description: 圣经新词典 - 抹利（MAHLI）（来：mah]li^，即“软弱”、“多病”之意）
 keywords: 抹利, MAHLI
 comments: false
 ---

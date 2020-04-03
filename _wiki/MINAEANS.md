@@ -2,7 +2,7 @@
 layout: wiki
 title: 马燕人（MINAEANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 马燕人（MINAEANS）
+description: 圣经新词典 - 马燕人（MINAEANS）
 keywords: 马燕人, MINAEANS
 comments: false
 ---

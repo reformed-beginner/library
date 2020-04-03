@@ -2,7 +2,7 @@
 layout: wiki
 title: 度玛（DUMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 度玛（DUMAH）
+description: 圣经新词典 - 度玛（DUMAH）
 keywords: 度玛, DUMAH
 comments: false
 ---

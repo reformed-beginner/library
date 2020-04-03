@@ -2,7 +2,7 @@
 layout: wiki
 title: 贤（HEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 贤（HEN）（来：h]e{n，“恩惠”）
+description: 圣经新词典 - 贤（HEN）（来：h]e{n，“恩惠”）
 keywords: 贤, HEN
 comments: false
 ---

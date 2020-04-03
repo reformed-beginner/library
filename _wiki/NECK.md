@@ -2,7 +2,7 @@
 layout: wiki
 title: 颈项（NECK）
 categories: NewBibleDictionary
-description: 圣经新词典: 颈项（NECK）
+description: 圣经新词典 - 颈项（NECK）
 keywords: 颈项, NECK
 comments: false
 ---

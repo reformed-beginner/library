@@ -2,7 +2,7 @@
 layout: wiki
 title: 以拉他（以罗）
 categories: NewBibleDictionary
-description: 圣经新词典: 以拉他（以罗），以旬迦别（ELATH [ELOTH], EZION-GEBER）
+description: 圣经新词典 - 以拉他（以罗），以旬迦别（ELATH [ELOTH], EZION-GEBER）
 keywords: 以拉他, 以罗
 comments: false
 ---

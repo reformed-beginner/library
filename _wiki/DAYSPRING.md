@@ -2,7 +2,7 @@
 layout: wiki
 title: 清晨（DAYSPRING）
 categories: NewBibleDictionary
-description: 圣经新词典: 清晨（DAYSPRING）（来：s%ah]ar，“黎明”；腊：anatole{，“升起”，AV 其他地方译作“东方”）
+description: 圣经新词典 - 清晨（DAYSPRING）（来：s%ah]ar，“黎明”；腊：anatole{，“升起”，AV 其他地方译作“东方”）
 keywords: 清晨, DAYSPRING
 comments: false
 ---

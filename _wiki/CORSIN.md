@@ -2,7 +2,7 @@
 layout: wiki
 title: 亲戚（CORSIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 亲戚（CORSIN）
+description: 圣经新词典 - 亲戚（CORSIN）
 keywords: 亲戚, CORSIN
 comments: false
 ---

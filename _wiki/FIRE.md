@@ -2,7 +2,7 @@
 layout: wiki
 title: 火（FIRE）
 categories: NewBibleDictionary
-description: 圣经新词典: 火（FIRE）
+description: 圣经新词典 - 火（FIRE）
 keywords: 火, FIRE
 comments: false
 ---

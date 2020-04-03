@@ -2,7 +2,7 @@
 layout: wiki
 title: 考古学（ARCHAEOLOGY）
 categories: NewBibleDictionary
-description: 圣经新词典: 考古学（ARCHAEOLOGY）
+description: 圣经新词典 - 考古学（ARCHAEOLOGY）
 keywords: 考古学, ARCHAEOLOGY
 comments: false
 ---

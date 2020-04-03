@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚拉得（ARAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚拉得（ARAD）
+description: 圣经新词典 - 亚拉得（ARAD）
 keywords: 亚拉得, ARAD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼利亚（NEREUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼利亚（NEREUS）
+description: 圣经新词典 - 尼利亚（NEREUS）
 keywords: 尼利亚, NEREUS
 comments: false
 ---

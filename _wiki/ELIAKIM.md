@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利雅敬（约雅敬）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利雅敬（约雅敬）（ELIAKIM）（来：~el-yaqi^m，“神建立”？；来：Eliakeim）
+description: 圣经新词典 - 以利雅敬（约雅敬）（ELIAKIM）（来：~el-yaqi^m，“神建立”？；来：Eliakeim）
 keywords: 以利雅敬, 约雅敬
 comments: false
 ---

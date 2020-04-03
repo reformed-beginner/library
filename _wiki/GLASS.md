@@ -2,7 +2,7 @@
 layout: wiki
 title: 玻璃（GLASS）
 categories: NewBibleDictionary
-description: 圣经新词典: 玻璃（GLASS）
+description: 圣经新词典 - 玻璃（GLASS）
 keywords: 玻璃, GLASS
 comments: false
 ---

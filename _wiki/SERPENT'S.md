@@ -2,7 +2,7 @@
 layout: wiki
 title: 蛇石（琐希列磐石）
 categories: NewBibleDictionary
-description: 圣经新词典: 蛇石（琐希列磐石）（SERPENT'S STONE）（AV 作 'Stone of Zoheleth'；来：~eb[en
+description: 圣经新词典 - 蛇石（琐希列磐石）（SERPENT'S STONE）（AV 作 'Stone of Zoheleth'；来：~eb[en
 hazzo{h]elet[）
 keywords: 蛇石, 琐希列磐石
 comments: false

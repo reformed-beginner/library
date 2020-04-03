@@ -2,7 +2,7 @@
 layout: wiki
 title: 非斯都（FESTUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 非斯都（FESTUS）
+description: 圣经新词典 - 非斯都（FESTUS）
 keywords: 非斯都, FESTUS
 comments: false
 ---

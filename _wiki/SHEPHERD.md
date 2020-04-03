@@ -2,7 +2,7 @@
 layout: wiki
 title: 牧者，牧羊人（SHEPHERD）
 categories: NewBibleDictionary
-description: 圣经新词典: 牧者，牧羊人（SHEPHERD） 
+description: 圣经新词典 - 牧者，牧羊人（SHEPHERD） 
 keywords: 牧者，牧羊人, SHEPHERD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚文（AVEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚文（AVEN）
+description: 圣经新词典 - 亚文（AVEN）
 keywords: 亚文, AVEN
 comments: false
 ---

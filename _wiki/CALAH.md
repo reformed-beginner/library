@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦拉（CALAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦拉（CALAH）
+description: 圣经新词典 - 迦拉（CALAH）
 keywords: 迦拉, CALAH
 comments: false
 ---

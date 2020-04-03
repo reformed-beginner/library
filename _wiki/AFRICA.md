@@ -2,7 +2,7 @@
 layout: wiki
 title: 非洲（AFRICA）
 categories: NewBibleDictionary
-description: 圣经新词典: 非洲（AFRICA）
+description: 圣经新词典 - 非洲（AFRICA）
 keywords: 非洲, AFRICA
 comments: false
 ---

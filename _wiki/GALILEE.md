@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　新约时代的加利利
+description: 圣经新词典 - 图　新约时代的加利利
 keywords: , 
 comments: false
 ---

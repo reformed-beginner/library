@@ -2,7 +2,7 @@
 layout: wiki
 title: 生命，生灵，心（SOUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 生命，生灵，心（SOUL）
+description: 圣经新词典 - 生命，生灵，心（SOUL）
 keywords: 生命，生灵，心, SOUL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛拉干，玛勒堪（MALCAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛拉干，玛勒堪（MALCAM）
+description: 圣经新词典 - 玛拉干，玛勒堪（MALCAM）
 keywords: 玛拉干，玛勒堪, MALCAM
 comments: false
 ---

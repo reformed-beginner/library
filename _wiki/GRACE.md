@@ -2,7 +2,7 @@
 layout: wiki
 title: 恩典，恩宠（GRACE, FAVOUR）
 categories: NewBibleDictionary
-description: 圣经新词典: 恩典，恩宠（GRACE, FAVOUR）
+description: 圣经新词典 - 恩典，恩宠（GRACE, FAVOUR）
 keywords: 恩典，恩宠, GRACE, FAVOUR
 comments: false
 ---

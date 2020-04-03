@@ -2,7 +2,7 @@
 layout: wiki
 title: 自由之人/自主的人；自主之妇人（FREEMAN, FREEWOMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 自由之人/自主的人；自主之妇人（FREEMAN, FREEWOMAN）
+description: 圣经新词典 - 自由之人/自主的人；自主之妇人（FREEMAN, FREEWOMAN）
 keywords: 自由之人/自主的人；自主之妇人, FREEMAN, FREEWOMAN
 comments: false
 ---

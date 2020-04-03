@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛迦（MAACAH, MAACHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛迦（MAACAH, MAACHAN）
+description: 圣经新词典 - 玛迦（MAACAH, MAACHAN）
 keywords: 玛迦, MAACAH, MAACHAN
 comments: false
 ---

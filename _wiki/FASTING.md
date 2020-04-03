@@ -2,7 +2,7 @@
 layout: wiki
 title: 禁食（FASTING）
 categories: NewBibleDictionary
-description: 圣经新词典: 禁食（FASTING）
+description: 圣经新词典 - 禁食（FASTING）
 keywords: 禁食, FASTING
 comments: false
 ---

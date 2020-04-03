@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿爸（ABBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿爸（ABBA）
+description: 圣经新词典 - 阿爸（ABBA）
 keywords: 阿爸, ABBA
 comments: false
 ---

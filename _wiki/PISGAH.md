@@ -2,7 +2,7 @@
 layout: wiki
 title: 毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
+description: 圣经新词典 - 毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
 keywords: 毗斯迦；亚实突毗斯迦, PISGAH, ASHDOTH-PISGAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 鲁玛（RUMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 鲁玛（RUMAH）
+description: 圣经新词典 - 鲁玛（RUMAH）
 keywords: 鲁玛, RUMAH
 comments: false
 ---

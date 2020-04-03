@@ -2,7 +2,7 @@
 layout: wiki
 title: 次经，旁经（APOCRYPHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 次经，旁经（APOCRYPHA）
+description: 圣经新词典 - 次经，旁经（APOCRYPHA）
 keywords: 次经，旁经, APOCRYPHA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 挞买；达买（TALMAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 挞买；达买（TALMAI）
+description: 圣经新词典 - 挞买；达买（TALMAI）
 keywords: 挞买；达买, TALMAI
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 比加（PEKAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 比加（PEKAH）（来：peqah]，意为“张开”）
+description: 圣经新词典 - 比加（PEKAH）（来：peqah]，意为“张开”）
 keywords: 比加, PEKAH
 comments: false
 ---

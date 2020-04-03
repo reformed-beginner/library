@@ -2,7 +2,7 @@
 layout: wiki
 title: 流泪谷（BACA, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 流泪谷（BACA, VALLEY OF）
+description: 圣经新词典 - 流泪谷（BACA, VALLEY OF）
 keywords: 流泪谷, BACA, VALLEY OF
 comments: false
 ---

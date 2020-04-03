@@ -2,7 +2,7 @@
 layout: wiki
 title: 山（MOUNT, MOUNTAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 山（MOUNT, MOUNTAIN）
+description: 圣经新词典 - 山（MOUNT, MOUNTAIN）
 keywords: 山, MOUNT, MOUNTAIN
 comments: false
 ---

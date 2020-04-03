@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈洗录（HAZEROTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈洗录（HAZEROTH）
+description: 圣经新词典 - 哈洗录（HAZEROTH）
 keywords: 哈洗录, HAZEROTH
 comments: false
 ---

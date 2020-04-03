@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙拉音（SHAARAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙拉音（SHAARAIM）（来；s%a`@raim）
+description: 圣经新词典 - 沙拉音（SHAARAIM）（来；s%a`@raim）
 keywords: 沙拉音, SHAARAIM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚希米勒（AHIMELECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚希米勒（AHIMELECH）（来：~@h]i^melek[，意思为“君王的弟兄”或“我的弟兄是君王”）
+description: 圣经新词典 - 亚希米勒（AHIMELECH）（来：~@h]i^melek[，意思为“君王的弟兄”或“我的弟兄是君王”）
 keywords: 亚希米勒, AHIMELECH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 书亚地（SHUAL, LAND OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 书亚地（SHUAL, LAND OF）
+description: 圣经新词典 - 书亚地（SHUAL, LAND OF）
 keywords: 书亚地, SHUAL, LAND OF
 comments: false
 ---

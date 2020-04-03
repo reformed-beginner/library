@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　该撒提庇留统治初期之罗马帝国
+description: 圣经新词典 - 图　该撒提庇留统治初期之罗马帝国
 keywords: , 
 comments: false
 ---

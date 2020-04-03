@@ -2,7 +2,7 @@
 layout: wiki
 title: 井（WELL）
 categories: NewBibleDictionary
-description: 圣经新词典: 井（WELL）
+description: 圣经新词典 - 井（WELL）
 keywords: 井, WELL
 comments: false
 ---

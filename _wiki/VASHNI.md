@@ -2,7 +2,7 @@
 layout: wiki
 title: 瓦实尼（VASHNI）
 categories: NewBibleDictionary
-description: 圣经新词典: 瓦实尼（VASHNI）
+description: 圣经新词典 - 瓦实尼（VASHNI）
 keywords: 瓦实尼, VASHNI
 comments: false
 ---

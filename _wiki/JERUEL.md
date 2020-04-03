@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶鲁伊勒（JERUEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶鲁伊勒（JERUEL）（来：y#ru^~e{l，“伊勒所建立的”；七十士译本作“耶里伊勒” [Jeriel]）
+description: 圣经新词典 - 耶鲁伊勒（JERUEL）（来：y#ru^~e{l，“伊勒所建立的”；七十士译本作“耶里伊勒” [Jeriel]）
 keywords: 耶鲁伊勒, JERUEL
 comments: false
 ---

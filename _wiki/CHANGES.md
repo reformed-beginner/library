@@ -2,7 +2,7 @@
 layout: wiki
 title: 新衣裳，多套衣裳（CHANGES OF RAIMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 新衣裳，多套衣裳（CHANGES OF RAIMENT）
+description: 圣经新词典 - 新衣裳，多套衣裳（CHANGES OF RAIMENT）
 keywords: 新衣裳，多套衣裳, CHANGES OF RAIMENT
 comments: false
 ---

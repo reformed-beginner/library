@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊利达（ELDAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊利达（ELDAD）（来：“神爱惜”，'God has loved'）
+description: 圣经新词典 - 伊利达（ELDAD）（来：“神爱惜”，'God has loved'）
 keywords: 伊利达, ELDAD
 comments: false
 ---

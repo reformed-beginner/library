@@ -2,7 +2,7 @@
 layout: wiki
 title: 膀臂（ARM）
 categories: NewBibleDictionary
-description: 圣经新词典: 膀臂（ARM）
+description: 圣经新词典 - 膀臂（ARM）
 keywords: 膀臂, ARM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 比哈希录（PIHAHIROTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 比哈希录（PIHAHIROTH）
+description: 圣经新词典 - 比哈希录（PIHAHIROTH）
 keywords: 比哈希录, PIHAHIROTH
 comments: false
 ---

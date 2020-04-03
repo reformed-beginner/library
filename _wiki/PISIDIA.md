@@ -2,7 +2,7 @@
 layout: wiki
 title: 彼西底（PISIDIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 彼西底（PISIDIA）
+description: 圣经新词典 - 彼西底（PISIDIA）
 keywords: 彼西底, PISIDIA
 comments: false
 ---

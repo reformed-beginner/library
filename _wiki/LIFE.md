@@ -2,7 +2,7 @@
 layout: wiki
 title: 生命（LIFE）
 categories: NewBibleDictionary
-description: 圣经新词典: 生命（LIFE）
+description: 圣经新词典 - 生命（LIFE）
 keywords: 生命, LIFE
 comments: false
 ---

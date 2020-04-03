@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　圣经抄本的样式
+description: 圣经新词典 - 图　圣经抄本的样式
 keywords: , 
 comments: false
 ---

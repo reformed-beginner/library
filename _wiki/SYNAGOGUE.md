@@ -2,7 +2,7 @@
 layout: wiki
 title: 会堂（SYNAGOGUE）
 categories: NewBibleDictionary
-description: 圣经新词典: 会堂（SYNAGOGUE）
+description: 圣经新词典 - 会堂（SYNAGOGUE）
 keywords: 会堂, SYNAGOGUE
 comments: false
 ---

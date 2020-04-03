@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛云；玛云人；马云人（MAON, MAONITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛云；玛云人；马云人（MAON, MAONITES）
+description: 圣经新词典 - 玛云；玛云人；马云人（MAON, MAONITES）
 keywords: 玛云；玛云人；马云人, MAON, MAONITES
 comments: false
 ---

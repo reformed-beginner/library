@@ -2,7 +2,7 @@
 layout: wiki
 title: 山冈，山地（HILL, HILL-COUNTRY）
 categories: NewBibleDictionary
-description: 圣经新词典: 山冈，山地（HILL, HILL-COUNTRY）
+description: 圣经新词典 - 山冈，山地（HILL, HILL-COUNTRY）
 keywords: 山冈，山地, HILL, HILL-COUNTRY
 comments: false
 ---

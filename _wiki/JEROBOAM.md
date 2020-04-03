@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶罗波安（JEROBOAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶罗波安（JEROBOAM）
+description: 圣经新词典 - 耶罗波安（JEROBOAM）
 keywords: 耶罗波安, JEROBOAM
 comments: false
 ---

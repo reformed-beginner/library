@@ -2,7 +2,7 @@
 layout: wiki
 title: 约沙法谷（JEHOSHAPHAT, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 约沙法谷（JEHOSHAPHAT, VALLEY OF）
+description: 圣经新词典 - 约沙法谷（JEHOSHAPHAT, VALLEY OF）
 keywords: 约沙法谷, JEHOSHAPHAT, VALLEY OF
 comments: false
 ---

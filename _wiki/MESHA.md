@@ -2,7 +2,7 @@
 layout: wiki
 title: 米沙（MESHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 米沙（MESHA）
+description: 圣经新词典 - 米沙（MESHA）
 keywords: 米沙, MESHA
 comments: false
 ---

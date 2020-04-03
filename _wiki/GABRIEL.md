@@ -2,7 +2,7 @@
 layout: wiki
 title: 加百列（GABRIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 加百列（GABRIEL）（来：Gab[ri^~el，“属神的人”或“神的力量”）
+description: 圣经新词典 - 加百列（GABRIEL）（来：Gab[ri^~el，“属神的人”或“神的力量”）
 keywords: 加百列, GABRIEL
 comments: false
 ---

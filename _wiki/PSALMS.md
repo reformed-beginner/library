@@ -2,7 +2,7 @@
 layout: wiki
 title: 诗篇（PSALMS, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 诗篇（PSALMS, BOOK OF）
+description: 圣经新词典 - 诗篇（PSALMS, BOOK OF）
 keywords: 诗篇, PSALMS, BOOK OF
 comments: false
 ---

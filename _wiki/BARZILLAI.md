@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴西莱（BARZILLAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴西莱（BARZILLAI）（“铁人”）
+description: 圣经新词典 - 巴西莱（BARZILLAI）（“铁人”）
 keywords: 巴西莱, BARZILLAI
 comments: false
 ---

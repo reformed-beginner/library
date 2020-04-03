@@ -2,7 +2,7 @@
 layout: wiki
 title: 兽，畜，牲，活物（BEAST）
 categories: NewBibleDictionary
-description: 圣经新词典: 兽，畜，牲，活物（BEAST）
+description: 圣经新词典 - 兽，畜，牲，活物（BEAST）
 keywords: 兽，畜，牲，活物, BEAST
 comments: false
 ---

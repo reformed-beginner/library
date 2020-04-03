@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈内斯（HANES）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈内斯（HANES）
+description: 圣经新词典 - 哈内斯（HANES）
 keywords: 哈内斯, HANES
 comments: false
 ---

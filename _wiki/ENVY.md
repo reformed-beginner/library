@@ -2,7 +2,7 @@
 layout: wiki
 title: 嫉妒（ENVY）
 categories: NewBibleDictionary
-description: 圣经新词典: 嫉妒（ENVY）
+description: 圣经新词典 - 嫉妒（ENVY）
 keywords: 嫉妒, ENVY
 comments: false
 ---

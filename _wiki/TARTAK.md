@@ -2,7 +2,7 @@
 layout: wiki
 title: 他珥他（TARTAK）
 categories: NewBibleDictionary
-description: 圣经新词典: 他珥他（TARTAK）
+description: 圣经新词典 - 他珥他（TARTAK）
 keywords: 他珥他, TARTAK
 comments: false
 ---

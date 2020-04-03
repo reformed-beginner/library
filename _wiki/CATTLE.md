@@ -2,7 +2,7 @@
 layout: wiki
 title: 牛，牲畜（CATTLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 牛，牲畜（CATTLE）
+description: 圣经新词典 - 牛，牲畜（CATTLE）
 keywords: 牛，牲畜, CATTLE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 以斯帖（ESTHER）
 categories: NewBibleDictionary
-description: 圣经新词典: 以斯帖（ESTHER）
+description: 圣经新词典 - 以斯帖（ESTHER）
 keywords: 以斯帖, ESTHER
 comments: false
 ---

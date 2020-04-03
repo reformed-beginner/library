@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚基人（ARKITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚基人（ARKITE）
+description: 圣经新词典 - 亚基人（ARKITE）
 keywords: 亚基人, ARKITE
 comments: false
 ---

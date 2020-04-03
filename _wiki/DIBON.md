@@ -2,7 +2,7 @@
 layout: wiki
 title: 底本城（DIBON）
 categories: NewBibleDictionary
-description: 圣经新词典: 底本城（DIBON）
+description: 圣经新词典 - 底本城（DIBON）
 keywords: 底本城, DIBON
 comments: false
 ---

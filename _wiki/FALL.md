@@ -2,7 +2,7 @@
 layout: wiki
 title: 堕落（FALL）
 categories: NewBibleDictionary
-description: 圣经新词典: 堕落（FALL）
+description: 圣经新词典 - 堕落（FALL）
 keywords: 堕落, FALL
 comments: false
 ---

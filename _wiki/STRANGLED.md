@@ -2,7 +2,7 @@
 layout: wiki
 title: 勒死的（物）
 categories: NewBibleDictionary
-description: 圣经新词典: 勒死的（物）（STRANGLED [THINGS]）
+description: 圣经新词典 - 勒死的（物）（STRANGLED [THINGS]）
 keywords: 勒死的, 物
 comments: false
 ---

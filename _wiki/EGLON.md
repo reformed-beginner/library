@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊矶伦（EGLON）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊矶伦（EGLON）（来：`eglo^n）
+description: 圣经新词典 - 伊矶伦（EGLON）（来：`eglo^n）
 keywords: 伊矶伦, EGLON
 comments: false
 ---

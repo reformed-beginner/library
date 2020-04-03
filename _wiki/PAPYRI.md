@@ -2,7 +2,7 @@
 layout: wiki
 title: 蒲纸和陶片（PAPYRI AND OSTRACA）
 categories: NewBibleDictionary
-description: 圣经新词典: 蒲纸和陶片（PAPYRI AND OSTRACA）
+description: 圣经新词典 - 蒲纸和陶片（PAPYRI AND OSTRACA）
 keywords: 蒲纸和陶片, PAPYRI AND OSTRACA
 comments: false
 ---

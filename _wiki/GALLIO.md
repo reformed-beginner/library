@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦流（GALLIO）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦流（GALLIO）
+description: 圣经新词典 - 迦流（GALLIO）
 keywords: 迦流, GALLIO
 comments: false
 ---

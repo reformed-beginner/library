@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦斯托和玻吕宙斯（CASTOR AND POLLUX）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦斯托和玻吕宙斯（CASTOR AND POLLUX）（腊：dioskouroi，直译作“宙斯之众子”
+description: 圣经新词典 - 迦斯托和玻吕宙斯（CASTOR AND POLLUX）（腊：dioskouroi，直译作“宙斯之众子”
 keywords: 迦斯托和玻吕宙斯, CASTOR AND POLLUX
 comments: false
 ---

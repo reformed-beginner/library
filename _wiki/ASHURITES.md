@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚书利（ASHURITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚书利（ASHURITES）
+description: 圣经新词典 - 亚书利（ASHURITES）
 keywords: 亚书利, ASHURITES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚历山太（ALEXANDRIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚历山太（ALEXANDRIA）
+description: 圣经新词典 - 亚历山太（ALEXANDRIA）
 keywords: 亚历山太, ALEXANDRIA
 comments: false
 ---

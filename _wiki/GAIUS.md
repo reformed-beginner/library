@@ -2,7 +2,7 @@
 layout: wiki
 title: 该犹（GAIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 该犹（GAIUS）
+description: 圣经新词典 - 该犹（GAIUS）
 keywords: 该犹, GAIUS
 comments: false
 ---

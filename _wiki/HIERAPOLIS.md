@@ -2,7 +2,7 @@
 layout: wiki
 title: 希拉波立（HIERAPOLIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 希拉波立（HIERAPOLIS）
+description: 圣经新词典 - 希拉波立（HIERAPOLIS）
 keywords: 希拉波立, HIERAPOLIS
 comments: false
 ---

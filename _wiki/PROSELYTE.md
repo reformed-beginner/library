@@ -2,7 +2,7 @@
 layout: wiki
 title: 皈教者（PROSELYTE）
 categories: NewBibleDictionary
-description: 圣经新词典: 皈教者（PROSELYTE）
+description: 圣经新词典 - 皈教者（PROSELYTE）
 keywords: 皈教者, PROSELYTE
 comments: false
 ---

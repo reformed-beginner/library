@@ -2,7 +2,7 @@
 layout: wiki
 title: 草地，芦荻（MEADOW）
 categories: NewBibleDictionary
-description: 圣经新词典: 草地，芦荻（MEADOW）
+description: 圣经新词典 - 草地，芦荻（MEADOW）
 keywords: 草地，芦荻, MEADOW
 comments: false
 ---

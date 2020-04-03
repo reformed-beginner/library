@@ -2,7 +2,7 @@
 layout: wiki
 title: 底拿（DINAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 底拿（DINAH）（来：di^na^，“审判”或“断定”）
+description: 圣经新词典 - 底拿（DINAH）（来：di^na^，“审判”或“断定”）
 keywords: 底拿, DINAH
 comments: false
 ---

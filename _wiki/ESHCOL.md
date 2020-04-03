@@ -2,7 +2,7 @@
 layout: wiki
 title: 以实各（ESHCOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 以实各（ESHCOL）
+description: 圣经新词典 - 以实各（ESHCOL）
 keywords: 以实各, ESHCOL
 comments: false
 ---

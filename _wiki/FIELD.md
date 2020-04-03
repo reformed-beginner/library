@@ -2,7 +2,7 @@
 layout: wiki
 title: 田间，田园（FIELD）
 categories: NewBibleDictionary
-description: 圣经新词典: 田间，田园（FIELD）
+description: 圣经新词典 - 田间，田园（FIELD）
 keywords: 田间，田园, FIELD
 comments: false
 ---

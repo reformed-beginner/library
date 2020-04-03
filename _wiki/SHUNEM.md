@@ -2,7 +2,7 @@
 layout: wiki
 title: 书念；书念妇人（SHUNEM, SHUNAMMITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 书念；书念妇人（SHUNEM, SHUNAMMITE）
+description: 圣经新词典 - 书念；书念妇人（SHUNEM, SHUNAMMITE）
 keywords: 书念；书念妇人, SHUNEM, SHUNAMMITE
 comments: false
 ---

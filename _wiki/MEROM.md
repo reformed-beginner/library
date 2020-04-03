@@ -2,7 +2,7 @@
 layout: wiki
 title: 米伦水（MEROM, WATERS OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 米伦水（MEROM, WATERS OF）（来：me{ro^m）
+description: 圣经新词典 - 米伦水（MEROM, WATERS OF）（来：me{ro^m）
 keywords: 米伦水, MEROM, WATERS OF
 comments: false
 ---

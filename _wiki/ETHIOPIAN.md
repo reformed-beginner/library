@@ -2,7 +2,7 @@
 layout: wiki
 title: 埃提阿伯的太监（ETHIOPIAN EUNUCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 埃提阿伯的太监（ETHIOPIAN EUNUCH）
+description: 圣经新词典 - 埃提阿伯的太监（ETHIOPIAN EUNUCH）
 keywords: 埃提阿伯的太监, ETHIOPIAN EUNUCH
 comments: false
 ---

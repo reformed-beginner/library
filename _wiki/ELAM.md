@@ -2,7 +2,7 @@
 layout: wiki
 title: 以拦；以拦人（ELAM, ELAMITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 以拦；以拦人（ELAM, ELAMITES）
+description: 圣经新词典 - 以拦；以拦人（ELAM, ELAMITES）
 keywords: 以拦；以拦人, ELAM, ELAMITES
 comments: false
 ---

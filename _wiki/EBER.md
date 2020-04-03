@@ -2,7 +2,7 @@
 layout: wiki
 title: 希伯（EBER）
 categories: NewBibleDictionary
-description: 圣经新词典: 希伯（EBER）
+description: 圣经新词典 - 希伯（EBER）
 keywords: 希伯, EBER
 comments: false
 ---

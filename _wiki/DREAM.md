@@ -2,7 +2,7 @@
 layout: wiki
 title: 梦（DREAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 梦（DREAM）
+description: 圣经新词典 - 梦（DREAM）
 keywords: 梦, DREAM
 comments: false
 ---

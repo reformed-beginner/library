@@ -2,7 +2,7 @@
 layout: wiki
 title: 虔诚（GODLINESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 虔诚（GODLINESS）
+description: 圣经新词典 - 虔诚（GODLINESS）
 keywords: 虔诚, GODLINESS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 比东（PITHOM）
 categories: NewBibleDictionary
-description: 圣经新词典: 比东（PITHOM）（古埃及文：Pr-~itm，“阿图呣神 [Atum] 的住处”）
+description: 圣经新词典 - 比东（PITHOM）（古埃及文：Pr-~itm，“阿图呣神 [Atum] 的住处”）
 keywords: 比东, PITHOM
 comments: false
 ---

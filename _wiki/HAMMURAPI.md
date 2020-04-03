@@ -2,7 +2,7 @@
 layout: wiki
 title: 汉摩拉比（HAMMURAPI）
 categories: NewBibleDictionary
-description: 圣经新词典: 汉摩拉比（HAMMURAPI）（来：亚甲文〔亚摩利人的〕的 Hammu-rapi，“汉摩〔神〕医治”）
+description: 圣经新词典 - 汉摩拉比（HAMMURAPI）（来：亚甲文〔亚摩利人的〕的 Hammu-rapi，“汉摩〔神〕医治”）
 keywords: 汉摩拉比, HAMMURAPI
 comments: false
 ---

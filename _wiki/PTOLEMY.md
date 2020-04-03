@@ -2,7 +2,7 @@
 layout: wiki
 title: 多利买（PTOLEMY）
 categories: NewBibleDictionary
-description: 圣经新词典: 多利买（PTOLEMY）
+description: 圣经新词典 - 多利买（PTOLEMY）
 keywords: 多利买, PTOLEMY
 comments: false
 ---

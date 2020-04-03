@@ -2,7 +2,7 @@
 layout: wiki
 title: 加大拉（GADARENES, GADARA）
 categories: NewBibleDictionary
-description: 圣经新词典: 加大拉（GADARENES, GADARA）
+description: 圣经新词典 - 加大拉（GADARENES, GADARA）
 keywords: 加大拉, GADARENES, GADARA
 comments: false
 ---

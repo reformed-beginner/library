@@ -2,7 +2,7 @@
 layout: wiki
 title: 提哥亚（TEKOA）
 categories: NewBibleDictionary
-description: 圣经新词典: 提哥亚（TEKOA）
+description: 圣经新词典 - 提哥亚（TEKOA）
 keywords: 提哥亚, TEKOA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙勒幔（SHALMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙勒幔（SHALMAN）
+description: 圣经新词典 - 沙勒幔（SHALMAN）
 keywords: 沙勒幔, SHALMAN
 comments: false
 ---

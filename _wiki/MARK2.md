@@ -2,7 +2,7 @@
 layout: wiki
 title: 马可（约翰）
 categories: NewBibleDictionary
-description: 圣经新词典: 马可（约翰）（MARK [JOHN]）
+description: 圣经新词典 - 马可（约翰）（MARK [JOHN]）
 keywords: 马可, 约翰
 comments: false
 ---

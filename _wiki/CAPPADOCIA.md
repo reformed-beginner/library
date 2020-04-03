@@ -2,7 +2,7 @@
 layout: wiki
 title: 加帕多家（CAPPADOCIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 加帕多家（CAPPADOCIA）
+description: 圣经新词典 - 加帕多家（CAPPADOCIA）
 keywords: 加帕多家, CAPPADOCIA
 comments: false
 ---

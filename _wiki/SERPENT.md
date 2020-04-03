@@ -2,7 +2,7 @@
 layout: wiki
 title: 蛇（SERPENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 蛇（SERPENT）
+description: 圣经新词典 - 蛇（SERPENT）
 keywords: 蛇, SERPENT
 comments: false
 ---

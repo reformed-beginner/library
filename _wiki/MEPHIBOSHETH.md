@@ -2,7 +2,7 @@
 layout: wiki
 title: 米非波设（MEPHIBOSHETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 米非波设（MEPHIBOSHETH）
+description: 圣经新词典 - 米非波设（MEPHIBOSHETH）
 keywords: 米非波设, MEPHIBOSHETH
 comments: false
 ---

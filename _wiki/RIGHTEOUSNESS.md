@@ -2,7 +2,7 @@
 layout: wiki
 title: 公义（RIGHTEOUSNESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 公义（RIGHTEOUSNESS）（来：s]ed[eq, s]#d[a{qa^；腊：LXX 和新约都作dikaiosyne{）
+description: 圣经新词典 - 公义（RIGHTEOUSNESS）（来：s]ed[eq, s]#d[a{qa^；腊：LXX 和新约都作dikaiosyne{）
 keywords: 公义, RIGHTEOUSNESS
 comments: false
 ---

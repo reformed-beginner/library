@@ -2,7 +2,7 @@
 layout: wiki
 title: 西拿基立（SENNACHERIB）
 categories: NewBibleDictionary
-description: 圣经新词典: 西拿基立（SENNACHERIB）
+description: 圣经新词典 - 西拿基立（SENNACHERIB）
 keywords: 西拿基立, SENNACHERIB
 comments: false
 ---

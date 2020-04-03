@@ -2,7 +2,7 @@
 layout: wiki
 title: 古实（CUSH）
 categories: NewBibleDictionary
-description: 圣经新词典: 古实（CUSH）
+description: 圣经新词典 - 古实（CUSH）
 keywords: 古实, CUSH
 comments: false
 ---

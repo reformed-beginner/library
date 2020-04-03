@@ -2,7 +2,7 @@
 layout: wiki
 title: 麦玛拿（MADMANNAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 麦玛拿（MADMANNAH）（mad[manna^h）
+description: 圣经新词典 - 麦玛拿（MADMANNAH）（mad[manna^h）
 keywords: 麦玛拿, MADMANNAH
 comments: false
 ---

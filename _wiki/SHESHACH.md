@@ -2,7 +2,7 @@
 layout: wiki
 title: 示沙克（SHESHACH）
 categories: NewBibleDictionary
-description: 圣经新词典: 示沙克（SHESHACH）
+description: 圣经新词典 - 示沙克（SHESHACH）
 keywords: 示沙克, SHESHACH
 comments: false
 ---

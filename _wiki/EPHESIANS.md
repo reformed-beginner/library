@@ -2,7 +2,7 @@
 layout: wiki
 title: 以弗所书（EPHESIANS, EPISTLE TO THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 以弗所书（EPHESIANS, EPISTLE TO THE）
+description: 圣经新词典 - 以弗所书（EPHESIANS, EPISTLE TO THE）
 keywords: 以弗所书, EPHESIANS, EPISTLE TO THE
 comments: false
 ---

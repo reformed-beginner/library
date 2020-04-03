@@ -2,7 +2,7 @@
 layout: wiki
 title: 虚空，虚无，虚浮（VANITY, VAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 虚空，虚无，虚浮（VANITY, VAIN）
+description: 圣经新词典 - 虚空，虚无，虚浮（VANITY, VAIN）
 keywords: 虚空，虚无，虚浮, VANITY, VAIN
 comments: false
 ---

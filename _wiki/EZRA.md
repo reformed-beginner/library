@@ -2,7 +2,7 @@
 layout: wiki
 title: 以斯拉（EZRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 以斯拉（EZRA）
+description: 圣经新词典 - 以斯拉（EZRA）
 keywords: 以斯拉, EZRA
 comments: false
 ---

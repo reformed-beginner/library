@@ -2,7 +2,7 @@
 layout: wiki
 title: 贮水池（CISTERN）
 categories: NewBibleDictionary
-description: 圣经新词典: 贮水池（CISTERN）（来：bo^r 或 bo{~r，源自 ba{~ar，“挖或钻洞”）
+description: 圣经新词典 - 贮水池（CISTERN）（来：bo^r 或 bo{~r，源自 ba{~ar，“挖或钻洞”）
 keywords: 贮水池, CISTERN
 comments: false
 ---

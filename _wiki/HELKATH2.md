@@ -2,7 +2,7 @@
 layout: wiki
 title: 希利甲哈素林（HELKATH-HAZZURIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 希利甲哈素林（HELKATH-HAZZURIM）（来：h]elqat[ has]s]uri^m，意即“燧石田”，或“〔剑〕边缘之田”）
+description: 圣经新词典 - 希利甲哈素林（HELKATH-HAZZURIM）（来：h]elqat[ has]s]uri^m，意即“燧石田”，或“〔剑〕边缘之田”）
 keywords: 希利甲哈素林, HELKATH-HAZZURIM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基德（GEDER）
 categories: NewBibleDictionary
-description: 圣经新词典: 基德（GEDER）
+description: 圣经新词典 - 基德（GEDER）
 keywords: 基德, GEDER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 草（GRASS）
 categories: NewBibleDictionary
-description: 圣经新词典: 草（GRASS）（来：h]a{s]i^r, des%e~, yereq, `e{s*eb[；腊：chortos）
+description: 圣经新词典 - 草（GRASS）（来：h]a{s]i^r, des%e~, yereq, `e{s*eb[；腊：chortos）
 keywords: 草, GRASS
 comments: false
 ---

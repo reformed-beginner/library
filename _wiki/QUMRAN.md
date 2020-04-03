@@ -2,7 +2,7 @@
 layout: wiki
 title: 昆兰/库穆兰（QUMRAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 昆兰/库穆兰（QUMRAN）
+description: 圣经新词典 - 昆兰/库穆兰（QUMRAN）
 keywords: 昆兰/库穆兰, QUMRAN
 comments: false
 ---

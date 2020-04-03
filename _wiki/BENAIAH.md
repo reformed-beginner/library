@@ -2,7 +2,7 @@
 layout: wiki
 title: 比拿雅（BENAIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 比拿雅（BENAIAH）（来： b#na{ya{hu^, b#na{ya^，“耶和华已经建立”）
+description: 圣经新词典 - 比拿雅（BENAIAH）（来： b#na{ya{hu^, b#na{ya^，“耶和华已经建立”）
 keywords: 比拿雅, BENAIAH
 comments: false
 ---

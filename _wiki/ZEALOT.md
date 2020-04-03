@@ -2,7 +2,7 @@
 layout: wiki
 title: 热心人，奋锐党（ZEALOT）
 categories: NewBibleDictionary
-description: 圣经新词典: 热心人，奋锐党（ZEALOT）（腊：ze{lo{te{s）
+description: 圣经新词典 - 热心人，奋锐党（ZEALOT）（腊：ze{lo{te{s）
 keywords: 热心人，奋锐党, ZEALOT
 comments: false
 ---

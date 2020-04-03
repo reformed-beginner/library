@@ -2,7 +2,7 @@
 layout: wiki
 title: 骄傲（PRIDE）
 categories: NewBibleDictionary
-description: 圣经新词典: 骄傲（PRIDE）
+description: 圣经新词典 - 骄傲（PRIDE）
 keywords: 骄傲, PRIDE
 comments: false
 ---

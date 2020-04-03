@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚哈谢（AHAZIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚哈谢（AHAZIAH）（来：~@h]azya^ 或 ~@h]azya{hu^，意即“耶和华已抓住”）
+description: 圣经新词典 - 亚哈谢（AHAZIAH）（来：~@h]azya^ 或 ~@h]azya{hu^，意即“耶和华已抓住”）
 keywords: 亚哈谢, AHAZIAH
 comments: false
 ---

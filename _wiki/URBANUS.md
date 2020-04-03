@@ -2,7 +2,7 @@
 layout: wiki
 title: 耳巴奴（URBANUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 耳巴奴（URBANUS）
+description: 圣经新词典 - 耳巴奴（URBANUS）
 keywords: 耳巴奴, URBANUS
 comments: false
 ---

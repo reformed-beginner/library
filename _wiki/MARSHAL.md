@@ -2,7 +2,7 @@
 layout: wiki
 title: 军长（MARSHAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 军长（MARSHAL）
+description: 圣经新词典 - 军长（MARSHAL）
 keywords: 军长, MARSHAL
 comments: false
 ---

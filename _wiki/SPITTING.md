@@ -2,7 +2,7 @@
 layout: wiki
 title: 吐唾沫（SPITTING）
 categories: NewBibleDictionary
-description: 圣经新词典: 吐唾沫（SPITTING）
+description: 圣经新词典 - 吐唾沫（SPITTING）
 keywords: 吐唾沫, SPITTING
 comments: false
 ---

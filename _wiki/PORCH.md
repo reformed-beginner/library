@@ -2,7 +2,7 @@
 layout: wiki
 title: 廊子（PORCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 廊子（PORCH）
+description: 圣经新词典 - 廊子（PORCH）
 keywords: 廊子, PORCH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 羊毛，羊绒（WOOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 羊毛，羊绒（WOOL）
+description: 圣经新词典 - 羊毛，羊绒（WOOL）
 keywords: 羊毛，羊绒, WOOL
 comments: false
 ---

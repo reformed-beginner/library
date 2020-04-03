@@ -2,7 +2,7 @@
 layout: wiki
 title: 豫定（PREDESTINATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 豫定（PREDESTINATION）
+description: 圣经新词典 - 豫定（PREDESTINATION）
 keywords: 豫定, PREDESTINATION
 comments: false
 ---

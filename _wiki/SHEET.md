@@ -2,7 +2,7 @@
 layout: wiki
 title: 里衣，一块大布（SHEET）
 categories: NewBibleDictionary
-description: 圣经新词典: 里衣，一块大布（SHEET）
+description: 圣经新词典 - 里衣，一块大布（SHEET）
 keywords: 里衣，一块大布, SHEET
 comments: false
 ---

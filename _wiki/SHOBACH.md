@@ -2,7 +2,7 @@
 layout: wiki
 title: 朔法（SHOBACH）
 categories: NewBibleDictionary
-description: 圣经新词典: 朔法（SHOBACH）
+description: 圣经新词典 - 朔法（SHOBACH）
 keywords: 朔法, SHOBACH
 comments: false
 ---

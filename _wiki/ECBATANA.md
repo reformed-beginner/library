@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊克巴他拿/亚巴他拿（ECBATANA 〔AV 作 ACHMETHA〕）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊克巴他拿/亚巴他拿（ECBATANA 〔AV 作 ACHMETHA〕）
+description: 圣经新词典 - 伊克巴他拿/亚巴他拿（ECBATANA 〔AV 作 ACHMETHA〕）
 keywords: 伊克巴他拿/亚巴他拿, ECBATANA 〔AV 作 ACHMETHA〕
 comments: false
 ---

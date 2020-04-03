@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚甲（ACCAD, AKKAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚甲（ACCAD, AKKAD）
+description: 圣经新词典 - 亚甲（ACCAD, AKKAD）
 keywords: 亚甲, ACCAD, AKKAD
 comments: false
 ---

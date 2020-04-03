@@ -2,7 +2,7 @@
 layout: wiki
 title: 毗大雅（PEDAIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 毗大雅（PEDAIAH）（意即“耶和华已经买赎”）
+description: 圣经新词典 - 毗大雅（PEDAIAH）（意即“耶和华已经买赎”）
 keywords: 毗大雅, PEDAIAH
 comments: false
 ---

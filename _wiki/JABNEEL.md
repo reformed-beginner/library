@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅比聂（JABNEEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅比聂（JABNEEL）（来：yab[n#~e{l，“神 [EL] 促使建造”）
+description: 圣经新词典 - 雅比聂（JABNEEL）（来：yab[n#~e{l，“神 [EL] 促使建造”）
 keywords: 雅比聂, JABNEEL
 comments: false
 ---

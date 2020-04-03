@@ -2,7 +2,7 @@
 layout: wiki
 title: 便雅悯（BENJAMIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 便雅悯（BENJAMIN）
+description: 圣经新词典 - 便雅悯（BENJAMIN）
 keywords: 便雅悯, BENJAMIN
 comments: false
 ---

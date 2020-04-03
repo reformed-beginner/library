@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶雅（JAAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶雅（JAAR）（来：ya`ar“树林”）
+description: 圣经新词典 - 耶雅（JAAR）（来：ya`ar“树林”）
 keywords: 耶雅, JAAR
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅提珥（JATTIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅提珥（JATTIR）（来：yattir）
+description: 圣经新词典 - 雅提珥（JATTIR）（来：yattir）
 keywords: 雅提珥, JATTIR
 comments: false
 ---

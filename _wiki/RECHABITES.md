@@ -2,7 +2,7 @@
 layout: wiki
 title: 利甲人（RECHABITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 利甲人（RECHABITES）
+description: 圣经新词典 - 利甲人（RECHABITES）
 keywords: 利甲人, RECHABITES
 comments: false
 ---

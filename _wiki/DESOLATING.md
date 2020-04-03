@@ -2,7 +2,7 @@
 layout: wiki
 title: 那造成荒凉的亵渎之物（DESOLATING SACRILEGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 那造成荒凉的亵渎之物（DESOLATING SACRILEGE）（AV、和合本作“那行毁坏可憎之物”）
+description: 圣经新词典 - 那造成荒凉的亵渎之物（DESOLATING SACRILEGE）（AV、和合本作“那行毁坏可憎之物”）
 keywords: 那造成荒凉的亵渎之物, DESOLATING SACRILEGE
 comments: false
 ---

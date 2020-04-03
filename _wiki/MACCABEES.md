@@ -2,7 +2,7 @@
 layout: wiki
 title: 马加比（MACCABEES）
 categories: NewBibleDictionary
-description: 圣经新词典: 马加比（MACCABEES）
+description: 圣经新词典 - 马加比（MACCABEES）
 keywords: 马加比, MACCABEES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿尼西母（ONESIMUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿尼西母（ONESIMUS）
+description: 圣经新词典 - 阿尼西母（ONESIMUS）
 keywords: 阿尼西母, ONESIMUS
 comments: false
 ---

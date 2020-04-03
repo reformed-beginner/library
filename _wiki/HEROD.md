@@ -2,7 +2,7 @@
 layout: wiki
 title: 希律（HEROD）
 categories: NewBibleDictionary
-description: 圣经新词典: 希律（HEROD）
+description: 圣经新词典 - 希律（HEROD）
 keywords: 希律, HEROD
 comments: false
 ---

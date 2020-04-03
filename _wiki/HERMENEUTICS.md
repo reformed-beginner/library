@@ -2,7 +2,7 @@
 layout: wiki
 title: 释经学（HERMENEUTICS）
 categories: NewBibleDictionary
-description: 圣经新词典: 释经学（HERMENEUTICS）
+description: 圣经新词典 - 释经学（HERMENEUTICS）
 keywords: 释经学, HERMENEUTICS
 comments: false
 ---

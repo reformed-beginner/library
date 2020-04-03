@@ -2,7 +2,7 @@
 layout: wiki
 title: 米拿现（MENAHEM）
 categories: NewBibleDictionary
-description: 圣经新词典: 米拿现（MENAHEM）（来：m#nah]e{m，即“安慰者”，王下十五14-22）
+description: 圣经新词典 - 米拿现（MENAHEM）（来：m#nah]e{m，即“安慰者”，王下十五14-22）
 keywords: 米拿现, MENAHEM
 comments: false
 ---

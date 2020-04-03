@@ -2,7 +2,7 @@
 layout: wiki
 title: 耳朵，穗（EAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 耳朵，穗（EAR）
+description: 圣经新词典 - 耳朵，穗（EAR）
 keywords: 耳朵，穗, EAR
 comments: false
 ---

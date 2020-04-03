@@ -2,7 +2,7 @@
 layout: wiki
 title: 埋怨，怀恨（GRUDGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 埋怨，怀恨（GRUDGE）
+description: 圣经新词典 - 埋怨，怀恨（GRUDGE）
 keywords: 埋怨，怀恨, GRUDGE
 comments: false
 ---

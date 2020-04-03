@@ -2,7 +2,7 @@
 layout: wiki
 title: 谦卑（HUMILITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 谦卑（HUMILITY）
+description: 圣经新词典 - 谦卑（HUMILITY）
 keywords: 谦卑, HUMILITY
 comments: false
 ---

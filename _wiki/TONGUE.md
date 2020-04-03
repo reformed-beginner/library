@@ -2,7 +2,7 @@
 layout: wiki
 title: 舌头（TONGUE）
 categories: NewBibleDictionary
-description: 圣经新词典: 舌头（TONGUE）
+description: 圣经新词典 - 舌头（TONGUE）
 keywords: 舌头, TONGUE
 comments: false
 ---

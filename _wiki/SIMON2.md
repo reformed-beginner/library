@@ -2,7 +2,7 @@
 layout: wiki
 title: 西门（行邪术的）
 categories: NewBibleDictionary
-description: 圣经新词典: 西门（行邪术的）（SIMON MAGUS）
+description: 圣经新词典 - 西门（行邪术的）（SIMON MAGUS）
 keywords: 西门, 行邪术的
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 立尼（LIBNI）
 categories: NewBibleDictionary
-description: 圣经新词典: 立尼（LIBNI）
+description: 圣经新词典 - 立尼（LIBNI）
 keywords: 立尼, LIBNI
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 道（LOGOS）
 categories: NewBibleDictionary
-description: 圣经新词典: 道（LOGOS）
+description: 圣经新词典 - 道（LOGOS）
 keywords: 道, LOGOS
 comments: false
 ---

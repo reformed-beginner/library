@@ -2,7 +2,7 @@
 layout: wiki
 title: 比加辖（PEKAHIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 比加辖（PEKAHIAH）（来：p#qah]ya^，意为“耶和华已张开〔祂的眼睛〕”）
+description: 圣经新词典 - 比加辖（PEKAHIAH）（来：p#qah]ya^，意为“耶和华已张开〔祂的眼睛〕”）
 keywords: 比加辖, PEKAHIAH
 comments: false
 ---

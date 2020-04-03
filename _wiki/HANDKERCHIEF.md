@@ -2,7 +2,7 @@
 layout: wiki
 title: 手巾（HANDKERCHIEF）
 categories: NewBibleDictionary
-description: 圣经新词典: 手巾（HANDKERCHIEF）
+description: 圣经新词典 - 手巾（HANDKERCHIEF）
 keywords: 手巾, HANDKERCHIEF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 非利士人；非利士地（PHILISTINES, PHILISTIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 非利士人；非利士地（PHILISTINES, PHILISTIA）
+description: 圣经新词典 - 非利士人；非利士地（PHILISTINES, PHILISTIA）
 keywords: 非利士人；非利士地, PHILISTINES, PHILISTIA
 comments: false
 ---

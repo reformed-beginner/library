@@ -2,7 +2,7 @@
 layout: wiki
 title: 祭司和利未人（PRIESTS AND LEVITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 祭司和利未人（PRIESTS AND LEVITES）
+description: 圣经新词典 - 祭司和利未人（PRIESTS AND LEVITES）
 keywords: 祭司和利未人, PRIESTS AND LEVITES
 comments: false
 ---

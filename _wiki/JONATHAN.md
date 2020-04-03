@@ -2,7 +2,7 @@
 layout: wiki
 title: 约拿单（JONATHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 约拿单（JONATHAN）（来：y#ho^na{t[a{n 或 yo^na{t[a{n
+description: 圣经新词典 - 约拿单（JONATHAN）（来：y#ho^na{t[a{n 或 yo^na{t[a{n
 keywords: 约拿单, JONATHAN
 comments: false
 ---

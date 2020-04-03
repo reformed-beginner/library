@@ -2,7 +2,7 @@
 layout: wiki
 title: 贪心（COVETOUSNESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 贪心（COVETOUSNESS）
+description: 圣经新词典 - 贪心（COVETOUSNESS）
 keywords: 贪心, COVETOUSNESS
 comments: false
 ---

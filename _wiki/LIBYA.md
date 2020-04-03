@@ -2,7 +2,7 @@
 layout: wiki
 title: 吕彼亚/利比亚，路比（LIBYA [LUBIM, AV]）
 categories: NewBibleDictionary
-description: 圣经新词典: 吕彼亚/利比亚，路比（LIBYA [LUBIM, AV]）
+description: 圣经新词典 - 吕彼亚/利比亚，路比（LIBYA [LUBIM, AV]）
 keywords: 吕彼亚/利比亚，路比, LIBYA [LUBIM, AV]
 comments: false
 ---

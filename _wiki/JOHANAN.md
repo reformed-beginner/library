@@ -2,7 +2,7 @@
 layout: wiki
 title: 约哈难（JOHANAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 约哈难（JOHANAN）（来：yo^h]a{na{n，“耶和华是恩慈的”）
+description: 圣经新词典 - 约哈难（JOHANAN）（来：yo^h]a{na{n，“耶和华是恩慈的”）
 keywords: 约哈难, JOHANAN
 comments: false
 ---

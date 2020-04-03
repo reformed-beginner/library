@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶洗别（JEZEBEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶洗别（JEZEBEL）
+description: 圣经新词典 - 耶洗别（JEZEBEL）
 keywords: 耶洗别, JEZEBEL
 comments: false
 ---

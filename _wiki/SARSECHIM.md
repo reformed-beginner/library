@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒西金（SARSECHIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒西金（SARSECHIM）
+description: 圣经新词典 - 撒西金（SARSECHIM）
 keywords: 撒西金, SARSECHIM
 comments: false
 ---

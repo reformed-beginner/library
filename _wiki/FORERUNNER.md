@@ -2,7 +2,7 @@
 layout: wiki
 title: 先锋（FORERUNNER）
 categories: NewBibleDictionary
-description: 圣经新词典: 先锋（FORERUNNER）
+description: 圣经新词典 - 先锋（FORERUNNER）
 keywords: 先锋, FORERUNNER
 comments: false
 ---

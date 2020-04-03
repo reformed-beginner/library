@@ -2,7 +2,7 @@
 layout: wiki
 title: 琐法（ZOPHAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 琐法（ZOPHAR）
+description: 圣经新词典 - 琐法（ZOPHAR）
 keywords: 琐法, ZOPHAR
 comments: false
 ---

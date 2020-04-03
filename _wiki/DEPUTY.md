@@ -2,7 +2,7 @@
 layout: wiki
 title: 总督，省长，方伯（DEPUTY）
 categories: NewBibleDictionary
-description: 圣经新词典: 总督，省长，方伯（DEPUTY）
+description: 圣经新词典 - 总督，省长，方伯（DEPUTY）
 keywords: 总督，省长，方伯, DEPUTY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈抹（HAMOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈抹（HAMOR）
+description: 圣经新词典 - 哈抹（HAMOR）
 keywords: 哈抹, HAMOR
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 权柄（AUTHORITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 权柄（AUTHORITY）
+description: 圣经新词典 - 权柄（AUTHORITY）
 keywords: 权柄, AUTHORITY
 comments: false
 ---

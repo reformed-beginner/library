@@ -2,7 +2,7 @@
 layout: wiki
 title: 基顺（KISHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 基顺（KISHON）
+description: 圣经新词典 - 基顺（KISHON）
 keywords: 基顺, KISHON
 comments: false
 ---

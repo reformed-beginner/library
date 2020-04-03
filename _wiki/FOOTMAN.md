@@ -2,7 +2,7 @@
 layout: wiki
 title: 步兵（FOOTMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 步兵（FOOTMAN）
+description: 圣经新词典 - 步兵（FOOTMAN）
 keywords: 步兵, FOOTMAN
 comments: false
 ---

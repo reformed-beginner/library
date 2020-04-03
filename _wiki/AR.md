@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚珥（AR）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚珥（AR）
+description: 圣经新词典 - 亚珥（AR）
 keywords: 亚珥, AR
 comments: false
 ---

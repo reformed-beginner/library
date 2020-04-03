@@ -2,7 +2,7 @@
 layout: wiki
 title: 利亚（LEAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 利亚（LEAH）（来：le{~a^, “野牛”？）
+description: 圣经新词典 - 利亚（LEAH）（来：le{~a^, “野牛”？）
 keywords: 利亚, LEAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 谢拉（ZERAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 谢拉（ZERAH）
+description: 圣经新词典 - 谢拉（ZERAH）
 keywords: 谢拉, ZERAH
 comments: false
 ---

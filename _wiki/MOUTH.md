@@ -2,7 +2,7 @@
 layout: wiki
 title: 口（MOUTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 口（MOUTH）
+description: 圣经新词典 - 口（MOUTH）
 keywords: 口, MOUTH
 comments: false
 ---

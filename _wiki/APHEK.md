@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚弗；亚非加（APHEK, APHEKAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚弗；亚非加（APHEK, APHEKAH）（来：~@p{e{q [a^]，“堡垒”）
+description: 圣经新词典 - 亚弗；亚非加（APHEK, APHEKAH）（来：~@p{e{q [a^]，“堡垒”）
 keywords: 亚弗；亚非加, APHEK, APHEKAH
 comments: false
 ---

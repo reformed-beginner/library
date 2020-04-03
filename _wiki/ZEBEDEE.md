@@ -2,7 +2,7 @@
 layout: wiki
 title: 西庇太（ZEBEDEE）
 categories: NewBibleDictionary
-description: 圣经新词典: 西庇太（ZEBEDEE）（腊：Zebedaios，源出：来：zib[diya{hu^ ──“耶和华的礼物”）
+description: 圣经新词典 - 西庇太（ZEBEDEE）（腊：Zebedaios，源出：来：zib[diya{hu^ ──“耶和华的礼物”）
 keywords: 西庇太, ZEBEDEE
 comments: false
 ---

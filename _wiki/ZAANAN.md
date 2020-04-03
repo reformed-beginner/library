@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒南（ZAANAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒南（ZAANAN）
+description: 圣经新词典 - 撒南（ZAANAN）
 keywords: 撒南, ZAANAN
 comments: false
 ---

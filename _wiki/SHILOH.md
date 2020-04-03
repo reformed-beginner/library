@@ -2,7 +2,7 @@
 layout: wiki
 title: 示罗（SHILOH）
 categories: NewBibleDictionary
-description: 圣经新词典: 示罗（SHILOH）
+description: 圣经新词典 - 示罗（SHILOH）
 keywords: 示罗, SHILOH
 comments: false
 ---

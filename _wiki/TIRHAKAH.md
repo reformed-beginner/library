@@ -2,7 +2,7 @@
 layout: wiki
 title: 特哈加（TIRHAKAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 特哈加（TIRHAKAH）
+description: 圣经新词典 - 特哈加（TIRHAKAH）
 keywords: 特哈加, TIRHAKAH
 comments: false
 ---

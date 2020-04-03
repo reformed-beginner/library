@@ -2,7 +2,7 @@
 layout: wiki
 title: 捆绑与释放（BINDING AND LOOSING）
 categories: NewBibleDictionary
-description: 圣经新词典: 捆绑与释放（BINDING AND LOOSING）（亚兰文：~@sar 和 s%#ra{~；腊：deo{, lyo{）
+description: 圣经新词典 - 捆绑与释放（BINDING AND LOOSING）（亚兰文：~@sar 和 s%#ra{~；腊：deo{, lyo{）
 keywords: 捆绑与释放, BINDING AND LOOSING
 comments: false
 ---

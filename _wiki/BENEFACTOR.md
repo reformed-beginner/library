@@ -2,7 +2,7 @@
 layout: wiki
 title: 恩主（BENEFACTOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 恩主（BENEFACTOR）
+description: 圣经新词典 - 恩主（BENEFACTOR）
 keywords: 恩主, BENEFACTOR
 comments: false
 ---

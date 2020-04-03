@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利（ELI）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利（ELI）
+description: 圣经新词典 - 以利（ELI）
 keywords: 以利, ELI
 comments: false
 ---

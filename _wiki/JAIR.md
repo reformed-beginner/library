@@ -2,7 +2,7 @@
 layout: wiki
 title: 睚珥（JAIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 睚珥（JAIR）（来：ya{~i^r，“他启发人”）
+description: 圣经新词典 - 睚珥（JAIR）（来：ya{~i^r，“他启发人”）
 keywords: 睚珥, JAIR
 comments: false
 ---

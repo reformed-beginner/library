@@ -2,7 +2,7 @@
 layout: wiki
 title: 金钱（MONEY）
 categories: NewBibleDictionary
-description: 圣经新词典: 金钱（MONEY）
+description: 圣经新词典 - 金钱（MONEY）
 keywords: 金钱, MONEY
 comments: false
 ---

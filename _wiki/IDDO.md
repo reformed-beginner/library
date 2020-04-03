@@ -2,7 +2,7 @@
 layout: wiki
 title: 易多（IDDO）
 categories: NewBibleDictionary
-description: 圣经新词典: 易多（IDDO）
+description: 圣经新词典 - 易多（IDDO）
 keywords: 易多, IDDO
 comments: false
 ---

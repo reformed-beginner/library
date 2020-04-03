@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚黑拉（AHLAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚黑拉（AHLAB）
+description: 圣经新词典 - 亚黑拉（AHLAB）
 keywords: 亚黑拉, AHLAB
 comments: false
 ---

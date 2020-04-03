@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶书亚（JESHUA）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶书亚（JESHUA）
+description: 圣经新词典 - 耶书亚（JESHUA）
 keywords: 耶书亚, JESHUA
 comments: false
 ---

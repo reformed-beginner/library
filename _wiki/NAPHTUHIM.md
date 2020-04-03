@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿弗土希（NAPHTUHIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿弗土希（NAPHTUHIM）
+description: 圣经新词典 - 拿弗土希（NAPHTUHIM）
 keywords: 拿弗土希, NAPHTUHIM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙微谷（SHAVEH, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙微谷（SHAVEH, VALLEY OF）
+description: 圣经新词典 - 沙微谷（SHAVEH, VALLEY OF）
 keywords: 沙微谷, SHAVEH, VALLEY OF
 comments: false
 ---

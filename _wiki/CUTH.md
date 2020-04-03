@@ -2,7 +2,7 @@
 layout: wiki
 title: 古他（CUTH, CUTHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 古他（CUTH, CUTHAH）
+description: 圣经新词典 - 古他（CUTH, CUTHAH）
 keywords: 古他, CUTH, CUTHAH
 comments: false
 ---

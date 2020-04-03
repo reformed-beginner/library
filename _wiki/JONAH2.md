@@ -2,7 +2,7 @@
 layout: wiki
 title: 约拿书（JONAH, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 约拿书（JONAH, BOOK OF）
+description: 圣经新词典 - 约拿书（JONAH, BOOK OF）
 keywords: 约拿书, JONAH, BOOK OF
 comments: false
 ---

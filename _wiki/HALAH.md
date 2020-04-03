@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈腊（HALAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈腊（HALAH）
+description: 圣经新词典 - 哈腊（HALAH）
 keywords: 哈腊, HALAH
 comments: false
 ---

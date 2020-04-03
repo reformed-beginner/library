@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　歌蔑
+description: 圣经新词典 - 图　歌蔑
 keywords: , 
 comments: false
 ---

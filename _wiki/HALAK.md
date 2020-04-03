@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈拉山（HALAK）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈拉山（HALAK）（来：h]a{la{q，“光滑，光秃”）
+description: 圣经新词典 - 哈拉山（HALAK）（来：h]a{la{q，“光滑，光秃”）
 keywords: 哈拉山, HALAK
 comments: false
 ---

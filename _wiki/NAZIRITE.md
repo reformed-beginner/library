@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿细耳人（NAZIRITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿细耳人（NAZIRITE）（来：na{zi^r，从 na{zar 一字而来，后者的意思是“分开、分别为圣、戒绝”；参
+description: 圣经新词典 - 拿细耳人（NAZIRITE）（来：na{zi^r，从 na{zar 一字而来，后者的意思是“分开、分别为圣、戒绝”；参
 ne{zer，意即“王冠”，“神的冠冕”，有学者认为这是指拿细耳人头上不经修剪的头发）
 keywords: 拿细耳人, NAZIRITE
 comments: false

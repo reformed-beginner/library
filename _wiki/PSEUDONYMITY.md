@@ -2,7 +2,7 @@
 layout: wiki
 title: 冒名写作（PSEUDONYMITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 冒名写作（PSEUDONYMITY）
+description: 圣经新词典 - 冒名写作（PSEUDONYMITY）
 keywords: 冒名写作, PSEUDONYMITY
 comments: false
 ---

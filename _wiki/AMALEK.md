@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚玛力；亚玛力人（AMALEK, AMALEKITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚玛力；亚玛力人（AMALEK, AMALEKITES）
+description: 圣经新词典 - 亚玛力；亚玛力人（AMALEK, AMALEKITES）
 keywords: 亚玛力；亚玛力人, AMALEK, AMALEKITES
 comments: false
 ---

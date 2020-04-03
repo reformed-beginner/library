@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利以谢（ELIEZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利以谢（ELIEZER）（来：~#li^`ezer，“神是〔我的？〕帮助”）
+description: 圣经新词典 - 以利以谢（ELIEZER）（来：~#li^`ezer，“神是〔我的？〕帮助”）
 keywords: 以利以谢, ELIEZER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 米煞（MESHACH）
 categories: NewBibleDictionary
-description: 圣经新词典: 米煞（MESHACH）（来：me{s%ak[）
+description: 圣经新词典 - 米煞（MESHACH）（来：me{s%ak[）
 keywords: 米煞, MESHACH
 comments: false
 ---

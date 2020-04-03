@@ -2,7 +2,7 @@
 layout: wiki
 title: 律法（LAW）
 categories: NewBibleDictionary
-description: 圣经新词典: 律法（LAW）
+description: 圣经新词典 - 律法（LAW）
 keywords: 律法, LAW
 comments: false
 ---

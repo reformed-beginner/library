@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚伯米何拉（ABEL-MEHOLAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚伯米何拉（ABEL-MEHOLAH）
+description: 圣经新词典 - 亚伯米何拉（ABEL-MEHOLAH）
 keywords: 亚伯米何拉, ABEL-MEHOLAH
 comments: false
 ---

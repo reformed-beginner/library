@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹大的狮子（LION OF JUDAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹大的狮子（LION OF JUDAH）
+description: 圣经新词典 - 犹大的狮子（LION OF JUDAH）
 keywords: 犹大的狮子, LION OF JUDAH
 comments: false
 ---

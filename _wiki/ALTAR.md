@@ -2,7 +2,7 @@
 layout: wiki
 title: 坛（ALTAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 坛（ALTAR）
+description: 圣经新词典 - 坛（ALTAR）
 keywords: 坛, ALTAR
 comments: false
 ---

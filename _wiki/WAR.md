@@ -2,7 +2,7 @@
 layout: wiki
 title: 战争（WAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 战争（WAR）
+description: 圣经新词典 - 战争（WAR）
 keywords: 战争, WAR
 comments: false
 ---

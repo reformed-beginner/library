@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶雷布（JAREB）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶雷布（JAREB）
+description: 圣经新词典 - 耶雷布（JAREB）
 keywords: 耶雷布, JAREB
 comments: false
 ---

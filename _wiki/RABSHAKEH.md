@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉伯沙基（RABSHAKEH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉伯沙基（RABSHAKEH）
+description: 圣经新词典 - 拉伯沙基（RABSHAKEH）
 keywords: 拉伯沙基, RABSHAKEH
 comments: false
 ---

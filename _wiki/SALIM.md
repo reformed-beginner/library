@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒冷（SALIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒冷（SALIM）
+description: 圣经新词典 - 撒冷（SALIM）
 keywords: 撒冷, SALIM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 印度（INDIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 印度（INDIA）
+description: 圣经新词典 - 印度（INDIA）
 keywords: 印度, INDIA
 comments: false
 ---

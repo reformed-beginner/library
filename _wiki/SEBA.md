@@ -2,7 +2,7 @@
 layout: wiki
 title: 西巴（SEBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 西巴（SEBA）
+description: 圣经新词典 - 西巴（SEBA）
 keywords: 西巴, SEBA
 comments: false
 ---

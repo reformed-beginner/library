@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚罢拿河（ABANA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚罢拿河（ABANA）
+description: 圣经新词典 - 亚罢拿河（ABANA）
 keywords: 亚罢拿河, ABANA
 comments: false
 ---

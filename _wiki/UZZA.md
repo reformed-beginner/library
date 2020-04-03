@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌撒（UZZA）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌撒（UZZA）（来： `uzza{~）
+description: 圣经新词典 - 乌撒（UZZA）（来： `uzza{~）
 keywords: 乌撒, UZZA
 comments: false
 ---

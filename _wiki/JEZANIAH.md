@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶撒尼亚（JEZANIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶撒尼亚（JEZANIAH）（来：y#zanya{hu^）
+description: 圣经新词典 - 耶撒尼亚（JEZANIAH）（来：y#zanya{hu^）
 keywords: 耶撒尼亚, JEZANIAH
 comments: false
 ---

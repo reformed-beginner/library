@@ -2,7 +2,7 @@
 layout: wiki
 title: 提弗萨（TIPHSAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 提弗萨（TIPHSAH）（来：tip{sah]，意即“浅滩”、“过渡处”）
+description: 圣经新词典 - 提弗萨（TIPHSAH）（来：tip{sah]，意即“浅滩”、“过渡处”）
 keywords: 提弗萨, TIPHSAH
 comments: false
 ---

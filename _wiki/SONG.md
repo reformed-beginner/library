@@ -2,7 +2,7 @@
 layout: wiki
 title: 所罗门之歌（SONG OF SOLOMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 所罗门之歌（SONG OF SOLOMON）
+description: 圣经新词典 - 所罗门之歌（SONG OF SOLOMON）
 keywords: 所罗门之歌, SONG OF SOLOMON
 comments: false
 ---

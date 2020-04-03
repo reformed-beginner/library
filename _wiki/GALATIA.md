@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　加拉太一带
+description: 圣经新词典 - 图　加拉太一带
 keywords: , 
 comments: false
 ---

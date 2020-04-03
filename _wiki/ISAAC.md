@@ -2,7 +2,7 @@
 layout: wiki
 title: 以撒（ISAAC）
 categories: NewBibleDictionary
-description: 圣经新词典: 以撒（ISAAC）（来：yis]ha{q，“他笑”或“笑声”）
+description: 圣经新词典 - 以撒（ISAAC）（来：yis]ha{q，“他笑”或“笑声”）
 keywords: 以撒, ISAAC
 comments: false
 ---

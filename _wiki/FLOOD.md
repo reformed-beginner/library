@@ -2,7 +2,7 @@
 layout: wiki
 title: 洪水（FLOOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 洪水（FLOOD）
+description: 圣经新词典 - 洪水（FLOOD）
 keywords: 洪水, FLOOD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 池（POOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 池（POOL）
+description: 圣经新词典 - 池（POOL）
 keywords: 池, POOL
 comments: false
 ---

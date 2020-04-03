@@ -2,7 +2,7 @@
 layout: wiki
 title: 佳澳（FAIR HAVENS）
 categories: NewBibleDictionary
-description: 圣经新词典: 佳澳（FAIR HAVENS）
+description: 圣经新词典 - 佳澳（FAIR HAVENS）
 keywords: 佳澳, FAIR HAVENS
 comments: false
 ---

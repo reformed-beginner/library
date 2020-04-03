@@ -2,7 +2,7 @@
 layout: wiki
 title: 推磨者（GRINDER）
 categories: NewBibleDictionary
-description: 圣经新词典: 推磨者（GRINDER）（来：ta{h]an，“磨碎”）
+description: 圣经新词典 - 推磨者（GRINDER）（来：ta{h]an，“磨碎”）
 keywords: 推磨者, GRINDER
 comments: false
 ---

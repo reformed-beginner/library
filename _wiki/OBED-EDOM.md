@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄别以东（OBED-EDOM）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄别以东（OBED-EDOM）（来： `o^b[e{d[ ~#d[o^m，“以东（神？）的奴仆”）
+description: 圣经新词典 - 俄别以东（OBED-EDOM）（来： `o^b[e{d[ ~#d[o^m，“以东（神？）的奴仆”）
 keywords: 俄别以东, OBED-EDOM
 comments: false
 ---

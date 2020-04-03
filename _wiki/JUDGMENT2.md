@@ -2,7 +2,7 @@
 layout: wiki
 title: 审判台（JUDGMENT SEAT）
 categories: NewBibleDictionary
-description: 圣经新词典: 审判台（JUDGMENT SEAT）
+description: 圣经新词典 - 审判台（JUDGMENT SEAT）
 keywords: 审判台, JUDGMENT SEAT
 comments: false
 ---

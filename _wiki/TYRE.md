@@ -2,7 +2,7 @@
 layout: wiki
 title: 推罗（TYRE, TYRUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 推罗（TYRE, TYRUS）
+description: 圣经新词典 - 推罗（TYRE, TYRUS）
 keywords: 推罗, TYRE, TYRUS
 comments: false
 ---

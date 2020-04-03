@@ -2,7 +2,7 @@
 layout: wiki
 title: 叶忒罗（JETHRO）
 categories: NewBibleDictionary
-description: 圣经新词典: 叶忒罗（JETHRO）
+description: 圣经新词典 - 叶忒罗（JETHRO）
 keywords: 叶忒罗, JETHRO
 comments: false
 ---

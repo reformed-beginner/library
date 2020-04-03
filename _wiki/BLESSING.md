@@ -2,7 +2,7 @@
 layout: wiki
 title: 福气（BLESSING）
 categories: NewBibleDictionary
-description: 圣经新词典: 福气（BLESSING）
+description: 圣经新词典 - 福气（BLESSING）
 keywords: 福气, BLESSING
 comments: false
 ---

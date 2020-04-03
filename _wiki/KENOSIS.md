@@ -2,7 +2,7 @@
 layout: wiki
 title: 虚己（KENOSIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 虚己（KENOSIS）
+description: 圣经新词典 - 虚己（KENOSIS）
 keywords: 虚己, KENOSIS
 comments: false
 ---

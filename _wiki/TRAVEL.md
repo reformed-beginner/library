@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣经时代的旅行（TRAVEL IN BIBLICAL TIMES）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣经时代的旅行（TRAVEL IN BIBLICAL TIMES）
+description: 圣经新词典 - 圣经时代的旅行（TRAVEL IN BIBLICAL TIMES）
 keywords: 圣经时代的旅行, TRAVEL IN BIBLICAL TIMES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉哈伯（RAHAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉哈伯（RAHAB）（来：rahab[，字义为“骄傲”、“傲慢”）
+description: 圣经新词典 - 拉哈伯（RAHAB）（来：rahab[，字义为“骄傲”、“傲慢”）
 keywords: 拉哈伯, RAHAB
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 时间（TIME）
 categories: NewBibleDictionary
-description: 圣经新词典: 时间（TIME）
+description: 圣经新词典 - 时间（TIME）
 keywords: 时间, TIME
 comments: false
 ---

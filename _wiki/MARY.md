@@ -2,7 +2,7 @@
 layout: wiki
 title: 马利亚（MARY）
 categories: NewBibleDictionary
-description: 圣经新词典: 马利亚（MARY）
+description: 圣经新词典 - 马利亚（MARY）
 keywords: 马利亚, MARY
 comments: false
 ---

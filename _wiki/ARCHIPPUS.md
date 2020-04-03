@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚基布（ARCHIPPUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚基布（ARCHIPPUS）
+description: 圣经新词典 - 亚基布（ARCHIPPUS）
 keywords: 亚基布, ARCHIPPUS
 comments: false
 ---

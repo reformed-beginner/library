@@ -2,7 +2,7 @@
 layout: wiki
 title: 非尼哈（PHINEHAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 非尼哈（PHINEHAS）
+description: 圣经新词典 - 非尼哈（PHINEHAS）
 keywords: 非尼哈, PHINEHAS
 comments: false
 ---

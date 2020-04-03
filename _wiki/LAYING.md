@@ -2,7 +2,7 @@
 layout: wiki
 title: 按手（LAYING ON OF HANDS）
 categories: NewBibleDictionary
-description: 圣经新词典: 按手（LAYING ON OF HANDS）
+description: 圣经新词典 - 按手（LAYING ON OF HANDS）
 keywords: 按手, LAYING ON OF HANDS
 comments: false
 ---

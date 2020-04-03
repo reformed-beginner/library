@@ -2,7 +2,7 @@
 layout: wiki
 title: 船（大型与小型）
 categories: NewBibleDictionary
-description: 圣经新词典: 船（大型与小型）（SHIPS AND BOATS）
+description: 圣经新词典 - 船（大型与小型）（SHIPS AND BOATS）
 keywords: 船, 大型与小型
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 创世记（GENESIS, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 创世记（GENESIS, BOOK OF）
+description: 圣经新词典 - 创世记（GENESIS, BOOK OF）
 keywords: 创世记, GENESIS, BOOK OF
 comments: false
 ---

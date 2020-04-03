@@ -2,7 +2,7 @@
 layout: wiki
 title: 安息日（SABBATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 安息日（SABBATH）（来：s%abba{t[，字根是s%a{b[at[，意即“停止”）
+description: 圣经新词典 - 安息日（SABBATH）（来：s%abba{t[，字根是s%a{b[at[，意即“停止”）
 keywords: 安息日, SABBATH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基列雅比（JABESH-GILEAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 基列雅比（JABESH-GILEAD）（来：ya{b[e{s% gil`a{d[）
+description: 圣经新词典 - 基列雅比（JABESH-GILEAD）（来：ya{b[e{s% gil`a{d[）
 keywords: 基列雅比, JABESH-GILEAD
 comments: false
 ---

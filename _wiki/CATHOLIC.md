@@ -2,7 +2,7 @@
 layout: wiki
 title: 大公书信，普通书信（CATHOLIC EPISTLES）
 categories: NewBibleDictionary
-description: 圣经新词典: 大公书信，普通书信（CATHOLIC EPISTLES）
+description: 圣经新词典 - 大公书信，普通书信（CATHOLIC EPISTLES）
 keywords: 大公书信，普通书信, CATHOLIC EPISTLES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 该撒利亚（CAESAREA）
 categories: NewBibleDictionary
-description: 圣经新词典: 该撒利亚（CAESAREA）
+description: 圣经新词典 - 该撒利亚（CAESAREA）
 keywords: 该撒利亚, CAESAREA
 comments: false
 ---

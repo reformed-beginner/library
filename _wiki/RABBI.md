@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉比；拉波尼（RABBI, RABBONI）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉比；拉波尼（RABBI, RABBONI）
+description: 圣经新词典 - 拉比；拉波尼（RABBI, RABBONI）
 keywords: 拉比；拉波尼, RABBI, RABBONI
 comments: false
 ---

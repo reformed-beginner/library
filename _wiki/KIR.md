@@ -2,7 +2,7 @@
 layout: wiki
 title: 吉珥（KIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 吉珥（KIR）
+description: 圣经新词典 - 吉珥（KIR）
 keywords: 吉珥, KIR
 comments: false
 ---

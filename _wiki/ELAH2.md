@@ -2,7 +2,7 @@
 layout: wiki
 title: 以拉（ELAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以拉（ELAH）（地名）（来：~e{la^,“栗树，笃耨香树”）
+description: 圣经新词典 - 以拉（ELAH）（地名）（来：~e{la^,“栗树，笃耨香树”）
 keywords: 以拉, ELAH
 comments: false
 ---

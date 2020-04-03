@@ -2,7 +2,7 @@
 layout: wiki
 title: 全能者（ALMIGHTY）
 categories: NewBibleDictionary
-description: 圣经新词典: 全能者（ALMIGHTY）
+description: 圣经新词典 - 全能者（ALMIGHTY）
 keywords: 全能者, ALMIGHTY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 抟面盆（KNEADING-TROUGH）
 categories: NewBibleDictionary
-description: 圣经新词典: 抟面盆（KNEADING-TROUGH）
+description: 圣经新词典 - 抟面盆（KNEADING-TROUGH）
 keywords: 抟面盆, KNEADING-TROUGH
 comments: false
 ---

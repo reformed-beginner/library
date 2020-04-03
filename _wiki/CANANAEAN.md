@@ -2,7 +2,7 @@
 layout: wiki
 title: 奋锐党（CANANAEAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 奋锐党（CANANAEAN）（腊：Kananaios，从希伯来文和亚兰文的 qanna{~，或亚兰文的 qan~a{n
+description: 圣经新词典 - 奋锐党（CANANAEAN）（腊：Kananaios，从希伯来文和亚兰文的 qanna{~，或亚兰文的 qan~a{n
 而来，意为“奋锐党”、“热心的”）
 keywords: 奋锐党, CANANAEAN
 comments: false

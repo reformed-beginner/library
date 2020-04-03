@@ -2,7 +2,7 @@
 layout: wiki
 title: 皈依（CONVERSION）
 categories: NewBibleDictionary
-description: 圣经新词典: 皈依（CONVERSION）
+description: 圣经新词典 - 皈依（CONVERSION）
 keywords: 皈依, CONVERSION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚勒腓（ALPHAEUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚勒腓（ALPHAEUS）
+description: 圣经新词典 - 亚勒腓（ALPHAEUS）
 keywords: 亚勒腓, ALPHAEUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄珥巴（ORPAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄珥巴（ORPAH）
+description: 圣经新词典 - 俄珥巴（ORPAH）
 keywords: 俄珥巴, ORPAH
 comments: false
 ---

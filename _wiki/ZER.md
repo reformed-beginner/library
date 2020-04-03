@@ -2,7 +2,7 @@
 layout: wiki
 title: 侧耳（ZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 侧耳（ZER）
+description: 圣经新词典 - 侧耳（ZER）
 keywords: 侧耳, ZER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基列亚巴（KIRIATH-ARBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 基列亚巴（KIRIATH-ARBA）（来：qiryat{ ~arba', qiryat[ 指城，~arba` 指四，其意是“四城”）
+description: 圣经新词典 - 基列亚巴（KIRIATH-ARBA）（来：qiryat{ ~arba', qiryat[ 指城，~arba` 指四，其意是“四城”）
 keywords: 基列亚巴, KIRIATH-ARBA
 comments: false
 ---

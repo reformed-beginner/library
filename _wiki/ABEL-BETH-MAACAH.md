@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚伯伯玛迦（ABEL-BETH-MAACAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚伯伯玛迦（ABEL-BETH-MAACAH）（来：~a{b[e{l be^t[ ma`@k[a^，“压抑之家的草原”）
+description: 圣经新词典 - 亚伯伯玛迦（ABEL-BETH-MAACAH）（来：~a{b[e{l be^t[ ma`@k[a^，“压抑之家的草原”）
 keywords: 亚伯伯玛迦, ABEL-BETH-MAACAH
 comments: false
 ---

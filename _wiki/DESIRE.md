@@ -2,7 +2,7 @@
 layout: wiki
 title: 欲望，心愿（DESIRE）
 categories: NewBibleDictionary
-description: 圣经新词典: 欲望，心愿（DESIRE）
+description: 圣经新词典 - 欲望，心愿（DESIRE）
 keywords: 欲望，心愿, DESIRE
 comments: false
 ---

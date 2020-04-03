@@ -2,7 +2,7 @@
 layout: wiki
 title: 波阿斯（BOAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 波阿斯（BOAZ）
+description: 圣经新词典 - 波阿斯（BOAZ）
 keywords: 波阿斯, BOAZ
 comments: false
 ---

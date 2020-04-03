@@ -2,7 +2,7 @@
 layout: wiki
 title: 法勒（PELEG）
 categories: NewBibleDictionary
-description: 圣经新词典: 法勒（PELEG）（来：peleg{，意即“河道”、“分岔”）
+description: 圣经新词典 - 法勒（PELEG）（来：peleg{，意即“河道”、“分岔”）
 keywords: 法勒, PELEG
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒督（ZADOK）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒督（ZADOK）（来：s]a{d[o^q，可能是“公义”的意思）
+description: 圣经新词典 - 撒督（ZADOK）（来：s]a{d[o^q，可能是“公义”的意思）
 keywords: 撒督, ZADOK
 comments: false
 ---

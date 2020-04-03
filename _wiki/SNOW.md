@@ -2,7 +2,7 @@
 layout: wiki
 title: 雪（SNOW）
 categories: NewBibleDictionary
-description: 圣经新词典: 雪（SNOW）（来：s%eleg{）
+description: 圣经新词典 - 雪（SNOW）（来：s%eleg{）
 keywords: 雪, SNOW
 comments: false
 ---

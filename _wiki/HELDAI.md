@@ -2,7 +2,7 @@
 layout: wiki
 title: 黑玳（HELDAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 黑玳（HELDAI）
+description: 圣经新词典 - 黑玳（HELDAI）
 keywords: 黑玳, HELDAI
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚大米田（ADRAMYTTIUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚大米田（ADRAMYTTIUM）
+description: 圣经新词典 - 亚大米田（ADRAMYTTIUM）
 keywords: 亚大米田, ADRAMYTTIUM
 comments: false
 ---

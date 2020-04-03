@@ -2,7 +2,7 @@
 layout: wiki
 title: 鱼；钓鱼（FISH, FISHING）
 categories: NewBibleDictionary
-description: 圣经新词典: 鱼；钓鱼（FISH, FISHING）
+description: 圣经新词典 - 鱼；钓鱼（FISH, FISHING）
 keywords: 鱼；钓鱼, FISH, FISHING
 comments: false
 ---

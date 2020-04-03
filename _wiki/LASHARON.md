@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉沙仑（LASHARON）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉沙仑（LASHARON）（RV: 'Lassbaron', AV旁注： 'Sharon' ）
+description: 圣经新词典 - 拉沙仑（LASHARON）（RV: 'Lassbaron', AV旁注： 'Sharon' ）
 keywords: 拉沙仑, LASHARON
 comments: false
 ---

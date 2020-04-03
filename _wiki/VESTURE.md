@@ -2,7 +2,7 @@
 layout: wiki
 title: 衣服，罩衣（VESTURE）
 categories: NewBibleDictionary
-description: 圣经新词典: 衣服，罩衣（VESTURE）
+description: 圣经新词典 - 衣服，罩衣（VESTURE）
 keywords: 衣服，罩衣, VESTURE
 comments: false
 ---

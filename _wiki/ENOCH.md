@@ -2,7 +2,7 @@
 layout: wiki
 title: 以诺（ENOCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以诺（ENOCH）
+description: 圣经新词典 - 以诺（ENOCH）
 keywords: 以诺, ENOCH
 comments: false
 ---

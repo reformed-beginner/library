@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚玛撒（AMASA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚玛撒（AMASA）
+description: 圣经新词典 - 亚玛撒（AMASA）
 keywords: 亚玛撒, AMASA
 comments: false
 ---

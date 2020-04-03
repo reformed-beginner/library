@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉巴（RABBAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉巴（RABBAH）
+description: 圣经新词典 - 拉巴（RABBAH）
 keywords: 拉巴, RABBAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 祸，有祸（WOE）
 categories: NewBibleDictionary
-description: 圣经新词典: 祸，有祸（WOE）
+description: 圣经新词典 - 祸，有祸（WOE）
 keywords: 祸，有祸, WOE
 comments: false
 ---

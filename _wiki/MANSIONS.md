@@ -2,7 +2,7 @@
 layout: wiki
 title: 住处（MANSIONS [AV]）
 categories: NewBibleDictionary
-description: 圣经新词典: 住处（MANSIONS [AV]）（腊：monai; Vulg:mansiones; RV 旁注：“久居之处”；RSV¡G“房间”）
+description: 圣经新词典 - 住处（MANSIONS [AV]）（腊：monai; Vulg:mansiones; RV 旁注：“久居之处”；RSV¡G“房间”）
 keywords: 住处, MANSIONS [AV]
 comments: false
 ---

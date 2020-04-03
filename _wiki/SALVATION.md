@@ -2,7 +2,7 @@
 layout: wiki
 title: 救恩（SALVATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 救恩（SALVATION）（来：ye{s%a`；腊：so{te{ria）
+description: 圣经新词典 - 救恩（SALVATION）（来：ye{s%a`；腊：so{te{ria）
 keywords: 救恩, SALVATION
 comments: false
 ---

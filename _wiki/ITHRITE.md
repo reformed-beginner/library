@@ -2,7 +2,7 @@
 layout: wiki
 title: 以帖人（ITHRITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 以帖人（ITHRITE）
+description: 圣经新词典 - 以帖人（ITHRITE）
 keywords: 以帖人, ITHRITE
 comments: false
 ---

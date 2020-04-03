@@ -2,7 +2,7 @@
 layout: wiki
 title: 临门（RIMMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 临门（RIMMON）（来：rimmo^n，意即“石榴”）
+description: 圣经新词典 - 临门（RIMMON）（来：rimmo^n，意即“石榴”）
 keywords: 临门, RIMMON
 comments: false
 ---

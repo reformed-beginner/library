@@ -2,7 +2,7 @@
 layout: wiki
 title: 以革伦（EKRON）
 categories: NewBibleDictionary
-description: 圣经新词典: 以革伦（EKRON）
+description: 圣经新词典 - 以革伦（EKRON）
 keywords: 以革伦, EKRON
 comments: false
 ---

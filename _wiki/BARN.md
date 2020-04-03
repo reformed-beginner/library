@@ -2,7 +2,7 @@
 layout: wiki
 title: 仓（BARN）
 categories: NewBibleDictionary
-description: 圣经新词典: 仓（BARN）
+description: 圣经新词典 - 仓（BARN）
 keywords: 仓, BARN
 comments: false
 ---

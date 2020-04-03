@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦萨（GAZA）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦萨（GAZA）（来：`azza^，七十士译本作 Gaza）
+description: 圣经新词典 - 迦萨（GAZA）（来：`azza^，七十士译本作 Gaza）
 keywords: 迦萨, GAZA
 comments: false
 ---

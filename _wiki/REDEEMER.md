@@ -2,7 +2,7 @@
 layout: wiki
 title: 救赎主；救赎（REDEEMER, REDEMPTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 救赎主；救赎（REDEEMER, REDEMPTION）
+description: 圣经新词典 - 救赎主；救赎（REDEEMER, REDEMPTION）
 keywords: 救赎主；救赎, REDEEMER, REDEMPTION
 comments: false
 ---

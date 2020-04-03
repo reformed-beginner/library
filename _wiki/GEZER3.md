@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　提革拉毗列色三世的军队袭击基色城
+description: 圣经新词典 - 图　提革拉毗列色三世的军队袭击基色城
 keywords: , 
 comments: false
 ---

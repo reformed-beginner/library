@@ -2,7 +2,7 @@
 layout: wiki
 title: 书珊（SUSA）
 categories: NewBibleDictionary
-description: 圣经新词典: 书珊（SUSA）（AV：Shushan）
+description: 圣经新词典 - 书珊（SUSA）（AV：Shushan）
 keywords: 书珊, SUSA
 comments: false
 ---

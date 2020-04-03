@@ -2,7 +2,7 @@
 layout: wiki
 title: 筐子/篮子（BASKET）
 categories: NewBibleDictionary
-description: 圣经新词典: 筐子/篮子（BASKET）
+description: 圣经新词典 - 筐子/篮子（BASKET）
 keywords: 筐子/篮子, BASKET
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 舍伯那（SHEBNA）
 categories: NewBibleDictionary
-description: 圣经新词典: 舍伯那（SHEBNA）
+description: 圣经新词典 - 舍伯那（SHEBNA）
 keywords: 舍伯那, SHEBNA
 comments: false
 ---

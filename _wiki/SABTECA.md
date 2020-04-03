@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒弗提迦（SABTECA）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒弗提迦（SABTECA）
+description: 圣经新词典 - 撒弗提迦（SABTECA）
 keywords: 撒弗提迦, SABTECA
 comments: false
 ---

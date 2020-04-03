@@ -2,7 +2,7 @@
 layout: wiki
 title: 颜色（COLOURS）
 categories: NewBibleDictionary
-description: 圣经新词典: 颜色（COLOURS）
+description: 圣经新词典 - 颜色（COLOURS）
 keywords: 颜色, COLOURS
 comments: false
 ---

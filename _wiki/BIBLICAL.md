@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣经批判学（BIBLICAL CRITICISM）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣经批判学（BIBLICAL CRITICISM）
+description: 圣经新词典 - 圣经批判学（BIBLICAL CRITICISM）
 keywords: 圣经批判学, BIBLICAL CRITICISM
 comments: false
 ---

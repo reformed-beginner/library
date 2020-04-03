@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯示麦（BETH-SHEMESH）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯示麦（BETH-SHEMESH）（来：be^t[ s%emes%，意即“太阳之家〔庙〕”），是圣经中四处地方的名称
+description: 圣经新词典 - 伯示麦（BETH-SHEMESH）（来：be^t[ s%emes%，意即“太阳之家〔庙〕”），是圣经中四处地方的名称
 keywords: 伯示麦, BETH-SHEMESH
 comments: false
 ---

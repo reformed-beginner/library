@@ -2,7 +2,7 @@
 layout: wiki
 title: 哀嫩（AENON）
 categories: NewBibleDictionary
-description: 圣经新词典: 哀嫩（AENON）（腊：`aino{n，“泉源”）
+description: 圣经新词典 - 哀嫩（AENON）（腊：`aino{n，“泉源”）
 keywords: 哀嫩, AENON
 comments: false
 ---

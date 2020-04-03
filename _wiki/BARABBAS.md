@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴拉巴（BARABBAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴拉巴（BARABBAS）
+description: 圣经新词典 - 巴拉巴（BARABBAS）
 keywords: 巴拉巴, BARABBAS
 comments: false
 ---

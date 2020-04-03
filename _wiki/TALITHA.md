@@ -2,7 +2,7 @@
 layout: wiki
 title: 大利大古米（TALITHA CUMI）
 categories: NewBibleDictionary
-description: 圣经新词典: 大利大古米（TALITHA CUMI）
+description: 圣经新词典 - 大利大古米（TALITHA CUMI）
 keywords: 大利大古米, TALITHA CUMI
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 摩拉大（MOLADAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 摩拉大（MOLADAH）
+description: 圣经新词典 - 摩拉大（MOLADAH）
 keywords: 摩拉大, MOLADAH
 comments: false
 ---

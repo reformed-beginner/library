@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣洁；圣洁的；圣徒（HOLINESS, HOLY, SAINTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣洁；圣洁的；圣徒（HOLINESS, HOLY, SAINTS）
+description: 圣经新词典 - 圣洁；圣洁的；圣徒（HOLINESS, HOLY, SAINTS）
 keywords: 圣洁；圣洁的；圣徒, HOLINESS, HOLY, SAINTS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 革老丢（CLAUDIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 革老丢（CLAUDIUS）
+description: 圣经新词典 - 革老丢（CLAUDIUS）
 keywords: 革老丢, CLAUDIUS
 comments: false
 ---

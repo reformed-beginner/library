@@ -2,7 +2,7 @@
 layout: wiki
 title: 以挪士（ENOSH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以挪士（ENOSH）
+description: 圣经新词典 - 以挪士（ENOSH）
 keywords: 以挪士, ENOSH
 comments: false
 ---

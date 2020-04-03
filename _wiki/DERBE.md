@@ -2,7 +2,7 @@
 layout: wiki
 title: 特庇（DERBE）
 categories: NewBibleDictionary
-description: 圣经新词典: 特庇（DERBE）（吕高尼文 [Lycaonian] delbeia；意即“杜松”）
+description: 圣经新词典 - 特庇（DERBE）（吕高尼文 [Lycaonian] delbeia；意即“杜松”）
 keywords: 特庇, DERBE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄弗拉（OPHRAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄弗拉（OPHRAH）（来：`op{ra^h）
+description: 圣经新词典 - 俄弗拉（OPHRAH）（来：`op{ra^h）
 keywords: 俄弗拉, OPHRAH
 comments: false
 ---

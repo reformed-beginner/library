@@ -2,7 +2,7 @@
 layout: wiki
 title: 上告于该撒（APPEAL TO CAESAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 上告于该撒（APPEAL TO CAESAR）
+description: 圣经新词典 - 上告于该撒（APPEAL TO CAESAR）
 keywords: 上告于该撒, APPEAL TO CAESAR
 comments: false
 ---

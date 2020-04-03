@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴力迦得（BAAL-GAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴力迦得（BAAL-GAD）
+description: 圣经新词典 - 巴力迦得（BAAL-GAD）
 keywords: 巴力迦得, BAAL-GAD
 comments: false
 ---

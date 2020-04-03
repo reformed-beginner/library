@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿鹤（NAHOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿鹤（NAHOR）
+description: 圣经新词典 - 拿鹤（NAHOR）
 keywords: 拿鹤, NAHOR
 comments: false
 ---

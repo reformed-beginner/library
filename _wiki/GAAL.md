@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦勒（士师时代）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦勒（士师时代）（GAAL）（来：ga`al）
+description: 圣经新词典 - 迦勒（士师时代）（GAAL）（来：ga`al）
 keywords: 迦勒, 士师时代
 comments: false
 ---

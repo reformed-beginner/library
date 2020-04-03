@@ -2,7 +2,7 @@
 layout: wiki
 title: 士师、官长、法官（MAGISTRATE）
 categories: NewBibleDictionary
-description: 圣经新词典: 士师、官长、法官（MAGISTRATE）
+description: 圣经新词典 - 士师、官长、法官（MAGISTRATE）
 keywords: 士师、官长、法官, MAGISTRATE
 comments: false
 ---

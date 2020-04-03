@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊甸（EDEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊甸（EDEN）
+description: 圣经新词典 - 伊甸（EDEN）
 keywords: 伊甸, EDEN
 comments: false
 ---

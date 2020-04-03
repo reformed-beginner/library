@@ -2,7 +2,7 @@
 layout: wiki
 title: 提拉因（TELAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 提拉因（TELAIM）
+description: 圣经新词典 - 提拉因（TELAIM）
 keywords: 提拉因, TELAIM
 comments: false
 ---

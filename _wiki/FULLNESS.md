@@ -2,7 +2,7 @@
 layout: wiki
 title: 满（FULLNESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 满（FULLNESS）
+description: 圣经新词典 - 满（FULLNESS）
 keywords: 满, FULLNESS
 comments: false
 ---

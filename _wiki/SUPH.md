@@ -2,7 +2,7 @@
 layout: wiki
 title: 疏弗（SUPH）
 categories: NewBibleDictionary
-description: 圣经新词典: 疏弗（SUPH）
+description: 圣经新词典 - 疏弗（SUPH）
 keywords: 疏弗, SUPH
 comments: false
 ---

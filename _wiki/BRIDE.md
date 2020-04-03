@@ -2,7 +2,7 @@
 layout: wiki
 title: 新妇，新娘；新郎（BRIDE, BRIDEGROOM）
 categories: NewBibleDictionary
-description: 圣经新词典: 新妇，新娘；新郎（BRIDE, BRIDEGROOM）
+description: 圣经新词典 - 新妇，新娘；新郎（BRIDE, BRIDEGROOM）
 keywords: 新妇，新娘；新郎, BRIDE, BRIDEGROOM
 comments: false
 ---

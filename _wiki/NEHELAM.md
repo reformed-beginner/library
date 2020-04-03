@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼希兰（NEHELAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼希兰（NEHELAM）
+description: 圣经新词典 - 尼希兰（NEHELAM）
 keywords: 尼希兰, NEHELAM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 何西阿书（HOSEA, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 何西阿书（HOSEA, BOOK OF）
+description: 圣经新词典 - 何西阿书（HOSEA, BOOK OF）
 keywords: 何西阿书, HOSEA, BOOK OF
 comments: false
 ---

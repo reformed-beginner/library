@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒底（ZABDI）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒底（ZABDI）
+description: 圣经新词典 - 撒底（ZABDI）
 keywords: 撒底, ZABDI
 comments: false
 ---

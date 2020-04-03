@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒烈（ZERED）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒烈（ZERED）
+description: 圣经新词典 - 撒烈（ZERED）
 keywords: 撒烈, ZERED
 comments: false
 ---

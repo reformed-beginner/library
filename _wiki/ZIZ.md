@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗斯（ZIZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗斯（ZIZ）
+description: 圣经新词典 - 洗斯（ZIZ）
 keywords: 洗斯, ZIZ
 comments: false
 ---

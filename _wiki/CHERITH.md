@@ -2,7 +2,7 @@
 layout: wiki
 title: 基立（CHERITH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基立（CHERITH）
+description: 圣经新词典 - 基立（CHERITH）
 keywords: 基立, CHERITH
 comments: false
 ---

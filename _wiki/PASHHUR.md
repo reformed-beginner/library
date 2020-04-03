@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴施户珥/巴示户珥（PASHHUR）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴施户珥/巴示户珥（PASHHUR）
+description: 圣经新词典 - 巴施户珥/巴示户珥（PASHHUR）
 keywords: 巴施户珥/巴示户珥, PASHHUR
 comments: false
 ---

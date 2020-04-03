@@ -2,7 +2,7 @@
 layout: wiki
 title: 得福，有福（BLESSED）
 categories: NewBibleDictionary
-description: 圣经新词典: 得福，有福（BLESSED）
+description: 圣经新词典 - 得福，有福（BLESSED）
 keywords: 得福，有福, BLESSED
 comments: false
 ---

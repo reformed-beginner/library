@@ -2,7 +2,7 @@
 layout: wiki
 title: 毗珥（PEOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 毗珥（PEOR）
+description: 圣经新词典 - 毗珥（PEOR）
 keywords: 毗珥, PEOR
 comments: false
 ---

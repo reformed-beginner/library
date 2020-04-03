@@ -2,7 +2,7 @@
 layout: wiki
 title: 挪得（NOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 挪得（NOD）
+description: 圣经新词典 - 挪得（NOD）
 keywords: 挪得, NOD
 comments: false
 ---

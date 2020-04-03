@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈大底谢（HADADEZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈大底谢（HADADEZER）
+description: 圣经新词典 - 哈大底谢（HADADEZER）
 keywords: 哈大底谢, HADADEZER
 comments: false
 ---

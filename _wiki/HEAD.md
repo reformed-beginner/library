@@ -2,7 +2,7 @@
 layout: wiki
 title: 头（HEAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 头（HEAD）
+description: 圣经新词典 - 头（HEAD）
 keywords: 头, HEAD
 comments: false
 ---

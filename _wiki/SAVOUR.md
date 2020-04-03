@@ -2,7 +2,7 @@
 layout: wiki
 title: 味（SAVOUR）
 categories: NewBibleDictionary
-description: 圣经新词典: 味（SAVOUR）
+description: 圣经新词典 - 味（SAVOUR）
 keywords: 味, SAVOUR
 comments: false
 ---

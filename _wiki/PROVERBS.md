@@ -2,7 +2,7 @@
 layout: wiki
 title: 箴言书（PROVERBS, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 箴言书（PROVERBS, BOOK OF）
+description: 圣经新词典 - 箴言书（PROVERBS, BOOK OF）
 keywords: 箴言书, PROVERBS, BOOK OF
 comments: false
 ---

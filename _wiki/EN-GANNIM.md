@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐干宁（EN-GANNIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐干宁（EN-GANNIM）（来：`e^n-ganni^m，“花园的泉源”）
+description: 圣经新词典 - 隐干宁（EN-GANNIM）（来：`e^n-ganni^m，“花园的泉源”）
 keywords: 隐干宁, EN-GANNIM
 comments: false
 ---

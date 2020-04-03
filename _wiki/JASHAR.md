@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅煞珥书（JASHAR, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅煞珥书（JASHAR, BOOK OF）
+description: 圣经新词典 - 雅煞珥书（JASHAR, BOOK OF）
 keywords: 雅煞珥书, JASHAR, BOOK OF
 comments: false
 ---

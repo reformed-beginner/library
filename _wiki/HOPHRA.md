@@ -2,7 +2,7 @@
 layout: wiki
 title: 合弗拉（HOPHRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 合弗拉（HOPHRA）
+description: 圣经新词典 - 合弗拉（HOPHRA）
 keywords: 合弗拉, HOPHRA
 comments: false
 ---

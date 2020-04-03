@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒迦利亚颂，以色列颂（BENEDICTUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒迦利亚颂，以色列颂（BENEDICTUS）
+description: 圣经新词典 - 撒迦利亚颂，以色列颂（BENEDICTUS）
 keywords: 撒迦利亚颂，以色列颂, BENEDICTUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 何珥（HOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 何珥（HOR）
+description: 圣经新词典 - 何珥（HOR）
 keywords: 何珥, HOR
 comments: false
 ---

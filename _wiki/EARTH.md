@@ -2,7 +2,7 @@
 layout: wiki
 title: 地，地球，泥土（EARTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 地，地球，泥土（EARTH）
+description: 圣经新词典 - 地，地球，泥土（EARTH）
 keywords: 地，地球，泥土, EARTH
 comments: false
 ---

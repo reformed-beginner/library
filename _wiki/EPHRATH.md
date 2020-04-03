@@ -2,7 +2,7 @@
 layout: wiki
 title: 以法他（EPHRATH, EPHRATHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以法他（EPHRATH, EPHRATHAH）
+description: 圣经新词典 - 以法他（EPHRATH, EPHRATHAH）
 keywords: 以法他, EPHRATH, EPHRATHAH
 comments: false
 ---

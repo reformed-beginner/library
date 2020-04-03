@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣经中的动物（ANIMALS OF THE BIBLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣经中的动物（ANIMALS OF THE BIBLE）
+description: 圣经新词典 - 圣经中的动物（ANIMALS OF THE BIBLE）
 keywords: 圣经中的动物, ANIMALS OF THE BIBLE
 comments: false
 ---

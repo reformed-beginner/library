@@ -2,7 +2,7 @@
 layout: wiki
 title: 克完（KAIWAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 克完（KAIWAN）（来：kiyyu^n），AV CHIUN（摩五26）
+description: 圣经新词典 - 克完（KAIWAN）（来：kiyyu^n），AV CHIUN（摩五26）
 keywords: 克完, KAIWAN
 comments: false
 ---

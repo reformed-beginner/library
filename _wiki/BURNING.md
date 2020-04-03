@@ -2,7 +2,7 @@
 layout: wiki
 title: 燃烧的荆棘（BURNING BUSH）
 categories: NewBibleDictionary
-description: 圣经新词典: 燃烧的荆棘（BURNING BUSH）
+description: 圣经新词典 - 燃烧的荆棘（BURNING BUSH）
 keywords: 燃烧的荆棘, BURNING BUSH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 埃及的十灾（PLAGUES OF EGYPT）
 categories: NewBibleDictionary
-description: 圣经新词典: 埃及的十灾（PLAGUES OF EGYPT）
+description: 圣经新词典 - 埃及的十灾（PLAGUES OF EGYPT）
 keywords: 埃及的十灾, PLAGUES OF EGYPT
 comments: false
 ---

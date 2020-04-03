@@ -2,7 +2,7 @@
 layout: wiki
 title: 说话人，辩士（SPOKESMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 说话人，辩士（SPOKESMAN）
+description: 圣经新词典 - 说话人，辩士（SPOKESMAN）
 keywords: 说话人，辩士, SPOKESMAN
 comments: false
 ---

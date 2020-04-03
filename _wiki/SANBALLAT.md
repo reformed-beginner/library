@@ -2,7 +2,7 @@
 layout: wiki
 title: 参巴拉（SANBALLAT）
 categories: NewBibleDictionary
-description: 圣经新词典: 参巴拉（SANBALLAT）
+description: 圣经新词典 - 参巴拉（SANBALLAT）
 keywords: 参巴拉, SANBALLAT
 comments: false
 ---

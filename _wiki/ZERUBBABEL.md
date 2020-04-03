@@ -2,7 +2,7 @@
 layout: wiki
 title: 所罗巴伯（ZERUBBABEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 所罗巴伯（ZERUBBABEL）
+description: 圣经新词典 - 所罗巴伯（ZERUBBABEL）
 keywords: 所罗巴伯, ZERUBBABEL
 comments: false
 ---

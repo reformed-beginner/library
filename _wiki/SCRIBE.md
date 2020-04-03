@@ -2,7 +2,7 @@
 layout: wiki
 title: 书记，文士（SCRIBE）
 categories: NewBibleDictionary
-description: 圣经新词典: 书记，文士（SCRIBE）
+description: 圣经新词典 - 书记，文士（SCRIBE）
 keywords: 书记，文士, SCRIBE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 以伦（ELON）
 categories: NewBibleDictionary
-description: 圣经新词典: 以伦（ELON）（来：~e^lo^n, ~e^lo{n）
+description: 圣经新词典 - 以伦（ELON）（来：~e^lo^n, ~e^lo{n）
 keywords: 以伦, ELON
 comments: false
 ---

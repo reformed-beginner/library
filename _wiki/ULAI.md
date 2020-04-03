@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌莱河（ULAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌莱河（ULAI）
+description: 圣经新词典 - 乌莱河（ULAI）
 keywords: 乌莱河, ULAI
 comments: false
 ---

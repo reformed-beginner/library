@@ -2,7 +2,7 @@
 layout: wiki
 title: 庇推尼（BITHYNIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 庇推尼（BITHYNIA）
+description: 圣经新词典 - 庇推尼（BITHYNIA）
 keywords: 庇推尼, BITHYNIA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 新约的语言（LANGUAGE OF THE NEW TESTAMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 新约的语言（LANGUAGE OF THE NEW TESTAMENT）
+description: 圣经新词典 - 新约的语言（LANGUAGE OF THE NEW TESTAMENT）
 keywords: 新约的语言, LANGUAGE OF THE NEW TESTAMENT
 comments: false
 ---

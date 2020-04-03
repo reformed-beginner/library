@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅谢（JAZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅谢（JAZER）
+description: 圣经新词典 - 雅谢（JAZER）
 keywords: 雅谢, JAZER
 comments: false
 ---

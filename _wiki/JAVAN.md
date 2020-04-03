@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅完（JAVAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅完（JAVAN）
+description: 圣经新词典 - 雅完（JAVAN）
 keywords: 雅完, JAVAN
 comments: false
 ---

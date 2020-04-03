@@ -2,7 +2,7 @@
 layout: wiki
 title: 中文圣经译本（CHINESE VERSIONS OF THE BIBLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 中文圣经译本（CHINESE VERSIONS OF THE BIBLE）
+description: 圣经新词典 - 中文圣经译本（CHINESE VERSIONS OF THE BIBLE）
 keywords: 中文圣经译本, CHINESE VERSIONS OF THE BIBLE
 comments: false
 ---

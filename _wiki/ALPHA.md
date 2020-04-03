@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿拉法与俄梅戛（ALPHA AND OMEGA）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿拉法与俄梅戛（ALPHA AND OMEGA）
+description: 圣经新词典 - 阿拉法与俄梅戛（ALPHA AND OMEGA）
 keywords: 阿拉法与俄梅戛, ALPHA AND OMEGA
 comments: false
 ---

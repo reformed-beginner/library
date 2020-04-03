@@ -2,7 +2,7 @@
 layout: wiki
 title: 长老；长老地位（PRESBYTER, PRESBYTERY）
 categories: NewBibleDictionary
-description: 圣经新词典: 长老；长老地位（PRESBYTER, PRESBYTERY）
+description: 圣经新词典 - 长老；长老地位（PRESBYTER, PRESBYTERY）
 keywords: 长老；长老地位, PRESBYTER, PRESBYTERY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 叙利腓尼基族（SYROPHOENICIAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 叙利腓尼基族（SYROPHOENICIAN）
+description: 圣经新词典 - 叙利腓尼基族（SYROPHOENICIAN）
 keywords: 叙利腓尼基族, SYROPHOENICIAN
 comments: false
 ---

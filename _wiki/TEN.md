@@ -2,7 +2,7 @@
 layout: wiki
 title: 十诫（TEN COMMANDMENTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 十诫（TEN COMMANDMENTS）
+description: 圣经新词典 - 十诫（TEN COMMANDMENTS）
 keywords: 十诫, TEN COMMANDMENTS
 comments: false
 ---

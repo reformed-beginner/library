@@ -2,7 +2,7 @@
 layout: wiki
 title: 植物（PLANTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 植物（PLANTS）
+description: 圣经新词典 - 植物（PLANTS）
 keywords: 植物, PLANTS
 comments: false
 ---

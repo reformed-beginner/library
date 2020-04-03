@@ -2,7 +2,7 @@
 layout: wiki
 title: 约念（JOKNEAM, JOKMEAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 约念（JOKNEAM, JOKMEAM）（来：yoqn#`a{m, yoqm#`a{m）
+description: 圣经新词典 - 约念（JOKNEAM, JOKMEAM）（来：yoqn#`a{m, yoqm#`a{m）
 keywords: 约念, JOKNEAM, JOKMEAM
 comments: false
 ---

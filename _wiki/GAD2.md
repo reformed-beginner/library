@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦得谷（GAD, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦得谷（GAD, VALLEY OF）
+description: 圣经新词典 - 迦得谷（GAD, VALLEY OF）
 keywords: 迦得谷, GAD, VALLEY OF
 comments: false
 ---

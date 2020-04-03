@@ -2,7 +2,7 @@
 layout: wiki
 title: 吕高尼（LYCAONIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 吕高尼（LYCAONIA）
+description: 圣经新词典 - 吕高尼（LYCAONIA）
 keywords: 吕高尼, LYCAONIA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈腓拉（HAVILAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈腓拉（HAVILAH）（来：h]@wi^la^，意即“圈子”，“区域”）
+description: 圣经新词典 - 哈腓拉（HAVILAH）（来：h]@wi^la^，意即“圈子”，“区域”）
 keywords: 哈腓拉, HAVILAH
 comments: false
 ---

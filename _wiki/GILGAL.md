@@ -2,7 +2,7 @@
 layout: wiki
 title: 吉甲（GILGAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 吉甲（GILGAL）
+description: 圣经新词典 - 吉甲（GILGAL）
 keywords: 吉甲, GILGAL
 comments: false
 ---

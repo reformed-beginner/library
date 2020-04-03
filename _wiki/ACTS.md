@@ -2,7 +2,7 @@
 layout: wiki
 title: 使徒行传（ACTS, BOOK OF THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 使徒行传（ACTS, BOOK OF THE）
+description: 圣经新词典 - 使徒行传（ACTS, BOOK OF THE）
 keywords: 使徒行传, ACTS, BOOK OF THE
 comments: false
 ---

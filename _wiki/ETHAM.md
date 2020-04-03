@@ -2,7 +2,7 @@
 layout: wiki
 title: 以倘（ETHAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 以倘（ETHAM）
+description: 圣经新词典 - 以倘（ETHAM）
 keywords: 以倘, ETHAM
 comments: false
 ---

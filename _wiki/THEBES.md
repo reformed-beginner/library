@@ -2,7 +2,7 @@
 layout: wiki
 title: 底比斯（THEBES）
 categories: NewBibleDictionary
-description: 圣经新词典: 底比斯（THEBES）（来：No, AV 同）
+description: 圣经新词典 - 底比斯（THEBES）（来：No, AV 同）
 keywords: 底比斯, THEBES
 comments: false
 ---

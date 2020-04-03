@@ -2,7 +2,7 @@
 layout: wiki
 title: 约拿达（JEHONADAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 约拿达（JEHONADAB）(来：y#ho^na{d[a{b[，“耶和华是宽大的”）
+description: 圣经新词典 - 约拿达（JEHONADAB）(来：y#ho^na{d[a{b[，“耶和华是宽大的”）
 keywords: 约拿达, JEHONADAB
 comments: false
 ---

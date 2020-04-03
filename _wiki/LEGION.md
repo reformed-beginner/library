@@ -2,7 +2,7 @@
 layout: wiki
 title: 军团，营，群（LEGION）
 categories: NewBibleDictionary
-description: 圣经新词典: 军团，营，群（LEGION）
+description: 圣经新词典 - 军团，营，群（LEGION）
 keywords: 军团，营，群, LEGION
 comments: false
 ---

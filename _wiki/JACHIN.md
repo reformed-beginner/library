@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅斤和波阿斯（JACHIN AND BOAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅斤和波阿斯（JACHIN AND BOAZ）
+description: 圣经新词典 - 雅斤和波阿斯（JACHIN AND BOAZ）
 keywords: 雅斤和波阿斯, JACHIN AND BOAZ
 comments: false
 ---

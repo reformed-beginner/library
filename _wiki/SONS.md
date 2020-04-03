@@ -2,7 +2,7 @@
 layout: wiki
 title: 神的众子（SONS [CHILDREN] OF GOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 神的众子（SONS [CHILDREN] OF GOD）
+description: 圣经新词典 - 神的众子（SONS [CHILDREN] OF GOD）
 keywords: 神的众子, SONS [CHILDREN] OF GOD
 comments: false
 ---

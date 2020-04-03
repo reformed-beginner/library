@@ -2,7 +2,7 @@
 layout: wiki
 title: 操天国钥匙的权柄（POWER OF THE KEYS）
 categories: NewBibleDictionary
-description: 圣经新词典: 操天国钥匙的权柄（POWER OF THE KEYS）
+description: 圣经新词典 - 操天国钥匙的权柄（POWER OF THE KEYS）
 keywords: 操天国钥匙的权柄, POWER OF THE KEYS
 comments: false
 ---

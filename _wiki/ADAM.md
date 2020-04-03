@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚当（ADAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚当（ADAM）（来：~a{d[a{m）
+description: 圣经新词典 - 亚当（ADAM）（来：~a{d[a{m）
 keywords: 亚当, ADAM
 comments: false
 ---

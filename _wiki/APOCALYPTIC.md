@@ -2,7 +2,7 @@
 layout: wiki
 title: 启示文学（APOCALYPTIC）
 categories: NewBibleDictionary
-description: 圣经新词典: 启示文学（APOCALYPTIC）
+description: 圣经新词典 - 启示文学（APOCALYPTIC）
 keywords: 启示文学, APOCALYPTIC
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙威沙（SHAVSHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙威沙（SHAVSHA）
+description: 圣经新词典 - 沙威沙（SHAVSHA）
 keywords: 沙威沙, SHAVSHA
 comments: false
 ---

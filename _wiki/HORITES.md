@@ -2,7 +2,7 @@
 layout: wiki
 title: 何利人（HORITES, HORIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 何利人（HORITES, HORIM）
+description: 圣经新词典 - 何利人（HORITES, HORIM）
 keywords: 何利人, HORITES, HORIM
 comments: false
 ---

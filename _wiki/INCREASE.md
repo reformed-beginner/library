@@ -2,7 +2,7 @@
 layout: wiki
 title: 增多，增加，繁殖（INCREASE）
 categories: NewBibleDictionary
-description: 圣经新词典: 增多，增加，繁殖（INCREASE）
+description: 圣经新词典 - 增多，增加，繁殖（INCREASE）
 keywords: 增多，增加，繁殖, INCREASE
 comments: false
 ---

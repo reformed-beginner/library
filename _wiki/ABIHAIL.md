@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比亥，亚比孩（ABIHAIL）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比亥，亚比孩（ABIHAIL）（来：~@b[i h]ayil，“我父是能力”）
+description: 圣经新词典 - 亚比亥，亚比孩（ABIHAIL）（来：~@b[i h]ayil，“我父是能力”）
 keywords: 亚比亥，亚比孩, ABIHAIL
 comments: false
 ---

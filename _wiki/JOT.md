@@ -2,7 +2,7 @@
 layout: wiki
 title: 一点一画（JOT AND TITTLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 一点一画（JOT AND TITTLE）
+description: 圣经新词典 - 一点一画（JOT AND TITTLE）
 keywords: 一点一画, JOT AND TITTLE
 comments: false
 ---

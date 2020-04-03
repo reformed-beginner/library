@@ -2,7 +2,7 @@
 layout: wiki
 title: 神的照顾、统管（PROVIDENCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 神的照顾、统管（PROVIDENCE）
+description: 圣经新词典 - 神的照顾、统管（PROVIDENCE）
 keywords: 神的照顾、统管, PROVIDENCE
 comments: false
 ---

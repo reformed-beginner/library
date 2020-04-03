@@ -2,7 +2,7 @@
 layout: wiki
 title: 美好的，美善的（GOOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 美好的，美善的（GOOD）
+description: 圣经新词典 - 美好的，美善的（GOOD）
 keywords: 美好的，美善的, GOOD
 comments: false
 ---

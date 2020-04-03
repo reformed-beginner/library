@@ -2,7 +2,7 @@
 layout: wiki
 title: 新约次经（NEW TESTAMENT APOCRYPHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 新约次经（NEW TESTAMENT APOCRYPHA）
+description: 圣经新词典 - 新约次经（NEW TESTAMENT APOCRYPHA）
 keywords: 新约次经, NEW TESTAMENT APOCRYPHA
 comments: false
 ---

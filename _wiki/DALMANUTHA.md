@@ -2,7 +2,7 @@
 layout: wiki
 title: 大玛努他（DALMANUTHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 大玛努他（DALMANUTHA）
+description: 圣经新词典 - 大玛努他（DALMANUTHA）
 keywords: 大玛努他, DALMANUTHA
 comments: false
 ---

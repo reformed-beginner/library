@@ -2,7 +2,7 @@
 layout: wiki
 title: 委办（MELZAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 委办（MELZAR）
+description: 圣经新词典 - 委办（MELZAR）
 keywords: 委办, MELZAR
 comments: false
 ---

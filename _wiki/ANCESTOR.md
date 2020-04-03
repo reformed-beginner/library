@@ -2,7 +2,7 @@
 layout: wiki
 title: 祖先崇拜（ANCESTOR WORSHIP）
 categories: NewBibleDictionary
-description: 圣经新词典: 祖先崇拜（ANCESTOR WORSHIP）
+description: 圣经新词典 - 祖先崇拜（ANCESTOR WORSHIP）
 keywords: 祖先崇拜, ANCESTOR WORSHIP
 comments: false
 ---

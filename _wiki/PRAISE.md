@@ -2,7 +2,7 @@
 layout: wiki
 title: 赞美（PRAISE）
 categories: NewBibleDictionary
-description: 圣经新词典: 赞美（PRAISE）
+description: 圣经新词典 - 赞美（PRAISE）
 keywords: 赞美, PRAISE
 comments: false
 ---

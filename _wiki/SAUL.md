@@ -2,7 +2,7 @@
 layout: wiki
 title: 扫罗（SAUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 扫罗（SAUL）（来：s%a{~u^l，“求问”，即求问神）
+description: 圣经新词典 - 扫罗（SAUL）（来：s%a{~u^l，“求问”，即求问神）
 keywords: 扫罗, SAUL
 comments: false
 ---

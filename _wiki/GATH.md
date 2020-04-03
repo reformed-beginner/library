@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦特（GATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦特（GATH）
+description: 圣经新词典 - 迦特（GATH）
 keywords: 迦特, GATH
 comments: false
 ---

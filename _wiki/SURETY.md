@@ -2,7 +2,7 @@
 layout: wiki
 title: 作保，担保，中保（SURETY）
 categories: NewBibleDictionary
-description: 圣经新词典: 作保，担保，中保（SURETY）
+description: 圣经新词典 - 作保，担保，中保（SURETY）
 keywords: 作保，担保，中保, SURETY
 comments: false
 ---

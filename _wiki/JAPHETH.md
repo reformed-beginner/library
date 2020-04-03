@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅弗（JAPHETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅弗（JAPHETH）（来：yep{et[）
+description: 圣经新词典 - 雅弗（JAPHETH）（来：yep{et[）
 keywords: 雅弗, JAPHETH
 comments: false
 ---

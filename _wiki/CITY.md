@@ -2,7 +2,7 @@
 layout: wiki
 title: 城市（CITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 城市（CITY）
+description: 圣经新词典 - 城市（CITY）
 keywords: 城市, CITY
 comments: false
 ---

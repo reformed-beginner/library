@@ -2,7 +2,7 @@
 layout: wiki
 title: 事奉，服事；事奉人员（MINISTRY）
 categories: NewBibleDictionary
-description: 圣经新词典: 事奉，服事；事奉人员（MINISTRY）
+description: 圣经新词典 - 事奉，服事；事奉人员（MINISTRY）
 keywords: 事奉，服事；事奉人员, MINISTRY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 腐朽（CORRUPTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 腐朽（CORRUPTION）
+description: 圣经新词典 - 腐朽（CORRUPTION）
 keywords: 腐朽, CORRUPTION
 comments: false
 ---

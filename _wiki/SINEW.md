@@ -2,7 +2,7 @@
 layout: wiki
 title: 筋（SINEW）
 categories: NewBibleDictionary
-description: 圣经新词典: 筋（SINEW）
+description: 圣经新词典 - 筋（SINEW）
 keywords: 筋, SINEW
 comments: false
 ---

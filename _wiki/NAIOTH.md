@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿约（NAIOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿约（NAIOTH）
+description: 圣经新词典 - 拿约（NAIOTH）
 keywords: 拿约, NAIOTH
 comments: false
 ---

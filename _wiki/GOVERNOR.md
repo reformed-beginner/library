@@ -2,7 +2,7 @@
 layout: wiki
 title: 省长，长官（GOVERNOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 省长，长官（GOVERNOR）
+description: 圣经新词典 - 省长，长官（GOVERNOR）
 keywords: 省长，长官, GOVERNOR
 comments: false
 ---

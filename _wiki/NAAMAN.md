@@ -2,7 +2,7 @@
 layout: wiki
 title: 乃幔，乃缦（NAAMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 乃幔，乃缦（NAAMAN）（来：na`@ma{n，“悦人”之意）
+description: 圣经新词典 - 乃幔，乃缦（NAAMAN）（来：na`@ma{n，“悦人”之意）
 keywords: 乃幔，乃缦, NAAMAN
 comments: false
 ---

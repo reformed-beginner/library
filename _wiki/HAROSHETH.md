@@ -2,7 +2,7 @@
 layout: wiki
 title: 夏罗设（HAROSHETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 夏罗设（HAROSHETH）
+description: 圣经新词典 - 夏罗设（HAROSHETH）
 keywords: 夏罗设, HAROSHETH
 comments: false
 ---

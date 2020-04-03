@@ -2,7 +2,7 @@
 layout: wiki
 title: 执事（DEACON）
 categories: NewBibleDictionary
-description: 圣经新词典: 执事（DEACON）
+description: 圣经新词典 - 执事（DEACON）
 keywords: 执事, DEACON
 comments: false
 ---

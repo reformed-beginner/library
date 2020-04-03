@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚得米勒（ADRAMMELECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚得米勒（ADRAMMELECH）
+description: 圣经新词典 - 亚得米勒（ADRAMMELECH）
 keywords: 亚得米勒, ADRAMMELECH
 comments: false
 ---

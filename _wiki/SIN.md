@@ -2,7 +2,7 @@
 layout: wiki
 title: 汛（SIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 汛（SIN）
+description: 圣经新词典 - 汛（SIN）
 keywords: 汛, SIN
 comments: false
 ---

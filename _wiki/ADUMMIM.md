@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚都冥（ADUMMIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚都冥（ADUMMIM）
+description: 圣经新词典 - 亚都冥（ADUMMIM）
 keywords: 亚都冥, ADUMMIM
 comments: false
 ---

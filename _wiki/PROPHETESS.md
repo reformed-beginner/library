@@ -2,7 +2,7 @@
 layout: wiki
 title: 女先知（PROPHETESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 女先知（PROPHETESS）（来：n#b[i^~a^；腊：prophe{tis）
+description: 圣经新词典 - 女先知（PROPHETESS）（来：n#b[i^~a^；腊：prophe{tis）
 keywords: 女先知, PROPHETESS
 comments: false
 ---

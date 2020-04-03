@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼布甲尼撒（NEBUCHADREZZAR, NEBUCHADNEZZAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼布甲尼撒（NEBUCHADREZZAR, NEBUCHADNEZZAR）
+description: 圣经新词典 - 尼布甲尼撒（NEBUCHADREZZAR, NEBUCHADNEZZAR）
 keywords: 尼布甲尼撒, NEBUCHADREZZAR, NEBUCHADNEZZAR
 comments: false
 ---

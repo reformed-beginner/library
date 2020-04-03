@@ -2,7 +2,7 @@
 layout: wiki
 title: 西乃山（SINAI, MOUNT）
 categories: NewBibleDictionary
-description: 圣经新词典: 西乃山（SINAI, MOUNT）
+description: 圣经新词典 - 西乃山（SINAI, MOUNT）
 keywords: 西乃山, SINAI, MOUNT
 comments: false
 ---

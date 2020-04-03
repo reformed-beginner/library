@@ -2,7 +2,7 @@
 layout: wiki
 title: 天，天堂（HEAVEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 天，天堂（HEAVEN）
+description: 圣经新词典 - 天，天堂（HEAVEN）
 keywords: 天，天堂, HEAVEN
 comments: false
 ---

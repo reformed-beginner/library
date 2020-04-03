@@ -2,7 +2,7 @@
 layout: wiki
 title: 恶，灾祸，祸（EVIL）
 categories: NewBibleDictionary
-description: 圣经新词典: 恶，灾祸，祸（EVIL）（来：ra``, 腊：kakos, pone{ros, phaulos）
+description: 圣经新词典 - 恶，灾祸，祸（EVIL）（来：ra``, 腊：kakos, pone{ros, phaulos）
 keywords: 恶，灾祸，祸, EVIL
 comments: false
 ---

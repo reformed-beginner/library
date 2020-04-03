@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚伦（AARON）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚伦（AARON）（来：~ah@ro^n）
+description: 圣经新词典 - 亚伦（AARON）（来：~ah@ro^n）
 keywords: 亚伦, AARON
 comments: false
 ---

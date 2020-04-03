@@ -2,7 +2,7 @@
 layout: wiki
 title: 答比匿（TAHPENES）
 categories: NewBibleDictionary
-description: 圣经新词典: 答比匿（TAHPENES）
+description: 圣经新词典 - 答比匿（TAHPENES）
 keywords: 答比匿, TAHPENES
 comments: false
 ---

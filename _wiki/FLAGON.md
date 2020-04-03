@@ -2,7 +2,7 @@
 layout: wiki
 title: 酒瓶（FLAGON）
 categories: NewBibleDictionary
-description: 圣经新词典: 酒瓶（FLAGON）
+description: 圣经新词典 - 酒瓶（FLAGON）
 keywords: 酒瓶, FLAGON
 comments: false
 ---

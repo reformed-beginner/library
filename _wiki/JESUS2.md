@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 耶稣基督的称号（JESUS CHRIST, TITLES OF¡^
+description: 圣经新词典 - 耶稣基督的称号（JESUS CHRIST, TITLES OF¡^
 keywords: , 
 comments: false
 ---

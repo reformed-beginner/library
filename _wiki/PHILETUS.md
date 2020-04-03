@@ -2,7 +2,7 @@
 layout: wiki
 title: 腓理徒（PHILETUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 腓理徒（PHILETUS）
+description: 圣经新词典 - 腓理徒（PHILETUS）
 keywords: 腓理徒, PHILETUS
 comments: false
 ---

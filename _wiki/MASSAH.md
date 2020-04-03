@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛撒（MASSAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛撒（MASSAH）
+description: 圣经新词典 - 玛撒（MASSAH）
 keywords: 玛撒, MASSAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 丝网（SILK）
 categories: NewBibleDictionary
-description: 圣经新词典: 丝网（SILK）
+description: 圣经新词典 - 丝网（SILK）
 keywords: 丝网, SILK
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 路求（LUCIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 路求（LUCIUS）
+description: 圣经新词典 - 路求（LUCIUS）
 keywords: 路求, LUCIUS
 comments: false
 ---

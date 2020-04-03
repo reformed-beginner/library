@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴力洗分（BAAL-ZEPHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴力洗分（BAAL-ZEPHON）
+description: 圣经新词典 - 巴力洗分（BAAL-ZEPHON）
 keywords: 巴力洗分, BAAL-ZEPHON
 comments: false
 ---

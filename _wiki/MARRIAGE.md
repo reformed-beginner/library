@@ -2,7 +2,7 @@
 layout: wiki
 title: 婚姻（MARRIAGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 婚姻（MARRIAGE）
+description: 圣经新词典 - 婚姻（MARRIAGE）
 keywords: 婚姻, MARRIAGE
 comments: false
 ---

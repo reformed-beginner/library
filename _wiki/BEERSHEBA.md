@@ -2,7 +2,7 @@
 layout: wiki
 title: 别是巴（BEERSHEBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 别是巴（BEERSHEBA）
+description: 圣经新词典 - 别是巴（BEERSHEBA）
 keywords: 别是巴, BEERSHEBA
 comments: false
 ---

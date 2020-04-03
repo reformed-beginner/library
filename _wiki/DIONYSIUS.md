@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚略巴古的丢尼修（DIONYSIUS THE AREOPAGITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚略巴古的丢尼修（DIONYSIUS THE AREOPAGITE）
+description: 圣经新词典 - 亚略巴古的丢尼修（DIONYSIUS THE AREOPAGITE）
 keywords: 亚略巴古的丢尼修, DIONYSIUS THE AREOPAGITE
 comments: false
 ---

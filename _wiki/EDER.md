@@ -2,7 +2,7 @@
 layout: wiki
 title: 以得（EDER, EDAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 以得（EDER, EDAR）（来：`e{d[er，“羊群”的意思）
+description: 圣经新词典 - 以得（EDER, EDAR）（来：`e{d[er，“羊群”的意思）
 keywords: 以得, EDER, EDAR
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 撰述人名单
+description: 圣经新词典 - 撰述人名单
 keywords: , 
 comments: false
 ---

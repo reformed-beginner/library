@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒该（ZACCHAEUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒该（ZACCHAEUS）
+description: 圣经新词典 - 撒该（ZACCHAEUS）
 keywords: 撒该, ZACCHAEUS
 comments: false
 ---

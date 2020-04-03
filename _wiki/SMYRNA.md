@@ -2,7 +2,7 @@
 layout: wiki
 title: 士每拿（SMYRNA）
 categories: NewBibleDictionary
-description: 圣经新词典: 士每拿（SMYRNA）
+description: 圣经新词典 - 士每拿（SMYRNA）
 keywords: 士每拿, SMYRNA
 comments: false
 ---

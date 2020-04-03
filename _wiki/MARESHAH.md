@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛利沙（MARESHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛利沙（MARESHAH）（来：ma{re~s%a^h）
+description: 圣经新词典 - 玛利沙（MARESHAH）（来：ma{re~s%a^h）
 keywords: 玛利沙, MARESHAH
 comments: false
 ---

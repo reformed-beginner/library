@@ -2,7 +2,7 @@
 layout: wiki
 title: 门徒（DISCIPLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 门徒（DISCIPLE）
+description: 圣经新词典 - 门徒（DISCIPLE）
 keywords: 门徒, DISCIPLE
 comments: false
 ---

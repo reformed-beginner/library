@@ -2,7 +2,7 @@
 layout: wiki
 title: 何弗尼及非尼哈（HOPHNI AND PHINEHAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 何弗尼及非尼哈（HOPHNI AND PHINEHAS）
+description: 圣经新词典 - 何弗尼及非尼哈（HOPHNI AND PHINEHAS）
 keywords: 何弗尼及非尼哈, HOPHNI AND PHINEHAS
 comments: false
 ---

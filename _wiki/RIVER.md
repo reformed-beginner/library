@@ -2,7 +2,7 @@
 layout: wiki
 title: 河流（RIVER）
 categories: NewBibleDictionary
-description: 圣经新词典: 河流（RIVER）
+description: 圣经新词典 - 河流（RIVER）
 keywords: 河流, RIVER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛吉（MACHIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛吉（MACHIR）（来：ma{k[i^r）
+description: 圣经新词典 - 玛吉（MACHIR）（来：ma{k[i^r）
 keywords: 玛吉, MACHIR
 comments: false
 ---

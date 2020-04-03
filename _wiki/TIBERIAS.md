@@ -2,7 +2,7 @@
 layout: wiki
 title: 提比哩亚（TIBERIAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 提比哩亚（TIBERIAS）
+description: 圣经新词典 - 提比哩亚（TIBERIAS）
 keywords: 提比哩亚, TIBERIAS
 comments: false
 ---

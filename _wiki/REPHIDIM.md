@@ -2,7 +2,7 @@
 layout: wiki
 title: 利非订（REPHIDIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 利非订（REPHIDIM）
+description: 圣经新词典 - 利非订（REPHIDIM）
 keywords: 利非订, REPHIDIM
 comments: false
 ---

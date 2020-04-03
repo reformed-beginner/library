@@ -2,7 +2,7 @@
 layout: wiki
 title: 五旬节（PENTECOST, FEAST OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 五旬节（PENTECOST, FEAST OF）
+description: 圣经新词典 - 五旬节（PENTECOST, FEAST OF）
 keywords: 五旬节, PENTECOST, FEAST OF
 comments: false
 ---

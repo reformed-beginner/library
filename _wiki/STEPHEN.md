@@ -2,7 +2,7 @@
 layout: wiki
 title: 司提反（STEPHEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 司提反（STEPHEN）（腊：stephanos，“冠冕”之意）
+description: 圣经新词典 - 司提反（STEPHEN）（腊：stephanos，“冠冕”之意）
 keywords: 司提反, STEPHEN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亭拿，亭纳（TIMNAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亭拿，亭纳（TIMNAH）（来；timna^h）
+description: 圣经新词典 - 亭拿，亭纳（TIMNAH）（来；timna^h）
 keywords: 亭拿，亭纳, TIMNAH
 comments: false
 ---

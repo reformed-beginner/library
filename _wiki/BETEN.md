@@ -2,7 +2,7 @@
 layout: wiki
 title: 比田（BETEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 比田（BETEN）
+description: 圣经新词典 - 比田（BETEN）
 keywords: 比田, BETEN
 comments: false
 ---

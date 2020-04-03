@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒挪亚（ZANOAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒挪亚（ZANOAH）（来：za{no^ah]）
+description: 圣经新词典 - 撒挪亚（ZANOAH）（来：za{no^ah]）
 keywords: 撒挪亚, ZANOAH
 comments: false
 ---

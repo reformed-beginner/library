@@ -2,7 +2,7 @@
 layout: wiki
 title: 杜拉（DURA）
 categories: NewBibleDictionary
-description: 圣经新词典: 杜拉（DURA）（亚兰文：Du^ra{~，七十士译本：Deeira）
+description: 圣经新词典 - 杜拉（DURA）（亚兰文：Du^ra{~，七十士译本：Deeira）
 keywords: 杜拉, DURA
 comments: false
 ---

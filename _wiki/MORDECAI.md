@@ -2,7 +2,7 @@
 layout: wiki
 title: 末底改（MORDECAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 末底改（MORDECAI）（来：mord#k[ay；mord$k[ay；拉二2）
+description: 圣经新词典 - 末底改（MORDECAI）（来：mord#k[ay；mord$k[ay；拉二2）
 keywords: 末底改, MORDECAI
 comments: false
 ---

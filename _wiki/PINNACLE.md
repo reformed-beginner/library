@@ -2,7 +2,7 @@
 layout: wiki
 title: 顶翅（PINNACLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 顶翅（PINNACLE）（腊：pterygion，“小翅”；Vulg: pinnaculum; NEB：“最高的突出物”）
+description: 圣经新词典 - 顶翅（PINNACLE）（腊：pterygion，“小翅”；Vulg: pinnaculum; NEB：“最高的突出物”）
 keywords: 顶翅, PINNACLE
 comments: false
 ---

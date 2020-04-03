@@ -2,7 +2,7 @@
 layout: wiki
 title: 约撒甲（JOZACHAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 约撒甲（JOZACHAR）（来：Yo^za{k[a{r，“耶和华已记念”）
+description: 圣经新词典 - 约撒甲（JOZACHAR）（来：Yo^za{k[a{r，“耶和华已记念”）
 keywords: 约撒甲, JOZACHAR
 comments: false
 ---

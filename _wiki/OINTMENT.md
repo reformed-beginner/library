@@ -2,7 +2,7 @@
 layout: wiki
 title: 膏（OINTMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 膏（OINTMENT）（来：mirqah]at[, s%emen；腊：myron）
+description: 圣经新词典 - 膏（OINTMENT）（来：mirqah]at[, s%emen；腊：myron）
 keywords: 膏, OINTMENT
 comments: false
 ---

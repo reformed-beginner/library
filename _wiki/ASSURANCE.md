@@ -2,7 +2,7 @@
 layout: wiki
 title: 可信的凭据，充足的信心（ASSURANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 可信的凭据，充足的信心（ASSURANCE）
+description: 圣经新词典 - 可信的凭据，充足的信心（ASSURANCE）
 keywords: 可信的凭据，充足的信心, ASSURANCE
 comments: false
 ---

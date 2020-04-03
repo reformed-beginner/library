@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比兰（ABIRAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比兰（ABIRAM）（来：~@b[I^ra{m，“我父是崇高的”）
+description: 圣经新词典 - 亚比兰（ABIRAM）（来：~@b[I^ra{m，“我父是崇高的”）
 keywords: 亚比兰, ABIRAM
 comments: false
 ---

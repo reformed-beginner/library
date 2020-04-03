@@ -2,7 +2,7 @@
 layout: wiki
 title: 硝石（NITRE）
 categories: NewBibleDictionary
-description: 圣经新词典: 硝石（NITRE）（来：net[er）
+description: 圣经新词典 - 硝石（NITRE）（来：net[er）
 keywords: 硝石, NITRE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 王的大道（KING'S HIGHWAY）
 categories: NewBibleDictionary
-description: 圣经新词典: 王的大道（KING'S HIGHWAY）
+description: 圣经新词典 - 王的大道（KING'S HIGHWAY）
 keywords: 王的大道, KING'S HIGHWAY
 comments: false
 ---

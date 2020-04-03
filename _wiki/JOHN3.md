@@ -2,7 +2,7 @@
 layout: wiki
 title: 约翰福音（JOHN, GOSPEL OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 约翰福音（JOHN, GOSPEL OF）
+description: 圣经新词典 - 约翰福音（JOHN, GOSPEL OF）
 keywords: 约翰福音, JOHN, GOSPEL OF
 comments: false
 ---

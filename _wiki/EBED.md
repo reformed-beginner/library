@@ -2,7 +2,7 @@
 layout: wiki
 title: 以伯米勒（EBED-MELECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以伯米勒（EBED-MELECH）(来：eb[ed-melek[，一个常见的名字，意即“王的仆人”）
+description: 圣经新词典 - 以伯米勒（EBED-MELECH）(来：eb[ed-melek[，一个常见的名字，意即“王的仆人”）
 keywords: 以伯米勒, EBED-MELECH
 comments: false
 ---

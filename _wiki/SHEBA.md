@@ -2,7 +2,7 @@
 layout: wiki
 title: 示巴（SHEBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 示巴（SHEBA）
+description: 圣经新词典 - 示巴（SHEBA）
 keywords: 示巴, SHEBA
 comments: false
 ---

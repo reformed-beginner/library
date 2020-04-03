@@ -2,7 +2,7 @@
 layout: wiki
 title: 邻舍（NEIGHBOUR）
 categories: NewBibleDictionary
-description: 圣经新词典: 邻舍（NEIGHBOUR）
+description: 圣经新词典 - 邻舍（NEIGHBOUR）
 keywords: 邻舍, NEIGHBOUR
 comments: false
 ---

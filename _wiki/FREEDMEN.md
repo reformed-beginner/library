@@ -2,7 +2,7 @@
 layout: wiki
 title: 自由人（利百地拿）
 categories: NewBibleDictionary
-description: 圣经新词典: 自由人（利百地拿）会堂（FREEDMEN, SYNAGOGUE OF THE）（AV 作“利百定人”的会堂）
+description: 圣经新词典 - 自由人（利百地拿）会堂（FREEDMEN, SYNAGOGUE OF THE）（AV 作“利百定人”的会堂）
 keywords: 自由人, 利百地拿
 comments: false
 ---

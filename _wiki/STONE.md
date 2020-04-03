@@ -2,7 +2,7 @@
 layout: wiki
 title: 石头（STONE）
 categories: NewBibleDictionary
-description: 圣经新词典: 石头（STONE）
+description: 圣经新词典 - 石头（STONE）
 keywords: 石头, STONE
 comments: false
 ---

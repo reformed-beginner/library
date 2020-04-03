@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比利尼（ABILENE）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比利尼（ABILENE）
+description: 圣经新词典 - 亚比利尼（ABILENE）
 keywords: 亚比利尼, ABILENE
 comments: false
 ---

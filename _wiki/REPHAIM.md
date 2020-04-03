@@ -2,7 +2,7 @@
 layout: wiki
 title: 利乏音（REPHAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 利乏音（REPHAIM）（来：r#p{a{~i^m）
+description: 圣经新词典 - 利乏音（REPHAIM）（来：r#p{a{~i^m）
 keywords: 利乏音, REPHAIM
 comments: false
 ---

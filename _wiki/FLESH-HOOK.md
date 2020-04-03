@@ -2,7 +2,7 @@
 layout: wiki
 title: 肉锸子（FLESH-HOOK）
 categories: NewBibleDictionary
-description: 圣经新词典: 肉锸子（FLESH-HOOK）
+description: 圣经新词典 - 肉锸子（FLESH-HOOK）
 keywords: 肉锸子, FLESH-HOOK
 comments: false
 ---

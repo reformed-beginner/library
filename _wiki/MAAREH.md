@@ -2,7 +2,7 @@
 layout: wiki
 title: 马利迦巴（MAAREH-GEBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 马利迦巴（MAAREH-GEBA）（士廿33，RV；AV 译为“基比亚的草原”）
+description: 圣经新词典 - 马利迦巴（MAAREH-GEBA）（士廿33，RV；AV 译为“基比亚的草原”）
 keywords: 马利迦巴, MAAREH-GEBA
 comments: false
 ---

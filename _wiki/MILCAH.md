@@ -2,7 +2,7 @@
 layout: wiki
 title: 密迦（MILCAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 密迦（MILCAH）（来：milka^，“计谋、忠告”）
+description: 圣经新词典 - 密迦（MILCAH）（来：milka^，“计谋、忠告”）
 keywords: 密迦, MILCAH
 comments: false
 ---

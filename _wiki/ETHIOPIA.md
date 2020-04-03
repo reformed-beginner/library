@@ -2,7 +2,7 @@
 layout: wiki
 title: 埃提阿伯（ETHIOPIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 埃提阿伯（ETHIOPIA）
+description: 圣经新词典 - 埃提阿伯（ETHIOPIA）
 keywords: 埃提阿伯, ETHIOPIA
 comments: false
 ---

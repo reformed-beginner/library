@@ -2,7 +2,7 @@
 layout: wiki
 title: 索克特〔译注：吕译〕（SAKKUTH, SIKKUTH, SICCUTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 索克特〔译注：吕译〕（SAKKUTH, SIKKUTH, SICCUTH）
+description: 圣经新词典 - 索克特〔译注：吕译〕（SAKKUTH, SIKKUTH, SICCUTH）
 keywords: 索克特〔译注：吕译〕, SAKKUTH, SIKKUTH, SICCUTH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 所提尼（SOSTHENES）
 categories: NewBibleDictionary
-description: 圣经新词典: 所提尼（SOSTHENES）
+description: 圣经新词典 - 所提尼（SOSTHENES）
 keywords: 所提尼, SOSTHENES
 comments: false
 ---

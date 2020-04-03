@@ -2,7 +2,7 @@
 layout: wiki
 title: 三甲尼波（SAMGAR-NEBO）
 categories: NewBibleDictionary
-description: 圣经新词典: 三甲尼波（SAMGAR-NEBO）（来：sam-gar-n#b[o^；希腊文有很多不同写法，例如 Samagoth, Eissamagath
+description: 圣经新词典 - 三甲尼波（SAMGAR-NEBO）（来：sam-gar-n#b[o^；希腊文有很多不同写法，例如 Samagoth, Eissamagath
 等）
 keywords: 三甲尼波, SAMGAR-NEBO
 comments: false

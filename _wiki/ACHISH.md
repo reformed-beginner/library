@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚吉（ACHISH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚吉（ACHISH）
+description: 圣经新词典 - 亚吉（ACHISH）
 keywords: 亚吉, ACHISH
 comments: false
 ---

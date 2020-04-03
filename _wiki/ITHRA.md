@@ -2,7 +2,7 @@
 layout: wiki
 title: 以特拉（ITHRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 以特拉（ITHRA）（来：yit[ra{~，“丰富”）
+description: 圣经新词典 - 以特拉（ITHRA）（来：yit[ra{~，“丰富”）
 keywords: 以特拉, ITHRA
 comments: false
 ---

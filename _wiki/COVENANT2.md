@@ -2,7 +2,7 @@
 layout: wiki
 title: 约书（COVENANT, BOOK OF THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 约书（COVENANT, BOOK OF THE）
+description: 圣经新词典 - 约书（COVENANT, BOOK OF THE）
 keywords: 约书, COVENANT, BOOK OF THE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 约拿（JONAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 约拿（JONAH）
+description: 圣经新词典 - 约拿（JONAH）
 keywords: 约拿, JONAH
 comments: false
 ---

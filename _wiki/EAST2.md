@@ -2,7 +2,7 @@
 layout: wiki
 title: 东方人（EAST, CHILDREN OF THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 东方人（EAST, CHILDREN OF THE）（来：b#ne^-qed[em）
+description: 圣经新词典 - 东方人（EAST, CHILDREN OF THE）（来：b#ne^-qed[em）
 keywords: 东方人, EAST, CHILDREN OF THE
 comments: false
 ---

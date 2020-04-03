@@ -2,7 +2,7 @@
 layout: wiki
 title: 主的弟兄（BRETHREN OF THE LORD）
 categories: NewBibleDictionary
-description: 圣经新词典: 主的弟兄（BRETHREN OF THE LORD）
+description: 圣经新词典 - 主的弟兄（BRETHREN OF THE LORD）
 keywords: 主的弟兄, BRETHREN OF THE LORD
 comments: false
 ---

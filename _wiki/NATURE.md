@@ -2,7 +2,7 @@
 layout: wiki
 title: 自然（NATURE）
 categories: NewBibleDictionary
-description: 圣经新词典: 自然（NATURE）
+description: 圣经新词典 - 自然（NATURE）
 keywords: 自然, NATURE
 comments: false
 ---

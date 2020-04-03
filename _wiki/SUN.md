@@ -2,7 +2,7 @@
 layout: wiki
 title: 太阳，日头（SUN）
 categories: NewBibleDictionary
-description: 圣经新词典: 太阳，日头（SUN）（来：s%emes%；腊：he{lios）
+description: 圣经新词典 - 太阳，日头（SUN）（来：s%emes%；腊：he{lios）
 keywords: 太阳，日头, SUN
 comments: false
 ---

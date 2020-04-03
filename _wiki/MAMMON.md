@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛门（MAMMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛门（MAMMON）
+description: 圣经新词典 - 玛门（MAMMON）
 keywords: 玛门, MAMMON
 comments: false
 ---

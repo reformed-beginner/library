@@ -2,7 +2,7 @@
 layout: wiki
 title: 钥匙（KEY）
 categories: NewBibleDictionary
-description: 圣经新词典: 钥匙（KEY）（来：map{te{ah]，“开启具”；腊：kleis, “钥匙”）
+description: 圣经新词典 - 钥匙（KEY）（来：map{te{ah]，“开启具”；腊：kleis, “钥匙”）
 keywords: 钥匙, KEY
 comments: false
 ---

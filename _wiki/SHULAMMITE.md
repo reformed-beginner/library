@@ -2,7 +2,7 @@
 layout: wiki
 title: 书拉密（SHULAMMITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 书拉密（SHULAMMITE）
+description: 圣经新词典 - 书拉密（SHULAMMITE）
 keywords: 书拉密, SHULAMMITE
 comments: false
 ---

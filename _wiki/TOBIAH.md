@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　一坐由多比雅家族兴建的神殿的正面重构图
+description: 圣经新词典 - 图　一坐由多比雅家族兴建的神殿的正面重构图
 keywords: , 
 comments: false
 ---

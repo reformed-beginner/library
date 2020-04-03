@@ -2,7 +2,7 @@
 layout: wiki
 title: 波斯拉（BOZRAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 波斯拉（BOZRAH）
+description: 圣经新词典 - 波斯拉（BOZRAH）
 keywords: 波斯拉, BOZRAH
 comments: false
 ---

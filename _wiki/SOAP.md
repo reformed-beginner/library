@@ -2,7 +2,7 @@
 layout: wiki
 title: 碱，肥皂（SOAP）
 categories: NewBibleDictionary
-description: 圣经新词典: 碱，肥皂（SOAP）
+description: 圣经新词典 - 碱，肥皂（SOAP）
 keywords: 碱，肥皂, SOAP
 comments: false
 ---

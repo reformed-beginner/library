@@ -2,7 +2,7 @@
 layout: wiki
 title: 谷，山谷（VALE, VALLEY）
 categories: NewBibleDictionary
-description: 圣经新词典: 谷，山谷（VALE, VALLEY）
+description: 圣经新词典 - 谷，山谷（VALE, VALLEY）
 keywords: 谷，山谷, VALE, VALLEY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 逃城（CITIES OF REFUGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 逃城（CITIES OF REFUGE）
+description: 圣经新词典 - 逃城（CITIES OF REFUGE）
 keywords: 逃城, CITIES OF REFUGE
 comments: false
 ---

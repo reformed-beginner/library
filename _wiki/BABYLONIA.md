@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴比伦（BABYLONIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴比伦（BABYLONIA）
+description: 圣经新词典 - 巴比伦（BABYLONIA）
 keywords: 巴比伦, BABYLONIA
 comments: false
 ---

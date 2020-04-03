@@ -2,7 +2,7 @@
 layout: wiki
 title: 拜偶像（IDOLATRY）
 categories: NewBibleDictionary
-description: 圣经新词典: 拜偶像（IDOLATRY）
+description: 圣经新词典 - 拜偶像（IDOLATRY）
 keywords: 拜偶像, IDOLATRY
 comments: false
 ---

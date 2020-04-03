@@ -2,7 +2,7 @@
 layout: wiki
 title: 西流基（SELEUCIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 西流基（SELEUCIA）
+description: 圣经新词典 - 西流基（SELEUCIA）
 keywords: 西流基, SELEUCIA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 魂游象外（TRANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 魂游象外（TRANCE）
+description: 圣经新词典 - 魂游象外（TRANCE）
 keywords: 魂游象外, TRANCE
 comments: false
 ---

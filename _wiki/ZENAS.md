@@ -2,7 +2,7 @@
 layout: wiki
 title: 西纳（ZENAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 西纳（ZENAS）
+description: 圣经新词典 - 西纳（ZENAS）
 keywords: 西纳, ZENAS
 comments: false
 ---

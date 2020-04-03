@@ -2,7 +2,7 @@
 layout: wiki
 title: 荆棘冠冕（THORNS, CROWN OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 荆棘冠冕（THORNS, CROWN OF）
+description: 圣经新词典 - 荆棘冠冕（THORNS, CROWN OF）
 keywords: 荆棘冠冕, THORNS, CROWN OF
 comments: false
 ---

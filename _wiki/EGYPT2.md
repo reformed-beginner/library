@@ -2,7 +2,7 @@
 layout: wiki
 title: 埃及河（EGYPT, RIVER OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 埃及河（EGYPT, RIVER OF）
+description: 圣经新词典 - 埃及河（EGYPT, RIVER OF）
 keywords: 埃及河, EGYPT, RIVER OF
 comments: false
 ---

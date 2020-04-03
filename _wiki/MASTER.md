@@ -2,7 +2,7 @@
 layout: wiki
 title: 主，主人（MASTER）
 categories: NewBibleDictionary
-description: 圣经新词典: 主，主人（MASTER）
+description: 圣经新词典 - 主，主人（MASTER）
 keywords: 主，主人, MASTER
 comments: false
 ---

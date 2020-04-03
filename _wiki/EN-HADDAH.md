@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐哈大（EN-HADDAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐哈大（EN-HADDAH）
+description: 圣经新词典 - 隐哈大（EN-HADDAH）
 keywords: 隐哈大, EN-HADDAH
 comments: false
 ---

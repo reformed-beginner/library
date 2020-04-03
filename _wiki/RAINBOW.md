@@ -2,7 +2,7 @@
 layout: wiki
 title: 天虹（RAINBOW）
 categories: NewBibleDictionary
-description: 圣经新词典: 天虹（RAINBOW）
+description: 圣经新词典 - 天虹（RAINBOW）
 keywords: 天虹, RAINBOW
 comments: false
 ---

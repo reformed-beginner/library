@@ -2,7 +2,7 @@
 layout: wiki
 title: 约坦（JOTHAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 约坦（JOTHAM）（来：yo^t[a{m，意即“耶和华是完美的”）
+description: 圣经新词典 - 约坦（JOTHAM）（来：yo^t[a{m，意即“耶和华是完美的”）
 keywords: 约坦, JOTHAM
 comments: false
 ---

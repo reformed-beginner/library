@@ -2,7 +2,7 @@
 layout: wiki
 title: 安息年（SABBATICAL YEAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 安息年（SABBATICAL YEAR）
+description: 圣经新词典 - 安息年（SABBATICAL YEAR）
 keywords: 安息年, SABBATICAL YEAR
 comments: false
 ---

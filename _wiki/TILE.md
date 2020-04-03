@@ -2,7 +2,7 @@
 layout: wiki
 title: 砖；铺砖（TILE, TILING）
 categories: NewBibleDictionary
-description: 圣经新词典: 砖；铺砖（TILE, TILING）
+description: 圣经新词典 - 砖；铺砖（TILE, TILING）
 keywords: 砖；铺砖, TILE, TILING
 comments: false
 ---

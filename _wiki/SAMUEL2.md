@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒母耳记（SAMUEL, BOOKS OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒母耳记（SAMUEL, BOOKS OF）
+description: 圣经新词典 - 撒母耳记（SAMUEL, BOOKS OF）
 keywords: 撒母耳记, SAMUEL, BOOKS OF
 comments: false
 ---

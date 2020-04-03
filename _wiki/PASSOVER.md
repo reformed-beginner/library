@@ -2,7 +2,7 @@
 layout: wiki
 title: 逾越节（PASSOVER）
 categories: NewBibleDictionary
-description: 圣经新词典: 逾越节（PASSOVER）
+description: 圣经新词典 - 逾越节（PASSOVER）
 keywords: 逾越节, PASSOVER
 comments: false
 ---

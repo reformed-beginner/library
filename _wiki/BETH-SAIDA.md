@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯赛大（BETH-SAIDA）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯赛大（BETH-SAIDA）
+description: 圣经新词典 - 伯赛大（BETH-SAIDA）
 keywords: 伯赛大, BETH-SAIDA
 comments: false
 ---

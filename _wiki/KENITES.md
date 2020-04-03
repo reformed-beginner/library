@@ -2,7 +2,7 @@
 layout: wiki
 title: 基尼人（KENITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 基尼人（KENITES）
+description: 圣经新词典 - 基尼人（KENITES）
 keywords: 基尼人, KENITES
 comments: false
 ---

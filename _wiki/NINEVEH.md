@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼尼微（NINEVEH）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼尼微（NINEVEH）
+description: 圣经新词典 - 尼尼微（NINEVEH）
 keywords: 尼尼微, NINEVEH
 comments: false
 ---

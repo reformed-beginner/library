@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶施扪（旷野）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶施扪（旷野）（JESHIMON）（来：y#s%i^mo{n，“荒地”，“沙漠”）
+description: 圣经新词典 - 耶施扪（旷野）（JESHIMON）（来：y#s%i^mo{n，“荒地”，“沙漠”）
 keywords: 耶施扪, 旷野
 comments: false
 ---

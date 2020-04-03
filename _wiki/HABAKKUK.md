@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈巴谷书（HABAKKUK, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈巴谷书（HABAKKUK, BOOK OF）
+description: 圣经新词典 - 哈巴谷书（HABAKKUK, BOOK OF）
 keywords: 哈巴谷书, HABAKKUK, BOOK OF
 comments: false
 ---

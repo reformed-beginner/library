@@ -2,7 +2,7 @@
 layout: wiki
 title: 童女生子（VIRGIN BIRTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 童女生子（VIRGIN BIRTH）
+description: 圣经新词典 - 童女生子（VIRGIN BIRTH）
 keywords: 童女生子, VIRGIN BIRTH
 comments: false
 ---

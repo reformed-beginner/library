@@ -2,7 +2,7 @@
 layout: wiki
 title: 淤他（JUTTAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 淤他（JUTTAH）（来：yu^t]t]a^h）
+description: 圣经新词典 - 淤他（JUTTAH）（来：yu^t]t]a^h）
 keywords: 淤他, JUTTAH
 comments: false
 ---

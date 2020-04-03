@@ -2,7 +2,7 @@
 layout: wiki
 title: 寻的旷野（ZIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 寻的旷野（ZIN）（来：s]in）
+description: 圣经新词典 - 寻的旷野（ZIN）（来：s]in）
 keywords: 寻的旷野, ZIN
 comments: false
 ---

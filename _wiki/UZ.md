@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌斯（UZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌斯（UZ）
+description: 圣经新词典 - 乌斯（UZ）
 keywords: 乌斯, UZ
 comments: false
 ---

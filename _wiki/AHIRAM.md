@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚希兰（AHIRAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚希兰（AHIRAM）
+description: 圣经新词典 - 亚希兰（AHIRAM）
 keywords: 亚希兰, AHIRAM
 comments: false
 ---

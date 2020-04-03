@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚拿尼亚（ANANIAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚拿尼亚（ANANIAS）
+description: 圣经新词典 - 亚拿尼亚（ANANIAS）
 keywords: 亚拿尼亚, ANANIAS
 comments: false
 ---

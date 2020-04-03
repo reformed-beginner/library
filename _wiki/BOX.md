@@ -2,7 +2,7 @@
 layout: wiki
 title: 瓶，匣子（BOX）
 categories: NewBibleDictionary
-description: 圣经新词典: 瓶，匣子（BOX）
+description: 圣经新词典 - 瓶，匣子（BOX）
 keywords: 瓶，匣子, BOX
 comments: false
 ---

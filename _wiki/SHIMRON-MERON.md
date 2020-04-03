@@ -2,7 +2,7 @@
 layout: wiki
 title: 伸仑米仑（SHIMRON-MERON）
 categories: NewBibleDictionary
-description: 圣经新词典: 伸仑米仑（SHIMRON-MERON）
+description: 圣经新词典 - 伸仑米仑（SHIMRON-MERON）
 keywords: 伸仑米仑, SHIMRON-MERON
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 同性恋（HOMOSEXUALITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 同性恋（HOMOSEXUALITY）
+description: 圣经新词典 - 同性恋（HOMOSEXUALITY）
 keywords: 同性恋, HOMOSEXUALITY
 comments: false
 ---

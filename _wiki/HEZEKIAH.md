@@ -2,7 +2,7 @@
 layout: wiki
 title: 希西家（HEZEKIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 希西家（HEZEKIAH）（来：h]izqi^ya^ 或 h]izqi^ya{hu^，“耶和华是〔我的〕力量”）
+description: 圣经新词典 - 希西家（HEZEKIAH）（来：h]izqi^ya^ 或 h]izqi^ya{hu^，“耶和华是〔我的〕力量”）
 keywords: 希西家, HEZEKIAH
 comments: false
 ---

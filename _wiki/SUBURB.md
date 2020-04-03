@@ -2,7 +2,7 @@
 layout: wiki
 title: 郊野（SUBURB）
 categories: NewBibleDictionary
-description: 圣经新词典: 郊野（SUBURB）
+description: 圣经新词典 - 郊野（SUBURB）
 keywords: 郊野, SUBURB
 comments: false
 ---

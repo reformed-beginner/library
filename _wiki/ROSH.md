@@ -2,7 +2,7 @@
 layout: wiki
 title: 罗施，罗实（ROSH）
 categories: NewBibleDictionary
-description: 圣经新词典: 罗施，罗实（ROSH）
+description: 圣经新词典 - 罗施，罗实（ROSH）
 keywords: 罗施，罗实, ROSH
 comments: false
 ---

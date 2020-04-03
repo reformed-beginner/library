@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗波音，洗编（ZEBOIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗波音，洗编（ZEBOIM）
+description: 圣经新词典 - 洗波音，洗编（ZEBOIM）
 keywords: 洗波音，洗编, ZEBOIM
 comments: false
 ---

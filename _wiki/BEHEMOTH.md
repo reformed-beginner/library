@@ -2,7 +2,7 @@
 layout: wiki
 title: 兽，畜类，河马（BEHEMOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 兽，畜类，河马（BEHEMOTH）
+description: 圣经新词典 - 兽，畜类，河马（BEHEMOTH）
 keywords: 兽，畜类，河马, BEHEMOTH
 comments: false
 ---

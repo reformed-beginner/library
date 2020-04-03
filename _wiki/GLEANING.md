@@ -2,7 +2,7 @@
 layout: wiki
 title: 拾取（GLEANING）
 categories: NewBibleDictionary
-description: 圣经新词典: 拾取（GLEANING）
+description: 圣经新词典 - 拾取（GLEANING）
 keywords: 拾取, GLEANING
 comments: false
 ---

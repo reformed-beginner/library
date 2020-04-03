@@ -2,7 +2,7 @@
 layout: wiki
 title: 传道者，传福音的（EVANGELIST）
 categories: NewBibleDictionary
-description: 圣经新词典: 传道者，传福音的（EVANGELIST）
+description: 圣经新词典 - 传道者，传福音的（EVANGELIST）
 keywords: 传道者，传福音的, EVANGELIST
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈拉人（HARARITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈拉人（HARARITE）
+description: 圣经新词典 - 哈拉人（HARARITE）
 keywords: 哈拉人, HARARITE
 comments: false
 ---

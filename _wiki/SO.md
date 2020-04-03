@@ -2,7 +2,7 @@
 layout: wiki
 title: 梭（SO）
 categories: NewBibleDictionary
-description: 圣经新词典: 梭（SO）
+description: 圣经新词典 - 梭（SO）
 keywords: 梭, SO
 comments: false
 ---

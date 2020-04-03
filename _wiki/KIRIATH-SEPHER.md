@@ -2,7 +2,7 @@
 layout: wiki
 title: 基列西弗（KIRIATH-SEPHER）
 categories: NewBibleDictionary
-description: 圣经新词典: 基列西弗（KIRIATH-SEPHER）（来：qiryat[-se{p{er）
+description: 圣经新词典 - 基列西弗（KIRIATH-SEPHER）（来：qiryat[-se{p{er）
 keywords: 基列西弗, KIRIATH-SEPHER
 comments: false
 ---

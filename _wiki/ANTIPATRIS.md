@@ -2,7 +2,7 @@
 layout: wiki
 title: 安提帕提（ANTIPATRIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 安提帕提（ANTIPATRIS）
+description: 圣经新词典 - 安提帕提（ANTIPATRIS）
 keywords: 安提帕提, ANTIPATRIS
 comments: false
 ---

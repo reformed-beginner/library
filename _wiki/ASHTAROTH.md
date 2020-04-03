@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚斯他录（ASHTAROTH, ASHTORETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚斯他录（ASHTAROTH, ASHTORETH）
+description: 圣经新词典 - 亚斯他录（ASHTAROTH, ASHTORETH）
 keywords: 亚斯他录, ASHTAROTH, ASHTORETH
 comments: false
 ---

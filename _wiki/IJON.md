@@ -2,7 +2,7 @@
 layout: wiki
 title: 以云（IJON）
 categories: NewBibleDictionary
-description: 圣经新词典: 以云（IJON）
+description: 圣经新词典 - 以云（IJON）
 keywords: 以云, IJON
 comments: false
 ---

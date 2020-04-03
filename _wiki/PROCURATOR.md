@@ -2,7 +2,7 @@
 layout: wiki
 title: 巡抚，郡守（PROCURATOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 巡抚，郡守（PROCURATOR）
+description: 圣经新词典 - 巡抚，郡守（PROCURATOR）
 keywords: 巡抚，郡守, PROCURATOR
 comments: false
 ---

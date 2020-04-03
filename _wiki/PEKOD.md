@@ -2,7 +2,7 @@
 layout: wiki
 title: 比割（PEKOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 比割（PEKOD）
+description: 圣经新词典 - 比割（PEKOD）
 keywords: 比割, PEKOD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 舍伊拉（SHEERAH [RSV], SHERAH [AV]）
 categories: NewBibleDictionary
-description: 圣经新词典: 舍伊拉（SHEERAH [RSV], SHERAH [AV]）
+description: 圣经新词典 - 舍伊拉（SHEERAH [RSV], SHERAH [AV]）
 keywords: 舍伊拉, SHEERAH [RSV], SHERAH [AV]
 comments: false
 ---

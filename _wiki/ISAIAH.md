@@ -2,7 +2,7 @@
 layout: wiki
 title: 以赛亚（ISAIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以赛亚（ISAIAH）（来：y#s%a`ya{hu^，“耶和华是拯救”）
+description: 圣经新词典 - 以赛亚（ISAIAH）（来：y#s%a`ya{hu^，“耶和华是拯救”）
 keywords: 以赛亚, ISAIAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚利马太的约瑟（JOSEPH OF ARIMATHEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚利马太的约瑟（JOSEPH OF ARIMATHEA）
+description: 圣经新词典 - 亚利马太的约瑟（JOSEPH OF ARIMATHEA）
 keywords: 亚利马太的约瑟, JOSEPH OF ARIMATHEA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 割礼（CIRCUMCISION）
 categories: NewBibleDictionary
-description: 圣经新词典: 割礼（CIRCUMCISION）
+description: 圣经新词典 - 割礼（CIRCUMCISION）
 keywords: 割礼, CIRCUMCISION
 comments: false
 ---

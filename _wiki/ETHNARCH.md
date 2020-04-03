@@ -2,7 +2,7 @@
 layout: wiki
 title: 提督，藩王（ETHNARCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 提督，藩王（ETHNARCH）（腊：ethnarche{s，“省长官”，林后十一32，〔译注：和合本作“提督”〕）
+description: 圣经新词典 - 提督，藩王（ETHNARCH）（腊：ethnarche{s，“省长官”，林后十一32，〔译注：和合本作“提督”〕）
 keywords: 提督，藩王, ETHNARCH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基利提人（CHERETHITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 基利提人（CHERETHITES）（来：k#re{t[i^）
+description: 圣经新词典 - 基利提人（CHERETHITES）（来：k#re{t[i^）
 keywords: 基利提人, CHERETHITES
 comments: false
 ---

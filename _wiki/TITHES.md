@@ -2,7 +2,7 @@
 layout: wiki
 title: 什一奉献（TITHES）
 categories: NewBibleDictionary
-description: 圣经新词典: 什一奉献（TITHES）
+description: 圣经新词典 - 什一奉献（TITHES）
 keywords: 什一奉献, TITHES
 comments: false
 ---

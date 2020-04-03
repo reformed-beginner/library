@@ -2,7 +2,7 @@
 layout: wiki
 title: 菜蔬和香料（HERBS AND SPICES）
 categories: NewBibleDictionary
-description: 圣经新词典: 菜蔬和香料（HERBS AND SPICES）
+description: 圣经新词典 - 菜蔬和香料（HERBS AND SPICES）
 keywords: 菜蔬和香料, HERBS AND SPICES
 comments: false
 ---

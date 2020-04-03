@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒迦利亚书（ZECHARIAH, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒迦利亚书（ZECHARIAH, BOOK OF）
+description: 圣经新词典 - 撒迦利亚书（ZECHARIAH, BOOK OF）
 keywords: 撒迦利亚书, ZECHARIAH, BOOK OF
 comments: false
 ---

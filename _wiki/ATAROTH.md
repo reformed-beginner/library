@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚大录（ATAROTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚大录（ATAROTH）（来：`@ta{ro^t，直译“王冠”）
+description: 圣经新词典 - 亚大录（ATAROTH）（来：`@ta{ro^t，直译“王冠”）
 keywords: 亚大录, ATAROTH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 匪类，彼列（BELIAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 匪类，彼列（BELIAL）
+description: 圣经新词典 - 匪类，彼列（BELIAL）
 keywords: 匪类，彼列, BELIAL
 comments: false
 ---

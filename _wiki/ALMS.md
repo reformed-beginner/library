@@ -2,7 +2,7 @@
 layout: wiki
 title: 施舍，赒济（ALMS, ALMSGIVING）
 categories: NewBibleDictionary
-description: 圣经新词典: 施舍，赒济（ALMS, ALMSGIVING）
+description: 圣经新词典 - 施舍，赒济（ALMS, ALMSGIVING）
 keywords: 施舍，赒济, ALMS, ALMSGIVING
 comments: false
 ---

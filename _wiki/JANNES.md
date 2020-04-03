@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅尼和佯庇（JANNES AND JAMBRES）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅尼和佯庇（JANNES AND JAMBRES）
+description: 圣经新词典 - 雅尼和佯庇（JANNES AND JAMBRES）
 keywords: 雅尼和佯庇, JANNES AND JAMBRES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚挪（JANOAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚挪（JANOAH）（来：ya{no^ah]], ya{no^h]a^，“休息”）
+description: 圣经新词典 - 亚挪（JANOAH）（来：ya{no^ah]], ya{no^h]a^，“休息”）
 keywords: 亚挪, JANOAH
 comments: false
 ---

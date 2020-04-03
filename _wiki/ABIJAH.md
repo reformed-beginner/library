@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比雅，亚比亚（ABIJAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比雅，亚比亚（ABIJAH）（来：~@b[I^ya^，“我父为耶和华”，或“耶和华是父亲”）
+description: 圣经新词典 - 亚比雅，亚比亚（ABIJAH）（来：~@b[I^ya^，“我父为耶和华”，或“耶和华是父亲”）
 keywords: 亚比雅，亚比亚, ABIJAH
 comments: false
 ---

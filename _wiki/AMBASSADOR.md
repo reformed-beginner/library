@@ -2,7 +2,7 @@
 layout: wiki
 title: 使者，臣仆（AMBASSADOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 使者，臣仆（AMBASSADOR）（来：mal~a{k[，“使者”；lu^s]，“翻译员”；s]i^r，“去”）
+description: 圣经新词典 - 使者，臣仆（AMBASSADOR）（来：mal~a{k[，“使者”；lu^s]，“翻译员”；s]i^r，“去”）
 keywords: 使者，臣仆, AMBASSADOR
 comments: false
 ---

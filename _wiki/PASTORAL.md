@@ -2,7 +2,7 @@
 layout: wiki
 title: 教牧书信（PASTORAL EPISTLES）
 categories: NewBibleDictionary
-description: 圣经新词典: 教牧书信（PASTORAL EPISTLES）
+description: 圣经新词典 - 教牧书信（PASTORAL EPISTLES）
 keywords: 教牧书信, PASTORAL EPISTLES
 comments: false
 ---

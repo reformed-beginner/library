@@ -2,7 +2,7 @@
 layout: wiki
 title: 贡物（TRIBUTE）
 categories: NewBibleDictionary
-description: 圣经新词典: 贡物（TRIBUTE）
+description: 圣经新词典 - 贡物（TRIBUTE）
 keywords: 贡物, TRIBUTE
 comments: false
 ---

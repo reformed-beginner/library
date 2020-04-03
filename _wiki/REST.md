@@ -2,7 +2,7 @@
 layout: wiki
 title: 安息，平安（REST）
 categories: NewBibleDictionary
-description: 圣经新词典: 安息，平安（REST）
+description: 圣经新词典 - 安息，平安（REST）
 keywords: 安息，平安, REST
 comments: false
 ---

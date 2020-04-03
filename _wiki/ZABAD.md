@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒拔（ZABAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒拔（ZABAD）
+description: 圣经新词典 - 撒拔（ZABAD）
 keywords: 撒拔, ZABAD
 comments: false
 ---

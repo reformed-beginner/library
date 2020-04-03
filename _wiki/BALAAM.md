@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴兰（BALAAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴兰（BALAAM）
+description: 圣经新词典 - 巴兰（BALAAM）
 keywords: 巴兰, BALAAM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 复活（RESURRECTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 复活（RESURRECTION）
+description: 圣经新词典 - 复活（RESURRECTION）
 keywords: 复活, RESURRECTION
 comments: false
 ---

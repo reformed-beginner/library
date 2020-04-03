@@ -2,7 +2,7 @@
 layout: wiki
 title: 安多尼古和犹尼亚（ANDRONICUS AND JUNIAS, JUNIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 安多尼古和犹尼亚（ANDRONICUS AND JUNIAS, JUNIA）
+description: 圣经新词典 - 安多尼古和犹尼亚（ANDRONICUS AND JUNIAS, JUNIA）
 keywords: 安多尼古和犹尼亚, ANDRONICUS AND JUNIAS, JUNIA
 comments: false
 ---

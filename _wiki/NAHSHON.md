@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿顺（NAHSHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿顺（NAHSHON）（来：nah]s%o^n，可能源自 na{h]a{s%，即“蛇”之意；腊：Naasso{n）
+description: 圣经新词典 - 拿顺（NAHSHON）（来：nah]s%o^n，可能源自 na{h]a{s%，即“蛇”之意；腊：Naasso{n）
 keywords: 拿顺, NAHSHON
 comments: false
 ---

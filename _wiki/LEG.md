@@ -2,7 +2,7 @@
 layout: wiki
 title: 腿（LEG）
 categories: NewBibleDictionary
-description: 圣经新词典: 腿（LEG）
+description: 圣经新词典 - 腿（LEG）
 keywords: 腿, LEG
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 斐罗（PHILO）
 categories: NewBibleDictionary
-description: 圣经新词典: 斐罗（PHILO）
+description: 圣经新词典 - 斐罗（PHILO）
 keywords: 斐罗, PHILO
 comments: false
 ---

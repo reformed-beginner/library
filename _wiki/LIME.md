@@ -2,7 +2,7 @@
 layout: wiki
 title: 石灰，石灰石（LIME, LIMESTONE）
 categories: NewBibleDictionary
-description: 圣经新词典: 石灰，石灰石（LIME, LIMESTONE）
+description: 圣经新词典 - 石灰，石灰石（LIME, LIMESTONE）
 keywords: 石灰，石灰石, LIME, LIMESTONE
 comments: false
 ---

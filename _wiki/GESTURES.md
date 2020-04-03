@@ -2,7 +2,7 @@
 layout: wiki
 title: 姿势（GESTURES）
 categories: NewBibleDictionary
-description: 圣经新词典: 姿势（GESTURES）
+description: 圣经新词典 - 姿势（GESTURES）
 keywords: 姿势, GESTURES
 comments: false
 ---

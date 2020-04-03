@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈楠业（HANANEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈楠业（HANANEL）
+description: 圣经新词典 - 哈楠业（HANANEL）
 keywords: 哈楠业, HANANEL
 comments: false
 ---

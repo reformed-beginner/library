@@ -2,7 +2,7 @@
 layout: wiki
 title: 以色列诸王的坟墓；大卫的坟墓（SEPULCHRE OF THE KINGS, SEPULCHRE OF DAVID）
 categories: NewBibleDictionary
-description: 圣经新词典: 以色列诸王的坟墓；大卫的坟墓（SEPULCHRE OF THE KINGS, SEPULCHRE OF DAVID）
+description: 圣经新词典 - 以色列诸王的坟墓；大卫的坟墓（SEPULCHRE OF THE KINGS, SEPULCHRE OF DAVID）
 keywords: 以色列诸王的坟墓；大卫的坟墓, SEPULCHRE OF THE KINGS, SEPULCHRE OF DAVID
 comments: false
 ---

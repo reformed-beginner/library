@@ -2,7 +2,7 @@
 layout: wiki
 title: 立拿（LIBNAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 立拿（LIBNAH）（来：lib[na^h）
+description: 圣经新词典 - 立拿（LIBNAH）（来：lib[na^h）
 keywords: 立拿, LIBNAH
 comments: false
 ---

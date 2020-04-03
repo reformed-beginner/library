@@ -2,7 +2,7 @@
 layout: wiki
 title: 路西非尔（撒但）
 categories: NewBibleDictionary
-description: 圣经新词典: 路西非尔（撒但）（LUCIFER）（拉丁文，意即“带光者”）
+description: 圣经新词典 - 路西非尔（撒但）（LUCIFER）（拉丁文，意即“带光者”）
 keywords: 路西非尔, 撒但
 comments: false
 ---

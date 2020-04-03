@@ -2,7 +2,7 @@
 layout: wiki
 title: 童女，女子（VIRGIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 童女，女子（VIRGIN）
+description: 圣经新词典 - 童女，女子（VIRGIN）
 keywords: 童女，女子, VIRGIN
 comments: false
 ---

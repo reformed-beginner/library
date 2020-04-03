@@ -2,7 +2,7 @@
 layout: wiki
 title: 挪亚（NOAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 挪亚（NOAH）
+description: 圣经新词典 - 挪亚（NOAH）
 keywords: 挪亚, NOAH
 comments: false
 ---

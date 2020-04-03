@@ -2,7 +2,7 @@
 layout: wiki
 title: 启示录（REVELATION, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 启示录（REVELATION, BOOK OF）
+description: 圣经新词典 - 启示录（REVELATION, BOOK OF）
 keywords: 启示录, REVELATION, BOOK OF
 comments: false
 ---

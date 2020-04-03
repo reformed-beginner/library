@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴力免（BAAL-MEON）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴力免（BAAL-MEON）
+description: 圣经新词典 - 巴力免（BAAL-MEON）
 keywords: 巴力免, BAAL-MEON
 comments: false
 ---

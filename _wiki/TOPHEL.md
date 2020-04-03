@@ -2,7 +2,7 @@
 layout: wiki
 title: 陀弗（TOPHEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 陀弗（TOPHEL）
+description: 圣经新词典 - 陀弗（TOPHEL）
 keywords: 陀弗, TOPHEL
 comments: false
 ---

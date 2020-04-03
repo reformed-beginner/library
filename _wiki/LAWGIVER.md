@@ -2,7 +2,7 @@
 layout: wiki
 title: 立法者（LAWGIVER）
 categories: NewBibleDictionary
-description: 圣经新词典: 立法者（LAWGIVER）（来：m#h]o{qe{q; 腊：nomothete{s）
+description: 圣经新词典 - 立法者（LAWGIVER）（来：m#h]o{qe{q; 腊：nomothete{s）
 keywords: 立法者, LAWGIVER
 comments: false
 ---

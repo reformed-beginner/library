@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 化妆品和香料(COSMETICS AND PERFUMERY)
+description: 圣经新词典 - 化妆品和香料(COSMETICS AND PERFUMERY)
 keywords: , 
 comments: false
 ---

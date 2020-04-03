@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈兰（HARAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈兰（HARAN）（来：h]ar (r) an；亚甲文；h\arra{nu，意即“交叉路”；腊：charrhan，徒七4）
+description: 圣经新词典 - 哈兰（HARAN）（来：h]ar (r) an；亚甲文；h\arra{nu，意即“交叉路”；腊：charrhan，徒七4）
 keywords: 哈兰, HARAN
 comments: false
 ---

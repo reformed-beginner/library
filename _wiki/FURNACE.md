@@ -2,7 +2,7 @@
 layout: wiki
 title: 火窑，火炉（FURNACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 火窑，火炉（FURNACE）
+description: 圣经新词典 - 火窑，火炉（FURNACE）
 keywords: 火窑，火炉, FURNACE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 省份（PROVINCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 省份（PROVINCE）
+description: 圣经新词典 - 省份（PROVINCE）
 keywords: 省份, PROVINCE
 comments: false
 ---

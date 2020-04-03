@@ -2,7 +2,7 @@
 layout: wiki
 title: 希兰（HIRAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 希兰（HIRAM）
+description: 圣经新词典 - 希兰（HIRAM）
 keywords: 希兰, HIRAM
 comments: false
 ---

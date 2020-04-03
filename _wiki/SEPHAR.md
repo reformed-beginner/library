@@ -2,7 +2,7 @@
 layout: wiki
 title: 西发（SEPHAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 西发（SEPHAR）
+description: 圣经新词典 - 西发（SEPHAR）
 keywords: 西发, SEPHAR
 comments: false
 ---

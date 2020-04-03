@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦玛列（GAMALIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦玛列（GAMALIEL）（来：gamli^~e{l，“神的奖赏”；腊：Gamalie{l）
+description: 圣经新词典 - 迦玛列（GAMALIEL）（来：gamli^~e{l，“神的奖赏”；腊：Gamalie{l）
 keywords: 迦玛列, GAMALIEL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄陀聂（OTHNIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄陀聂（OTHNIEL）（来：`ot[ni^~e{l）
+description: 圣经新词典 - 俄陀聂（OTHNIEL）（来：`ot[ni^~e{l）
 keywords: 俄陀聂, OTHNIEL
 comments: false
 ---

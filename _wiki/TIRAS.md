@@ -2,7 +2,7 @@
 layout: wiki
 title: 提拉（TIRAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 提拉（TIRAS）（来：ti^ra{s）
+description: 圣经新词典 - 提拉（TIRAS）（来：ti^ra{s）
 keywords: 提拉, TIRAS
 comments: false
 ---

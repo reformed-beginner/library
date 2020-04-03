@@ -2,7 +2,7 @@
 layout: wiki
 title: 歌斐木（GOPHER WOOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 歌斐木（GOPHER WOOD）（来：`@s]e^-go{p{er），挪亚用来建方舟的木（创六14）
+description: 圣经新词典 - 歌斐木（GOPHER WOOD）（来：`@s]e^-go{p{er），挪亚用来建方舟的木（创六14）
 keywords: 歌斐木, GOPHER WOOD
 comments: false
 ---

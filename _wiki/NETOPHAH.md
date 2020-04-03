@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼陀法（NETOPHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼陀法（NETOPHAH）（“一点一滴”）
+description: 圣经新词典 - 尼陀法（NETOPHAH）（“一点一滴”）
 keywords: 尼陀法, NETOPHAH
 comments: false
 ---

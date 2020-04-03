@@ -2,7 +2,7 @@
 layout: wiki
 title: 授圣职礼，按立（ORDINATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 授圣职礼，按立（ORDINATION）
+description: 圣经新词典 - 授圣职礼，按立（ORDINATION）
 keywords: 授圣职礼，按立, ORDINATION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 燃料（FUEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 燃料（FUEL）
+description: 圣经新词典 - 燃料（FUEL）
 keywords: 燃料, FUEL
 comments: false
 ---

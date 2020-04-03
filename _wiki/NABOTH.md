@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿伯（NABOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿伯（NABOTH）
+description: 圣经新词典 - 拿伯（NABOTH）
 keywords: 拿伯, NABOTH
 comments: false
 ---

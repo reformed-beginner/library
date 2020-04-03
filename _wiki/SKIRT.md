@@ -2,7 +2,7 @@
 layout: wiki
 title: 衣襟（SKIRT）
 categories: NewBibleDictionary
-description: 圣经新词典: 衣襟（SKIRT）
+description: 圣经新词典 - 衣襟（SKIRT）
 keywords: 衣襟, SKIRT
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 诡计（SLEIGHT）
 categories: NewBibleDictionary
-description: 圣经新词典: 诡计（SLEIGHT）
+description: 圣经新词典 - 诡计（SLEIGHT）
 keywords: 诡计, SLEIGHT
 comments: false
 ---

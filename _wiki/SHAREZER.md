@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙利色（SHAREZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙利色（SHAREZER）
+description: 圣经新词典 - 沙利色（SHAREZER）
 keywords: 沙利色, SHAREZER
 comments: false
 ---

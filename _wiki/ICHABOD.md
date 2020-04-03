@@ -2,7 +2,7 @@
 layout: wiki
 title: 以迦博（ICHABOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 以迦博（ICHABOD）（来：~i^k[a{b[o^d[）
+description: 圣经新词典 - 以迦博（ICHABOD）（来：~i^k[a{b[o^d[）
 keywords: 以迦博, ICHABOD
 comments: false
 ---

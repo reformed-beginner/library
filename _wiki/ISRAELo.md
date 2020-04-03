@@ -2,7 +2,7 @@
 layout: wiki
 title: 神的以色列（ISRAEL OF GOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 神的以色列（ISRAEL OF GOD）
+description: 圣经新词典 - 神的以色列（ISRAEL OF GOD）
 keywords: 神的以色列, ISRAEL OF GOD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基阿（CHIOS）
 categories: NewBibleDictionary
-description: 圣经新词典: 基阿（CHIOS）
+description: 圣经新词典 - 基阿（CHIOS）
 keywords: 基阿, CHIOS
 comments: false
 ---

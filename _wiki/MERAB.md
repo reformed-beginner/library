@@ -2,7 +2,7 @@
 layout: wiki
 title: 米拉（MERAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 米拉（MERAB）
+description: 圣经新词典 - 米拉（MERAB）
 keywords: 米拉, MERAB
 comments: false
 ---

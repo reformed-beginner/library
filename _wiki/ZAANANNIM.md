@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒拿音（ZAANANNIM, ZAANAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒拿音（ZAANANNIM, ZAANAIM）（来：s]a`@nanni^m）
+description: 圣经新词典 - 撒拿音（ZAANANNIM, ZAANAIM）（来：s]a`@nanni^m）
 keywords: 撒拿音, ZAANANNIM, ZAANAIM
 comments: false
 ---

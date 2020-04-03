@@ -2,7 +2,7 @@
 layout: wiki
 title: 弗吕家（PHRYGIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 弗吕家（PHRYGIA）
+description: 圣经新词典 - 弗吕家（PHRYGIA）
 keywords: 弗吕家, PHRYGIA
 comments: false
 ---

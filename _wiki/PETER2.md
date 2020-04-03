@@ -2,7 +2,7 @@
 layout: wiki
 title: 彼得后书（PETER, SECOND EPISTLE OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 彼得后书（PETER, SECOND EPISTLE OF）
+description: 圣经新词典 - 彼得后书（PETER, SECOND EPISTLE OF）
 keywords: 彼得后书, PETER, SECOND EPISTLE OF
 comments: false
 ---

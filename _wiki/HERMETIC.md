@@ -2,7 +2,7 @@
 layout: wiki
 title: 希耳米文学作品（HERMETIC LITERATURE）
 categories: NewBibleDictionary
-description: 圣经新词典: 希耳米文学作品（HERMETIC LITERATURE）
+description: 圣经新词典 - 希耳米文学作品（HERMETIC LITERATURE）
 keywords: 希耳米文学作品, HERMETIC LITERATURE
 comments: false
 ---

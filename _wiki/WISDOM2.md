@@ -2,7 +2,7 @@
 layout: wiki
 title: 智慧文学（WISDOM LITERATURE）
 categories: NewBibleDictionary
-description: 圣经新词典: 智慧文学（WISDOM LITERATURE）
+description: 圣经新词典 - 智慧文学（WISDOM LITERATURE）
 keywords: 智慧文学, WISDOM LITERATURE
 comments: false
 ---

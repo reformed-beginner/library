@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚舍拉（ASHERAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚舍拉（ASHERAH）
+description: 圣经新词典 - 亚舍拉（ASHERAH）
 keywords: 亚舍拉, ASHERAH
 comments: false
 ---

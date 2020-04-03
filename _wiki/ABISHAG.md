@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比煞（ABISHAG）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比煞（ABISHAG）（来：~@b[I^s%ag{，可能是“父亲飘流”之意）
+description: 圣经新词典 - 亚比煞（ABISHAG）（来：~@b[I^s%ag{，可能是“父亲飘流”之意）
 keywords: 亚比煞, ABISHAG
 comments: false
 ---

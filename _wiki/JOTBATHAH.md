@@ -2,7 +2,7 @@
 layout: wiki
 title: 约巴他（JOTBATHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 约巴他（JOTBATHAH）
+description: 圣经新词典 - 约巴他（JOTBATHAH）
 keywords: 约巴他, JOTBATHAH
 comments: false
 ---

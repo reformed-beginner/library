@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯沙撒（BELSHAZZAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯沙撒（BELSHAZZAR）
+description: 圣经新词典 - 伯沙撒（BELSHAZZAR）
 keywords: 伯沙撒, BELSHAZZAR
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 比伦人（PELONITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 比伦人（PELONITE）
+description: 圣经新词典 - 比伦人（PELONITE）
 keywords: 比伦人, PELONITE
 comments: false
 ---

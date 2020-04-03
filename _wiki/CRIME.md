@@ -2,7 +2,7 @@
 layout: wiki
 title: 罪行与惩罚（CRIME AND PUNISHMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 罪行与惩罚（CRIME AND PUNISHMENT）
+description: 圣经新词典 - 罪行与惩罚（CRIME AND PUNISHMENT）
 keywords: 罪行与惩罚, CRIME AND PUNISHMENT
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯宁拉（BETH-NIMRAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯宁拉（BETH-NIMRAH）
+description: 圣经新词典 - 伯宁拉（BETH-NIMRAH）
 keywords: 伯宁拉, BETH-NIMRAH
 comments: false
 ---

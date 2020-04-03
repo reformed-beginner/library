@@ -2,7 +2,7 @@
 layout: wiki
 title: 称，叫，呼召（CALL, CALLING）
 categories: NewBibleDictionary
-description: 圣经新词典: 称，叫，呼召（CALL, CALLING）
+description: 圣经新词典 - 称，叫，呼召（CALL, CALLING）
 keywords: 称，叫，呼召, CALL, CALLING
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 羞耻，惭愧，廉耻（SHAME）
 categories: NewBibleDictionary
-description: 圣经新词典: 羞耻，惭愧，廉耻（SHAME）
+description: 圣经新词典 - 羞耻，惭愧，廉耻（SHAME）
 keywords: 羞耻，惭愧，廉耻, SHAME
 comments: false
 ---

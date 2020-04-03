@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦基米施（CARCHEMISH）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦基米施（CARCHEMISH）
+description: 圣经新词典 - 迦基米施（CARCHEMISH）
 keywords: 迦基米施, CARCHEMISH
 comments: false
 ---

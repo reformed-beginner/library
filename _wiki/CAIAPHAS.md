@@ -2,7 +2,7 @@
 layout: wiki
 title: 该亚法（CAIAPHAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 该亚法（CAIAPHAS）
+description: 圣经新词典 - 该亚法（CAIAPHAS）
 keywords: 该亚法, CAIAPHAS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 雷（THUNDER）
 categories: NewBibleDictionary
-description: 圣经新词典: 雷（THUNDER）
+description: 圣经新词典 - 雷（THUNDER）
 keywords: 雷, THUNDER
 comments: false
 ---

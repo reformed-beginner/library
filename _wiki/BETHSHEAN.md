@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯善，伯珊（BETHSHEAN, BETHSHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯善，伯珊（BETHSHEAN, BETHSHAN）
+description: 圣经新词典 - 伯善，伯珊（BETHSHEAN, BETHSHAN）
 keywords: 伯善，伯珊, BETHSHEAN, BETHSHAN
 comments: false
 ---

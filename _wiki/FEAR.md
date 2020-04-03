@@ -2,7 +2,7 @@
 layout: wiki
 title: 害怕，惧怕，敬畏（FEAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 害怕，惧怕，敬畏（FEAR）
+description: 圣经新词典 - 害怕，惧怕，敬畏（FEAR）
 keywords: 害怕，惧怕，敬畏, FEAR
 comments: false
 ---

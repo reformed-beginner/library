@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚大（ADAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚大（ADAH）（来：`a{d[a^，意思不确定）
+description: 圣经新词典 - 亚大（ADAH）（来：`a{d[a^，意思不确定）
 keywords: 亚大, ADAH
 comments: false
 ---

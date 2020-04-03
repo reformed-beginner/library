@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊甸园（EDEN, GARDEN OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊甸园（EDEN, GARDEN OF）
+description: 圣经新词典 - 伊甸园（EDEN, GARDEN OF）
 keywords: 伊甸园, EDEN, GARDEN OF
 comments: false
 ---

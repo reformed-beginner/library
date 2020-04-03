@@ -2,7 +2,7 @@
 layout: wiki
 title: 毗努伊勒（PENUEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 毗努伊勒（PENUEL）
+description: 圣经新词典 - 毗努伊勒（PENUEL）
 keywords: 毗努伊勒, PENUEL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基利绿（GELILOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基利绿（GELILOTH）
+description: 圣经新词典 - 基利绿（GELILOTH）
 keywords: 基利绿, GELILOTH
 comments: false
 ---

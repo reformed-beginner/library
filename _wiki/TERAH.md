@@ -2,7 +2,7 @@
 layout: wiki
 title: 他拉（TERAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 他拉（TERAH）
+description: 圣经新词典 - 他拉（TERAH）
 keywords: 他拉, TERAH
 comments: false
 ---

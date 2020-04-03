@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚实基伦（ASHKELON）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚实基伦（ASHKELON）
+description: 圣经新词典 - 亚实基伦（ASHKELON）
 keywords: 亚实基伦, ASHKELON
 comments: false
 ---

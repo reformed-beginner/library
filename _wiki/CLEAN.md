@@ -2,7 +2,7 @@
 layout: wiki
 title: 洁净与不洁净（CLEAN AND UNCLEAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 洁净与不洁净（CLEAN AND UNCLEAN）
+description: 圣经新词典 - 洁净与不洁净（CLEAN AND UNCLEAN）
 keywords: 洁净与不洁净, CLEAN AND UNCLEAN
 comments: false
 ---

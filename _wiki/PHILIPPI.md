@@ -2,7 +2,7 @@
 layout: wiki
 title: 腓立比（PHILIPPI）
 categories: NewBibleDictionary
-description: 圣经新词典: 腓立比（PHILIPPI）
+description: 圣经新词典 - 腓立比（PHILIPPI）
 keywords: 腓立比, PHILIPPI
 comments: false
 ---

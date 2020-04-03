@@ -2,7 +2,7 @@
 layout: wiki
 title: 约但（JORDAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 约但（JORDAN）
+description: 圣经新词典 - 约但（JORDAN）
 keywords: 约但, JORDAN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈拿尼雅（HANANIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈拿尼雅（HANANIAH）（来：“耶和华施仁慈”）
+description: 圣经新词典 - 哈拿尼雅（HANANIAH）（来：“耶和华施仁慈”）
 keywords: 哈拿尼雅, HANANIAH
 comments: false
 ---

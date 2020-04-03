@@ -2,7 +2,7 @@
 layout: wiki
 title: 户筛（HUSHAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 户筛（HUSHAI）
+description: 圣经新词典 - 户筛（HUSHAI）
 keywords: 户筛, HUSHAI
 comments: false
 ---

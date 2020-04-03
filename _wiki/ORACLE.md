@@ -2,7 +2,7 @@
 layout: wiki
 title: 神的圣言，神谕，训词（ORACLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 神的圣言，神谕，训词（ORACLE）
+description: 圣经新词典 - 神的圣言，神谕，训词（ORACLE）
 keywords: 神的圣言，神谕，训词, ORACLE
 comments: false
 ---

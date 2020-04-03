@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼波（NEBO）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼波（NEBO）（来：n#b[o^）
+description: 圣经新词典 - 尼波（NEBO）（来：n#b[o^）
 keywords: 尼波, NEBO
 comments: false
 ---

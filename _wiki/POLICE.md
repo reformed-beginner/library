@@ -2,7 +2,7 @@
 layout: wiki
 title: 差役，警察（POLICE）
 categories: NewBibleDictionary
-description: 圣经新词典: 差役，警察（POLICE）
+description: 圣经新词典 - 差役，警察（POLICE）
 keywords: 差役，警察, POLICE
 comments: false
 ---

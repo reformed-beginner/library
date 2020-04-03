@@ -2,7 +2,7 @@
 layout: wiki
 title: 押撒（ACHSAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 押撒（ACHSAH）（来：`ak[sa^，“脚镯”）
+description: 圣经新词典 - 押撒（ACHSAH）（来：`ak[sa^，“脚镯”）
 keywords: 押撒, ACHSAH
 comments: false
 ---

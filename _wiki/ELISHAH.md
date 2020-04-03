@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利沙（ELISHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利沙（ELISHAH）
+description: 圣经新词典 - 以利沙（ELISHAH）
 keywords: 以利沙, ELISHAH
 comments: false
 ---

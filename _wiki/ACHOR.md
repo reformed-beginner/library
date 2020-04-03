@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚割谷（ACHOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚割谷（ACHOR）（来：`a{k[o^r）
+description: 圣经新词典 - 亚割谷（ACHOR）（来：`a{k[o^r）
 keywords: 亚割谷, ACHOR
 comments: false
 ---

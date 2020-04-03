@@ -2,7 +2,7 @@
 layout: wiki
 title: 伪经（PSEUDEPIGRAPHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 伪经（PSEUDEPIGRAPHA）
+description: 圣经新词典 - 伪经（PSEUDEPIGRAPHA）
 keywords: 伪经, PSEUDEPIGRAPHA
 comments: false
 ---

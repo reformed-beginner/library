@@ -2,7 +2,7 @@
 layout: wiki
 title: 马大（MARTHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 马大（MARTHA）
+description: 圣经新词典 - 马大（MARTHA）
 keywords: 马大, MARTHA
 comments: false
 ---

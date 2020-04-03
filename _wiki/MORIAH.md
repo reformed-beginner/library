@@ -2,7 +2,7 @@
 layout: wiki
 title: 摩利亚地（MORIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 摩利亚地（MORIAH）
+description: 圣经新词典 - 摩利亚地（MORIAH）
 keywords: 摩利亚地, MORIAH
 comments: false
 ---

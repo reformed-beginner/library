@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚多莱音（ADORAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚多莱音（ADORAIM）
+description: 圣经新词典 - 亚多莱音（ADORAIM）
 keywords: 亚多莱音, ADORAIM
 comments: false
 ---

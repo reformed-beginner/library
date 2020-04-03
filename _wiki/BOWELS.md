@@ -2,7 +2,7 @@
 layout: wiki
 title: 肠子（BOWELS）
 categories: NewBibleDictionary
-description: 圣经新词典: 肠子（BOWELS）（来：me{`i^m；腊：splanchna）
+description: 圣经新词典 - 肠子（BOWELS）（来：me{`i^m；腊：splanchna）
 keywords: 肠子, BOWELS
 comments: false
 ---

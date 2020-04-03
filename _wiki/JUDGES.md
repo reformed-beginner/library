@@ -2,7 +2,7 @@
 layout: wiki
 title: 士师/审判官（JUDGES）
 categories: NewBibleDictionary
-description: 圣经新词典: 士师/审判官（JUDGES）
+description: 圣经新词典 - 士师/审判官（JUDGES）
 keywords: 士师/审判官, JUDGES
 comments: false
 ---

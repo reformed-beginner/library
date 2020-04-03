@@ -2,7 +2,7 @@
 layout: wiki
 title: 书亚人（SHOA）
 categories: NewBibleDictionary
-description: 圣经新词典: 书亚人（SHOA）
+description: 圣经新词典 - 书亚人（SHOA）
 keywords: 书亚人, SHOA
 comments: false
 ---

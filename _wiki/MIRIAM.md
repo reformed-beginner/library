@@ -2,7 +2,7 @@
 layout: wiki
 title: 米利暗（MIRIAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 米利暗（MIRIAM）
+description: 圣经新词典 - 米利暗（MIRIAM）
 keywords: 米利暗, MIRIAM
 comments: false
 ---

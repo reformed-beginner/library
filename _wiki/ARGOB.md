@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚珥歌伯（ARGOB）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚珥歌伯（ARGOB）
+description: 圣经新词典 - 亚珥歌伯（ARGOB）
 keywords: 亚珥歌伯, ARGOB
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒立（SARID）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒立（SARID）
+description: 圣经新词典 - 撒立（SARID）
 keywords: 撒立, SARID
 comments: false
 ---

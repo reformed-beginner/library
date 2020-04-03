@@ -2,7 +2,7 @@
 layout: wiki
 title: 传统，传说（TRADITION）
 categories: NewBibleDictionary
-description: 圣经新词典: 传统，传说（TRADITION）（腊：paradosis）
+description: 圣经新词典 - 传统，传说（TRADITION）（腊：paradosis）
 keywords: 传统，传说, TRADITION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 尘土，尘沙，细尘，灰尘（DUST）
 categories: NewBibleDictionary
-description: 圣经新词典: 尘土，尘沙，细尘，灰尘（DUST）
+description: 圣经新词典 - 尘土，尘沙，细尘，灰尘（DUST）
 keywords: 尘土，尘沙，细尘，灰尘, DUST
 comments: false
 ---

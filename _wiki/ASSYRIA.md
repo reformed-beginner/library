@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚述（ASSYRIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚述（ASSYRIA）
+description: 圣经新词典 - 亚述（ASSYRIA）
 keywords: 亚述, ASSYRIA
 comments: false
 ---

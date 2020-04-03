@@ -2,7 +2,7 @@
 layout: wiki
 title: 比利亚（PERAEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 比利亚（PERAEA）
+description: 圣经新词典 - 比利亚（PERAEA）
 keywords: 比利亚, PERAEA
 comments: false
 ---

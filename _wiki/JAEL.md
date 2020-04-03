@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅亿（JAEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅亿（JAEL）（来：ya{`e{l，意即“野山羊”）
+description: 圣经新词典 - 雅亿（JAEL）（来：ya{`e{l，意即“野山羊”）
 keywords: 雅亿, JAEL
 comments: false
 ---

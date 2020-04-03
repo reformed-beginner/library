@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦巴（GEBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦巴（GEBA）（来；geb[a`，意即“一座山丘”）
+description: 圣经新词典 - 迦巴（GEBA）（来；geb[a`，意即“一座山丘”）
 keywords: 迦巴, GEBA
 comments: false
 ---

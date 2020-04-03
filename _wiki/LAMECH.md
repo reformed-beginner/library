@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉麦（LAMECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉麦（LAMECH）（来：lemek[，或由亚拉伯文而来，其意为“一个精壮的少男”；持这看法的有狄曼〔Dillmann〕和何希哲〔Holzinger〕）
+description: 圣经新词典 - 拉麦（LAMECH）（来：lemek[，或由亚拉伯文而来，其意为“一个精壮的少男”；持这看法的有狄曼〔Dillmann〕和何希哲〔Holzinger〕）
 keywords: 拉麦, LAMECH
 comments: false
 ---

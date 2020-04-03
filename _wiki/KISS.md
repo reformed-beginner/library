@@ -2,7 +2,7 @@
 layout: wiki
 title: 亲嘴（KISS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亲嘴（KISS）
+description: 圣经新词典 - 亲嘴（KISS）
 keywords: 亲嘴, KISS
 comments: false
 ---

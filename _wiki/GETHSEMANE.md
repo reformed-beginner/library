@@ -2,7 +2,7 @@
 layout: wiki
 title: 客西马尼园（GETHSEMANE）
 categories: NewBibleDictionary
-description: 圣经新词典: 客西马尼园（GETHSEMANE）（源自亚兰文：gat[ s%emen，意即“油榨”）
+description: 圣经新词典 - 客西马尼园（GETHSEMANE）（源自亚兰文：gat[ s%emen，意即“油榨”）
 keywords: 客西马尼园, GETHSEMANE
 comments: false
 ---

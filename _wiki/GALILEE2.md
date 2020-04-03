@@ -2,7 +2,7 @@
 layout: wiki
 title: 加利利海（GALILEE, SEA OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 加利利海（GALILEE, SEA OF）
+description: 圣经新词典 - 加利利海（GALILEE, SEA OF）
 keywords: 加利利海, GALILEE, SEA OF
 comments: false
 ---

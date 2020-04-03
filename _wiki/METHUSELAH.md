@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛土撒拉（METHUSELAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛土撒拉（METHUSELAH）（来：m#t[u^s%elah]，意思似乎是“属喇（Lach）〔神〕的人”）
+description: 圣经新词典 - 玛土撒拉（METHUSELAH）（来：m#t[u^s%elah]，意思似乎是“属喇（Lach）〔神〕的人”）
 keywords: 玛土撒拉, METHUSELAH
 comments: false
 ---

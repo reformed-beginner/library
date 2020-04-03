@@ -2,7 +2,7 @@
 layout: wiki
 title: 题字（SUPERSCRIPTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 题字（SUPERSCRIPTION）（拉丁文：superscriptio ──“书于其上或上面的”，即腊：epigraphe{ 的翻译）
+description: 圣经新词典 - 题字（SUPERSCRIPTION）（拉丁文：superscriptio ──“书于其上或上面的”，即腊：epigraphe{ 的翻译）
 keywords: 题字, SUPERSCRIPTION
 comments: false
 ---

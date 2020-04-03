@@ -2,7 +2,7 @@
 layout: wiki
 title: 磐石（ROCK）
 categories: NewBibleDictionary
-description: 圣经新词典: 磐石（ROCK）
+description: 圣经新词典 - 磐石（ROCK）
 keywords: 磐石, ROCK
 comments: false
 ---

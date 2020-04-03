@@ -2,7 +2,7 @@
 layout: wiki
 title: 米斯利弗玛音（MISREPHOTH-MAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 米斯利弗玛音（MISREPHOTH-MAIM）（来：mis*r#p{o^t[-mayim）
+description: 圣经新词典 - 米斯利弗玛音（MISREPHOTH-MAIM）（来：mis*r#p{o^t[-mayim）
 keywords: 米斯利弗玛音, MISREPHOTH-MAIM
 comments: false
 ---

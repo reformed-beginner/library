@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚该亚（ACHAIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚该亚（ACHAIA）
+description: 圣经新词典 - 亚该亚（ACHAIA）
 keywords: 亚该亚, ACHAIA
 comments: false
 ---

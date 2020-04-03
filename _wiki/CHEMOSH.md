@@ -2,7 +2,7 @@
 layout: wiki
 title: 基抹（CHEMOSH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基抹（CHEMOSH）
+description: 圣经新词典 - 基抹（CHEMOSH）
 keywords: 基抹, CHEMOSH
 comments: false
 ---

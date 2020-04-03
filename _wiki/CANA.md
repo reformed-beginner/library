@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦拿（CANA）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦拿（CANA）（腊：kana，大概是从伯来文的 qa{na^ “芦苇之地”而来）
+description: 圣经新词典 - 迦拿（CANA）（腊：kana，大概是从伯来文的 qa{na^ “芦苇之地”而来）
 keywords: 迦拿, CANA
 comments: false
 ---

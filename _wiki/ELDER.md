@@ -2,7 +2,7 @@
 layout: wiki
 title: 长老（ELDER）
 categories: NewBibleDictionary
-description: 圣经新词典: 长老（ELDER）
+description: 圣经新词典 - 长老（ELDER）
 keywords: 长老, ELDER
 comments: false
 ---

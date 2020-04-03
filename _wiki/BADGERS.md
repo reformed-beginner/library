@@ -2,7 +2,7 @@
 layout: wiki
 title: 獾皮（BADGERS' SKINS）
 categories: NewBibleDictionary
-description: 圣经新词典: 獾皮（BADGERS' SKINS）
+description: 圣经新词典 - 獾皮（BADGERS' SKINS）
 keywords: 獾皮, BADGERS' SKINS
 comments: false
 ---

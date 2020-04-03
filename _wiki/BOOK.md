@@ -2,7 +2,7 @@
 layout: wiki
 title: 生命册（BOOK OF LIFE）
 categories: NewBibleDictionary
-description: 圣经新词典: 生命册（BOOK OF LIFE）(来：se{p{er h]ayyi^m；腊：biblos 或 biblion
+description: 圣经新词典 - 生命册（BOOK OF LIFE）(来：se{p{er h]ayyi^m；腊：biblos 或 biblion
 zo{e{s，“生存者的点名录”）
 keywords: 生命册, BOOK OF LIFE
 comments: false

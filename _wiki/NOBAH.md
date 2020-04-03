@@ -2,7 +2,7 @@
 layout: wiki
 title: 挪巴（NOBAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 挪巴（NOBAH）（来：no{b[ah]）
+description: 圣经新词典 - 挪巴（NOBAH）（来：no{b[ah]）
 keywords: 挪巴, NOBAH
 comments: false
 ---

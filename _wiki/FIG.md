@@ -2,7 +2,7 @@
 layout: wiki
 title: 无花果；无花果树（FIG, FIGTREE）
 categories: NewBibleDictionary
-description: 圣经新词典: 无花果；无花果树（FIG, FIGTREE）
+description: 圣经新词典 - 无花果；无花果树（FIG, FIGTREE）
 keywords: 无花果；无花果树, FIG, FIGTREE
 comments: false
 ---

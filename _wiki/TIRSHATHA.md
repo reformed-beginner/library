@@ -2,7 +2,7 @@
 layout: wiki
 title: 特沙他（省长）
 categories: NewBibleDictionary
-description: 圣经新词典: 特沙他（省长）（TIRSHATHA）
+description: 圣经新词典 - 特沙他（省长）（TIRSHATHA）
 keywords: 特沙他, 省长
 comments: false
 ---

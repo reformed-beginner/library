@@ -2,7 +2,7 @@
 layout: wiki
 title: 邱坛，高处（HIGH PLACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 邱坛，高处（HIGH PLACE）
+description: 圣经新词典 - 邱坛，高处（HIGH PLACE）
 keywords: 邱坛，高处, HIGH PLACE
 comments: false
 ---

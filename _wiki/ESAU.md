@@ -2,7 +2,7 @@
 layout: wiki
 title: 以扫（ESAU）
 categories: NewBibleDictionary
-description: 圣经新词典: 以扫（ESAU）
+description: 圣经新词典 - 以扫（ESAU）
 keywords: 以扫, ESAU
 comments: false
 ---

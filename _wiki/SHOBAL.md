@@ -2,7 +2,7 @@
 layout: wiki
 title: 朔巴（SHOBAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 朔巴（SHOBAL）
+description: 圣经新词典 - 朔巴（SHOBAL）
 keywords: 朔巴, SHOBAL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 主的受害，性情，情欲（PASSION）
 categories: NewBibleDictionary
-description: 圣经新词典: 主的受害，性情，情欲（PASSION）
+description: 圣经新词典 - 主的受害，性情，情欲（PASSION）
 keywords: 主的受害，性情，情欲, PASSION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐多珥（ENDOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐多珥（ENDOR）
+description: 圣经新词典 - 隐多珥（ENDOR）
 keywords: 隐多珥, ENDOR
 comments: false
 ---

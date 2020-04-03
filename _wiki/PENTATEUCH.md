@@ -2,7 +2,7 @@
 layout: wiki
 title: 五经（PENTATEUCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 五经（PENTATEUCH）
+description: 圣经新词典 - 五经（PENTATEUCH）
 keywords: 五经, PENTATEUCH
 comments: false
 ---

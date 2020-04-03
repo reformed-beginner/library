@@ -2,7 +2,7 @@
 layout: wiki
 title: 基伊拉（KEILAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基伊拉（KEILAH）（来：q#`i^la^h）
+description: 圣经新词典 - 基伊拉（KEILAH）（来：q#`i^la^h）
 keywords: 基伊拉, KEILAH
 comments: false
 ---

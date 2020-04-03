@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛拉基书（MALACHI, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛拉基书（MALACHI, BOOK OF）
+description: 圣经新词典 - 玛拉基书（MALACHI, BOOK OF）
 keywords: 玛拉基书, MALACHI, BOOK OF
 comments: false
 ---

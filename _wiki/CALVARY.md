@@ -2,7 +2,7 @@
 layout: wiki
 title: 髑髅地（CALVARY）
 categories: NewBibleDictionary
-description: 圣经新词典: 髑髅地（CALVARY）
+description: 圣经新词典 - 髑髅地（CALVARY）
 keywords: 髑髅地, CALVARY
 comments: false
 ---

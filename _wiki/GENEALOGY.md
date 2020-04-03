@@ -2,7 +2,7 @@
 layout: wiki
 title: 家谱，谱系（GENEALOGY）
 categories: NewBibleDictionary
-description: 圣经新词典: 家谱，谱系（GENEALOGY）
+description: 圣经新词典 - 家谱，谱系（GENEALOGY）
 keywords: 家谱，谱系, GENEALOGY
 comments: false
 ---

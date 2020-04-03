@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉班（LABAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉班（LABAN）（来：lab[an，“白”）
+description: 圣经新词典 - 拉班（LABAN）（来：lab[an，“白”）
 keywords: 拉班, LABAN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 星（STARS）
 categories: NewBibleDictionary
-description: 圣经新词典: 星（STARS）
+description: 圣经新词典 - 星（STARS）
 keywords: 星, STARS
 comments: false
 ---

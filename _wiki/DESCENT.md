@@ -2,7 +2,7 @@
 layout: wiki
 title: 下到阴间（DESCENT INTO HADES）
 categories: NewBibleDictionary
-description: 圣经新词典: 下到阴间（DESCENT INTO HADES）
+description: 圣经新词典 - 下到阴间（DESCENT INTO HADES）
 keywords: 下到阴间, DESCENT INTO HADES
 comments: false
 ---

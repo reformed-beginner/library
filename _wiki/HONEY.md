@@ -2,7 +2,7 @@
 layout: wiki
 title: 蜜糖（HONEY, HONEYCOMB）
 categories: NewBibleDictionary
-description: 圣经新词典: 蜜糖（HONEY, HONEYCOMB）
+description: 圣经新词典 - 蜜糖（HONEY, HONEYCOMB）
 keywords: 蜜糖, HONEY, HONEYCOMB
 comments: false
 ---

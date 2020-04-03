@@ -2,7 +2,7 @@
 layout: wiki
 title: 他珥探（TARTAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 他珥探（TARTAN）
+description: 圣经新词典 - 他珥探（TARTAN）
 keywords: 他珥探, TARTAN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 米哥拿（MECONAH [AV MEKONAH]）
 categories: NewBibleDictionary
-description: 圣经新词典: 米哥拿（MECONAH [AV MEKONAH]）
+description: 圣经新词典 - 米哥拿（MECONAH [AV MEKONAH]）
 keywords: 米哥拿, MECONAH [AV MEKONAH]
 comments: false
 ---

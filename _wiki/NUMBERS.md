@@ -2,7 +2,7 @@
 layout: wiki
 title: 民数记（NUMBERS, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 民数记（NUMBERS, BOOK OF）
+description: 圣经新词典 - 民数记（NUMBERS, BOOK OF）
 keywords: 民数记, NUMBERS, BOOK OF
 comments: false
 ---

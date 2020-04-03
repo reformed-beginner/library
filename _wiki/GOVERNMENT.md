@@ -2,7 +2,7 @@
 layout: wiki
 title: 政府（GOVERNMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 政府（GOVERNMENT）
+description: 圣经新词典 - 政府（GOVERNMENT）
 keywords: 政府, GOVERNMENT
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 埃及（EGYPT）
 categories: NewBibleDictionary
-description: 圣经新词典: 埃及（EGYPT）
+description: 圣经新词典 - 埃及（EGYPT）
 keywords: 埃及, EGYPT
 comments: false
 ---

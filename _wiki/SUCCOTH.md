@@ -2,7 +2,7 @@
 layout: wiki
 title: 疏割（SUCCOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 疏割（SUCCOTH）
+description: 圣经新词典 - 疏割（SUCCOTH）
 keywords: 疏割, SUCCOTH
 comments: false
 ---

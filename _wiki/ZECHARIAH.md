@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒迦利亚；撒迦利雅（ZECHARIAH, ZACHARIAH, ZACHARIAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒迦利亚；撒迦利雅（ZECHARIAH, ZACHARIAH, ZACHARIAS）
+description: 圣经新词典 - 撒迦利亚；撒迦利雅（ZECHARIAH, ZACHARIAH, ZACHARIAS）
 keywords: 撒迦利亚；撒迦利雅, ZECHARIAH, ZACHARIAH, ZACHARIAS
 comments: false
 ---

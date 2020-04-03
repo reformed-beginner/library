@@ -2,7 +2,7 @@
 layout: wiki
 title: 书信（EPISTLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 书信（EPISTLE）
+description: 圣经新词典 - 书信（EPISTLE）
 keywords: 书信, EPISTLE
 comments: false
 ---

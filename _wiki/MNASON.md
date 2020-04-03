@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿孙（MNASON）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿孙（MNASON）
+description: 圣经新词典 - 拿孙（MNASON）
 keywords: 拿孙, MNASON
 comments: false
 ---

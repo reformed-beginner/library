@@ -2,7 +2,7 @@
 layout: wiki
 title: 所巴特；所西巴德（SOPATER，SOSIPATER）
 categories: NewBibleDictionary
-description: 圣经新词典: 所巴特；所西巴德（SOPATER，SOSIPATER）
+description: 圣经新词典 - 所巴特；所西巴德（SOPATER，SOSIPATER）
 keywords: 所巴特；所西巴德, SOPATER，SOSIPATER
 comments: false
 ---

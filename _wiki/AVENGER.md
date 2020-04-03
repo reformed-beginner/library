@@ -2,7 +2,7 @@
 layout: wiki
 title: 报血仇者（AVENGER OF BLOOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 报血仇者（AVENGER OF BLOOD）（来：go{~e{l hadda{m，直译：“血的赎回者” 'redeemer of blood'）
+description: 圣经新词典 - 报血仇者（AVENGER OF BLOOD）（来：go{~e{l hadda{m，直译：“血的赎回者” 'redeemer of blood'）
 keywords: 报血仇者, AVENGER OF BLOOD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 印记（MARKS）
 categories: NewBibleDictionary
-description: 圣经新词典: 印记（MARKS）
+description: 圣经新词典 - 印记（MARKS）
 keywords: 印记, MARKS
 comments: false
 ---

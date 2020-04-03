@@ -2,7 +2,7 @@
 layout: wiki
 title: 以法莲（EPHRAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 以法莲（EPHRAIM）
+description: 圣经新词典 - 以法莲（EPHRAIM）
 keywords: 以法莲, EPHRAIM
 comments: false
 ---

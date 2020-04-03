@@ -2,7 +2,7 @@
 layout: wiki
 title: 以他玛（ITHAMAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 以他玛（ITHAMAR）（来：~i^t[a{ma{r）
+description: 圣经新词典 - 以他玛（ITHAMAR）（来：~i^t[a{ma{r）
 keywords: 以他玛, ITHAMAR
 comments: false
 ---

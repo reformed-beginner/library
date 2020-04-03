@@ -2,7 +2,7 @@
 layout: wiki
 title: 米尼（MINNI）
 categories: NewBibleDictionary
-description: 圣经新词典: 米尼（MINNI）
+description: 圣经新词典 - 米尼（MINNI）
 keywords: 米尼, MINNI
 comments: false
 ---

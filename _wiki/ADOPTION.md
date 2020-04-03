@@ -2,7 +2,7 @@
 layout: wiki
 title: 收养（ADOPTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 收养（ADOPTION）
+description: 圣经新词典 - 收养（ADOPTION）
 keywords: 收养, ADOPTION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 苏基人（SUKKIIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 苏基人（SUKKIIM）（埃及文：t[htn, t[k）
+description: 圣经新词典 - 苏基人（SUKKIIM）（埃及文：t[htn, t[k）
 keywords: 苏基人, SUKKIIM
 comments: false
 ---

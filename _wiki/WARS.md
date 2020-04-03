@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶和华的战记（WARS OF THE LORD, BOOK OF THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶和华的战记（WARS OF THE LORD, BOOK OF THE）
+description: 圣经新词典 - 耶和华的战记（WARS OF THE LORD, BOOK OF THE）
 keywords: 耶和华的战记, WARS OF THE LORD, BOOK OF THE
 comments: false
 ---

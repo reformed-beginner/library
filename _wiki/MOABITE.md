@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　摩押石碑
+description: 圣经新词典 - 图　摩押石碑
 keywords: , 
 comments: false
 ---

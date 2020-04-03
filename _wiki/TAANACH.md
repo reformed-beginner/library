@@ -2,7 +2,7 @@
 layout: wiki
 title: 他纳（TAANACH）
 categories: NewBibleDictionary
-description: 圣经新词典: 他纳（TAANACH）
+description: 圣经新词典 - 他纳（TAANACH）
 keywords: 他纳, TAANACH
 comments: false
 ---

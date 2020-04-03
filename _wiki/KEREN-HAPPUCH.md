@@ -2,7 +2,7 @@
 layout: wiki
 title: 基连哈朴（KEREN-HAPPUCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基连哈朴（KEREN-HAPPUCH）（来：qeren happu^k[，“粉饰的角”，即“装饰者”；LXX: Amaltheias
+description: 圣经新词典 - 基连哈朴（KEREN-HAPPUCH）（来：qeren happu^k[，“粉饰的角”，即“装饰者”；LXX: Amaltheias
 keras）
 keywords: 基连哈朴, KEREN-HAPPUCH
 comments: false

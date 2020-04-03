@@ -2,7 +2,7 @@
 layout: wiki
 title: 基业，产业（INHERITANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 基业，产业（INHERITANCE）
+description: 圣经新词典 - 基业，产业（INHERITANCE）
 keywords: 基业，产业, INHERITANCE
 comments: false
 ---

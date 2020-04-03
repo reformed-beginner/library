@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌陵和土明（URIM AND THUMMIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌陵和土明（URIM AND THUMMIM）
+description: 圣经新词典 - 乌陵和土明（URIM AND THUMMIM）
 keywords: 乌陵和土明, URIM AND THUMMIM
 comments: false
 ---

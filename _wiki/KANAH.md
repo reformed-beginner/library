@@ -2,7 +2,7 @@
 layout: wiki
 title: 加拿（KANAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 加拿（KANAH）（来：qa{na^h）
+description: 圣经新词典 - 加拿（KANAH）（来：qa{na^h）
 keywords: 加拿, KANAH
 comments: false
 ---

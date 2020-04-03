@@ -2,7 +2,7 @@
 layout: wiki
 title: 簸箕（FAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 簸箕（FAN）（AV, RSV 作“叉”；来：mizreh，“簸箕”；来：za{ra^，“散播”，“簸〔谷物〕”；腊：ptyon，“簸箕”）
+description: 圣经新词典 - 簸箕（FAN）（AV, RSV 作“叉”；来：mizreh，“簸箕”；来：za{ra^，“散播”，“簸〔谷物〕”；腊：ptyon，“簸箕”）
 keywords: 簸箕, FAN
 comments: false
 ---

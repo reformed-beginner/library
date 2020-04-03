@@ -2,7 +2,7 @@
 layout: wiki
 title: 知足（CONTENTMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 知足（CONTENTMENT）
+description: 圣经新词典 - 知足（CONTENTMENT）
 keywords: 知足, CONTENTMENT
 comments: false
 ---

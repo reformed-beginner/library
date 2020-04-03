@@ -2,7 +2,7 @@
 layout: wiki
 title: 采矿和金属（MINING AND METALS）
 categories: NewBibleDictionary
-description: 圣经新词典: 采矿和金属（MINING AND METALS）
+description: 圣经新词典 - 采矿和金属（MINING AND METALS）
 keywords: 采矿和金属, MINING AND METALS
 comments: false
 ---

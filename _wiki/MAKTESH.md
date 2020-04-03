@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛革提施（MAKTESH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛革提施（MAKTESH）
+description: 圣经新词典 - 玛革提施（MAKTESH）
 keywords: 玛革提施, MAKTESH
 comments: false
 ---

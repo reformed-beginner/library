@@ -2,7 +2,7 @@
 layout: wiki
 title: 暗拉非（AMRAPHEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 暗拉非（AMRAPHEL）
+description: 圣经新词典 - 暗拉非（AMRAPHEL）
 keywords: 暗拉非, AMRAPHEL
 comments: false
 ---

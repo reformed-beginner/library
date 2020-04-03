@@ -2,7 +2,7 @@
 layout: wiki
 title: 酒政（CUPBEARER）
 categories: NewBibleDictionary
-description: 圣经新词典: 酒政（CUPBEARER）（来：mas%qeh，指倒酒的人）
+description: 圣经新词典 - 酒政（CUPBEARER）（来：mas%qeh，指倒酒的人）
 keywords: 酒政, CUPBEARER
 comments: false
 ---

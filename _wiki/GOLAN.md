@@ -2,7 +2,7 @@
 layout: wiki
 title: 哥兰，高兰（GOLAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 哥兰，高兰（GOLAN）
+description: 圣经新词典 - 哥兰，高兰（GOLAN）
 keywords: 哥兰，高兰, GOLAN
 comments: false
 ---

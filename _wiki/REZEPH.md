@@ -2,7 +2,7 @@
 layout: wiki
 title: 利色（REZEPH）
 categories: NewBibleDictionary
-description: 圣经新词典: 利色（REZEPH）
+description: 圣经新词典 - 利色（REZEPH）
 keywords: 利色, REZEPH
 comments: false
 ---

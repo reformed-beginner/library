@@ -2,7 +2,7 @@
 layout: wiki
 title: 西云山（SION）
 categories: NewBibleDictionary
-description: 圣经新词典: 西云山（SION）
+description: 圣经新词典 - 西云山（SION）
 keywords: 西云山, SION
 comments: false
 ---

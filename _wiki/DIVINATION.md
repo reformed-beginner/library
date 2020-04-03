@@ -2,7 +2,7 @@
 layout: wiki
 title: 占卜（DIVINATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 占卜（DIVINATION）
+description: 圣经新词典 - 占卜（DIVINATION）
 keywords: 占卜, DIVINATION
 comments: false
 ---

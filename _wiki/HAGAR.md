@@ -2,7 +2,7 @@
 layout: wiki
 title: 夏甲（HAGAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 夏甲（HAGAR）
+description: 圣经新词典 - 夏甲（HAGAR）
 keywords: 夏甲, HAGAR
 comments: false
 ---

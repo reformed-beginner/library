@@ -2,7 +2,7 @@
 layout: wiki
 title: 基利司布（CRISPUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 基利司布（CRISPUS）
+description: 圣经新词典 - 基利司布（CRISPUS）
 keywords: 基利司布, CRISPUS
 comments: false
 ---

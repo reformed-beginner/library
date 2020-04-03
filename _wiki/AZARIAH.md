@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚撒利雅（AZARIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚撒利雅（AZARIAH）（来：`@zarya{hu^, `@zarya^, “耶和华已帮助”，'Yahweh has helped'）
+description: 圣经新词典 - 亚撒利雅（AZARIAH）（来：`@zarya{hu^, `@zarya^, “耶和华已帮助”，'Yahweh has helped'）
 keywords: 亚撒利雅, AZARIAH
 comments: false
 ---

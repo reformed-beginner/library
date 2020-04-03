@@ -2,7 +2,7 @@
 layout: wiki
 title: 二元论（DUALISM）
 categories: NewBibleDictionary
-description: 圣经新词典: 二元论（DUALISM）
+description: 圣经新词典 - 二元论（DUALISM）
 keywords: 二元论, DUALISM
 comments: false
 ---

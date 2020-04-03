@@ -2,7 +2,7 @@
 layout: wiki
 title: 头巾（KERCHIEFS）
 categories: NewBibleDictionary
-description: 圣经新词典: 头巾（KERCHIEFS）（来：mispa{h]o^t[, AV 译作复数的 'kerchiefs'，见：结十三18、21; RSV
+description: 圣经新词典 - 头巾（KERCHIEFS）（来：mispa{h]o^t[, AV 译作复数的 'kerchiefs'，见：结十三18、21; RSV
 译作“面罩” 'veils'）
 keywords: 头巾, KERCHIEFS
 comments: false

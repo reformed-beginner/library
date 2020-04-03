@@ -2,7 +2,7 @@
 layout: wiki
 title: 比尼亚干（BENE-JAAKAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 比尼亚干（BENE-JAAKAN）
+description: 圣经新词典 - 比尼亚干（BENE-JAAKAN）
 keywords: 比尼亚干, BENE-JAAKAN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 有形质的，元素（ELEMENTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 有形质的，元素（ELEMENTS）
+description: 圣经新词典 - 有形质的，元素（ELEMENTS）
 keywords: 有形质的，元素, ELEMENTS
 comments: false
 ---

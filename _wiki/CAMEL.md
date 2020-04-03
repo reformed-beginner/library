@@ -2,7 +2,7 @@
 layout: wiki
 title: 骆驼（CAMEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 骆驼（CAMEL）（来：ga{ma{l，腊：kame{los）
+description: 圣经新词典 - 骆驼（CAMEL）（来：ga{ma{l，腊：kame{los）
 keywords: 骆驼, CAMEL
 comments: false
 ---

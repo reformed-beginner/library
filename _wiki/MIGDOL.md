@@ -2,7 +2,7 @@
 layout: wiki
 title: 密夺（MIGDOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 密夺（MIGDOL）
+description: 圣经新词典 - 密夺（MIGDOL）
 keywords: 密夺, MIGDOL
 comments: false
 ---

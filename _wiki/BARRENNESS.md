@@ -2,7 +2,7 @@
 layout: wiki
 title: 不育（BARRENNESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 不育（BARRENNESS）
+description: 圣经新词典 - 不育（BARRENNESS）
 keywords: 不育, BARRENNESS
 comments: false
 ---

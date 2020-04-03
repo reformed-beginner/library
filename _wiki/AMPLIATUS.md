@@ -2,7 +2,7 @@
 layout: wiki
 title: 暗伯利（AMPLIATUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 暗伯利（AMPLIATUS）
+description: 圣经新词典 - 暗伯利（AMPLIATUS）
 keywords: 暗伯利, AMPLIATUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 引句（新约中的）
 categories: NewBibleDictionary
-description: 圣经新词典: 引句（新约中的）（QUOTATIONS [IN THE NEW TESTAMENT]）
+description: 圣经新词典 - 引句（新约中的）（QUOTATIONS [IN THE NEW TESTAMENT]）
 keywords: 引句, 新约中的
 comments: false
 ---

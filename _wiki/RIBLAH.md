@@ -2,7 +2,7 @@
 layout: wiki
 title: 利比拉（RIBLAH, RIBLATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 利比拉（RIBLAH, RIBLATH）
+description: 圣经新词典 - 利比拉（RIBLAH, RIBLATH）
 keywords: 利比拉, RIBLAH, RIBLATH
 comments: false
 ---

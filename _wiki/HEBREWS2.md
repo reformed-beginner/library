@@ -2,7 +2,7 @@
 layout: wiki
 title: 希伯来书（HEBREWS, EPISTLE TO THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 希伯来书（HEBREWS, EPISTLE TO THE）
+description: 圣经新词典 - 希伯来书（HEBREWS, EPISTLE TO THE）
 keywords: 希伯来书, HEBREWS, EPISTLE TO THE
 comments: false
 ---

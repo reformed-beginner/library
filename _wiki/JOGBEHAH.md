@@ -2,7 +2,7 @@
 layout: wiki
 title: 约比哈（JOGBEHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 约比哈（JOGBEHAH）（来：yo{g{b#ha^，“高地”
+description: 圣经新词典 - 约比哈（JOGBEHAH）（来：yo{g{b#ha^，“高地”
 keywords: 约比哈, JOGBEHAH
 comments: false
 ---

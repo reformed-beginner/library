@@ -2,7 +2,7 @@
 layout: wiki
 title: 幔利（MAMRE）
 categories: NewBibleDictionary
-description: 圣经新词典: 幔利（MAMRE）（来：mamre{~）
+description: 圣经新词典 - 幔利（MAMRE）（来：mamre{~）
 keywords: 幔利, MAMRE
 comments: false
 ---

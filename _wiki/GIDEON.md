@@ -2,7 +2,7 @@
 layout: wiki
 title: 基甸（GIDEON）
 categories: NewBibleDictionary
-description: 圣经新词典: 基甸（GIDEON）（来：gid[#`o^n，“砍伐者，击打者”）
+description: 圣经新词典 - 基甸（GIDEON）（来：gid[#`o^n，“砍伐者，击打者”）
 keywords: 基甸, GIDEON
 comments: false
 ---

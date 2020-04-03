@@ -2,7 +2,7 @@
 layout: wiki
 title: 坚忍，恒切（PERSEVERANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 坚忍，恒切（PERSEVERANCE）
+description: 圣经新词典 - 坚忍，恒切（PERSEVERANCE）
 keywords: 坚忍，恒切, PERSEVERANCE
 comments: false
 ---

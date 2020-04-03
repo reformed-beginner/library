@@ -2,7 +2,7 @@
 layout: wiki
 title: 符囊，护身符（AMULETS）
 categories: NewBibleDictionary
-description: 圣经新词典: 符囊，护身符（AMULETS）
+description: 圣经新词典 - 符囊，护身符（AMULETS）
 keywords: 符囊，护身符, AMULETS
 comments: false
 ---

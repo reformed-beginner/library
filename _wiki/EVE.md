@@ -2,7 +2,7 @@
 layout: wiki
 title: 夏娃（EVE）
 categories: NewBibleDictionary
-description: 圣经新词典: 夏娃（EVE）
+description: 圣经新词典 - 夏娃（EVE）
 keywords: 夏娃, EVE
 comments: false
 ---

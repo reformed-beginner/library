@@ -2,7 +2,7 @@
 layout: wiki
 title: 律法师，文士（LAWYER）
 categories: NewBibleDictionary
-description: 圣经新词典: 律法师，文士（LAWYER）
+description: 圣经新词典 - 律法师，文士（LAWYER）
 keywords: 律法师，文士, LAWYER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 厄巴大（GABBATHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 厄巴大（GABBATHA）
+description: 圣经新词典 - 厄巴大（GABBATHA）
 keywords: 厄巴大, GABBATHA
 comments: false
 ---

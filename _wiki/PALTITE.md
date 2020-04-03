@@ -2,7 +2,7 @@
 layout: wiki
 title: 帕勒提人（PALTITE, THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 帕勒提人（PALTITE, THE）
+description: 圣经新词典 - 帕勒提人（PALTITE, THE）
 keywords: 帕勒提人, PALTITE, THE
 comments: false
 ---

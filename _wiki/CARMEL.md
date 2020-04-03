@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦密（CARMEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦密（CARMEL）（来：Karmel，“花园之地”，“肥沃之地”的意思）
+description: 圣经新词典 - 迦密（CARMEL）（来：Karmel，“花园之地”，“肥沃之地”的意思）
 keywords: 迦密, CARMEL
 comments: false
 ---

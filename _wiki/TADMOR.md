@@ -2,7 +2,7 @@
 layout: wiki
 title: 达莫/特摩（TADMOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 达莫/特摩（TADMOR）
+description: 圣经新词典 - 达莫/特摩（TADMOR）
 keywords: 达莫/特摩, TADMOR
 comments: false
 ---

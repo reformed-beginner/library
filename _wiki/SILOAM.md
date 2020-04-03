@@ -2,7 +2,7 @@
 layout: wiki
 title: 西罗亚（SILOAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 西罗亚（SILOAM）
+description: 圣经新词典 - 西罗亚（SILOAM）
 keywords: 西罗亚, SILOAM
 comments: false
 ---

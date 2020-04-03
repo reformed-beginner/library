@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯大衮（BETH-DAGON）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯大衮（BETH-DAGON）（来：be^t[ da{g{o^n）
+description: 圣经新词典 - 伯大衮（BETH-DAGON）（来：be^t[ da{g{o^n）
 keywords: 伯大衮, BETH-DAGON
 comments: false
 ---

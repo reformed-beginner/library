@@ -2,7 +2,7 @@
 layout: wiki
 title: 罗波安（REHOBOAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 罗波安（REHOBOAM）（来：r#h]ab`a{m，意即“百姓的扩张”）
+description: 圣经新词典 - 罗波安（REHOBOAM）（来：r#h]ab`a{m，意即“百姓的扩张”）
 keywords: 罗波安, REHOBOAM
 comments: false
 ---

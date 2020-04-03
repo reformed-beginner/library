@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣礼（SACRAMENTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣礼（SACRAMENTS）
+description: 圣经新词典 - 圣礼（SACRAMENTS）
 keywords: 圣礼, SACRAMENTS
 comments: false
 ---

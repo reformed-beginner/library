@@ -2,7 +2,7 @@
 layout: wiki
 title: 利基翁（RHEGIUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 利基翁（RHEGIUM）
+description: 圣经新词典 - 利基翁（RHEGIUM）
 keywords: 利基翁, RHEGIUM
 comments: false
 ---

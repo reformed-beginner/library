@@ -2,7 +2,7 @@
 layout: wiki
 title: 加略人犹大（JUDAS ISCARIOT）
 categories: NewBibleDictionary
-description: 圣经新词典: 加略人犹大（JUDAS ISCARIOT）
+description: 圣经新词典 - 加略人犹大（JUDAS ISCARIOT）
 keywords: 加略人犹大, JUDAS ISCARIOT
 comments: false
 ---

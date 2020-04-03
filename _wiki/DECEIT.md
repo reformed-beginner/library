@@ -2,7 +2,7 @@
 layout: wiki
 title: 诡诈（DECEIT）
 categories: NewBibleDictionary
-description: 圣经新词典: 诡诈（DECEIT）
+description: 圣经新词典 - 诡诈（DECEIT）
 keywords: 诡诈, DECEIT
 comments: false
 ---

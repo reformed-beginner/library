@@ -2,7 +2,7 @@
 layout: wiki
 title: 谷歌大（GUDGODAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 谷歌大（GUDGODAH）
+description: 圣经新词典 - 谷歌大（GUDGODAH）
 keywords: 谷歌大, GUDGODAH
 comments: false
 ---

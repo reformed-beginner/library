@@ -2,7 +2,7 @@
 layout: wiki
 title: 克西他（KESITAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 克西他（KESITAH）（来：q#s*i^t]a^，意思大概是“衡量过的”，“固定的重量”，源于一个亚拉伯字，其意思是“分开，固定”）
+description: 圣经新词典 - 克西他（KESITAH）（来：q#s*i^t]a^，意思大概是“衡量过的”，“固定的重量”，源于一个亚拉伯字，其意思是“分开，固定”）
 keywords: 克西他, KESITAH
 comments: false
 ---

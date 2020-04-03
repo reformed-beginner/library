@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉加（RACA）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉加（RACA）
+description: 圣经新词典 - 拉加（RACA）
 keywords: 拉加, RACA
 comments: false
 ---

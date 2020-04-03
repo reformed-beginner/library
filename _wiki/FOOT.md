@@ -2,7 +2,7 @@
 layout: wiki
 title: 脚（FOOT）
 categories: NewBibleDictionary
-description: 圣经新词典: 脚（FOOT）
+description: 圣经新词典 - 脚（FOOT）
 keywords: 脚, FOOT
 comments: false
 ---

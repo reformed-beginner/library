@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼斯洛（NISROCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼斯洛（NISROCH）（来：nisro{k[）
+description: 圣经新词典 - 尼斯洛（NISROCH）（来：nisro{k[）
 keywords: 尼斯洛, NISROCH
 comments: false
 ---

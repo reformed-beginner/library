@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶拉（JERAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶拉（JERAH）
+description: 圣经新词典 - 耶拉（JERAH）
 keywords: 耶拉, JERAH
 comments: false
 ---

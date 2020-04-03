@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿摩司书（AMOS, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿摩司书（AMOS, BOOK OF）
+description: 圣经新词典 - 阿摩司书（AMOS, BOOK OF）
 keywords: 阿摩司书, AMOS, BOOK OF
 comments: false
 ---

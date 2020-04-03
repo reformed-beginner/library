@@ -2,7 +2,7 @@
 layout: wiki
 title: 利汛（REZIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 利汛（REZIN）
+description: 圣经新词典 - 利汛（REZIN）
 keywords: 利汛, REZIN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 以撒哈顿（ESARHADDON）
 categories: NewBibleDictionary
-description: 圣经新词典: 以撒哈顿（ESARHADDON）（来：~esarhaddo{n；亚述文：As%s%ur-ah\-iddin，意即“亚述赐一个弟兄给
+description: 圣经新词典 - 以撒哈顿（ESARHADDON）（来：~esarhaddo{n；亚述文：As%s%ur-ah\-iddin，意即“亚述赐一个弟兄给
 keywords: 以撒哈顿, ESARHADDON
 comments: false
 ---

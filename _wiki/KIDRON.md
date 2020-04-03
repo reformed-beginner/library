@@ -2,7 +2,7 @@
 layout: wiki
 title: 汲沦谷（KIDRON）
 categories: NewBibleDictionary
-description: 圣经新词典: 汲沦谷（KIDRON）
+description: 圣经新词典 - 汲沦谷（KIDRON）
 keywords: 汲沦谷, KIDRON
 comments: false
 ---

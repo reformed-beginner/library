@@ -2,7 +2,7 @@
 layout: wiki
 title: 希罗底（HERODIAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 希罗底（HERODIAS）
+description: 圣经新词典 - 希罗底（HERODIAS）
 keywords: 希罗底, HERODIAS
 comments: false
 ---

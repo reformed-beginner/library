@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚迦布（AGABUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚迦布（AGABUS）
+description: 圣经新词典 - 亚迦布（AGABUS）
 keywords: 亚迦布, AGABUS
 comments: false
 ---

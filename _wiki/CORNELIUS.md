@@ -2,7 +2,7 @@
 layout: wiki
 title: 哥尼流（CORNELIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 哥尼流（CORNELIUS）
+description: 圣经新词典 - 哥尼流（CORNELIUS）
 keywords: 哥尼流, CORNELIUS
 comments: false
 ---

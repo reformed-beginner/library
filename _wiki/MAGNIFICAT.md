@@ -2,7 +2,7 @@
 layout: wiki
 title: 尊主颂（MAGNIFICAT）
 categories: NewBibleDictionary
-description: 圣经新词典: 尊主颂（MAGNIFICAT）
+description: 圣经新词典 - 尊主颂（MAGNIFICAT）
 keywords: 尊主颂, MAGNIFICAT
 comments: false
 ---

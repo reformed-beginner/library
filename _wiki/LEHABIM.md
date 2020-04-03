@@ -2,7 +2,7 @@
 layout: wiki
 title: 利哈比（LEHABIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 利哈比（LEHABIM）
+description: 圣经新词典 - 利哈比（LEHABIM）
 keywords: 利哈比, LEHABIM
 comments: false
 ---

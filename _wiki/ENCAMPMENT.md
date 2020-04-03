@@ -2,7 +2,7 @@
 layout: wiki
 title: 靠近海边安营（ENCAMPMENT BY THE SEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 靠近海边安营（ENCAMPMENT BY THE SEA）
+description: 圣经新词典 - 靠近海边安营（ENCAMPMENT BY THE SEA）
 keywords: 靠近海边安营, ENCAMPMENT BY THE SEA
 comments: false
 ---

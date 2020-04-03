@@ -2,7 +2,7 @@
 layout: wiki
 title: 主的使者（ANGEL OF THE LORD）
 categories: NewBibleDictionary
-description: 圣经新词典: 主的使者（ANGEL OF THE LORD）
+description: 圣经新词典 - 主的使者（ANGEL OF THE LORD）
 keywords: 主的使者, ANGEL OF THE LORD
 comments: false
 ---

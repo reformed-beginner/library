@@ -2,7 +2,7 @@
 layout: wiki
 title: 审判（JUDGMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 审判（JUDGMENT）（来：s%a{p{at]，腊：krima, krisis）
+description: 圣经新词典 - 审判（JUDGMENT）（来：s%a{p{at]，腊：krima, krisis）
 keywords: 审判, JUDGMENT
 comments: false
 ---

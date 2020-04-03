@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦巴鲁（CHEBAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦巴鲁（CHEBAR）
+description: 圣经新词典 - 迦巴鲁（CHEBAR）
 keywords: 迦巴鲁, CHEBAR
 comments: false
 ---

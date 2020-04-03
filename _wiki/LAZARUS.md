@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉撒路和财主（LAZARUS AND DIVES）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉撒路和财主（LAZARUS AND DIVES）
+description: 圣经新词典 - 拉撒路和财主（LAZARUS AND DIVES）
 keywords: 拉撒路和财主, LAZARUS AND DIVES
 comments: false
 ---

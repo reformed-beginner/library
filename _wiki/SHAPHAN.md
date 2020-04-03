@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙番（SHAPHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙番（SHAPHAN）
+description: 圣经新词典 - 沙番（SHAPHAN）
 keywords: 沙番, SHAPHAN
 comments: false
 ---

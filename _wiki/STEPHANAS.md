@@ -2,7 +2,7 @@
 layout: wiki
 title: 司提反（STEPHANAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 司提反（STEPHANAS）
+description: 圣经新词典 - 司提反（STEPHANAS）
 keywords: 司提反, STEPHANAS
 comments: false
 ---

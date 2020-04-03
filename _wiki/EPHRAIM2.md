@@ -2,7 +2,7 @@
 layout: wiki
 title: 以法莲（地理上的）
 categories: NewBibleDictionary
-description: 圣经新词典: 以法莲（地理上的）（EPHRAIM [GEOGRAPHICAL]）
+description: 圣经新词典 - 以法莲（地理上的）（EPHRAIM [GEOGRAPHICAL]）
 keywords: 以法莲, 地理上的
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 革舜，革顺（GERSHOM, GERSHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 革舜，革顺（GERSHOM, GERSHON）
+description: 圣经新词典 - 革舜，革顺（GERSHOM, GERSHON）
 keywords: 革舜，革顺, GERSHOM, GERSHON
 comments: false
 ---

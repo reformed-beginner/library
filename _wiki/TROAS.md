@@ -2,7 +2,7 @@
 layout: wiki
 title: 特罗亚（TROAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 特罗亚（TROAS）
+description: 圣经新词典 - 特罗亚（TROAS）
 keywords: 特罗亚, TROAS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 半尼其（BOANERGES）
 categories: NewBibleDictionary
-description: 圣经新词典: 半尼其（BOANERGES）
+description: 圣经新词典 - 半尼其（BOANERGES）
 keywords: 半尼其, BOANERGES
 comments: false
 ---

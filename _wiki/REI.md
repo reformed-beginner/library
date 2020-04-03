@@ -2,7 +2,7 @@
 layout: wiki
 title: 利以（REI）
 categories: NewBibleDictionary
-description: 圣经新词典: 利以（REI）
+description: 圣经新词典 - 利以（REI）
 keywords: 利以, REI
 comments: false
 ---

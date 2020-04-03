@@ -2,7 +2,7 @@
 layout: wiki
 title: 生日（BIRTHDAY）
 categories: NewBibleDictionary
-description: 圣经新词典: 生日（BIRTHDAY）
+description: 圣经新词典 - 生日（BIRTHDAY）
 keywords: 生日, BIRTHDAY
 comments: false
 ---

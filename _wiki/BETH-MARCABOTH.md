@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯玛加博（BETH-MARCABOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯玛加博（BETH-MARCABOTH）（来：be^t[ hammarka{b[o^t[，“战车之家”的意思）
+description: 圣经新词典 - 伯玛加博（BETH-MARCABOTH）（来：be^t[ hammarka{b[o^t[，“战车之家”的意思）
 keywords: 伯玛加博, BETH-MARCABOTH
 comments: false
 ---

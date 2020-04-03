@@ -2,7 +2,7 @@
 layout: wiki
 title: 加低斯（KADESH）
 categories: NewBibleDictionary
-description: 圣经新词典: 加低斯（KADESH）
+description: 圣经新词典 - 加低斯（KADESH）
 keywords: 加低斯, KADESH
 comments: false
 ---

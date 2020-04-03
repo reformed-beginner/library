@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比利（APELLES）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比利（APELLES）
+description: 圣经新词典 - 亚比利（APELLES）
 keywords: 亚比利, APELLES
 comments: false
 ---

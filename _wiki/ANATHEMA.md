@@ -2,7 +2,7 @@
 layout: wiki
 title: 当毁灭的，可咒诅的（ANATHEMA）
 categories: NewBibleDictionary
-description: 圣经新词典: 当毁灭的，可咒诅的（ANATHEMA）
+description: 圣经新词典 - 当毁灭的，可咒诅的（ANATHEMA）
 keywords: 当毁灭的，可咒诅的, ANATHEMA
 comments: false
 ---

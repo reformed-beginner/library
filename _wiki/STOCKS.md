@@ -2,7 +2,7 @@
 layout: wiki
 title: 枷，木狗（STOCKS）
 categories: NewBibleDictionary
-description: 圣经新词典: 枷，木狗（STOCKS）（来：mahpek[et[ ──“颈手枷”；sad[ ──“脚镣”；s]i^no{q ──“颈圈”）
+description: 圣经新词典 - 枷，木狗（STOCKS）（来：mahpek[et[ ──“颈手枷”；sad[ ──“脚镣”；s]i^no{q ──“颈圈”）
 keywords: 枷，木狗, STOCKS
 comments: false
 ---

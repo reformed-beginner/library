@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉比多（LAPPIDOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉比多（LAPPIDOTH）（来：lappi^d[o^t[, “火把”）
+description: 圣经新词典 - 拉比多（LAPPIDOTH）（来：lappi^d[o^t[, “火把”）
 keywords: 拉比多, LAPPIDOTH
 comments: false
 ---

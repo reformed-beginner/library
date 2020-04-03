@@ -2,7 +2,7 @@
 layout: wiki
 title: 利未（LEVI）
 categories: NewBibleDictionary
-description: 圣经新词典: 利未（LEVI）
+description: 圣经新词典 - 利未（LEVI）
 keywords: 利未, LEVI
 comments: false
 ---

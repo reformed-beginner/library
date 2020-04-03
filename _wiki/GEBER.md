@@ -2,7 +2,7 @@
 layout: wiki
 title: 基别（GEBER）
 categories: NewBibleDictionary
-description: 圣经新词典: 基别（GEBER）
+description: 圣经新词典 - 基别（GEBER）
 keywords: 基别, GEBER
 comments: false
 ---

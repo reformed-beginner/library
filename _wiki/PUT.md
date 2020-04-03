@@ -2,7 +2,7 @@
 layout: wiki
 title: 弗（PUT, PHUT）
 categories: NewBibleDictionary
-description: 圣经新词典: 弗（PUT, PHUT）
+description: 圣经新词典 - 弗（PUT, PHUT）
 keywords: 弗, PUT, PHUT
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 泉源（FOUNTAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 泉源（FOUNTAIN）
+description: 圣经新词典 - 泉源（FOUNTAIN）
 keywords: 泉源, FOUNTAIN
 comments: false
 ---

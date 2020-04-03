@@ -2,7 +2,7 @@
 layout: wiki
 title: 马其顿（MACEDONIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 马其顿（MACEDONIA）
+description: 圣经新词典 - 马其顿（MACEDONIA）
 keywords: 马其顿, MACEDONIA
 comments: false
 ---

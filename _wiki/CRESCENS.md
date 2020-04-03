@@ -2,7 +2,7 @@
 layout: wiki
 title: 革勒士（CRESCENS）
 categories: NewBibleDictionary
-description: 圣经新词典: 革勒士（CRESCENS）
+description: 圣经新词典 - 革勒士（CRESCENS）
 keywords: 革勒士, CRESCENS
 comments: false
 ---

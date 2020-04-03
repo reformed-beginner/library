@@ -2,7 +2,7 @@
 layout: wiki
 title: 友阿爹（EUODIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 友阿爹（EUODIA）
+description: 圣经新词典 - 友阿爹（EUODIA）
 keywords: 友阿爹, EUODIA
 comments: false
 ---

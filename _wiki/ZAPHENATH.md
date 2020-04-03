@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒发那忒巴内亚（ZAPHENATH-PANEAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒发那忒巴内亚（ZAPHENATH-PANEAH）
+description: 圣经新词典 - 撒发那忒巴内亚（ZAPHENATH-PANEAH）
 keywords: 撒发那忒巴内亚, ZAPHENATH-PANEAH
 comments: false
 ---

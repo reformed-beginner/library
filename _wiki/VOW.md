@@ -2,7 +2,7 @@
 layout: wiki
 title: 许愿，誓言（VOW）
 categories: NewBibleDictionary
-description: 圣经新词典: 许愿，誓言（VOW）
+description: 圣经新词典 - 许愿，誓言（VOW）
 keywords: 许愿，誓言, VOW
 comments: false
 ---

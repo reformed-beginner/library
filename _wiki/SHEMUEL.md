@@ -2,7 +2,7 @@
 layout: wiki
 title: 示母利（SHEMUEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 示母利（SHEMUEL）（来：s%#mu^~e{l，意思或是“神之名”；参：“撒母耳”）
+description: 圣经新词典 - 示母利（SHEMUEL）（来：s%#mu^~e{l，意思或是“神之名”；参：“撒母耳”）
 keywords: 示母利, SHEMUEL
 comments: false
 ---

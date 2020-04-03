@@ -2,7 +2,7 @@
 layout: wiki
 title: 地界（LANDMARK）
 categories: NewBibleDictionary
-description: 圣经新词典: 地界（LANDMARK）
+description: 圣经新词典 - 地界（LANDMARK）
 keywords: 地界, LANDMARK
 comments: false
 ---

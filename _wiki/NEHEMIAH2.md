@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼希米记（NEHEMIAH, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼希米记（NEHEMIAH, BOOK OF）
+description: 圣经新词典 - 尼希米记（NEHEMIAH, BOOK OF）
 keywords: 尼希米记, NEHEMIAH, BOOK OF
 comments: false
 ---

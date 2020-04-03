@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹太人（JEW）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹太人（JEW）（来：y#hu^d[i^；亚兰文：y#hu^d[ai；腊：joudaios；拉丁文：judaeaus）
+description: 圣经新词典 - 犹太人（JEW）（来：y#hu^d[i^；亚兰文：y#hu^d[ai；腊：joudaios；拉丁文：judaeaus）
 keywords: 犹太人, JEW
 comments: false
 ---

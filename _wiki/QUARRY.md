@@ -2,7 +2,7 @@
 layout: wiki
 title: 采石场，石矿（QUARRY）
 categories: NewBibleDictionary
-description: 圣经新词典: 采石场，石矿（QUARRY）
+description: 圣经新词典 - 采石场，石矿（QUARRY）
 keywords: 采石场，石矿, QUARRY
 comments: false
 ---

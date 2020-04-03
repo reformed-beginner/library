@@ -2,7 +2,7 @@
 layout: wiki
 title: 示巴女王（SHEBA, QUEEN OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 示巴女王（SHEBA, QUEEN OF）
+description: 圣经新词典 - 示巴女王（SHEBA, QUEEN OF）
 keywords: 示巴女王, SHEBA, QUEEN OF
 comments: false
 ---

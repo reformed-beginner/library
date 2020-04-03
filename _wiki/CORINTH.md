@@ -2,7 +2,7 @@
 layout: wiki
 title: 哥林多（CORINTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哥林多（CORINTH）
+description: 圣经新词典 - 哥林多（CORINTH）
 keywords: 哥林多, CORINTH
 comments: false
 ---

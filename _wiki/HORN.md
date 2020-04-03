@@ -2,7 +2,7 @@
 layout: wiki
 title: 角（HORN）
 categories: NewBibleDictionary
-description: 圣经新词典: 角（HORN）（来：qeren；腊：keras）
+description: 圣经新词典 - 角（HORN）（来：qeren；腊：keras）
 keywords: 角, HORN
 comments: false
 ---

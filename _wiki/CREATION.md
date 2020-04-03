@@ -2,7 +2,7 @@
 layout: wiki
 title: 创造（CREATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 创造（CREATION）
+description: 圣经新词典 - 创造（CREATION）
 keywords: 创造, CREATION
 comments: false
 ---

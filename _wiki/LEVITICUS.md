@@ -2,7 +2,7 @@
 layout: wiki
 title: 利未记（LEVITICUS, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 利未记（LEVITICUS, BOOK OF）
+description: 圣经新词典 - 利未记（LEVITICUS, BOOK OF）
 keywords: 利未记, LEVITICUS, BOOK OF
 comments: false
 ---

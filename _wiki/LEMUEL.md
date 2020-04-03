@@ -2,7 +2,7 @@
 layout: wiki
 title: 利慕伊勒（LEMUEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 利慕伊勒（LEMUEL）
+description: 圣经新词典 - 利慕伊勒（LEMUEL）
 keywords: 利慕伊勒, LEMUEL
 comments: false
 ---

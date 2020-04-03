@@ -2,7 +2,7 @@
 layout: wiki
 title: 灯；灯台；灯笼（LAMP, LAMPSTAND, LANTERN）
 categories: NewBibleDictionary
-description: 圣经新词典: 灯；灯台；灯笼（LAMP, LAMPSTAND, LANTERN）
+description: 圣经新词典 - 灯；灯台；灯笼（LAMP, LAMPSTAND, LANTERN）
 keywords: 灯；灯台；灯笼, LAMP, LAMPSTAND, LANTERN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 冠冕（CROWN）
 categories: NewBibleDictionary
-description: 圣经新词典: 冠冕（CROWN）
+description: 圣经新词典 - 冠冕（CROWN）
 keywords: 冠冕, CROWN
 comments: false
 ---

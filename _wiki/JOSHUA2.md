@@ -2,7 +2,7 @@
 layout: wiki
 title: 约书亚记（JOSHUA, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 约书亚记（JOSHUA, BOOK OF）
+description: 圣经新词典 - 约书亚记（JOSHUA, BOOK OF）
 keywords: 约书亚记, JOSHUA, BOOK OF
 comments: false
 ---

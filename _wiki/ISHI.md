@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊施（ISHI）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊施（ISHI）（来：~i^s%i^，“我的丈夫”）
+description: 圣经新词典 - 伊施（ISHI）（来：~i^s%i^，“我的丈夫”）
 keywords: 伊施, ISHI
 comments: false
 ---

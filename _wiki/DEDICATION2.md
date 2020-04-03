@@ -2,7 +2,7 @@
 layout: wiki
 title: 修殿节（DEDICATION, FEAST OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 修殿节（DEDICATION, FEAST OF）（腊：ho enkainismos tou
+description: 圣经新词典 - 修殿节（DEDICATION, FEAST OF）（腊：ho enkainismos tou
 thysiasteriou，马加比壹书四47-59; ta enkainia，约十22，译自来：h]@nukka^，从 h]a{nak[
 一字而来，意即“呈献”）
 keywords: 修殿节, DEDICATION, FEAST OF

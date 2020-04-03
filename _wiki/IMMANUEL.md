@@ -2,7 +2,7 @@
 layout: wiki
 title: 以马内利（IMMANUEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 以马内利（IMMANUEL）（来：'imma{nu^~e{l，“与我们同在的是神”）
+description: 圣经新词典 - 以马内利（IMMANUEL）（来：'imma{nu^~e{l，“与我们同在的是神”）
 keywords: 以马内利, IMMANUEL
 comments: false
 ---

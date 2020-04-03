@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴沙（BAASHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴沙（BAASHA）
+description: 圣经新词典 - 巴沙（BAASHA）
 keywords: 巴沙, BAASHA
 comments: false
 ---

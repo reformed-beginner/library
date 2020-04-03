@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦百农（CAPERNAUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦百农（CAPERNAUM）
+description: 圣经新词典 - 迦百农（CAPERNAUM）
 keywords: 迦百农, CAPERNAUM
 comments: false
 ---

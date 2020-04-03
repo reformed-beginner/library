@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌西（UZZI）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌西（UZZI）
+description: 圣经新词典 - 乌西（UZZI）
 keywords: 乌西, UZZI
 comments: false
 ---

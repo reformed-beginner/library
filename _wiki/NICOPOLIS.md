@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼哥波立（NICOPOLIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼哥波立（NICOPOLIS）（“胜利之城”）
+description: 圣经新词典 - 尼哥波立（NICOPOLIS）（“胜利之城”）
 keywords: 尼哥波立, NICOPOLIS
 comments: false
 ---

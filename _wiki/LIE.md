@@ -2,7 +2,7 @@
 layout: wiki
 title: 谎言；说谎（LIE, LYING）
 categories: NewBibleDictionary
-description: 圣经新词典: 谎言；说谎（LIE, LYING）（来：s%eqer，“虚假”，“欺骗”；ka{za{b[，“谎言”或“骗人的事物”；腊：pseudos
+description: 圣经新词典 - 谎言；说谎（LIE, LYING）（来：s%eqer，“虚假”，“欺骗”；ka{za{b[，“谎言”或“骗人的事物”；腊：pseudos
 以及同词源的字）
 keywords: 谎言；说谎, LIE, LYING
 comments: false

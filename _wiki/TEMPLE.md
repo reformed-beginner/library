@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣殿，庙宇（TEMPLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣殿，庙宇（TEMPLE）
+description: 圣经新词典 - 圣殿，庙宇（TEMPLE）
 keywords: 圣殿，庙宇, TEMPLE
 comments: false
 ---

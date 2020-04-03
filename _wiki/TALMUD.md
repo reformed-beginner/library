@@ -2,7 +2,7 @@
 layout: wiki
 title: 他勒目与米大示（TALMUD AND MIDRASH）
 categories: NewBibleDictionary
-description: 圣经新词典: 他勒目与米大示（TALMUD AND MIDRASH）
+description: 圣经新词典 - 他勒目与米大示（TALMUD AND MIDRASH）
 keywords: 他勒目与米大示, TALMUD AND MIDRASH
 comments: false
 ---

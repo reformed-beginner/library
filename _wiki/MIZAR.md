@@ -2,7 +2,7 @@
 layout: wiki
 title: 米萨山（MIZAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 米萨山（MIZAR）
+description: 圣经新词典 - 米萨山（MIZAR）
 keywords: 米萨山, MIZAR
 comments: false
 ---

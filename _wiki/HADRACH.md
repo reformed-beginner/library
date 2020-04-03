@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈得拉（HADRACH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈得拉（HADRACH）
+description: 圣经新词典 - 哈得拉（HADRACH）
 keywords: 哈得拉, HADRACH
 comments: false
 ---

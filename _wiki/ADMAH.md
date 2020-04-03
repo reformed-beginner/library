@@ -2,7 +2,7 @@
 layout: wiki
 title: 押玛（ADMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 押玛（ADMAH）
+description: 圣经新词典 - 押玛（ADMAH）
 keywords: 押玛, ADMAH
 comments: false
 ---

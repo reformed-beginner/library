@@ -2,7 +2,7 @@
 layout: wiki
 title: 西法拉（SEPHARAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 西法拉（SEPHARAD）
+description: 圣经新词典 - 西法拉（SEPHARAD）
 keywords: 西法拉, SEPHARAD
 comments: false
 ---

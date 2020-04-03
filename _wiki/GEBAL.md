@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦巴勒（GEBAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦巴勒（GEBAL）
+description: 圣经新词典 - 迦巴勒（GEBAL）
 keywords: 迦巴勒, GEBAL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 赎罪日（ATONEMENT, DAY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 赎罪日（ATONEMENT, DAY OF）（来：yo^m hakkip-puri^m）
+description: 圣经新词典 - 赎罪日（ATONEMENT, DAY OF）（来：yo^m hakkip-puri^m）
 keywords: 赎罪日, ATONEMENT, DAY OF
 comments: false
 ---

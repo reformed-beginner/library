@@ -2,7 +2,7 @@
 layout: wiki
 title: 东方（EAST）
 categories: NewBibleDictionary
-description: 圣经新词典: 东方（EAST）
+description: 圣经新词典 - 东方（EAST）
 keywords: 东方, EAST
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒们（ZALMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒们（ZALMON）
+description: 圣经新词典 - 撒们（ZALMON）
 keywords: 撒们, ZALMON
 comments: false
 ---

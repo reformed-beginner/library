@@ -2,7 +2,7 @@
 layout: wiki
 title: 利希（LEHI）
 categories: NewBibleDictionary
-description: 圣经新词典: 利希（LEHI）（来：l#h]i^, leh]i^，“腮骨”，士十五9、14、19；士十五17之“拉末利希”）
+description: 圣经新词典 - 利希（LEHI）（来：l#h]i^, leh]i^，“腮骨”，士十五9、14、19；士十五17之“拉末利希”）
 keywords: 利希, LEHI
 comments: false
 ---

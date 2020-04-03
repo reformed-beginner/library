@@ -2,7 +2,7 @@
 layout: wiki
 title: 奥秘（MYSTERY）
 categories: NewBibleDictionary
-description: 圣经新词典: 奥秘（MYSTERY）
+description: 圣经新词典 - 奥秘（MYSTERY）
 keywords: 奥秘, MYSTERY
 comments: false
 ---

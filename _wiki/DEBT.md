@@ -2,7 +2,7 @@
 layout: wiki
 title: 债；债主（DEBT, DEBTOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 债；债主（DEBT, DEBTOR）
+description: 圣经新词典 - 债；债主（DEBT, DEBTOR）
 keywords: 债；债主, DEBT, DEBTOR
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 砖（BRICK）
 categories: NewBibleDictionary
-description: 圣经新词典: 砖（BRICK）
+description: 圣经新词典 - 砖（BRICK）
 keywords: 砖, BRICK
 comments: false
 ---

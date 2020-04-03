@@ -2,7 +2,7 @@
 layout: wiki
 title: 友尼基（EUNICE）
 categories: NewBibleDictionary
-description: 圣经新词典: 友尼基（EUNICE）
+description: 圣经新词典 - 友尼基（EUNICE）
 keywords: 友尼基, EUNICE
 comments: false
 ---

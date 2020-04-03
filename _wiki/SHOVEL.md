@@ -2,7 +2,7 @@
 layout: wiki
 title: 铲子（SHOVEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 铲子（SHOVEL）（来：ya{`）
+description: 圣经新词典 - 铲子（SHOVEL）（来：ya{`）
 keywords: 铲子, SHOVEL
 comments: false
 ---

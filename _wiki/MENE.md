@@ -2,7 +2,7 @@
 layout: wiki
 title: 弥尼，弥尼，提客勒，乌法珥新（MENE, MENE, TEKEL, UPHARSIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 弥尼，弥尼，提客勒，乌法珥新（MENE, MENE, TEKEL, UPHARSIN）
+description: 圣经新词典 - 弥尼，弥尼，提客勒，乌法珥新（MENE, MENE, TEKEL, UPHARSIN）
 keywords: 弥尼，弥尼，提客勒，乌法珥新, MENE, MENE, TEKEL, UPHARSIN
 comments: false
 ---

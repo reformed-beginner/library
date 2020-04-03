@@ -2,7 +2,7 @@
 layout: wiki
 title: 基训（GIHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 基训（GIHON）（来：gi^h]o^n，“溪流”）
+description: 圣经新词典 - 基训（GIHON）（来：gi^h]o^n，“溪流”）
 keywords: 基训, GIHON
 comments: false
 ---

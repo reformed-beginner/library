@@ -2,7 +2,7 @@
 layout: wiki
 title: 以便以谢（EBENEZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 以便以谢（EBENEZER）（来：~eb[en `e{zer，意即“帮助之石”）
+description: 圣经新词典 - 以便以谢（EBENEZER）（来：~eb[en `e{zer，意即“帮助之石”）
 keywords: 以便以谢, EBENEZER
 comments: false
 ---

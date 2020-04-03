@@ -2,7 +2,7 @@
 layout: wiki
 title: 兽（启示录中）
 categories: NewBibleDictionary
-description: 圣经新词典: 兽（启示录中）（BEAST [APOCALYPSE]）
+description: 圣经新词典 - 兽（启示录中）（BEAST [APOCALYPSE]）
 keywords: 兽, 启示录中
 comments: false
 ---

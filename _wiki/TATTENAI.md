@@ -2,7 +2,7 @@
 layout: wiki
 title: 达乃（TATTENAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 达乃（TATTENAI）（来：tatt#nai；AV： 'Tatnai'；参：腊：Sisinnes，以斯得拉壹书六3，七1，RSV）
+description: 圣经新词典 - 达乃（TATTENAI）（来：tatt#nai；AV： 'Tatnai'；参：腊：Sisinnes，以斯得拉壹书六3，七1，RSV）
 keywords: 达乃, TATTENAI
 comments: false
 ---

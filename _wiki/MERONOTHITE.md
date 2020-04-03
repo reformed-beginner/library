@@ -2,7 +2,7 @@
 layout: wiki
 title: 米仑（伦）
 categories: NewBibleDictionary
-description: 圣经新词典: 米仑（伦）人（MERONOTHITE）
+description: 圣经新词典 - 米仑（伦）人（MERONOTHITE）
 keywords: 米仑, 伦
 comments: false
 ---

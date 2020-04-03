@@ -2,7 +2,7 @@
 layout: wiki
 title: 革利免（CLEMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 革利免（CLEMENT）
+description: 圣经新词典 - 革利免（CLEMENT）
 keywords: 革利免, CLEMENT
 comments: false
 ---

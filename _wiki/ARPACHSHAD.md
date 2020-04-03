@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚帕撒，亚法撒（ARPACHSHAD, ARPHAXAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚帕撒，亚法撒（ARPACHSHAD, ARPHAXAD）（来：~arpak[s%ad[；七十士译本和新约：Arphaxad）
+description: 圣经新词典 - 亚帕撒，亚法撒（ARPACHSHAD, ARPHAXAD）（来：~arpak[s%ad[；七十士译本和新约：Arphaxad）
 keywords: 亚帕撒，亚法撒, ARPACHSHAD, ARPHAXAD
 comments: false
 ---

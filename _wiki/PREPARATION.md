@@ -2,7 +2,7 @@
 layout: wiki
 title: 豫备（PREPARATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 豫备（PREPARATION）
+description: 圣经新词典 - 豫备（PREPARATION）
 keywords: 豫备, PREPARATION
 comments: false
 ---

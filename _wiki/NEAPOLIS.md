@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼亚波利（NEAPOLIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼亚波利（NEAPOLIS）（“新城”）
+description: 圣经新词典 - 尼亚波利（NEAPOLIS）（“新城”）
 keywords: 尼亚波利, NEAPOLIS
 comments: false
 ---

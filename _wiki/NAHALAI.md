@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿哈拉（NAHALAI, NAHALOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿哈拉（NAHALAI, NAHALOL）（来：nah@lol）
+description: 圣经新词典 - 拿哈拉（NAHALAI, NAHALOL）（来：nah@lol）
 keywords: 拿哈拉, NAHALAI, NAHALOL
 comments: false
 ---

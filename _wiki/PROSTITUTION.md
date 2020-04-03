@@ -2,7 +2,7 @@
 layout: wiki
 title: 卖淫（PROSTITUTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 卖淫（PROSTITUTION）
+description: 圣经新词典 - 卖淫（PROSTITUTION）
 keywords: 卖淫, PROSTITUTION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　一个首领坐在有翼的基路伯宝座上接受贡物
+description: 圣经新词典 - 图　一个首领坐在有翼的基路伯宝座上接受贡物
 keywords: , 
 comments: false
 ---

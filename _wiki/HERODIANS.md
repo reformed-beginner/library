@@ -2,7 +2,7 @@
 layout: wiki
 title: 希律党人（HERODIANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 希律党人（HERODIANS）
+description: 圣经新词典 - 希律党人（HERODIANS）
 keywords: 希律党人, HERODIANS
 comments: false
 ---

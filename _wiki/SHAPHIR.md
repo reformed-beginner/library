@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙斐（SHAPHIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙斐（SHAPHIR）（AV: Saphir）
+description: 圣经新词典 - 沙斐（SHAPHIR）（AV: Saphir）
 keywords: 沙斐, SHAPHIR
 comments: false
 ---

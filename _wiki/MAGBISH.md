@@ -2,7 +2,7 @@
 layout: wiki
 title: 末必（MAGBISH）
 categories: NewBibleDictionary
-description: 圣经新词典: 末必（MAGBISH）
+description: 圣经新词典 - 末必（MAGBISH）
 keywords: 末必, MAGBISH
 comments: false
 ---

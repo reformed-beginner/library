@@ -2,7 +2,7 @@
 layout: wiki
 title: 以巴弗（EPAPHRAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 以巴弗（EPAPHRAS）
+description: 圣经新词典 - 以巴弗（EPAPHRAS）
 keywords: 以巴弗, EPAPHRAS
 comments: false
 ---

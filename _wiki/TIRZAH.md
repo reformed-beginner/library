@@ -2,7 +2,7 @@
 layout: wiki
 title: 得撒（TIRZAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 得撒（TIRZAH）
+description: 圣经新词典 - 得撒（TIRZAH）
 keywords: 得撒, TIRZAH
 comments: false
 ---

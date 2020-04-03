@@ -2,7 +2,7 @@
 layout: wiki
 title: 君王；王位（KING, KINGSHIP）
 categories: NewBibleDictionary
-description: 圣经新词典: 君王；王位（KING, KINGSHIP）（来：melek[; 腊：basileus）
+description: 圣经新词典 - 君王；王位（KING, KINGSHIP）（来：melek[; 腊：basileus）
 keywords: 君王；王位, KING, KINGSHIP
 comments: false
 ---

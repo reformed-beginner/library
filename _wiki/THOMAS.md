@@ -2,7 +2,7 @@
 layout: wiki
 title: 多马（THOMAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 多马（THOMAS）
+description: 圣经新词典 - 多马（THOMAS）
 keywords: 多马, THOMAS
 comments: false
 ---

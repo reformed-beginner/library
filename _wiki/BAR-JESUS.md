@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴耶稣（BAR-JESUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴耶稣（BAR-JESUS）
+description: 圣经新词典 - 巴耶稣（BAR-JESUS）
 keywords: 巴耶稣, BAR-JESUS
 comments: false
 ---

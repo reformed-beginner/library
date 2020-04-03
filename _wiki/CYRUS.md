@@ -2,7 +2,7 @@
 layout: wiki
 title: 古列（CYRUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 古列（CYRUS）（希伯来文/亚兰文：ko^res%，以拦文/古波斯文：ku{rus%，巴比伦文：kuras%）
+description: 圣经新词典 - 古列（CYRUS）（希伯来文/亚兰文：ko^res%，以拦文/古波斯文：ku{rus%，巴比伦文：kuras%）
 keywords: 古列, CYRUS
 comments: false
 ---

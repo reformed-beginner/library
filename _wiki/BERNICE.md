@@ -2,7 +2,7 @@
 layout: wiki
 title: 百尼基（BERNICE）
 categories: NewBibleDictionary
-description: 圣经新词典: 百尼基（BERNICE）
+description: 圣经新词典 - 百尼基（BERNICE）
 keywords: 百尼基, BERNICE
 comments: false
 ---

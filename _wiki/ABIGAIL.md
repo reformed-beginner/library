@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比该（ABIGAIL）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比该（ABIGAIL）（来：`@b[I^g{ayil，“我父是喜乐”〔？〕）
+description: 圣经新词典 - 亚比该（ABIGAIL）（来：`@b[I^g{ayil，“我父是喜乐”〔？〕）
 keywords: 亚比该, ABIGAIL
 comments: false
 ---

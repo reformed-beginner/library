@@ -2,7 +2,7 @@
 layout: wiki
 title: 游牧民族（NOMADS）
 categories: NewBibleDictionary
-description: 圣经新词典: 游牧民族（NOMADS）
+description: 圣经新词典 - 游牧民族（NOMADS）
 keywords: 游牧民族, NOMADS
 comments: false
 ---

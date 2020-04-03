@@ -2,7 +2,7 @@
 layout: wiki
 title: 设巴萨（SHESHBAZZAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 设巴萨（SHESHBAZZAR）
+description: 圣经新词典 - 设巴萨（SHESHBAZZAR）
 keywords: 设巴萨, SHESHBAZZAR
 comments: false
 ---

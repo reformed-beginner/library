@@ -2,7 +2,7 @@
 layout: wiki
 title: 两边，大腿（THIGH）
 categories: NewBibleDictionary
-description: 圣经新词典: 两边，大腿（THIGH）
+description: 圣经新词典 - 两边，大腿（THIGH）
 keywords: 两边，大腿, THIGH
 comments: false
 ---

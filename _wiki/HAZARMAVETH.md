@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈萨玛非（HAZARMAVETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈萨玛非（HAZARMAVETH）（来：h]@ s]arma{wet[）
+description: 圣经新词典 - 哈萨玛非（HAZARMAVETH）（来：h]@ s]arma{wet[）
 keywords: 哈萨玛非, HAZARMAVETH
 comments: false
 ---

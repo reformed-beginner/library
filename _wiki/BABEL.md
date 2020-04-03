@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴别（BABEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴别（BABEL）(来：Ba{b[el，即“神的门”；参*巴比伦城）
+description: 圣经新词典 - 巴别（BABEL）(来：Ba{b[el，即“神的门”；参*巴比伦城）
 keywords: 巴别, BABEL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚雅仑（AIJALON，AJALON）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚雅仑（AIJALON，AJALON）（来：~ayya{lo^n）
+description: 圣经新词典 - 亚雅仑（AIJALON，AJALON）（来：~ayya{lo^n）
 keywords: 亚雅仑, AIJALON，AJALON
 comments: false
 ---

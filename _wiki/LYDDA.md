@@ -2,7 +2,7 @@
 layout: wiki
 title: 吕大（LYDDA）
 categories: NewBibleDictionary
-description: 圣经新词典: 吕大（LYDDA）
+description: 圣经新词典 - 吕大（LYDDA）
 keywords: 吕大, LYDDA
 comments: false
 ---

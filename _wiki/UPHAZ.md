@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌法（UPHAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌法（UPHAZ）
+description: 圣经新词典 - 乌法（UPHAZ）
 keywords: 乌法, UPHAZ
 comments: false
 ---

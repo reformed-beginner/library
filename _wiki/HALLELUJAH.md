@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈利路亚（HALLELUJAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈利路亚（HALLELUJAH）
+description: 圣经新词典 - 哈利路亚（HALLELUJAH）
 keywords: 哈利路亚, HALLELUJAH
 comments: false
 ---

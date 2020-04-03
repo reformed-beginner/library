@@ -2,7 +2,7 @@
 layout: wiki
 title: 示非拉（丘陵地带）
 categories: NewBibleDictionary
-description: 圣经新词典: 示非拉（丘陵地带）（SHEPHELAH）（来：s%#p{ela^）
+description: 圣经新词典 - 示非拉（丘陵地带）（SHEPHELAH）（来：s%#p{ela^）
 keywords: 示非拉, 丘陵地带
 comments: false
 ---

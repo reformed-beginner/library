@@ -2,7 +2,7 @@
 layout: wiki
 title: 高大（CAUDA）
 categories: NewBibleDictionary
-description: 圣经新词典: 高大（CAUDA）
+description: 圣经新词典 - 高大（CAUDA）
 keywords: 高大, CAUDA
 comments: false
 ---

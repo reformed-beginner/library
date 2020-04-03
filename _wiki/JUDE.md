@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹大书（JUDE, EPISTLE OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹大书（JUDE, EPISTLE OF）
+description: 圣经新词典 - 犹大书（JUDE, EPISTLE OF）
 keywords: 犹大书, JUDE, EPISTLE OF
 comments: false
 ---

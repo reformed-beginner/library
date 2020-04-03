@@ -2,7 +2,7 @@
 layout: wiki
 title: 神国，天国（KINGDOM OF GOD, KINGDOM OF HEAVEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 神国，天国（KINGDOM OF GOD, KINGDOM OF HEAVEN）
+description: 圣经新词典 - 神国，天国（KINGDOM OF GOD, KINGDOM OF HEAVEN）
 keywords: 神国，天国, KINGDOM OF GOD, KINGDOM OF HEAVEN
 comments: false
 ---

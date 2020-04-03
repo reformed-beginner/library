@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚革大马（AKELDAMA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚革大马（AKELDAMA）
+description: 圣经新词典 - 亚革大马（AKELDAMA）
 keywords: 亚革大马, AKELDAMA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 约哈斯（JEHOAHAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 约哈斯（JEHOAHAZ）（来：y#ho^~a{h]a{z，“耶和华已抓着”）
+description: 圣经新词典 - 约哈斯（JEHOAHAZ）（来：y#ho^~a{h]a{z，“耶和华已抓着”）
 keywords: 约哈斯, JEHOAHAZ
 comments: false
 ---

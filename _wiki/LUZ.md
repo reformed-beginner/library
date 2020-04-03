@@ -2,7 +2,7 @@
 layout: wiki
 title: 路斯（LUZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 路斯（LUZ）
+description: 圣经新词典 - 路斯（LUZ）
 keywords: 路斯, LUZ
 comments: false
 ---

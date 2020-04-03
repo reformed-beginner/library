@@ -2,7 +2,7 @@
 layout: wiki
 title: 希利尼人（希腊化者）
 categories: NewBibleDictionary
-description: 圣经新词典: 希利尼人（希腊化者）（HELLENISTS）
+description: 圣经新词典 - 希利尼人（希腊化者）（HELLENISTS）
 keywords: 希利尼人, 希腊化者
 comments: false
 ---

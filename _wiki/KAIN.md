@@ -2,7 +2,7 @@
 layout: wiki
 title: 该隐（KAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 该隐（KAIN）
+description: 圣经新词典 - 该隐（KAIN）
 keywords: 该隐, KAIN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 户割（HUKKOK）
 categories: NewBibleDictionary
-description: 圣经新词典: 户割（HUKKOK）
+description: 圣经新词典 - 户割（HUKKOK）
 keywords: 户割, HUKKOK
 comments: false
 ---

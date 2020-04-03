@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯夙（BETH-ZUR）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯夙（BETH-ZUR）（来：be^t[ s]u^r）
+description: 圣经新词典 - 伯夙（BETH-ZUR）（来：be^t[ s]u^r）
 keywords: 伯夙, BETH-ZUR
 comments: false
 ---

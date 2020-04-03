@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯哈兰（BETH-HARAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯哈兰（BETH-HARAN）
+description: 圣经新词典 - 伯哈兰（BETH-HARAN）
 keywords: 伯哈兰, BETH-HARAN
 comments: false
 ---

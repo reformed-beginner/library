@@ -2,7 +2,7 @@
 layout: wiki
 title: 世代（GENERATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 世代（GENERATION）
+description: 圣经新词典 - 世代（GENERATION）
 keywords: 世代, GENERATION
 comments: false
 ---

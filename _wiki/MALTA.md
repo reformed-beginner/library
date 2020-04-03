@@ -2,7 +2,7 @@
 layout: wiki
 title: 米利大（MALTA）
 categories: NewBibleDictionary
-description: 圣经新词典: 米利大（MALTA）（腊：Melite{；徒廿八1，AV 'Melita'; 〔译注：此岛今称马尔他〕）
+description: 圣经新词典 - 米利大（MALTA）（腊：Melite{；徒廿八1，AV 'Melita'; 〔译注：此岛今称马尔他〕）
 keywords: 米利大, MALTA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 炭（COAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 炭（COAL）
+description: 圣经新词典 - 炭（COAL）
 keywords: 炭, COAL
 comments: false
 ---

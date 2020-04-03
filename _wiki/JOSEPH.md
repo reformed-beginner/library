@@ -2,7 +2,7 @@
 layout: wiki
 title: 约瑟（JOSEPH）
 categories: NewBibleDictionary
-description: 圣经新词典: 约瑟（JOSEPH）
+description: 圣经新词典 - 约瑟（JOSEPH）
 keywords: 约瑟, JOSEPH
 comments: false
 ---

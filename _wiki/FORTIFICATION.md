@@ -2,7 +2,7 @@
 layout: wiki
 title: 防卫和围攻（FORTIFICATION AND SIEGECRAFT）
 categories: NewBibleDictionary
-description: 圣经新词典: 防卫和围攻（FORTIFICATION AND SIEGECRAFT）
+description: 圣经新词典 - 防卫和围攻（FORTIFICATION AND SIEGECRAFT）
 keywords: 防卫和围攻, FORTIFICATION AND SIEGECRAFT
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 法老（PHARAOH）
 categories: NewBibleDictionary
-description: 圣经新词典: 法老（PHARAOH）
+description: 圣经新词典 - 法老（PHARAOH）
 keywords: 法老, PHARAOH
 comments: false
 ---

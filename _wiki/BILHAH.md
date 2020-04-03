@@ -2,7 +2,7 @@
 layout: wiki
 title: 辟拉（BILHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 辟拉（BILHAH）（来：bilh]a^h）
+description: 圣经新词典 - 辟拉（BILHAH）（来：bilh]a^h）
 keywords: 辟拉, BILHAH
 comments: false
 ---

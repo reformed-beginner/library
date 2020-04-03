@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚腓亚（APPHIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚腓亚（APPHIA）
+description: 圣经新词典 - 亚腓亚（APPHIA）
 keywords: 亚腓亚, APPHIA
 comments: false
 ---

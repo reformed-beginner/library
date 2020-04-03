@@ -2,7 +2,7 @@
 layout: wiki
 title: 禧年书（JUBILEES, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 禧年书（JUBILEES, BOOK OF）
+description: 圣经新词典 - 禧年书（JUBILEES, BOOK OF）
 keywords: 禧年书, JUBILEES, BOOK OF
 comments: false
 ---

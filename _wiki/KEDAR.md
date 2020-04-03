@@ -2,7 +2,7 @@
 layout: wiki
 title: 基达（KEDAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 基达（KEDAR）（来：qe{d[a{r, 意思大概是“黑”或“黝黑”）
+description: 圣经新词典 - 基达（KEDAR）（来：qe{d[a{r, 意思大概是“黑”或“黝黑”）
 keywords: 基达, KEDAR
 comments: false
 ---

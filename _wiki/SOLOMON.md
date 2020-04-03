@@ -2,7 +2,7 @@
 layout: wiki
 title: 所罗门（SOLOMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 所罗门（SOLOMON）
+description: 圣经新词典 - 所罗门（SOLOMON）
 keywords: 所罗门, SOLOMON
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 果园（ORCHARD）
 categories: NewBibleDictionary
-description: 圣经新词典: 果园（ORCHARD）
+description: 圣经新词典 - 果园（ORCHARD）
 keywords: 果园, ORCHARD
 comments: false
 ---

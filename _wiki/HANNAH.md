@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈拿（HANNAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈拿（HANNAH）（来：h]anna^，意即“恩典”）
+description: 圣经新词典 - 哈拿（HANNAH）（来：h]anna^，意即“恩典”）
 keywords: 哈拿, HANNAH
 comments: false
 ---

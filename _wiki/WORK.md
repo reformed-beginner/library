@@ -2,7 +2,7 @@
 layout: wiki
 title: 操作，做工，工作（WORK）
 categories: NewBibleDictionary
-description: 圣经新词典: 操作，做工，工作（WORK）
+description: 圣经新词典 - 操作，做工，工作（WORK）
 keywords: 操作，做工，工作, WORK
 comments: false
 ---

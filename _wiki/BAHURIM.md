@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴户琳（BAHURIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴户琳（BAHURIM）
+description: 圣经新词典 - 巴户琳（BAHURIM）
 keywords: 巴户琳, BAHURIM
 comments: false
 ---

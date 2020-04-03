@@ -2,7 +2,7 @@
 layout: wiki
 title: 看守，护卫兵（GUARD）
 categories: NewBibleDictionary
-description: 圣经新词典: 看守，护卫兵（GUARD）
+description: 圣经新词典 - 看守，护卫兵（GUARD）
 keywords: 看守，护卫兵, GUARD
 comments: false
 ---

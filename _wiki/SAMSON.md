@@ -2,7 +2,7 @@
 layout: wiki
 title: 参孙（SAMSON）
 categories: NewBibleDictionary
-description: 圣经新词典: 参孙（SAMSON）
+description: 圣经新词典 - 参孙（SAMSON）
 keywords: 参孙, SAMSON
 comments: false
 ---

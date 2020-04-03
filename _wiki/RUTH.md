@@ -2,7 +2,7 @@
 layout: wiki
 title: 路得（RUTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 路得（RUTH）（来：ru^t[，可能是 r#`u^t[ ──“女性同伴”──一字的缩写）
+description: 圣经新词典 - 路得（RUTH）（来：ru^t[，可能是 r#`u^t[ ──“女性同伴”──一字的缩写）
 keywords: 路得, RUTH
 comments: false
 ---

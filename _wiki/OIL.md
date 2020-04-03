@@ -2,7 +2,7 @@
 layout: wiki
 title: 油（OIL）
 categories: NewBibleDictionary
-description: 圣经新词典: 油（OIL）
+description: 圣经新词典 - 油（OIL）
 keywords: 油, OIL
 comments: false
 ---

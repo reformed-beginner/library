@@ -2,7 +2,7 @@
 layout: wiki
 title: 胜利（VICTORY）
 categories: NewBibleDictionary
-description: 圣经新词典: 胜利（VICTORY）
+description: 圣经新词典 - 胜利（VICTORY）
 keywords: 胜利, VICTORY
 comments: false
 ---

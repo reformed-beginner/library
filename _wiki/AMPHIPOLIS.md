@@ -2,7 +2,7 @@
 layout: wiki
 title: 暗妃波里（AMPHIPOLIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 暗妃波里（AMPHIPOLIS）
+description: 圣经新词典 - 暗妃波里（AMPHIPOLIS）
 keywords: 暗妃波里, AMPHIPOLIS
 comments: false
 ---

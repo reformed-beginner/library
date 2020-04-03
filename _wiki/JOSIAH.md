@@ -2,7 +2,7 @@
 layout: wiki
 title: 约西亚（JOSIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 约西亚（JOSIAH）（来：yo{~s%iyya%hu^, 2
+description: 圣经新词典 - 约西亚（JOSIAH）（来：yo{~s%iyya%hu^, 2
 keywords: 约西亚, JOSIAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒迦（SALECAH, SALCAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒迦（SALECAH, SALCAH）
+description: 圣经新词典 - 撒迦（SALECAH, SALCAH）
 keywords: 撒迦, SALECAH, SALCAH
 comments: false
 ---

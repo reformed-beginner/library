@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙（SAND）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙（SAND）（来：h]o^l；腊：ammos）
+description: 圣经新词典 - 沙（SAND）（来：h]o^l；腊：ammos）
 keywords: 沙, SAND
 comments: false
 ---

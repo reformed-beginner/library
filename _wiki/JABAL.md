@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅八（JABAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅八（JABAL）
+description: 圣经新词典 - 雅八（JABAL）
 keywords: 雅八, JABAL
 comments: false
 ---

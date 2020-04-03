@@ -2,7 +2,7 @@
 layout: wiki
 title: 底但（DEDAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 底但（DEDAN）
+description: 圣经新词典 - 底但（DEDAN）
 keywords: 底但, DEDAN
 comments: false
 ---

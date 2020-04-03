@@ -2,7 +2,7 @@
 layout: wiki
 title: 赏赐，回报，工价（REWARD）
 categories: NewBibleDictionary
-description: 圣经新词典: 赏赐，回报，工价（REWARD）
+description: 圣经新词典 - 赏赐，回报，工价（REWARD）
 keywords: 赏赐，回报，工价, REWARD
 comments: false
 ---

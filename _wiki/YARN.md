@@ -2,7 +2,7 @@
 layout: wiki
 title: 纱，线（YARN）
 categories: NewBibleDictionary
-description: 圣经新词典: 纱，线（YARN）
+description: 圣经新词典 - 纱，线（YARN）
 keywords: 纱，线, YARN
 comments: false
 ---

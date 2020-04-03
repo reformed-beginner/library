@@ -2,7 +2,7 @@
 layout: wiki
 title: 哥士（COS）
 categories: NewBibleDictionary
-description: 圣经新词典: 哥士（COS）
+description: 圣经新词典 - 哥士（COS）
 keywords: 哥士, COS
 comments: false
 ---

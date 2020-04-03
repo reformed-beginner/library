@@ -2,7 +2,7 @@
 layout: wiki
 title: 基大老玛（CHEDORLAOMER）
 categories: NewBibleDictionary
-description: 圣经新词典: 基大老玛（CHEDORLAOMER）（来：k#d[or la{`o{mer，腊： Chodolla [o] gomor）
+description: 圣经新词典 - 基大老玛（CHEDORLAOMER）（来：k#d[or la{`o{mer，腊： Chodolla [o] gomor）
 keywords: 基大老玛, CHEDORLAOMER
 comments: false
 ---

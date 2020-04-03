@@ -2,7 +2,7 @@
 layout: wiki
 title: 军队；天上的万象，万军（HOST, HOST OF HEAVEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 军队；天上的万象，万军（HOST, HOST OF HEAVEN）
+description: 圣经新词典 - 军队；天上的万象，万军（HOST, HOST OF HEAVEN）
 keywords: 军队；天上的万象，万军, HOST, HOST OF HEAVEN
 comments: false
 ---

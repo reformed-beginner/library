@@ -2,7 +2,7 @@
 layout: wiki
 title: 米萨合（MEZAHAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 米萨合（MEZAHAB）
+description: 圣经新词典 - 米萨合（MEZAHAB）
 keywords: 米萨合, MEZAHAB
 comments: false
 ---

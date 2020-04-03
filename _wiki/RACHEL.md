@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉结（RACHEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉结（RACHEL）（来：ra{h]e{l，“母羊”；LXX: Rache{l）
+description: 圣经新词典 - 拉结（RACHEL）（来：ra{h]e{l，“母羊”；LXX: Rache{l）
 keywords: 拉结, RACHEL
 comments: false
 ---

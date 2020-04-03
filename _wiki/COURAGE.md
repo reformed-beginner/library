@@ -2,7 +2,7 @@
 layout: wiki
 title: 勇气，胆量（COURAGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 勇气，胆量（COURAGE）
+description: 圣经新词典 - 勇气，胆量（COURAGE）
 keywords: 勇气，胆量, COURAGE
 comments: false
 ---

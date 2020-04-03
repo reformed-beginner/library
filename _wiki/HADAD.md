@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈达（HADAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈达（HADAD）
+description: 圣经新词典 - 哈达（HADAD）
 keywords: 哈达, HADAD
 comments: false
 ---

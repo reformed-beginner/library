@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯提沙撒（BELTESHAZZAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯提沙撒（BELTESHAZZAR）（来：be{lt]#sa~as]s]ar，腊：Baltasar）
+description: 圣经新词典 - 伯提沙撒（BELTESHAZZAR）（来：be{lt]#sa~as]s]ar，腊：Baltasar）
 keywords: 伯提沙撒, BELTESHAZZAR
 comments: false
 ---

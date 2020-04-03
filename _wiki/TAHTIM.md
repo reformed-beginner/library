@@ -2,7 +2,7 @@
 layout: wiki
 title: 他停合示（TAHTIM-HODSHI）
 categories: NewBibleDictionary
-description: 圣经新词典: 他停合示（TAHTIM-HODSHI）
+description: 圣经新词典 - 他停合示（TAHTIM-HODSHI）
 keywords: 他停合示, TAHTIM-HODSHI
 comments: false
 ---

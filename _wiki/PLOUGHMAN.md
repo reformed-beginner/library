@@ -2,7 +2,7 @@
 layout: wiki
 title: 农夫，耕民（PLOUGHMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 农夫，耕民（PLOUGHMAN）
+description: 圣经新词典 - 农夫，耕民（PLOUGHMAN）
 keywords: 农夫，耕民, PLOUGHMAN
 comments: false
 ---

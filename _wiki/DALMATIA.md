@@ -2,7 +2,7 @@
 layout: wiki
 title: 挞马太（DALMATIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 挞马太（DALMATIA）
+description: 圣经新词典 - 挞马太（DALMATIA）
 keywords: 挞马太, DALMATIA
 comments: false
 ---

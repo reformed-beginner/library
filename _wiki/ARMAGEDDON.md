@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈米吉多顿（ARMAGEDDON）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈米吉多顿（ARMAGEDDON）（WH, RV, Har Magedon; TR, Armageddon；拉丁文：
+description: 圣经新词典 - 哈米吉多顿（ARMAGEDDON）（WH, RV, Har Magedon; TR, Armageddon；拉丁文：
 Hermagedon；叙利亚文： Gwy
 keywords: 哈米吉多顿, ARMAGEDDON
 comments: false

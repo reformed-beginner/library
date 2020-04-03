@@ -2,7 +2,7 @@
 layout: wiki
 title: 利巴嫩（LEBANON）
 categories: NewBibleDictionary
-description: 圣经新词典: 利巴嫩（LEBANON）
+description: 圣经新词典 - 利巴嫩（LEBANON）
 keywords: 利巴嫩, LEBANON
 comments: false
 ---

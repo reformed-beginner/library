@@ -2,7 +2,7 @@
 layout: wiki
 title: 证（坛）
 categories: NewBibleDictionary
-description: 圣经新词典: 证（坛）（ED）
+description: 圣经新词典 - 证（坛）（ED）
 keywords: 证, 坛
 comments: false
 ---

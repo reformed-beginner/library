@@ -2,7 +2,7 @@
 layout: wiki
 title: 底波拉（DEBORAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 底波拉（DEBORAH）（来：d#b[o^ra^，“蜜蜂”）
+description: 圣经新词典 - 底波拉（DEBORAH）（来：d#b[o^ra^，“蜜蜂”）
 keywords: 底波拉, DEBORAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 影儿（SHADOW）
 categories: NewBibleDictionary
-description: 圣经新词典: 影儿（SHADOW）（来；s]e{l，“影儿”、“阴处”、“防御”；腊：skia，“一个阴处”、“一个影儿”；两字均有衍生的形式）
+description: 圣经新词典 - 影儿（SHADOW）（来；s]e{l，“影儿”、“阴处”、“防御”；腊：skia，“一个阴处”、“一个影儿”；两字均有衍生的形式）
 keywords: 影儿, SHADOW
 comments: false
 ---

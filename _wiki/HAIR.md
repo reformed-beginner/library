@@ -2,7 +2,7 @@
 layout: wiki
 title: 头发（HAIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 头发（HAIR）
+description: 圣经新词典 - 头发（HAIR）
 keywords: 头发, HAIR
 comments: false
 ---

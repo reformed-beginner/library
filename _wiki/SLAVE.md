@@ -2,7 +2,7 @@
 layout: wiki
 title: 奴仆；奴役（SLAVE, SLAVERY）
 categories: NewBibleDictionary
-description: 圣经新词典: 奴仆；奴役（SLAVE, SLAVERY）
+description: 圣经新词典 - 奴仆；奴役（SLAVE, SLAVERY）
 keywords: 奴仆；奴役, SLAVE, SLAVERY
 comments: false
 ---

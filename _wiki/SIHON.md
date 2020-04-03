@@ -2,7 +2,7 @@
 layout: wiki
 title: 西宏（SIHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 西宏（SIHON）
+description: 圣经新词典 - 西宏（SIHON）
 keywords: 西宏, SIHON
 comments: false
 ---

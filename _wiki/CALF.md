@@ -2,7 +2,7 @@
 layout: wiki
 title: 金牛犊（CALF, GOLDEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 金牛犊（CALF, GOLDEN）
+description: 圣经新词典 - 金牛犊（CALF, GOLDEN）
 keywords: 金牛犊, CALF, GOLDEN
 comments: false
 ---

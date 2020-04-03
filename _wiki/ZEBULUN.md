@@ -2,7 +2,7 @@
 layout: wiki
 title: 西布伦（ZEBULUN）
 categories: NewBibleDictionary
-description: 圣经新词典: 西布伦（ZEBULUN）
+description: 圣经新词典 - 西布伦（ZEBULUN）
 keywords: 西布伦, ZEBULUN
 comments: false
 ---

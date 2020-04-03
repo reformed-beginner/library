@@ -2,7 +2,7 @@
 layout: wiki
 title: 女王（QUEEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 女王（QUEEN）（来：malka^；腊：basilissa）
+description: 圣经新词典 - 女王（QUEEN）（来：malka^；腊：basilissa）
 keywords: 女王, QUEEN
 comments: false
 ---

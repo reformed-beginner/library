@@ -2,7 +2,7 @@
 layout: wiki
 title: 马太福音（MATTHEW, GOSPEL OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 马太福音（MATTHEW, GOSPEL OF）
+description: 圣经新词典 - 马太福音（MATTHEW, GOSPEL OF）
 keywords: 马太福音, MATTHEW, GOSPEL OF
 comments: false
 ---

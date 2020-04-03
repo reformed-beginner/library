@@ -2,7 +2,7 @@
 layout: wiki
 title: 腓立比书（PHILIPPIANS, EPISTLE TO THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 腓立比书（PHILIPPIANS, EPISTLE TO THE）
+description: 圣经新词典 - 腓立比书（PHILIPPIANS, EPISTLE TO THE）
 keywords: 腓立比书, PHILIPPIANS, EPISTLE TO THE
 comments: false
 ---

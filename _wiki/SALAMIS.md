@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒拉米（SALAMIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒拉米（SALAMIS）
+description: 圣经新词典 - 撒拉米（SALAMIS）
 keywords: 撒拉米, SALAMIS
 comments: false
 ---

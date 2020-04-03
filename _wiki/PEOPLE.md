@@ -2,7 +2,7 @@
 layout: wiki
 title: 人民（PEOPLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 人民（PEOPLE）
+description: 圣经新词典 - 人民（PEOPLE）
 keywords: 人民, PEOPLE
 comments: false
 ---

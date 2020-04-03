@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈拉（HARA）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈拉（HARA）
+description: 圣经新词典 - 哈拉（HARA）
 keywords: 哈拉, HARA
 comments: false
 ---

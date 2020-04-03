@@ -2,7 +2,7 @@
 layout: wiki
 title: 比尼比拉（BENE-BERAK）
 categories: NewBibleDictionary
-description: 圣经新词典: 比尼比拉（BENE-BERAK）
+description: 圣经新词典 - 比尼比拉（BENE-BERAK）
 keywords: 比尼比拉, BENE-BERAK
 comments: false
 ---

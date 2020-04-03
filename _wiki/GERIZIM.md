@@ -2,7 +2,7 @@
 layout: wiki
 title: 基利心（GERIZIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 基利心（GERIZIM）
+description: 圣经新词典 - 基利心（GERIZIM）
 keywords: 基利心, GERIZIM
 comments: false
 ---

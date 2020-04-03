@@ -2,7 +2,7 @@
 layout: wiki
 title: 鲁希坡（LUHITH, ASCENT OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 鲁希坡（LUHITH, ASCENT OF）
+description: 圣经新词典 - 鲁希坡（LUHITH, ASCENT OF）
 keywords: 鲁希坡, LUHITH, ASCENT OF
 comments: false
 ---

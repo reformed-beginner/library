@@ -2,7 +2,7 @@
 layout: wiki
 title: 复兴，重生（REGENERATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 复兴，重生（REGENERATION）
+description: 圣经新词典 - 复兴，重生（REGENERATION）
 keywords: 复兴，重生, REGENERATION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 云（CLOUD）
 categories: NewBibleDictionary
-description: 圣经新词典: 云（CLOUD）
+description: 圣经新词典 - 云（CLOUD）
 keywords: 云, CLOUD
 comments: false
 ---

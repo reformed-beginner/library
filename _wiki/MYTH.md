@@ -2,7 +2,7 @@
 layout: wiki
 title: 神话；神话学（MYTH, MYTHOLOGY）
 categories: NewBibleDictionary
-description: 圣经新词典: 神话；神话学（MYTH, MYTHOLOGY）
+description: 圣经新词典 - 神话；神话学（MYTH, MYTHOLOGY）
 keywords: 神话；神话学, MYTH, MYTHOLOGY
 comments: false
 ---

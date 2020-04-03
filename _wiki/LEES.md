@@ -2,7 +2,7 @@
 layout: wiki
 title: 渣滓（LEES）
 categories: NewBibleDictionary
-description: 圣经新词典: 渣滓（LEES）（来：s%#ma{ri^m，“渍物”，赛廿五6；耶四十八11；番一12）
+description: 圣经新词典 - 渣滓（LEES）（来：s%#ma{ri^m，“渍物”，赛廿五6；耶四十八11；番一12）
 keywords: 渣滓, LEES
 comments: false
 ---

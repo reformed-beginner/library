@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦累得（GALEED）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦累得（GALEED）（来：gal`e{d[，“见证堆”）
+description: 圣经新词典 - 迦累得（GALEED）（来：gal`e{d[，“见证堆”）
 keywords: 迦累得, GALEED
 comments: false
 ---

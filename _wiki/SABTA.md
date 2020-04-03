@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒弗他（SABTA, SABTAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒弗他（SABTA, SABTAH）
+description: 圣经新词典 - 撒弗他（SABTA, SABTAH）
 keywords: 撒弗他, SABTA, SABTAH
 comments: false
 ---

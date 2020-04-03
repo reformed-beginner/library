@@ -2,7 +2,7 @@
 layout: wiki
 title: 便哈达（BEN-HADAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 便哈达（BEN-HADAD）
+description: 圣经新词典 - 便哈达（BEN-HADAD）
 keywords: 便哈达, BEN-HADAD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 磨；磨石（MILL, MILLSTONE）
 categories: NewBibleDictionary
-description: 圣经新词典: 磨；磨石（MILL, MILLSTONE）
+description: 圣经新词典 - 磨；磨石（MILL, MILLSTONE）
 keywords: 磨；磨石, MILL, MILLSTONE
 comments: false
 ---

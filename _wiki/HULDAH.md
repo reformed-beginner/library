@@ -2,7 +2,7 @@
 layout: wiki
 title: 户勒大（HULDAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 户勒大（HULDAH）
+description: 圣经新词典 - 户勒大（HULDAH）
 keywords: 户勒大, HULDAH
 comments: false
 ---

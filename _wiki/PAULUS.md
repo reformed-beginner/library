@@ -2,7 +2,7 @@
 layout: wiki
 title: 士求保罗（PAULUS, SERGIUS；更准确的拼法是 PAULLUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 士求保罗（PAULUS, SERGIUS；更准确的拼法是 PAULLUS）
+description: 圣经新词典 - 士求保罗（PAULUS, SERGIUS；更准确的拼法是 PAULLUS）
 keywords: 士求保罗, PAULUS, SERGIUS；更准确的拼法是 PAULLUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 帖撒罗尼迦书信（THESSALONIANS, EPISTLES TO THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 帖撒罗尼迦书信（THESSALONIANS, EPISTLES TO THE）
+description: 圣经新词典 - 帖撒罗尼迦书信（THESSALONIANS, EPISTLES TO THE）
 keywords: 帖撒罗尼迦书信, THESSALONIANS, EPISTLES TO THE
 comments: false
 ---

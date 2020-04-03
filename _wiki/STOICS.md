@@ -2,7 +2,7 @@
 layout: wiki
 title: 斯多亚派（STOICS）
 categories: NewBibleDictionary
-description: 圣经新词典: 斯多亚派（STOICS）
+description: 圣经新词典 - 斯多亚派（STOICS）
 keywords: 斯多亚派, STOICS
 comments: false
 ---

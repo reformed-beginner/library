@@ -2,7 +2,7 @@
 layout: wiki
 title: 基低罗（GEDEROTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基低罗（GEDEROTH）(来：g#d[e{ro^t[）
+description: 圣经新词典 - 基低罗（GEDEROTH）(来：g#d[e{ro^t[）
 keywords: 基低罗, GEDEROTH
 comments: false
 ---

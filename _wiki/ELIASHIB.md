@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利亚实（ELIASHIB）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利亚实（ELIASHIB）
+description: 圣经新词典 - 以利亚实（ELIASHIB）
 keywords: 以利亚实, ELIASHIB
 comments: false
 ---

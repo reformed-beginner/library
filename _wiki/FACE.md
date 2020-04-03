@@ -2,7 +2,7 @@
 layout: wiki
 title: 脸（FACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 脸（FACE）
+description: 圣经新词典 - 脸（FACE）
 keywords: 脸, FACE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 神的羔羊（LAMB OF GOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 神的羔羊（LAMB OF GOD）
+description: 圣经新词典 - 神的羔羊（LAMB OF GOD）
 keywords: 神的羔羊, LAMB OF GOD
 comments: false
 ---

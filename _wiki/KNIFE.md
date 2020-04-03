@@ -2,7 +2,7 @@
 layout: wiki
 title: 刀（KNIFE）
 categories: NewBibleDictionary
-description: 圣经新词典: 刀（KNIFE）
+description: 圣经新词典 - 刀（KNIFE）
 keywords: 刀, KNIFE
 comments: false
 ---

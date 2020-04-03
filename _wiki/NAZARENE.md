@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿撒勒人，拿撒勒教党（NAZARENE）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿撒勒人，拿撒勒教党（NAZARENE）
+description: 圣经新词典 - 拿撒勒人，拿撒勒教党（NAZARENE）
 keywords: 拿撒勒人，拿撒勒教党, NAZARENE
 comments: false
 ---

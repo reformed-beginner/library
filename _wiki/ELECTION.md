@@ -2,7 +2,7 @@
 layout: wiki
 title: 拣选（ELECTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 拣选（ELECTION）
+description: 圣经新词典 - 拣选（ELECTION）
 keywords: 拣选, ELECTION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦特希弗（GATH-HEPHER）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦特希弗（GATH-HEPHER）（来：gat[-ha h]e{p{er，意思是“挖掘成的葡萄榨汁台”）
+description: 圣经新词典 - 迦特希弗（GATH-HEPHER）（来：gat[-ha h]e{p{er，意思是“挖掘成的葡萄榨汁台”）
 keywords: 迦特希弗, GATH-HEPHER
 comments: false
 ---

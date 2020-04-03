@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶利米（JEREMIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶利米（JEREMIAH）
+description: 圣经新词典 - 耶利米（JEREMIAH）
 keywords: 耶利米, JEREMIAH
 comments: false
 ---

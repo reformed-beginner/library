@@ -2,7 +2,7 @@
 layout: wiki
 title: 世界（WORLD）
 categories: NewBibleDictionary
-description: 圣经新词典: 世界（WORLD）
+description: 圣经新词典 - 世界（WORLD）
 keywords: 世界, WORLD
 comments: false
 ---

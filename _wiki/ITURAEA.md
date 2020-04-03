@@ -2,7 +2,7 @@
 layout: wiki
 title: 以土利亚（ITURAEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 以土利亚（ITURAEA）（腊：Itouraia，路三1）
+description: 圣经新词典 - 以土利亚（ITURAEA）（腊：Itouraia，路三1）
 keywords: 以土利亚, ITURAEA
 comments: false
 ---

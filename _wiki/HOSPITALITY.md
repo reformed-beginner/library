@@ -2,7 +2,7 @@
 layout: wiki
 title: 接待客旅/远人，款待（HOSPITALITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 接待客旅/远人，款待（HOSPITALITY）
+description: 圣经新词典 - 接待客旅/远人，款待（HOSPITALITY）
 keywords: 接待客旅/远人，款待, HOSPITALITY
 comments: false
 ---

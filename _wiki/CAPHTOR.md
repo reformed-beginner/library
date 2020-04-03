@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦斐托（CAPHTOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦斐托（CAPHTOR）（ka{pto^r）
+description: 圣经新词典 - 迦斐托（CAPHTOR）（ka{pto^r）
 keywords: 迦斐托, CAPHTOR
 comments: false
 ---

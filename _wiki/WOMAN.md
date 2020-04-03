@@ -2,7 +2,7 @@
 layout: wiki
 title: 女人（WOMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 女人（WOMAN）（来：~is%s%a^，腊：gyne{）
+description: 圣经新词典 - 女人（WOMAN）（来：~is%s%a^，腊：gyne{）
 keywords: 女人, WOMAN
 comments: false
 ---

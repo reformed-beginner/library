@@ -2,7 +2,7 @@
 layout: wiki
 title: 安提阿古（ANTIOCHUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 安提阿古（ANTIOCHUS）
+description: 圣经新词典 - 安提阿古（ANTIOCHUS）
 keywords: 安提阿古, ANTIOCHUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴瓦音（PARVAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴瓦音（PARVAIM）
+description: 圣经新词典 - 巴瓦音（PARVAIM）
 keywords: 巴瓦音, PARVAIM
 comments: false
 ---

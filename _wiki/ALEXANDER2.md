@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚历山大大帝（ALEXANDER THE GREAT）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚历山大大帝（ALEXANDER THE GREAT）
+description: 圣经新词典 - 亚历山大大帝（ALEXANDER THE GREAT）
 keywords: 亚历山大大帝, ALEXANDER THE GREAT
 comments: false
 ---

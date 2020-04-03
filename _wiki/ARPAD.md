@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚珥拔（ARPAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚珥拔（ARPAD）
+description: 圣经新词典 - 亚珥拔（ARPAD）
 keywords: 亚珥拔, ARPAD
 comments: false
 ---

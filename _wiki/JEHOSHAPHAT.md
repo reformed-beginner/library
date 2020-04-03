@@ -2,7 +2,7 @@
 layout: wiki
 title: 约沙法（JEHOSHAPHAT）
 categories: NewBibleDictionary
-description: 圣经新词典: 约沙法（JEHOSHAPHAT）（来：y#ho^s%a{p{a{t]，“耶和华已审断”）
+description: 圣经新词典 - 约沙法（JEHOSHAPHAT）（来：y#ho^s%a{p{a{t]，“耶和华已审断”）
 keywords: 约沙法, JEHOSHAPHAT
 comments: false
 ---

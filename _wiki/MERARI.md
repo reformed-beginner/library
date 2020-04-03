@@ -2,7 +2,7 @@
 layout: wiki
 title: 米拉利；米拉利人（MERARI, MERARITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 米拉利；米拉利人（MERARI, MERARITES）
+description: 圣经新词典 - 米拉利；米拉利人（MERARI, MERARITES）
 keywords: 米拉利；米拉利人, MERARI, MERARITES
 comments: false
 ---

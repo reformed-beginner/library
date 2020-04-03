@@ -2,7 +2,7 @@
 layout: wiki
 title: 歌利亚（GOLIATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 歌利亚（GOLIATH）
+description: 圣经新词典 - 歌利亚（GOLIATH）
 keywords: 歌利亚, GOLIATH
 comments: false
 ---

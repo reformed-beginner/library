@@ -2,7 +2,7 @@
 layout: wiki
 title: 米但（MEDAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 米但（MEDAN）
+description: 圣经新词典 - 米但（MEDAN）
 keywords: 米但, MEDAN
 comments: false
 ---

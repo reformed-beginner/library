@@ -2,7 +2,7 @@
 layout: wiki
 title: 信条（CREED）
 categories: NewBibleDictionary
-description: 圣经新词典: 信条（CREED）
+description: 圣经新词典 - 信条（CREED）
 keywords: 信条, CREED
 comments: false
 ---

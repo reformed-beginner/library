@@ -2,7 +2,7 @@
 layout: wiki
 title: 面酵（LEAVEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 面酵（LEAVEN）（来：s*#~o{r，“酵”，“有酵的饼”，申十六4；h]a{me{s，“经过发酵的”；参
+description: 圣经新词典 - 面酵（LEAVEN）（来：s*#~o{r，“酵”，“有酵的饼”，申十六4；h]a{me{s，“经过发酵的”；参
 mas]s]a^，“无酵的”，利十12；腊：zyme{，“酵”；参：拉丁文 levare，“使起来”）
 keywords: 面酵, LEAVEN
 comments: false

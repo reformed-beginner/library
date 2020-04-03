@@ -2,7 +2,7 @@
 layout: wiki
 title: 器皿（VESSELS）
 categories: NewBibleDictionary
-description: 圣经新词典: 器皿（VESSELS）
+description: 圣经新词典 - 器皿（VESSELS）
 keywords: 器皿, VESSELS
 comments: false
 ---

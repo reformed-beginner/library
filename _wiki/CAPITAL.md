@@ -2,7 +2,7 @@
 layout: wiki
 title: 柱顶；球（CAPITAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 柱顶；球（CAPITAL）
+description: 圣经新词典 - 柱顶；球（CAPITAL）
 keywords: 柱顶；球, CAPITAL
 comments: false
 ---

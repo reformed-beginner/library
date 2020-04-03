@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚西纳（ASENATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚西纳（ASENATH）
+description: 圣经新词典 - 亚西纳（ASENATH）
 keywords: 亚西纳, ASENATH
 comments: false
 ---

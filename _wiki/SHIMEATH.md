@@ -2,7 +2,7 @@
 layout: wiki
 title: 示米押（SHIMEATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 示米押（SHIMEATH）
+description: 圣经新词典 - 示米押（SHIMEATH）
 keywords: 示米押, SHIMEATH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼提宁（NETHINIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼提宁（NETHINIM）（来：n#t[i^ni^m，RSV译作“圣殿仆役”）
+description: 圣经新词典 - 尼提宁（NETHINIM）（来：n#t[i^ni^m，RSV译作“圣殿仆役”）
 keywords: 尼提宁, NETHINIM
 comments: false
 ---

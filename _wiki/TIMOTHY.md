@@ -2,7 +2,7 @@
 layout: wiki
 title: 提摩太（TIMOTHY）
 categories: NewBibleDictionary
-description: 圣经新词典: 提摩太（TIMOTHY）
+description: 圣经新词典 - 提摩太（TIMOTHY）
 keywords: 提摩太, TIMOTHY
 comments: false
 ---

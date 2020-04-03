@@ -2,7 +2,7 @@
 layout: wiki
 title: 基督的身体（BODY OF CHRIST）
 categories: NewBibleDictionary
-description: 圣经新词典: 基督的身体（BODY OF CHRIST）
+description: 圣经新词典 - 基督的身体（BODY OF CHRIST）
 keywords: 基督的身体, BODY OF CHRIST
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 闪电（LIGHTNING）
 categories: NewBibleDictionary
-description: 圣经新词典: 闪电（LIGHTNING）
+description: 圣经新词典 - 闪电（LIGHTNING）
 keywords: 闪电, LIGHTNING
 comments: false
 ---

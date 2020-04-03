@@ -2,7 +2,7 @@
 layout: wiki
 title: 书珥（SHUR）
 categories: NewBibleDictionary
-description: 圣经新词典: 书珥（SHUR）
+description: 圣经新词典 - 书珥（SHUR）
 keywords: 书珥, SHUR
 comments: false
 ---

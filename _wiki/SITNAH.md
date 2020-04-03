@@ -2,7 +2,7 @@
 layout: wiki
 title: 西提拿（SITNAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西提拿（SITNAH）（来：s*it]na^ ──“憎恨”，“争竞”）
+description: 圣经新词典 - 西提拿（SITNAH）（来：s*it]na^ ──“憎恨”，“争竞”）
 keywords: 西提拿, SITNAH
 comments: false
 ---

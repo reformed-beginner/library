@@ -2,7 +2,7 @@
 layout: wiki
 title: 希伯来人（HEBREWS）
 categories: NewBibleDictionary
-description: 圣经新词典: 希伯来人（HEBREWS）
+description: 圣经新词典 - 希伯来人（HEBREWS）
 keywords: 希伯来人, HEBREWS
 comments: false
 ---

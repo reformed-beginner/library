@@ -2,7 +2,7 @@
 layout: wiki
 title: 希底结（HIDDEKEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 希底结（HIDDEKEL）
+description: 圣经新词典 - 希底结（HIDDEKEL）
 keywords: 希底结, HIDDEKEL
 comments: false
 ---

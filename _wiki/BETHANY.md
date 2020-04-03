@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯大尼（BETHANY）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯大尼（BETHANY）
+description: 圣经新词典 - 伯大尼（BETHANY）
 keywords: 伯大尼, BETHANY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐基底（EN-GEDI）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐基底（EN-GEDI）（来：`e^n-ged[i^，“小山羊的泉源”）
+description: 圣经新词典 - 隐基底（EN-GEDI）（来：`e^n-ged[i^，“小山羊的泉源”）
 keywords: 隐基底, EN-GEDI
 comments: false
 ---

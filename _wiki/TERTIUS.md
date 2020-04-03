@@ -2,7 +2,7 @@
 layout: wiki
 title: 德丢（TERTIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 德丢（TERTIUS）
+description: 圣经新词典 - 德丢（TERTIUS）
 keywords: 德丢, TERTIUS
 comments: false
 ---

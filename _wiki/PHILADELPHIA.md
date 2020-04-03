@@ -2,7 +2,7 @@
 layout: wiki
 title: 非拉铁非（PHILADELPHIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 非拉铁非（PHILADELPHIA）
+description: 圣经新词典 - 非拉铁非（PHILADELPHIA）
 keywords: 非拉铁非, PHILADELPHIA
 comments: false
 ---

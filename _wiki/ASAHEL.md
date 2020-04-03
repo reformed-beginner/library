@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚撒黑（ASAHEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚撒黑（ASAHEL）（来：`@s*a{h~e{l，神已塑造）
+description: 圣经新词典 - 亚撒黑（ASAHEL）（来：`@s*a{h~e{l，神已塑造）
 keywords: 亚撒黑, ASAHEL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 大比拉（DABERATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 大比拉（DABERATH）
+description: 圣经新词典 - 大比拉（DABERATH）
 keywords: 大比拉, DABERATH
 comments: false
 ---

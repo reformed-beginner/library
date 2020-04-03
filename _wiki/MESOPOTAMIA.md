@@ -2,7 +2,7 @@
 layout: wiki
 title: 米所波大米/美索不达米亚（MESOPOTAMIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 米所波大米/美索不达米亚（MESOPOTAMIA）
+description: 圣经新词典 - 米所波大米/美索不达米亚（MESOPOTAMIA）
 keywords: 米所波大米/美索不达米亚, MESOPOTAMIA
 comments: false
 ---

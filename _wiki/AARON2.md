@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚伦的杖（AARON'S ROD）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚伦的杖（AARON'S ROD）
+description: 圣经新词典 - 亚伦的杖（AARON'S ROD）
 keywords: 亚伦的杖, AARON'S ROD
 comments: false
 ---

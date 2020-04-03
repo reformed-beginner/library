@@ -2,7 +2,7 @@
 layout: wiki
 title: 罗大（RHODA）
 categories: NewBibleDictionary
-description: 圣经新词典: 罗大（RHODA）（腊：rhode{，意即“玫瑰”）
+description: 圣经新词典 - 罗大（RHODA）（腊：rhode{，意即“玫瑰”）
 keywords: 罗大, RHODA
 comments: false
 ---

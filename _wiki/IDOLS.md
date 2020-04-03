@@ -2,7 +2,7 @@
 layout: wiki
 title: 祭偶像之物（IDOLS, FOOD [MEATS] OFFERED TO）
 categories: NewBibleDictionary
-description: 圣经新词典: 祭偶像之物（IDOLS, FOOD [MEATS] OFFERED TO）
+description: 圣经新词典 - 祭偶像之物（IDOLS, FOOD [MEATS] OFFERED TO）
 keywords: 祭偶像之物, IDOLS, FOOD [MEATS] OFFERED TO
 comments: false
 ---

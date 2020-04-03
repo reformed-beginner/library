@@ -2,7 +2,7 @@
 layout: wiki
 title: 葡萄；葡萄园（VINE, VINEYARD）
 categories: NewBibleDictionary
-description: 圣经新词典: 葡萄；葡萄园（VINE, VINEYARD）
+description: 圣经新词典 - 葡萄；葡萄园（VINE, VINEYARD）
 keywords: 葡萄；葡萄园, VINE, VINEYARD
 comments: false
 ---

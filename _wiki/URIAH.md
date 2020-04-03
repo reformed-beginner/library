@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌利亚（URIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌利亚（URIAH）（来： ~u^riyya^, ~u^rriyya{hu^，“耶和华是我的亮光”
+description: 圣经新词典 - 乌利亚（URIAH）（来： ~u^riyya^, ~u^rriyya{hu^，“耶和华是我的亮光”
 keywords: 乌利亚, URIAH
 comments: false
 ---

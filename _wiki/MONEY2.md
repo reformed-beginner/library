@@ -2,7 +2,7 @@
 layout: wiki
 title: 兑换银钱的人（MONEY-CHANGERS）
 categories: NewBibleDictionary
-description: 圣经新词典: 兑换银钱的人（MONEY-CHANGERS）
+description: 圣经新词典 - 兑换银钱的人（MONEY-CHANGERS）
 keywords: 兑换银钱的人, MONEY-CHANGERS
 comments: false
 ---

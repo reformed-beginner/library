@@ -2,7 +2,7 @@
 layout: wiki
 title: 蒙昧无知（IGNORANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 蒙昧无知（IGNORANCE）
+description: 圣经新词典 - 蒙昧无知（IGNORANCE）
 keywords: 蒙昧无知, IGNORANCE
 comments: false
 ---

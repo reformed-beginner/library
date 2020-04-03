@@ -2,7 +2,7 @@
 layout: wiki
 title: 甲尼；迦勒挪（CALNEH, CALNO 〔也作 KALNO〕）
 categories: NewBibleDictionary
-description: 圣经新词典: 甲尼；迦勒挪（CALNEH, CALNO 〔也作 KALNO〕）
+description: 圣经新词典 - 甲尼；迦勒挪（CALNEH, CALNO 〔也作 KALNO〕）
 keywords: 甲尼；迦勒挪, CALNEH, CALNO 〔也作 KALNO〕
 comments: false
 ---

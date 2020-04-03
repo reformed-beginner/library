@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒珥根（SARGON）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒珥根（SARGON）
+description: 圣经新词典 - 撒珥根（SARGON）
 keywords: 撒珥根, SARGON
 comments: false
 ---

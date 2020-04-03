@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴底买（BARTIMAEUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴底买（BARTIMAEUS）
+description: 圣经新词典 - 巴底买（BARTIMAEUS）
 keywords: 巴底买, BARTIMAEUS
 comments: false
 ---

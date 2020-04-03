@@ -2,7 +2,7 @@
 layout: wiki
 title: 酒类和烈酒（WINE AND STRONG DRINK）
 categories: NewBibleDictionary
-description: 圣经新词典: 酒类和烈酒（WINE AND STRONG DRINK）
+description: 圣经新词典 - 酒类和烈酒（WINE AND STRONG DRINK）
 keywords: 酒类和烈酒, WINE AND STRONG DRINK
 comments: false
 ---

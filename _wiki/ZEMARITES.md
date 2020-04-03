@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗玛利人（ZEMARITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗玛利人（ZEMARITES）
+description: 圣经新词典 - 洗玛利人（ZEMARITES）
 keywords: 洗玛利人, ZEMARITES
 comments: false
 ---

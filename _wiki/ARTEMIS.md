@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚底米神（ARTEMIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚底米神（ARTEMIS）
+description: 圣经新词典 - 亚底米神（ARTEMIS）
 keywords: 亚底米神, ARTEMIS
 comments: false
 ---

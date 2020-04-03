@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚克拉滨（AKRABBIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚克拉滨（AKRABBIM）（来：`aqrabbi^m，意即“蝎子”）
+description: 圣经新词典 - 亚克拉滨（AKRABBIM）（来：`aqrabbi^m，意即“蝎子”）
 keywords: 亚克拉滨, AKRABBIM
 comments: false
 ---

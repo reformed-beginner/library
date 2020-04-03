@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯利恒（BETHLEHEM）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯利恒（BETHLEHEM）（来：be^t[ leh]em，“面包之家”，面包是广义地用来指食物）
+description: 圣经新词典 - 伯利恒（BETHLEHEM）（来：be^t[ leh]em，“面包之家”，面包是广义地用来指食物）
 keywords: 伯利恒, BETHLEHEM
 comments: false
 ---

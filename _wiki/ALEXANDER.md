@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚历山大（ALEXANDER）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚历山大（ALEXANDER）
+description: 圣经新词典 - 亚历山大（ALEXANDER）
 keywords: 亚历山大, ALEXANDER
 comments: false
 ---

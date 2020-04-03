@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚伯拉罕（ABRAHAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚伯拉罕（ABRAHAM）
+description: 圣经新词典 - 亚伯拉罕（ABRAHAM）
 keywords: 亚伯拉罕, ABRAHAM
 comments: false
 ---

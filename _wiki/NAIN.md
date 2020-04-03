@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿因（NAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿因（NAIN）
+description: 圣经新词典 - 拿因（NAIN）
 keywords: 拿因, NAIN
 comments: false
 ---

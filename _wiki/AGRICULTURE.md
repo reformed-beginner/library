@@ -2,7 +2,7 @@
 layout: wiki
 title: 农业（AGRICULTURE）
 categories: NewBibleDictionary
-description: 圣经新词典: 农业（AGRICULTURE）
+description: 圣经新词典 - 农业（AGRICULTURE）
 keywords: 农业, AGRICULTURE
 comments: false
 ---

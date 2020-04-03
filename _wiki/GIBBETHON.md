@@ -2,7 +2,7 @@
 layout: wiki
 title: 基比顿（GIBBETHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 基比顿（GIBBETHON）（来：gibb#t[o^n，“土墩、小山”）
+description: 圣经新词典 - 基比顿（GIBBETHON）（来：gibb#t[o^n，“土墩、小山”）
 keywords: 基比顿, GIBBETHON
 comments: false
 ---

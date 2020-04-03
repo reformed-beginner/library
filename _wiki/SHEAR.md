@@ -2,7 +2,7 @@
 layout: wiki
 title: 施亚雅述（SHEAR-JASHUB）
 categories: NewBibleDictionary
-description: 圣经新词典: 施亚雅述（SHEAR-JASHUB）
+description: 圣经新词典 - 施亚雅述（SHEAR-JASHUB）
 keywords: 施亚雅述, SHEAR-JASHUB
 comments: false
 ---

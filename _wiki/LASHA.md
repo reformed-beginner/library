@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉沙（LASHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉沙（LASHA）
+description: 圣经新词典 - 拉沙（LASHA）
 keywords: 拉沙, LASHA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 服饰（DRESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 服饰（DRESS）
+description: 圣经新词典 - 服饰（DRESS）
 keywords: 服饰, DRESS
 comments: false
 ---

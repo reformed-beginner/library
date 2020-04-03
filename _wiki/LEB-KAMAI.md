@@ -2,7 +2,7 @@
 layout: wiki
 title: 立加米（LEB-KAMAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 立加米（LEB-KAMAI）
+description: 圣经新词典 - 立加米（LEB-KAMAI）
 keywords: 立加米, LEB-KAMAI
 comments: false
 ---

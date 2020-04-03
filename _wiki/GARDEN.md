@@ -2,7 +2,7 @@
 layout: wiki
 title: 园子（GARDEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 园子（GARDEN）
+description: 圣经新词典 - 园子（GARDEN）
 keywords: 园子, GARDEN
 comments: false
 ---

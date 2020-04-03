@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚拿（ANAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚拿（ANAH）
+description: 圣经新词典 - 亚拿（ANAH）
 keywords: 亚拿, ANAH
 comments: false
 ---

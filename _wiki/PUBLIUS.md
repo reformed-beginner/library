@@ -2,7 +2,7 @@
 layout: wiki
 title: 部百流（PUBLIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 部百流（PUBLIUS）
+description: 圣经新词典 - 部百流（PUBLIUS）
 keywords: 部百流, PUBLIUS
 comments: false
 ---

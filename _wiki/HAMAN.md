@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈曼（HAMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈曼（HAMAN）
+description: 圣经新词典 - 哈曼（HAMAN）
 keywords: 哈曼, HAMAN
 comments: false
 ---

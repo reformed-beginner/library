@@ -2,7 +2,7 @@
 layout: wiki
 title: 示拿（SHINAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 示拿（SHINAR）
+description: 圣经新词典 - 示拿（SHINAR）
 keywords: 示拿, SHINAR
 comments: false
 ---

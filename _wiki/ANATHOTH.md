@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚拿突（ANATHOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚拿突（ANATHOTH）
+description: 圣经新词典 - 亚拿突（ANATHOTH）
 keywords: 亚拿突, ANATHOTH
 comments: false
 ---

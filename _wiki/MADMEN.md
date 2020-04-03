@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛得缅（MADMEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛得缅（MADMEN）
+description: 圣经新词典 - 玛得缅（MADMEN）
 keywords: 玛得缅, MADMEN
 comments: false
 ---

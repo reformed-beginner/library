@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉哈米（LAHMI）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉哈米（LAHMI）
+description: 圣经新词典 - 拉哈米（LAHMI）
 keywords: 拉哈米, LAHMI
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 希实本（HESHBON）
 categories: NewBibleDictionary
-description: 圣经新词典: 希实本（HESHBON）（来：h]es%bo^n，“设计”）
+description: 圣经新词典 - 希实本（HESHBON）（来：h]es%bo^n，“设计”）
 keywords: 希实本, HESHBON
 comments: false
 ---

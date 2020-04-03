@@ -2,7 +2,7 @@
 layout: wiki
 title: 红海（RED SEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 红海（RED SEA）
+description: 圣经新词典 - 红海（RED SEA）
 keywords: 红海, RED SEA
 comments: false
 ---

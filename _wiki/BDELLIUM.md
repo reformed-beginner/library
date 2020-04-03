@@ -2,7 +2,7 @@
 layout: wiki
 title: 芳香树胶（BDELLIUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 芳香树胶（BDELLIUM）
+description: 圣经新词典 - 芳香树胶（BDELLIUM）
 keywords: 芳香树胶, BDELLIUM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西流古（SELEUCUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 西流古（SELEUCUS）
+description: 圣经新词典 - 西流古（SELEUCUS）
 keywords: 西流古, SELEUCUS
 comments: false
 ---

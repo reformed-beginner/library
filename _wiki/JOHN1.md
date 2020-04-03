@@ -2,7 +2,7 @@
 layout: wiki
 title: 施洗约翰（JOHN THE BAPTIST）
 categories: NewBibleDictionary
-description: 圣经新词典: 施洗约翰（JOHN THE BAPTIST）
+description: 圣经新词典 - 施洗约翰（JOHN THE BAPTIST）
 keywords: 施洗约翰, JOHN THE BAPTIST
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣灵的恩赐（SPIRITUAL GIFTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣灵的恩赐（SPIRITUAL GIFTS）
+description: 圣经新词典 - 圣灵的恩赐（SPIRITUAL GIFTS）
 keywords: 圣灵的恩赐, SPIRITUAL GIFTS
 comments: false
 ---

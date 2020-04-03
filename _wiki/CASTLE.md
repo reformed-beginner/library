@@ -2,7 +2,7 @@
 layout: wiki
 title: 城堡（CASTLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 城堡（CASTLE）
+description: 圣经新词典 - 城堡（CASTLE）
 keywords: 城堡, CASTLE
 comments: false
 ---

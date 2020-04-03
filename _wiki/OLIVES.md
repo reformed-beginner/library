@@ -2,7 +2,7 @@
 layout: wiki
 title: 橄榄山（OLIVES, MOUNT OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 橄榄山（OLIVES, MOUNT OF）
+description: 圣经新词典 - 橄榄山（OLIVES, MOUNT OF）
 keywords: 橄榄山, OLIVES, MOUNT OF
 comments: false
 ---

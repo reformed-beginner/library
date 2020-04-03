@@ -2,7 +2,7 @@
 layout: wiki
 title: 仆役，帮手，执事，用人（MINISTER）
 categories: NewBibleDictionary
-description: 圣经新词典: 仆役，帮手，执事，用人（MINISTER）
+description: 圣经新词典 - 仆役，帮手，执事，用人（MINISTER）
 keywords: 仆役，帮手，执事，用人, MINISTER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 麦基洗德（MELCHIZEDEK）
 categories: NewBibleDictionary
-description: 圣经新词典: 麦基洗德（MELCHIZEDEK）（来：malki^s]ed[eq，意即“洗德是（我的）王”，或来七2所说的“仁义王”）
+description: 圣经新词典 - 麦基洗德（MELCHIZEDEK）（来：malki^s]ed[eq，意即“洗德是（我的）王”，或来七2所说的“仁义王”）
 keywords: 麦基洗德, MELCHIZEDEK
 comments: false
 ---

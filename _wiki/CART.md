@@ -2,7 +2,7 @@
 layout: wiki
 title: 车，篷车（CART, WAGON）
 categories: NewBibleDictionary
-description: 圣经新词典: 车，篷车（CART, WAGON）（来：`@g{a{la^，来自轮的“转动”）
+description: 圣经新词典 - 车，篷车（CART, WAGON）（来：`@g{a{la^，来自轮的“转动”）
 keywords: 车，篷车, CART, WAGON
 comments: false
 ---

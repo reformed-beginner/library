@@ -2,7 +2,7 @@
 layout: wiki
 title: 门框（DOOR-POST, GATE-POST, POST）
 categories: NewBibleDictionary
-description: 圣经新词典: 门框（DOOR-POST, GATE-POST, POST）
+description: 圣经新词典 - 门框（DOOR-POST, GATE-POST, POST）
 keywords: 门框, DOOR-POST, GATE-POST, POST
 comments: false
 ---

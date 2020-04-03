@@ -2,7 +2,7 @@
 layout: wiki
 title: 龙（DRAGON）
 categories: NewBibleDictionary
-description: 圣经新词典: 龙（DRAGON）
+description: 圣经新词典 - 龙（DRAGON）
 keywords: 龙, DRAGON
 comments: false
 ---

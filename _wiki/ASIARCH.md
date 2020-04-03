@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚西亚首领（ASIARCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚西亚首领（ASIARCH）
+description: 圣经新词典 - 亚西亚首领（ASIARCH）
 keywords: 亚西亚首领, ASIARCH
 comments: false
 ---

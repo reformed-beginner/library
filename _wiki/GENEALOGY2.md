@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶稣基督的家谱（GENEALOGY OF JESUS CHRIST）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶稣基督的家谱（GENEALOGY OF JESUS CHRIST）
+description: 圣经新词典 - 耶稣基督的家谱（GENEALOGY OF JESUS CHRIST）
 keywords: 耶稣基督的家谱, GENEALOGY OF JESUS CHRIST
 comments: false
 ---

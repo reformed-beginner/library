@@ -2,7 +2,7 @@
 layout: wiki
 title: 以拉都（ERASTUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 以拉都（ERASTUS）
+description: 圣经新词典 - 以拉都（ERASTUS）
 keywords: 以拉都, ERASTUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈西典人（HASIDAEANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈西典人（HASIDAEANS）
+description: 圣经新词典 - 哈西典人（HASIDAEANS）
 keywords: 哈西典人, HASIDAEANS
 comments: false
 ---

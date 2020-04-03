@@ -2,7 +2,7 @@
 layout: wiki
 title: 盐（SALT）
 categories: NewBibleDictionary
-description: 圣经新词典: 盐（SALT）
+description: 圣经新词典 - 盐（SALT）
 keywords: 盐, SALT
 comments: false
 ---

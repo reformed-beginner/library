@@ -2,7 +2,7 @@
 layout: wiki
 title: 何赛（HOZAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 何赛（HOZAI）
+description: 圣经新词典 - 何赛（HOZAI）
 keywords: 何赛, HOZAI
 comments: false
 ---

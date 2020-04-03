@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛拿辖；玛拿哈人/米努哈人（MANAHATH, MANAHATHITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛拿辖；玛拿哈人/米努哈人（MANAHATH, MANAHATHITES）
+description: 圣经新词典 - 玛拿辖；玛拿哈人/米努哈人（MANAHATH, MANAHATHITES）
 keywords: 玛拿辖；玛拿哈人/米努哈人, MANAHATH, MANAHATHITES
 comments: false
 ---

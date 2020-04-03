@@ -2,7 +2,7 @@
 layout: wiki
 title: 歌散（GOZAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 歌散（GOZAN）
+description: 圣经新词典 - 歌散（GOZAN）
 keywords: 歌散, GOZAN
 comments: false
 ---

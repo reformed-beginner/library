@@ -2,7 +2,7 @@
 layout: wiki
 title: 君，首领（PRINCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 君，首领（PRINCE）
+description: 圣经新词典 - 君，首领（PRINCE）
 keywords: 君，首领, PRINCE
 comments: false
 ---

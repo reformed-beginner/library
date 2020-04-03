@@ -2,7 +2,7 @@
 layout: wiki
 title: 推雅推喇（THYATIRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 推雅推喇（THYATIRA）
+description: 圣经新词典 - 推雅推喇（THYATIRA）
 keywords: 推雅推喇, THYATIRA
 comments: false
 ---

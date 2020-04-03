@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅各（JAMES）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅各（JAMES）
+description: 圣经新词典 - 雅各（JAMES）
 keywords: 雅各, JAMES
 comments: false
 ---

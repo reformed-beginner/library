@@ -2,7 +2,7 @@
 layout: wiki
 title: 比喻（PARABLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 比喻（PARABLE）
+description: 圣经新词典 - 比喻（PARABLE）
 keywords: 比喻, PARABLE
 comments: false
 ---

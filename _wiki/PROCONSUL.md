@@ -2,7 +2,7 @@
 layout: wiki
 title: 方伯，省长（PROCONSUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 方伯，省长（PROCONSUL）（腊：anthypatos, AV 译作 deputy）
+description: 圣经新词典 - 方伯，省长（PROCONSUL）（腊：anthypatos, AV 译作 deputy）
 keywords: 方伯，省长, PROCONSUL
 comments: false
 ---

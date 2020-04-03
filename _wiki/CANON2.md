@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 表　新约正典成形的主要阶段
+description: 圣经新词典 - 表　新约正典成形的主要阶段
 keywords: , 
 comments: false
 ---

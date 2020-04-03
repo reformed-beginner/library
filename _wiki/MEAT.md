@@ -2,7 +2,7 @@
 layout: wiki
 title: 肉类市场（MEAT MARKET）
 categories: NewBibleDictionary
-description: 圣经新词典: 肉类市场（MEAT MARKET）（腊：makellon；拉丁文：macellum）
+description: 圣经新词典 - 肉类市场（MEAT MARKET）（腊：makellon；拉丁文：macellum）
 keywords: 肉类市场, MEAT MARKET
 comments: false
 ---

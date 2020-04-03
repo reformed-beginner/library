@@ -2,7 +2,7 @@
 layout: wiki
 title: 约坍（JOKTAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 约坍（JOKTAN）
+description: 圣经新词典 - 约坍（JOKTAN）
 keywords: 约坍, JOKTAN
 comments: false
 ---

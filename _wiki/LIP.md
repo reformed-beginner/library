@@ -2,7 +2,7 @@
 layout: wiki
 title: 嘴唇（LIP）
 categories: NewBibleDictionary
-description: 圣经新词典: 嘴唇（LIP）
+description: 圣经新词典 - 嘴唇（LIP）
 keywords: 嘴唇, LIP
 comments: false
 ---

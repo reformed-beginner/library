@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚该古（ACHAICUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚该古（ACHAICUS）
+description: 圣经新词典 - 亚该古（ACHAICUS）
 keywords: 亚该古, ACHAICUS
 comments: false
 ---

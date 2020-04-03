@@ -2,7 +2,7 @@
 layout: wiki
 title: 米勒公（MILCOM）
 categories: NewBibleDictionary
-description: 圣经新词典: 米勒公（MILCOM）
+description: 圣经新词典 - 米勒公（MILCOM）
 keywords: 米勒公, MILCOM
 comments: false
 ---

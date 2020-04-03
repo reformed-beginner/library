@@ -2,7 +2,7 @@
 layout: wiki
 title: 使徒约翰（JOHN, THE APOSTLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 使徒约翰（JOHN, THE APOSTLE）
+description: 圣经新词典 - 使徒约翰（JOHN, THE APOSTLE）
 keywords: 使徒约翰, JOHN, THE APOSTLE
 comments: false
 ---

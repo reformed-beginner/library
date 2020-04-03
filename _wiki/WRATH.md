@@ -2,7 +2,7 @@
 layout: wiki
 title: 忿怒（WRATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 忿怒（WRATH）
+description: 圣经新词典 - 忿怒（WRATH）
 keywords: 忿怒, WRATH
 comments: false
 ---

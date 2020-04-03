@@ -2,7 +2,7 @@
 layout: wiki
 title: 悖逆，叛教，背道（APOSTASY）
 categories: NewBibleDictionary
-description: 圣经新词典: 悖逆，叛教，背道（APOSTASY）
+description: 圣经新词典 - 悖逆，叛教，背道（APOSTASY）
 keywords: 悖逆，叛教，背道, APOSTASY
 comments: false
 ---

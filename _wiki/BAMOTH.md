@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴末；巴末巴力（BAMOTH, BAMOTH-BAAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴末；巴末巴力（BAMOTH, BAMOTH-BAAL）
+description: 圣经新词典 - 巴末；巴末巴力（BAMOTH, BAMOTH-BAAL）
 keywords: 巴末；巴末巴力, BAMOTH, BAMOTH-BAAL
 comments: false
 ---

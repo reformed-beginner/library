@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚特律加宁（ASHTEROTH-KARNAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚特律加宁（ASHTEROTH-KARNAIM）
+description: 圣经新词典 - 亚特律加宁（ASHTEROTH-KARNAIM）
 keywords: 亚特律加宁, ASHTEROTH-KARNAIM
 comments: false
 ---

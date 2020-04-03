@@ -2,7 +2,7 @@
 layout: wiki
 title: 庇哩亚（BEROEA, BEREA）
 categories: NewBibleDictionary
-description: 圣经新词典: 庇哩亚（BEROEA, BEREA）
+description: 圣经新词典 - 庇哩亚（BEROEA, BEREA）
 keywords: 庇哩亚, BEROEA, BEREA
 comments: false
 ---

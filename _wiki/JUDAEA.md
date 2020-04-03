@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹太（地区）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹太（地区）（JUDAEA）
+description: 圣经新词典 - 犹太（地区）（JUDAEA）
 keywords: 犹太, 地区
 comments: false
 ---

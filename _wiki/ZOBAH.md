@@ -2,7 +2,7 @@
 layout: wiki
 title: 琐巴（ZOBAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 琐巴（ZOBAH）
+description: 圣经新词典 - 琐巴（ZOBAH）
 keywords: 琐巴, ZOBAH
 comments: false
 ---

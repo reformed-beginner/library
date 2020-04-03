@@ -2,7 +2,7 @@
 layout: wiki
 title: 梭烈谷（SOREK, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 梭烈谷（SOREK, VALLEY OF）
+description: 圣经新词典 - 梭烈谷（SOREK, VALLEY OF）
 keywords: 梭烈谷, SOREK, VALLEY OF
 comments: false
 ---

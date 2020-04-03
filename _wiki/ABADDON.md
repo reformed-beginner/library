@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚巴顿（ABADDON）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚巴顿（ABADDON）
+description: 圣经新词典 - 亚巴顿（ABADDON）
 keywords: 亚巴顿, ABADDON
 comments: false
 ---

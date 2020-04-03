@@ -2,7 +2,7 @@
 layout: wiki
 title: 古利奈（CYRENE）
 categories: NewBibleDictionary
-description: 圣经新词典: 古利奈（CYRENE）
+description: 圣经新词典 - 古利奈（CYRENE）
 keywords: 古利奈, CYRENE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 耶利米哀歌（LAMENTATIONS, BOOK OF¡^
+description: 圣经新词典 - 耶利米哀歌（LAMENTATIONS, BOOK OF¡^
 keywords: , 
 comments: false
 ---

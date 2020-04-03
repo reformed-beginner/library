@@ -2,7 +2,7 @@
 layout: wiki
 title: 加略（KERIOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 加略（KERIOTH）
+description: 圣经新词典 - 加略（KERIOTH）
 keywords: 加略, KERIOTH
 comments: false
 ---

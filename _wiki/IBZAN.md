@@ -2,7 +2,7 @@
 layout: wiki
 title: 以比赞（IBZAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 以比赞（IBZAN）（来：~ib[s]a{n）
+description: 圣经新词典 - 以比赞（IBZAN）（来：~ib[s]a{n）
 keywords: 以比赞, IBZAN
 comments: false
 ---

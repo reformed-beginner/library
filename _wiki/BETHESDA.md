@@ -2,7 +2,7 @@
 layout: wiki
 title: 毕士大；毕沙法（BETHESDA, BETHZATHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 毕士大；毕沙法（BETHESDA, BETHZATHA）
+description: 圣经新词典 - 毕士大；毕沙法（BETHESDA, BETHZATHA）
 keywords: 毕士大；毕沙法, BETHESDA, BETHZATHA
 comments: false
 ---

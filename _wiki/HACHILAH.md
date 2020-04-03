@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈基拉（HACHILAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈基拉（HACHILAH）（来：h]@k[i^la^，“干旱”）
+description: 圣经新词典 - 哈基拉（HACHILAH）（来：h]@k[i^la^，“干旱”）
 keywords: 哈基拉, HACHILAH
 comments: false
 ---

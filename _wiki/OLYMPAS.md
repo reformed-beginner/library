@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿林巴（OLYMPAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿林巴（OLYMPAS）
+description: 圣经新词典 - 阿林巴（OLYMPAS）
 keywords: 阿林巴, OLYMPAS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 安得烈（ANDREW）
 categories: NewBibleDictionary
-description: 圣经新词典: 安得烈（ANDREW）
+description: 圣经新词典 - 安得烈（ANDREW）
 keywords: 安得烈, ANDREW
 comments: false
 ---

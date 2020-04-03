@@ -2,7 +2,7 @@
 layout: wiki
 title: 但雅安（DAN-JAAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 但雅安（DAN-JAAN）
+description: 圣经新词典 - 但雅安（DAN-JAAN）
 keywords: 但雅安, DAN-JAAN
 comments: false
 ---

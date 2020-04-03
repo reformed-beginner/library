@@ -2,7 +2,7 @@
 layout: wiki
 title: 腓利门书（PHILEMON, EPISTLE TO）
 categories: NewBibleDictionary
-description: 圣经新词典: 腓利门书（PHILEMON, EPISTLE TO）
+description: 圣经新词典 - 腓利门书（PHILEMON, EPISTLE TO）
 keywords: 腓利门书, PHILEMON, EPISTLE TO
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 手（HAND）
 categories: NewBibleDictionary
-description: 圣经新词典: 手（HAND）
+description: 圣经新词典 - 手（HAND）
 keywords: 手, HAND
 comments: false
 ---

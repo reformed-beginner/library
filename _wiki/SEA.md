@@ -2,7 +2,7 @@
 layout: wiki
 title: 海（SEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 海（SEA）（来：ya{m；腊：thalassa 及 pelagos，后者的意思是“大海”，只在徒廿七5出现过）
+description: 圣经新词典 - 海（SEA）（来：ya{m；腊：thalassa 及 pelagos，后者的意思是“大海”，只在徒廿七5出现过）
 keywords: 海, SEA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西达达（ZEDAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 西达达（ZEDAD）
+description: 圣经新词典 - 西达达（ZEDAD）
 keywords: 西达达, ZEDAD
 comments: false
 ---

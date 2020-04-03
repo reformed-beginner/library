@@ -2,7 +2,7 @@
 layout: wiki
 title: 女执事（DEACONESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 女执事（DEACONESS）
+description: 圣经新词典 - 女执事（DEACONESS）
 keywords: 女执事, DEACONESS
 comments: false
 ---

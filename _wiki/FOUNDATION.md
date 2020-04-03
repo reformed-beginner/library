@@ -2,7 +2,7 @@
 layout: wiki
 title: 根基（FOUNDATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 根基（FOUNDATION）
+description: 圣经新词典 - 根基（FOUNDATION）
 keywords: 根基, FOUNDATION
 comments: false
 ---

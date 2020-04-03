@@ -2,7 +2,7 @@
 layout: wiki
 title: 音临门（EN-RIMMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 音临门（EN-RIMMON）（来：`e^n-rimmo^n，“石榴的泉源”）
+description: 圣经新词典 - 音临门（EN-RIMMON）（来：`e^n-rimmo^n，“石榴的泉源”）
 keywords: 音临门, EN-RIMMON
 comments: false
 ---

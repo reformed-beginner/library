@@ -2,7 +2,7 @@
 layout: wiki
 title: 内侍臣（CHAMBERLAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 内侍臣（CHAMBERLAIN）
+description: 圣经新词典 - 内侍臣（CHAMBERLAIN）
 keywords: 内侍臣, CHAMBERLAIN
 comments: false
 ---

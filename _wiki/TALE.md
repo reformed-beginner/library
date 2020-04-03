@@ -2,7 +2,7 @@
 layout: wiki
 title: 数目，报导（TALE）
 categories: NewBibleDictionary
-description: 圣经新词典: 数目，报导（TALE）
+description: 圣经新词典 - 数目，报导（TALE）
 keywords: 数目，报导, TALE
 comments: false
 ---

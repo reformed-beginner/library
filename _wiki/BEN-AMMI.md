@@ -2,7 +2,7 @@
 layout: wiki
 title: 便亚米（BEN-AMMI）
 categories: NewBibleDictionary
-description: 圣经新词典: 便亚米（BEN-AMMI）（“我亲属的儿子”）
+description: 圣经新词典 - 便亚米（BEN-AMMI）（“我亲属的儿子”）
 keywords: 便亚米, BEN-AMMI
 comments: false
 ---

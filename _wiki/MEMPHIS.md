@@ -2,7 +2,7 @@
 layout: wiki
 title: 孟斐斯/门腓斯，挪弗/摩弗（MEMPHIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 孟斐斯/门腓斯，挪弗/摩弗（MEMPHIS）（埃及文：Mn-nfr，来：Mo{p{ 及 No{p{）
+description: 圣经新词典 - 孟斐斯/门腓斯，挪弗/摩弗（MEMPHIS）（埃及文：Mn-nfr，来：Mo{p{ 及 No{p{）
 keywords: 孟斐斯/门腓斯，挪弗/摩弗, MEMPHIS
 comments: false
 ---

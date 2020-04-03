@@ -2,7 +2,7 @@
 layout: wiki
 title: 罗底巴（LO-DEBAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 罗底巴（LO-DEBAR）
+description: 圣经新词典 - 罗底巴（LO-DEBAR）
 keywords: 罗底巴, LO-DEBAR
 comments: false
 ---

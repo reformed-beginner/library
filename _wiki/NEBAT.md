@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼八（NEBAT）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼八（NEBAT）
+description: 圣经新词典 - 尼八（NEBAT）
 keywords: 尼八, NEBAT
 comments: false
 ---

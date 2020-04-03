@@ -2,7 +2,7 @@
 layout: wiki
 title: 以力（ERECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以力（ERECH）
+description: 圣经新词典 - 以力（ERECH）
 keywords: 以力, ERECH
 comments: false
 ---

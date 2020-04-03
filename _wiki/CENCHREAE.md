@@ -2,7 +2,7 @@
 layout: wiki
 title: 坚革哩（CENCHREAE）
 categories: NewBibleDictionary
-description: 圣经新词典: 坚革哩（CENCHREAE）
+description: 圣经新词典 - 坚革哩（CENCHREAE）
 keywords: 坚革哩, CENCHREAE
 comments: false
 ---

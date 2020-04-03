@@ -2,7 +2,7 @@
 layout: wiki
 title: 犁，鹤嘴锄（MATTOCK）
 categories: NewBibleDictionary
-description: 圣经新词典: 犁，鹤嘴锄（MATTOCK）
+description: 圣经新词典 - 犁，鹤嘴锄（MATTOCK）
 keywords: 犁，鹤嘴锄, MATTOCK
 comments: false
 ---

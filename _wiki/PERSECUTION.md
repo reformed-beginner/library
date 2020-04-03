@@ -2,7 +2,7 @@
 layout: wiki
 title: 逼迫（PERSECUTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 逼迫（PERSECUTION）
+description: 圣经新词典 - 逼迫（PERSECUTION）
 keywords: 逼迫, PERSECUTION
 comments: false
 ---

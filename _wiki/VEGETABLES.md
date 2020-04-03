@@ -2,7 +2,7 @@
 layout: wiki
 title: 蔬菜（VEGETABLES）
 categories: NewBibleDictionary
-description: 圣经新词典: 蔬菜（VEGETABLES）（来：ze{ro{`i^m，“种子”，AV 作“豆类植物”，但一12；ze{r#`o{ni^m，种子，RV
+description: 圣经新词典 - 蔬菜（VEGETABLES）（来：ze{ro{`i^m，“种子”，AV 作“豆类植物”，但一12；ze{r#`o{ni^m，种子，RV
 旁注作“草本植物”，但一16）
 keywords: 蔬菜, VEGETABLES
 comments: false

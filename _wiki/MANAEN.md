@@ -2,7 +2,7 @@
 layout: wiki
 title: 马念（MANAEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 马念（MANAEN）
+description: 圣经新词典 - 马念（MANAEN）
 keywords: 马念, MANAEN
 comments: false
 ---

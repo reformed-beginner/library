@@ -2,7 +2,7 @@
 layout: wiki
 title: 马槽，牛槽（MANGER）
 categories: NewBibleDictionary
-description: 圣经新词典: 马槽，牛槽（MANGER）
+description: 圣经新词典 - 马槽，牛槽（MANGER）
 keywords: 马槽，牛槽, MANGER
 comments: false
 ---

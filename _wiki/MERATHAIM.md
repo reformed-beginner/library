@@ -2,7 +2,7 @@
 layout: wiki
 title: 米拉大翁（MERATHAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 米拉大翁（MERATHAIM）（来：m#ra{t[ayim）
+description: 圣经新词典 - 米拉大翁（MERATHAIM）（来：m#ra{t[ayim）
 keywords: 米拉大翁, MERATHAIM
 comments: false
 ---

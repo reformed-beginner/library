@@ -2,7 +2,7 @@
 layout: wiki
 title: 应许（PROMISE）
 categories: NewBibleDictionary
-description: 圣经新词典: 应许（PROMISE）
+description: 圣经新词典 - 应许（PROMISE）
 keywords: 应许, PROMISE
 comments: false
 ---

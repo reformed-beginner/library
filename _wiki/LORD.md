@@ -2,7 +2,7 @@
 layout: wiki
 title: 主日（LORD'S DAY）
 categories: NewBibleDictionary
-description: 圣经新词典: 主日（LORD'S DAY）
+description: 圣经新词典 - 主日（LORD'S DAY）
 keywords: 主日, LORD'S DAY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴拉（BARAK）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴拉（BARAK）（来：ba{ra{q，“闪电”；参：迦太基文：Barca）
+description: 圣经新词典 - 巴拉（BARAK）（来：ba{ra{q，“闪电”；参：迦太基文：Barca）
 keywords: 巴拉, BARAK
 comments: false
 ---

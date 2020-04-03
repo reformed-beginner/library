@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶孙（JASON）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶孙（JASON）
+description: 圣经新词典 - 耶孙（JASON）
 keywords: 耶孙, JASON
 comments: false
 ---

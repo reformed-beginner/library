@@ -2,7 +2,7 @@
 layout: wiki
 title: 多利买港（PTOLEMAIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 多利买港（PTOLEMAIS）
+description: 圣经新词典 - 多利买港（PTOLEMAIS）
 keywords: 多利买港, PTOLEMAIS
 comments: false
 ---

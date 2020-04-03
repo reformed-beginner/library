@@ -2,7 +2,7 @@
 layout: wiki
 title: 盐城（SALT, CITY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 盐城（SALT, CITY OF）（来：`i^r hammelah]）
+description: 圣经新词典 - 盐城（SALT, CITY OF）（来：`i^r hammelah]）
 keywords: 盐城, SALT, CITY OF
 comments: false
 ---

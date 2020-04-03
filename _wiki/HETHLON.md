@@ -2,7 +2,7 @@
 layout: wiki
 title: 希特伦（HETHLON）
 categories: NewBibleDictionary
-description: 圣经新词典: 希特伦（HETHLON）（来：h]et[lo^n）
+description: 圣经新词典 - 希特伦（HETHLON）（来：h]et[lo^n）
 keywords: 希特伦, HETHLON
 comments: false
 ---

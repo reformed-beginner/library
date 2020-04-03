@@ -2,7 +2,7 @@
 layout: wiki
 title: 以铁（ITHIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 以铁（ITHIEL）
+description: 圣经新词典 - 以铁（ITHIEL）
 keywords: 以铁, ITHIEL
 comments: false
 ---

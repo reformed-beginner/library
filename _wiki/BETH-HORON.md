@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯和仑（BETH-HORON）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯和仑（BETH-HORON）
+description: 圣经新词典 - 伯和仑（BETH-HORON）
 keywords: 伯和仑, BETH-HORON
 comments: false
 ---

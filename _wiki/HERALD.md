@@ -2,7 +2,7 @@
 layout: wiki
 title: 传令，使者（HERALD）
 categories: NewBibleDictionary
-description: 圣经新词典: 传令，使者（HERALD）
+description: 圣经新词典 - 传令，使者（HERALD）
 keywords: 传令，使者, HERALD
 comments: false
 ---

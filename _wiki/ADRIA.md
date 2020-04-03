@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚底亚（ADRIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚底亚（ADRIA）
+description: 圣经新词典 - 亚底亚（ADRIA）
 keywords: 亚底亚, ADRIA
 comments: false
 ---

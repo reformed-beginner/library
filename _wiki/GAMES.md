@@ -2,7 +2,7 @@
 layout: wiki
 title: 游戏，竞赛（GAMES）
 categories: NewBibleDictionary
-description: 圣经新词典: 游戏，竞赛（GAMES）
+description: 圣经新词典 - 游戏，竞赛（GAMES）
 keywords: 游戏，竞赛, GAMES
 comments: false
 ---

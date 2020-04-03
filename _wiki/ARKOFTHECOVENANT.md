@@ -2,7 +2,7 @@
 layout: wiki
 title: 约柜（ARK OF THE COVENANT）
 categories: NewBibleDictionary
-description: 圣经新词典: 约柜（ARK OF THE COVENANT）
+description: 圣经新词典 - 约柜（ARK OF THE COVENANT）
 keywords: 约柜, ARK OF THE COVENANT
 comments: false
 ---

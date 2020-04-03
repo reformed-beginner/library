@@ -2,7 +2,7 @@
 layout: wiki
 title: 叙加（SYCHAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 叙加（SYCHAR）
+description: 圣经新词典 - 叙加（SYCHAR）
 keywords: 叙加, SYCHAR
 comments: false
 ---

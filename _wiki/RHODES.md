@@ -2,7 +2,7 @@
 layout: wiki
 title: 罗底，罗德岛（RHODES）
 categories: NewBibleDictionary
-description: 圣经新词典: 罗底，罗德岛（RHODES）
+description: 圣经新词典 - 罗底，罗德岛（RHODES）
 keywords: 罗底，罗德岛, RHODES
 comments: false
 ---

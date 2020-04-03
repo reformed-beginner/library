@@ -2,7 +2,7 @@
 layout: wiki
 title: 智慧（WISDOM）
 categories: NewBibleDictionary
-description: 圣经新词典: 智慧（WISDOM）
+description: 圣经新词典 - 智慧（WISDOM）
 keywords: 智慧, WISDOM
 comments: false
 ---

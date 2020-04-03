@@ -2,7 +2,7 @@
 layout: wiki
 title: 约珥书（JOEL, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 约珥书（JOEL, BOOK OF）
+description: 圣经新词典 - 约珥书（JOEL, BOOK OF）
 keywords: 约珥书, JOEL, BOOK OF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 家，家室，族，宗族（FAMILY, HOUSEHOLD）
 categories: NewBibleDictionary
-description: 圣经新词典: 家，家室，族，宗族（FAMILY, HOUSEHOLD）
+description: 圣经新词典 - 家，家室，族，宗族（FAMILY, HOUSEHOLD）
 keywords: 家，家室，族，宗族, FAMILY, HOUSEHOLD
 comments: false
 ---

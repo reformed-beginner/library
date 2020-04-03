@@ -2,7 +2,7 @@
 layout: wiki
 title: 自由，释放（LIBERTY）
 categories: NewBibleDictionary
-description: 圣经新词典: 自由，释放（LIBERTY）
+description: 圣经新词典 - 自由，释放（LIBERTY）
 keywords: 自由，释放, LIBERTY
 comments: false
 ---

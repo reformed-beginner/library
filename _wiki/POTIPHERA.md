@@ -2,7 +2,7 @@
 layout: wiki
 title: 波提非拉（POTIPHERA）
 categories: NewBibleDictionary
-description: 圣经新词典: 波提非拉（POTIPHERA）（AV：Potipherah）
+description: 圣经新词典 - 波提非拉（POTIPHERA）（AV：Potipherah）
 keywords: 波提非拉, POTIPHERA
 comments: false
 ---

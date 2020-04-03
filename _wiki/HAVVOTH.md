@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈倭特睚珥（HAVVOTH-JAIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈倭特睚珥（HAVVOTH-JAIR）
+description: 圣经新词典 - 哈倭特睚珥（HAVVOTH-JAIR）
 keywords: 哈倭特睚珥, HAVVOTH-JAIR
 comments: false
 ---

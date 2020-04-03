@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚那（ANNAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚那（ANNAS）
+description: 圣经新词典 - 亚那（ANNAS）
 keywords: 亚那, ANNAS
 comments: false
 ---

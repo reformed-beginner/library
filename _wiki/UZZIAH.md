@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　犹大乌西雅王墓穴的石灰石碑匾
+description: 圣经新词典 - 图　犹大乌西雅王墓穴的石灰石碑匾
 keywords: , 
 comments: false
 ---

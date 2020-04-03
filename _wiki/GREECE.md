@@ -2,7 +2,7 @@
 layout: wiki
 title: 希腊，希利尼（GREECE）
 categories: NewBibleDictionary
-description: 圣经新词典: 希腊，希利尼（GREECE）
+description: 圣经新词典 - 希腊，希利尼（GREECE）
 keywords: 希腊，希利尼, GREECE
 comments: false
 ---

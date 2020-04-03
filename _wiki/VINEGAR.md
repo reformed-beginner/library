@@ -2,7 +2,7 @@
 layout: wiki
 title: 醋（VINEGAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 醋（VINEGAR）（来：h]o{mes]；腊：oxos）
+description: 圣经新词典 - 醋（VINEGAR）（来：h]o{mes]；腊：oxos）
 keywords: 醋, VINEGAR
 comments: false
 ---

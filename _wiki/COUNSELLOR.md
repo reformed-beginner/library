@@ -2,7 +2,7 @@
 layout: wiki
 title: 谋士，策士（COUNSELLOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 谋士，策士（COUNSELLOR）（来：yo^`e{s]，指“给予劝告或谋策的人”）
+description: 圣经新词典 - 谋士，策士（COUNSELLOR）（来：yo^`e{s]，指“给予劝告或谋策的人”）
 keywords: 谋士，策士, COUNSELLOR
 comments: false
 ---

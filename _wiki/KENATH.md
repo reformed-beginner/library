@@ -2,7 +2,7 @@
 layout: wiki
 title: 基纳（KENATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基纳（KENATH）（来：q#na{t[, “产业”）
+description: 圣经新词典 - 基纳（KENATH）（来：q#na{t[, “产业”）
 keywords: 基纳, KENATH
 comments: false
 ---

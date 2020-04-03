@@ -2,7 +2,7 @@
 layout: wiki
 title: 敬虔（PIETY）
 categories: NewBibleDictionary
-description: 圣经新词典: 敬虔（PIETY）
+description: 圣经新词典 - 敬虔（PIETY）
 keywords: 敬虔, PIETY
 comments: false
 ---

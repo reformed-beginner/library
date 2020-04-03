@@ -2,7 +2,7 @@
 layout: wiki
 title: 珊迦（SHAMGAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 珊迦（SHAMGAR）（来：s%amgar，可能来自户利语的 s%imiqari）
+description: 圣经新词典 - 珊迦（SHAMGAR）（来：s%amgar，可能来自户利语的 s%imiqari）
 keywords: 珊迦, SHAMGAR
 comments: false
 ---

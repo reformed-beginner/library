@@ -2,7 +2,7 @@
 layout: wiki
 title: 大利乌（DARIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 大利乌（DARIUS）（来： Da{r#ya{wes%；亚甲、以拦文：Dariawus%；古波斯文：Darayavaus%；腊： Dareios
+description: 圣经新词典 - 大利乌（DARIUS）（来： Da{r#ya{wes%；亚甲、以拦文：Dariawus%；古波斯文：Darayavaus%；腊： Dareios
 ）
 keywords: 大利乌, DARIUS
 comments: false

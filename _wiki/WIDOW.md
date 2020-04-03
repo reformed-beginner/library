@@ -2,7 +2,7 @@
 layout: wiki
 title: 寡妇（WIDOW）
 categories: NewBibleDictionary
-description: 圣经新词典: 寡妇（WIDOW）
+description: 圣经新词典 - 寡妇（WIDOW）
 keywords: 寡妇, WIDOW
 comments: false
 ---

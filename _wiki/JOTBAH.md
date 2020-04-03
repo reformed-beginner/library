@@ -2,7 +2,7 @@
 layout: wiki
 title: 约提巴（JOTBAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 约提巴（JOTBAH）
+description: 圣经新词典 - 约提巴（JOTBAH）
 keywords: 约提巴, JOTBAH
 comments: false
 ---

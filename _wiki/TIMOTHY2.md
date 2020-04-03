@@ -2,7 +2,7 @@
 layout: wiki
 title: 提摩太前后书与提多书（TIMOTHY AND TITUS, EPISTLES TO）
 categories: NewBibleDictionary
-description: 圣经新词典: 提摩太前后书与提多书（TIMOTHY AND TITUS, EPISTLES TO）
+description: 圣经新词典 - 提摩太前后书与提多书（TIMOTHY AND TITUS, EPISTLES TO）
 keywords: 提摩太前后书与提多书, TIMOTHY AND TITUS, EPISTLES TO
 comments: false
 ---

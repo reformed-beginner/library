@@ -2,7 +2,7 @@
 layout: wiki
 title: 亭拿希烈，亭拿西拉（TIMNATH-HERES, TIMNATH-SERAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亭拿希烈，亭拿西拉（TIMNATH-HERES, TIMNATH-SERAH）（来：timnat[-h]eres,
+description: 圣经新词典 - 亭拿希烈，亭拿西拉（TIMNATH-HERES, TIMNATH-SERAH）（来：timnat[-h]eres,
 timnat[-serah]）
 keywords: 亭拿希烈，亭拿西拉, TIMNATH-HERES, TIMNATH-SERAH
 comments: false

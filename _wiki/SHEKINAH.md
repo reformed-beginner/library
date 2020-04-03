@@ -2,7 +2,7 @@
 layout: wiki
 title: 舍吉拿（神的荣耀）
 categories: NewBibleDictionary
-description: 圣经新词典: 舍吉拿（神的荣耀）（SHEKINAH）
+description: 圣经新词典 - 舍吉拿（神的荣耀）（SHEKINAH）
 keywords: 舍吉拿, 神的荣耀
 comments: false
 ---

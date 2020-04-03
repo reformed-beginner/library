@@ -2,7 +2,7 @@
 layout: wiki
 title: 多珥（DOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 多珥（DOR）
+description: 圣经新词典 - 多珥（DOR）
 keywords: 多珥, DOR
 comments: false
 ---

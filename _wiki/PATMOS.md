@@ -2,7 +2,7 @@
 layout: wiki
 title: 拔摩海岛（PATMOS）
 categories: NewBibleDictionary
-description: 圣经新词典: 拔摩海岛（PATMOS）
+description: 圣经新词典 - 拔摩海岛（PATMOS）
 keywords: 拔摩海岛, PATMOS
 comments: false
 ---

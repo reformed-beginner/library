@@ -2,7 +2,7 @@
 layout: wiki
 title: 服从，顺服（OBEDIENCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 服从，顺服（OBEDIENCE）
+description: 圣经新词典 - 服从，顺服（OBEDIENCE）
 keywords: 服从，顺服, OBEDIENCE
 comments: false
 ---

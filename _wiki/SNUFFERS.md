@@ -2,7 +2,7 @@
 layout: wiki
 title: 蜡剪（SNUFFERS）
 categories: NewBibleDictionary
-description: 圣经新词典: 蜡剪（SNUFFERS）
+description: 圣经新词典 - 蜡剪（SNUFFERS）
 keywords: 蜡剪, SNUFFERS
 comments: false
 ---

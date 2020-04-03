@@ -2,7 +2,7 @@
 layout: wiki
 title: 灰泥（PLASTER）
 categories: NewBibleDictionary
-description: 圣经新词典: 灰泥（PLASTER）
+description: 圣经新词典 - 灰泥（PLASTER）
 keywords: 灰泥, PLASTER
 comments: false
 ---

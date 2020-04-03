@@ -2,7 +2,7 @@
 layout: wiki
 title: 以探（ETHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 以探（ETHAN）（来：`e^t[a{n，意即“持久”，“远古的”）
+description: 圣经新词典 - 以探（ETHAN）（来：`e^t[a{n，意即“持久”，“远古的”）
 keywords: 以探, ETHAN
 comments: false
 ---

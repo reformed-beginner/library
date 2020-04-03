@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚希雅；亚希亚（AHIJAH, AHIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚希雅；亚希亚（AHIJAH, AHIAH）
+description: 圣经新词典 - 亚希雅；亚希亚（AHIJAH, AHIAH）
 keywords: 亚希雅；亚希亚, AHIJAH, AHIAH
 comments: false
 ---

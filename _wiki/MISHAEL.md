@@ -2,7 +2,7 @@
 layout: wiki
 title: 米沙利（MISHAEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 米沙利（MISHAEL）（来：mi^s%a{~e{l，“谁能像神？”）
+description: 圣经新词典 - 米沙利（MISHAEL）（来：mi^s%a{~e{l，“谁能像神？”）
 keywords: 米沙利, MISHAEL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 宗教，虔诚（RELIGION）
 categories: NewBibleDictionary
-description: 圣经新词典: 宗教，虔诚（RELIGION）
+description: 圣经新词典 - 宗教，虔诚（RELIGION）
 keywords: 宗教，虔诚, RELIGION
 comments: false
 ---

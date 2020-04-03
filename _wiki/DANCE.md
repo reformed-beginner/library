@@ -2,7 +2,7 @@
 layout: wiki
 title: 舞蹈（DANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 舞蹈（DANCE）
+description: 圣经新词典 - 舞蹈（DANCE）
 keywords: 舞蹈, DANCE
 comments: false
 ---

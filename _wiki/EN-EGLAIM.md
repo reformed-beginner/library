@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐以革莲（EN-EGLAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐以革莲（EN-EGLAIM）(来：`e^n-`eg{layim，“两条小牛的泉”）
+description: 圣经新词典 - 隐以革莲（EN-EGLAIM）(来：`e^n-`eg{layim，“两条小牛的泉”）
 keywords: 隐以革莲, EN-EGLAIM
 comments: false
 ---

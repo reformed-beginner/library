@@ -2,7 +2,7 @@
 layout: wiki
 title: 旅途，朝圣（PILGRIMAGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 旅途，朝圣（PILGRIMAGE）
+description: 圣经新词典 - 旅途，朝圣（PILGRIMAGE）
 keywords: 旅途，朝圣, PILGRIMAGE
 comments: false
 ---

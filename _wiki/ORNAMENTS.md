@@ -2,7 +2,7 @@
 layout: wiki
 title: 装饰（ORNAMENTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 装饰（ORNAMENTS）
+description: 圣经新词典 - 装饰（ORNAMENTS）
 keywords: 装饰, ORNAMENTS
 comments: false
 ---

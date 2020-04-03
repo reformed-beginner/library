@@ -2,7 +2,7 @@
 layout: wiki
 title: 理番（REPHAN [AV REMPHAN]）
 categories: NewBibleDictionary
-description: 圣经新词典: 理番（REPHAN [AV REMPHAN]）
+description: 圣经新词典 - 理番（REPHAN [AV REMPHAN]）
 keywords: 理番, REPHAN [AV REMPHAN]
 comments: false
 ---

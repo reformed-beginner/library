@@ -2,7 +2,7 @@
 layout: wiki
 title: 以马忤斯（EMMAUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 以马忤斯（EMMAUS）
+description: 圣经新词典 - 以马忤斯（EMMAUS）
 keywords: 以马忤斯, EMMAUS
 comments: false
 ---

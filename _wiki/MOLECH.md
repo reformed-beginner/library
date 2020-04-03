@@ -2,7 +2,7 @@
 layout: wiki
 title: 摩洛（MOLECH, MOLOCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 摩洛（MOLECH, MOLOCH）
+description: 圣经新词典 - 摩洛（MOLECH, MOLOCH）
 keywords: 摩洛, MOLECH, MOLOCH
 comments: false
 ---

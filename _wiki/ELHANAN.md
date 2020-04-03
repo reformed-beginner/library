@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊勒哈难（ELHANAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊勒哈难（ELHANAN）
+description: 圣经新词典 - 伊勒哈难（ELHANAN）
 keywords: 伊勒哈难, ELHANAN
 comments: false
 ---

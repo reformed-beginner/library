@@ -2,7 +2,7 @@
 layout: wiki
 title: 橄榄（OLIVE）
 categories: NewBibleDictionary
-description: 圣经新词典: 橄榄（OLIVE）（来：zayit[；腊：elaia）
+description: 圣经新词典 - 橄榄（OLIVE）（来：zayit[；腊：elaia）
 keywords: 橄榄, OLIVE
 comments: false
 ---

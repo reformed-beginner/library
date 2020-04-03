@@ -2,7 +2,7 @@
 layout: wiki
 title: 米甸人（MIDIANITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 米甸人（MIDIANITES）
+description: 圣经新词典 - 米甸人（MIDIANITES）
 keywords: 米甸人, MIDIANITES
 comments: false
 ---

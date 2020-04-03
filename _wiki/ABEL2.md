@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比拉，亚伯，亚备勒（ABEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比拉，亚伯，亚备勒（ABEL）
+description: 圣经新词典 - 亚比拉，亚伯，亚备勒（ABEL）
 keywords: 亚比拉，亚伯，亚备勒, ABEL
 comments: false
 ---

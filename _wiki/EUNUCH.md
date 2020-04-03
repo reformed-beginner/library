@@ -2,7 +2,7 @@
 layout: wiki
 title: 太监，阉人（EUNUCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 太监，阉人（EUNUCH）（来：sa{ri^s）
+description: 圣经新词典 - 太监，阉人（EUNUCH）（来：sa{ri^s）
 keywords: 太监，阉人, EUNUCH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 表　圣经某些译本中珠宝、宝石和次等宝石的名称对照
+description: 圣经新词典 - 表　圣经某些译本中珠宝、宝石和次等宝石的名称对照
 keywords: , 
 comments: false
 ---

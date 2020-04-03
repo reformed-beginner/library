@@ -2,7 +2,7 @@
 layout: wiki
 title: 箴言，俗语（PROVERB）
 categories: NewBibleDictionary
-description: 圣经新词典: 箴言，俗语（PROVERB）
+description: 圣经新词典 - 箴言，俗语（PROVERB）
 keywords: 箴言，俗语, PROVERB
 comments: false
 ---

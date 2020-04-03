@@ -2,7 +2,7 @@
 layout: wiki
 title: 匠人；铸炼（REFINER, REFINING）
 categories: NewBibleDictionary
-description: 圣经新词典: 匠人；铸炼（REFINER, REFINING）
+description: 圣经新词典 - 匠人；铸炼（REFINER, REFINING）
 keywords: 匠人；铸炼, REFINER, REFINING
 comments: false
 ---

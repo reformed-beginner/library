@@ -2,7 +2,7 @@
 layout: wiki
 title: 马太（MATTHEW）
 categories: NewBibleDictionary
-description: 圣经新词典: 马太（MATTHEW）
+description: 圣经新词典 - 马太（MATTHEW）
 keywords: 马太, MATTHEW
 comments: false
 ---

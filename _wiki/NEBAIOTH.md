@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼拜约（NEBAIOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼拜约（NEBAIOTH）
+description: 圣经新词典 - 尼拜约（NEBAIOTH）
 keywords: 尼拜约, NEBAIOTH
 comments: false
 ---

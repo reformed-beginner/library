@@ -2,7 +2,7 @@
 layout: wiki
 title: 帕大喇（PATARA）
 categories: NewBibleDictionary
-description: 圣经新词典: 帕大喇（PATARA）
+description: 圣经新词典 - 帕大喇（PATARA）
 keywords: 帕大喇, PATARA
 comments: false
 ---

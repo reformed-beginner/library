@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚哈（AHAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚哈（AHAB）（来：~ah]~a{b[；亚述文： Ah\a{bu，“〔神圣〕兄弟是父”）
+description: 圣经新词典 - 亚哈（AHAB）（来：~ah]~a{b[；亚述文： Ah\a{bu，“〔神圣〕兄弟是父”）
 keywords: 亚哈, AHAB
 comments: false
 ---

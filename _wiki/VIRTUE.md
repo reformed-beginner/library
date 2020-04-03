@@ -2,7 +2,7 @@
 layout: wiki
 title: 才德，美德，能力（VIRTUE）
 categories: NewBibleDictionary
-description: 圣经新词典: 才德，美德，能力（VIRTUE）
+description: 圣经新词典 - 才德，美德，能力（VIRTUE）
 keywords: 才德，美德，能力, VIRTUE
 comments: false
 ---

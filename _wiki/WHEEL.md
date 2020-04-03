@@ -2,7 +2,7 @@
 layout: wiki
 title: 轮，转盘（WHEEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 轮，转盘（WHEEL）
+description: 圣经新词典 - 轮，转盘（WHEEL）
 keywords: 轮，转盘, WHEEL
 comments: false
 ---

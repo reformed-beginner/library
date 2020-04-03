@@ -2,7 +2,7 @@
 layout: wiki
 title: 他玛，她玛（TAMAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 他玛，她玛（TAMAR）（来：ta{ma{r ──“棕榈树”）
+description: 圣经新词典 - 他玛，她玛（TAMAR）（来：ta{ma{r ──“棕榈树”）
 keywords: 他玛，她玛, TAMAR
 comments: false
 ---

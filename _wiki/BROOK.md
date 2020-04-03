@@ -2,7 +2,7 @@
 layout: wiki
 title: 溪（BROOK）
 categories: NewBibleDictionary
-description: 圣经新词典: 溪（BROOK）
+description: 圣经新词典 - 溪（BROOK）
 keywords: 溪, BROOK
 comments: false
 ---

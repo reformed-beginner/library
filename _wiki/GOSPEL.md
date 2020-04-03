@@ -2,7 +2,7 @@
 layout: wiki
 title: 福音（GOSPEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 福音（GOSPEL）（腊：euangelion，“好消息”）
+description: 圣经新词典 - 福音（GOSPEL）（腊：euangelion，“好消息”）
 keywords: 福音, GOSPEL
 comments: false
 ---

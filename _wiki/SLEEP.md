@@ -2,7 +2,7 @@
 layout: wiki
 title: 睡觉（SLEEP）
 categories: NewBibleDictionary
-description: 圣经新词典: 睡觉（SLEEP）
+description: 圣经新词典 - 睡觉（SLEEP）
 keywords: 睡觉, SLEEP
 comments: false
 ---

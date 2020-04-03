@@ -2,7 +2,7 @@
 layout: wiki
 title: 祷告（PRAYER）
 categories: NewBibleDictionary
-description: 圣经新词典: 祷告（PRAYER）
+description: 圣经新词典 - 祷告（PRAYER）
 keywords: 祷告, PRAYER
 comments: false
 ---

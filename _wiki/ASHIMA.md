@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚示玛（ASHIMA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚示玛（ASHIMA）
+description: 圣经新词典 - 亚示玛（ASHIMA）
 keywords: 亚示玛, ASHIMA
 comments: false
 ---

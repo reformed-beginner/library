@@ -2,7 +2,7 @@
 layout: wiki
 title: 完全（PERFECTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 完全（PERFECTION）
+description: 圣经新词典 - 完全（PERFECTION）
 keywords: 完全, PERFECTION
 comments: false
 ---

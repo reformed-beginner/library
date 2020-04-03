@@ -2,7 +2,7 @@
 layout: wiki
 title: 积货城（STORE-CITIES）
 categories: NewBibleDictionary
-description: 圣经新词典: 积货城（STORE-CITIES）
+description: 圣经新词典 - 积货城（STORE-CITIES）
 keywords: 积货城, STORE-CITIES
 comments: false
 ---

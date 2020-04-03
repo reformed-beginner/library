@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯特利（BETHEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯特利（BETHEL）
+description: 圣经新词典 - 伯特利（BETHEL）
 keywords: 伯特利, BETHEL
 comments: false
 ---

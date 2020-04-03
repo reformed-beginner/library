@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦得（GAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦得（GAD）（“万幸”）
+description: 圣经新词典 - 迦得（GAD）（“万幸”）
 keywords: 迦得, GAD
 comments: false
 ---

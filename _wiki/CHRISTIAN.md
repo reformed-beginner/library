@@ -2,7 +2,7 @@
 layout: wiki
 title: 基督徒（CHRISTIAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 基督徒（CHRISTIAN）
+description: 圣经新词典 - 基督徒（CHRISTIAN）
 keywords: 基督徒, CHRISTIAN
 comments: false
 ---

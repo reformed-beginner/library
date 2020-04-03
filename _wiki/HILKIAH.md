@@ -2,7 +2,7 @@
 layout: wiki
 title: 希勒家（HILKIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 希勒家（HILKIAH）（来：h]ilqi^ya^hu^, h]ilqi^ya^，“耶和华是我的分”）
+description: 圣经新词典 - 希勒家（HILKIAH）（来：h]ilqi^ya^hu^, h]ilqi^ya^，“耶和华是我的分”）
 keywords: 希勒家, HILKIAH
 comments: false
 ---

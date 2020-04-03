@@ -2,7 +2,7 @@
 layout: wiki
 title: 黑门（HERMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 黑门（HERMON）（来：h]ermo^n，“圣所”）
+description: 圣经新词典 - 黑门（HERMON）（来：h]ermo^n，“圣所”）
 keywords: 黑门, HERMON
 comments: false
 ---

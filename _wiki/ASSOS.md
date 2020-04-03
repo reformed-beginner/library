@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚朔（ASSOS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚朔（ASSOS）
+description: 圣经新词典 - 亚朔（ASSOS）
 keywords: 亚朔, ASSOS
 comments: false
 ---

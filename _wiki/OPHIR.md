@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿斐，俄斐（OPHIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿斐，俄斐（OPHIR）（来：~o^p{ir，创十29；~o^p{i^r，王上十11）
+description: 圣经新词典 - 阿斐，俄斐（OPHIR）（来：~o^p{ir，创十29；~o^p{i^r，王上十11）
 keywords: 阿斐，俄斐, OPHIR
 comments: false
 ---

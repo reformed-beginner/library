@@ -2,7 +2,7 @@
 layout: wiki
 title: 鬼魔（DEMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 鬼魔（DEMON）
+description: 圣经新词典 - 鬼魔（DEMON）
 keywords: 鬼魔, DEMON
 comments: false
 ---

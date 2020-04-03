@@ -2,7 +2,7 @@
 layout: wiki
 title: 清洁，纯全（PURITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 清洁，纯全（PURITY）
+description: 圣经新词典 - 清洁，纯全（PURITY）
 keywords: 清洁，纯全, PURITY
 comments: false
 ---

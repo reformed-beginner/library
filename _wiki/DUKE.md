@@ -2,7 +2,7 @@
 layout: wiki
 title: 族长（DUKE）
 categories: NewBibleDictionary
-description: 圣经新词典: 族长（DUKE）（来：~allu^p{,
+description: 圣经新词典 - 族长（DUKE）（来：~allu^p{,
 keywords: 族长, DUKE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 安提阿（彼西底的）
 categories: NewBibleDictionary
-description: 圣经新词典: 安提阿（彼西底的）（ANTIOCH [PISIDIAN]）
+description: 圣经新词典 - 安提阿（彼西底的）（ANTIOCH [PISIDIAN]）
 keywords: 安提阿, 彼西底的
 comments: false
 ---

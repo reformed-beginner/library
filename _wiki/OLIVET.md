@@ -2,7 +2,7 @@
 layout: wiki
 title: 橄榄山上的讲述（OLIVET DISCOURSE）
 categories: NewBibleDictionary
-description: 圣经新词典: 橄榄山上的讲述（OLIVET DISCOURSE）
+description: 圣经新词典 - 橄榄山上的讲述（OLIVET DISCOURSE）
 keywords: 橄榄山上的讲述, OLIVET DISCOURSE
 comments: false
 ---

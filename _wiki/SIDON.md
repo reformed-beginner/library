@@ -2,7 +2,7 @@
 layout: wiki
 title: 西顿（SIDON）
 categories: NewBibleDictionary
-description: 圣经新词典: 西顿（SIDON）（来：s]i^d[o^n, s]i^d[o^n）
+description: 圣经新词典 - 西顿（SIDON）（来：s]i^d[o^n, s]i^d[o^n）
 keywords: 西顿, SIDON
 comments: false
 ---

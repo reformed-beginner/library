@@ -2,7 +2,7 @@
 layout: wiki
 title: 水（WATER）
 categories: NewBibleDictionary
-description: 圣经新词典: 水（WATER）（来：mayim，腊：hydo{r）
+description: 圣经新词典 - 水（WATER）（来：mayim，腊：hydo{r）
 keywords: 水, WATER
 comments: false
 ---

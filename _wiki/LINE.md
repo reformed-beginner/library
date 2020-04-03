@@ -2,7 +2,7 @@
 layout: wiki
 title: 准绳（LINE）
 categories: NewBibleDictionary
-description: 圣经新词典: 准绳（LINE）
+description: 圣经新词典 - 准绳（LINE）
 keywords: 准绳, LINE
 comments: false
 ---

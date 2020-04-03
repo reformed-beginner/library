@@ -2,7 +2,7 @@
 layout: wiki
 title: 铜蛇（SERPENT, BRONZE）
 categories: NewBibleDictionary
-description: 圣经新词典: 铜蛇（SERPENT, BRONZE）
+description: 圣经新词典 - 铜蛇（SERPENT, BRONZE）
 keywords: 铜蛇, SERPENT, BRONZE
 comments: false
 ---

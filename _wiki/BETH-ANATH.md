@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯亚纳（BETH-ANATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯亚纳（BETH-ANATH）（来：be^t[ `@na{t[，“亚拿特之殿”的意思）
+description: 圣经新词典 - 伯亚纳（BETH-ANATH）（来：be^t[ `@na{t[，“亚拿特之殿”的意思）
 keywords: 伯亚纳, BETH-ANATH
 comments: false
 ---

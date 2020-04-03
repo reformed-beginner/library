@@ -2,7 +2,7 @@
 layout: wiki
 title: 毛布，麻布，丧服（SACKCLOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 毛布，麻布，丧服（SACKCLOTH）
+description: 圣经新词典 - 毛布，麻布，丧服（SACKCLOTH）
 keywords: 毛布，麻布，丧服, SACKCLOTH
 comments: false
 ---

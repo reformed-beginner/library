@@ -2,7 +2,7 @@
 layout: wiki
 title: 慈爱，怜悯；怜恤人（MERCY, MERCIFUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 慈爱，怜悯；怜恤人（MERCY, MERCIFUL）
+description: 圣经新词典 - 慈爱，怜悯；怜恤人（MERCY, MERCIFUL）
 keywords: 慈爱，怜悯；怜恤人, MERCY, MERCIFUL
 comments: false
 ---

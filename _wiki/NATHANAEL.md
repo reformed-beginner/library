@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿但业（NATHANAEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿但业（NATHANAEL）
+description: 圣经新词典 - 拿但业（NATHANAEL）
 keywords: 拿但业, NATHANAEL
 comments: false
 ---

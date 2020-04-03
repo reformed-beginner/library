@@ -2,7 +2,7 @@
 layout: wiki
 title: 代罪羊（SCAPEGOAT）
 categories: NewBibleDictionary
-description: 圣经新词典: 代罪羊（SCAPEGOAT）
+description: 圣经新词典 - 代罪羊（SCAPEGOAT）
 keywords: 代罪羊, SCAPEGOAT
 comments: false
 ---

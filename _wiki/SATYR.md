@@ -2,7 +2,7 @@
 layout: wiki
 title: 萨土如（SATYR）
 categories: NewBibleDictionary
-description: 圣经新词典: 萨土如（SATYR）（s*a{`i^r，“多毛者”，“公山羊”）
+description: 圣经新词典 - 萨土如（SATYR）（s*a{`i^r，“多毛者”，“公山羊”）
 keywords: 萨土如, SATYR
 comments: false
 ---

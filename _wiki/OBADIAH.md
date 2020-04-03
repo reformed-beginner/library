@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄巴底亚（OBADIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄巴底亚（OBADIAH）（`o{b[ad[ya{hu^, `o{b[ad[ya^）
+description: 圣经新词典 - 俄巴底亚（OBADIAH）（`o{b[ad[ya{hu^, `o{b[ad[ya^）
 keywords: 俄巴底亚, OBADIAH
 comments: false
 ---

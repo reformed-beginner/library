@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚实突（ASHDOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚实突（ASHDOD）
+description: 圣经新词典 - 亚实突（ASHDOD）
 keywords: 亚实突, ASHDOD
 comments: false
 ---

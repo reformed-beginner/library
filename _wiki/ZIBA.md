@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗巴（ZIBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗巴（ZIBA）（来：s]i^b[a{~, s]ib[a{~，“一根柱子”）
+description: 圣经新词典 - 洗巴（ZIBA）（来：s]i^b[a{~, s]ib[a{~，“一根柱子”）
 keywords: 洗巴, ZIBA
 comments: false
 ---

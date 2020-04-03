@@ -2,7 +2,7 @@
 layout: wiki
 title: 哥亚（KOA）
 categories: NewBibleDictionary
-description: 圣经新词典: 哥亚（KOA）
+description: 圣经新词典 - 哥亚（KOA）
 keywords: 哥亚, KOA
 comments: false
 ---

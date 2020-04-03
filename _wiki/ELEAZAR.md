@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利亚撒（ELEAZAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利亚撒（ELEAZAR）
+description: 圣经新词典 - 以利亚撒（ELEAZAR）
 keywords: 以利亚撒, ELEAZAR
 comments: false
 ---

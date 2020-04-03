@@ -2,7 +2,7 @@
 layout: wiki
 title: 幼发拉底河（伯拉大河）
 categories: NewBibleDictionary
-description: 圣经新词典: 幼发拉底河（伯拉大河）（EUPHRATES）
+description: 圣经新词典 - 幼发拉底河（伯拉大河）（EUPHRATES）
 keywords: 幼发拉底河, 伯拉大河
 comments: false
 ---

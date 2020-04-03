@@ -2,7 +2,7 @@
 layout: wiki
 title: 门槛（THRESHOLD）
 categories: NewBibleDictionary
-description: 圣经新词典: 门槛（THRESHOLD）
+description: 圣经新词典 - 门槛（THRESHOLD）
 keywords: 门槛, THRESHOLD
 comments: false
 ---

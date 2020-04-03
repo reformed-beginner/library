@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚达薛西（ARTAXERXES）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚达薛西（ARTAXERXES）（来：~artah] s%asta^~，有不同的发音，从古波斯字 arta-xs%a ra
+description: 圣经新词典 - 亚达薛西（ARTAXERXES）（来：~artah] s%asta^~，有不同的发音，从古波斯字 arta-xs%a ra
 而来，意即“公义的国度”）
 keywords: 亚达薛西, ARTAXERXES
 comments: false

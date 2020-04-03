@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比亚他（ABIATHAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比亚他（ABIATHAR）（来：~eb[ya{t[a{r，“卓越之父”）
+description: 圣经新词典 - 亚比亚他（ABIATHAR）（来：~eb[ya{t[a{r，“卓越之父”）
 keywords: 亚比亚他, ABIATHAR
 comments: false
 ---

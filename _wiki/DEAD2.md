@@ -2,7 +2,7 @@
 layout: wiki
 title: 死海古卷（DEAD SEA SCROLLS）
 categories: NewBibleDictionary
-description: 圣经新词典: 死海古卷（DEAD SEA SCROLLS）
+description: 圣经新词典 - 死海古卷（DEAD SEA SCROLLS）
 keywords: 死海古卷, DEAD SEA SCROLLS
 comments: false
 ---

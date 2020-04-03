@@ -2,7 +2,7 @@
 layout: wiki
 title: 囊（BAG）
 categories: NewBibleDictionary
-description: 圣经新词典: 囊（BAG）
+description: 圣经新词典 - 囊（BAG）
 keywords: 囊, BAG
 comments: false
 ---

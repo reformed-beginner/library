@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒门；萨玛（SALMON, SALMA）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒门；萨玛（SALMON, SALMA）
+description: 圣经新词典 - 撒门；萨玛（SALMON, SALMA）
 keywords: 撒门；萨玛, SALMON, SALMA
 comments: false
 ---

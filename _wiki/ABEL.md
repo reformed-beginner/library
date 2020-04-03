@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚伯（ABEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚伯（ABEL）
+description: 圣经新词典 - 亚伯（ABEL）
 keywords: 亚伯, ABEL
 comments: false
 ---

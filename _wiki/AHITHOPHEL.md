@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚希多弗（AHITHOPHEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚希多弗（AHITHOPHEL）（来：~@h]i^t[o{p{el，意思也许是“说话愚拙的弟兄”）
+description: 圣经新词典 - 亚希多弗（AHITHOPHEL）（来：~@h]i^t[o{p{el，意思也许是“说话愚拙的弟兄”）
 keywords: 亚希多弗, AHITHOPHEL
 comments: false
 ---

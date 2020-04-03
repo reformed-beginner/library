@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉末基列（RAMOTH-GILEAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉末基列（RAMOTH-GILEAD）
+description: 圣经新词典 - 拉末基列（RAMOTH-GILEAD）
 keywords: 拉末基列, RAMOTH-GILEAD
 comments: false
 ---

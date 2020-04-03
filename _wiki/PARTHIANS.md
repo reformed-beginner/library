@@ -2,7 +2,7 @@
 layout: wiki
 title: 帕提亚人（PARTHIANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 帕提亚人（PARTHIANS）
+description: 圣经新词典 - 帕提亚人（PARTHIANS）
 keywords: 帕提亚人, PARTHIANS
 comments: false
 ---

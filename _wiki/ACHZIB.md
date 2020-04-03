@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚革悉（ACHZIB）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚革悉（ACHZIB）
+description: 圣经新词典 - 亚革悉（ACHZIB）
 keywords: 亚革悉, ACHZIB
 comments: false
 ---

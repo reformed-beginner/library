@@ -2,7 +2,7 @@
 layout: wiki
 title: 石漆，石油（BITUMEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 石漆，石油（BITUMEN）
+description: 圣经新词典 - 石漆，石油（BITUMEN）
 keywords: 石漆，石油, BITUMEN
 comments: false
 ---

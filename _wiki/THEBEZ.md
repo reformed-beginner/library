@@ -2,7 +2,7 @@
 layout: wiki
 title: 提备斯（THEBEZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 提备斯（THEBEZ）（来：te{b[e{s]，“光明”）
+description: 圣经新词典 - 提备斯（THEBEZ）（来：te{b[e{s]，“光明”）
 keywords: 提备斯, THEBEZ
 comments: false
 ---

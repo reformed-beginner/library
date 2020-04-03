@@ -2,7 +2,7 @@
 layout: wiki
 title: 叙拉古（SYRACUSE）
 categories: NewBibleDictionary
-description: 圣经新词典: 叙拉古（SYRACUSE）
+description: 圣经新词典 - 叙拉古（SYRACUSE）
 keywords: 叙拉古, SYRACUSE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 苦难（SUFFERING）
 categories: NewBibleDictionary
-description: 圣经新词典: 苦难（SUFFERING）
+description: 圣经新词典 - 苦难（SUFFERING）
 keywords: 苦难, SUFFERING
 comments: false
 ---

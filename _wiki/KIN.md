@@ -2,7 +2,7 @@
 layout: wiki
 title: 亲属（KIN, KINSMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 亲属（KIN, KINSMAN）
+description: 圣经新词典 - 亲属（KIN, KINSMAN）
 keywords: 亲属, KIN, KINSMAN
 comments: false
 ---

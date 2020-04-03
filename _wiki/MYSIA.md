@@ -2,7 +2,7 @@
 layout: wiki
 title: 每西亚（MYSIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 每西亚（MYSIA）
+description: 圣经新词典 - 每西亚（MYSIA）
 keywords: 每西亚, MYSIA
 comments: false
 ---

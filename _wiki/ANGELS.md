@@ -2,7 +2,7 @@
 layout: wiki
 title: 教会的使者（ANGELS OF THE CHURCHES）
 categories: NewBibleDictionary
-description: 圣经新词典: 教会的使者（ANGELS OF THE CHURCHES）
+description: 圣经新词典 - 教会的使者（ANGELS OF THE CHURCHES）
 keywords: 教会的使者, ANGELS OF THE CHURCHES
 comments: false
 ---

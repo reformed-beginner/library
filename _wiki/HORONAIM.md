@@ -2,7 +2,7 @@
 layout: wiki
 title: 何罗念（HORONAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 何罗念（HORONAIM）
+description: 圣经新词典 - 何罗念（HORONAIM）
 keywords: 何罗念, HORONAIM
 comments: false
 ---

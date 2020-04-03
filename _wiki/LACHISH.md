@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉吉（LACHISH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉吉（LACHISH）（来：la{k[i^s%, LXX: Lachis）
+description: 圣经新词典 - 拉吉（LACHISH）（来：la{k[i^s%, LXX: Lachis）
 keywords: 拉吉, LACHISH
 comments: false
 ---

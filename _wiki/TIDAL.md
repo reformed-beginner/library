@@ -2,7 +2,7 @@
 layout: wiki
 title: 提达（TIDAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 提达（TIDAL）
+description: 圣经新词典 - 提达（TIDAL）
 keywords: 提达, TIDAL
 comments: false
 ---

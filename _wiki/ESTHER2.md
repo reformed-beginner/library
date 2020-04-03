@@ -2,7 +2,7 @@
 layout: wiki
 title: 以斯帖记（ESTHER, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 以斯帖记（ESTHER, BOOK OF）
+description: 圣经新词典 - 以斯帖记（ESTHER, BOOK OF）
 keywords: 以斯帖记, ESTHER, BOOK OF
 comments: false
 ---

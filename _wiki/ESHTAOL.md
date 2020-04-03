@@ -2,7 +2,7 @@
 layout: wiki
 title: 以实陶；以实陶人（ESHTAOL, ESHTAOLITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 以实陶；以实陶人（ESHTAOL, ESHTAOLITES）（~es%ta{~o{l，源自动词 s%a{~al，意即“求问”）
+description: 圣经新词典 - 以实陶；以实陶人（ESHTAOL, ESHTAOLITES）（~es%ta{~o{l，源自动词 s%a{~al，意即“求问”）
 keywords: 以实陶；以实陶人, ESHTAOL, ESHTAOLITES
 comments: false
 ---

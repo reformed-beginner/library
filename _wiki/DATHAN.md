@@ -2,7 +2,7 @@
 layout: wiki
 title: 大坍（DATHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 大坍（DATHAN）（来：da{t[a{n，“泉源”？）
+description: 圣经新词典 - 大坍（DATHAN）（来：da{t[a{n，“泉源”？）
 keywords: 大坍, DATHAN
 comments: false
 ---

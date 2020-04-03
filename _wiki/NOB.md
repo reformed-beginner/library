@@ -2,7 +2,7 @@
 layout: wiki
 title: 挪伯（NOB）
 categories: NewBibleDictionary
-description: 圣经新词典: 挪伯（NOB）
+description: 圣经新词典 - 挪伯（NOB）
 keywords: 挪伯, NOB
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 利河伯（REHOBOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 利河伯（REHOBOTH）（来：r#h]o{b[o^t[，“宽阔之处、空间”；LXX：eurycho{ria）
+description: 圣经新词典 - 利河伯（REHOBOTH）（来：r#h]o{b[o^t[，“宽阔之处、空间”；LXX：eurycho{ria）
 keywords: 利河伯, REHOBOTH
 comments: false
 ---

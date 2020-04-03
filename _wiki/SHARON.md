@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙仑（SHARON）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙仑（SHARON）（来：s%a{ro^n; AV 在徒九35作 'Saron'）
+description: 圣经新词典 - 沙仑（SHARON）（来：s%a{ro^n; AV 在徒九35作 'Saron'）
 keywords: 沙仑, SHARON
 comments: false
 ---

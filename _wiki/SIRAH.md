@@ -2,7 +2,7 @@
 layout: wiki
 title: 西拉井（SIRAH, CISTERN OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 西拉井（SIRAH, CISTERN OF）（AV: 'well of Sirah'）
+description: 圣经新词典 - 西拉井（SIRAH, CISTERN OF）（AV: 'well of Sirah'）
 keywords: 西拉井, SIRAH, CISTERN OF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 受造物（CREATURES）
 categories: NewBibleDictionary
-description: 圣经新词典: 受造物（CREATURES）
+description: 圣经新词典 - 受造物（CREATURES）
 keywords: 受造物, CREATURES
 comments: false
 ---

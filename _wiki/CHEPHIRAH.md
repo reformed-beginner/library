@@ -2,7 +2,7 @@
 layout: wiki
 title: 基非拉（CHEPHIRAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基非拉（CHEPHIRAH）（k#p{i^ra^h）
+description: 圣经新词典 - 基非拉（CHEPHIRAH）（k#p{i^ra^h）
 keywords: 基非拉, CHEPHIRAH
 comments: false
 ---

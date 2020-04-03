@@ -2,7 +2,7 @@
 layout: wiki
 title: 用石头打死（STONING）
 categories: NewBibleDictionary
-description: 圣经新词典: 用石头打死（STONING）（来：sa{qal，“掷石”，“被石头砸打”；来：ra{g{am，“收集或扔掷石头”；腊：katalithazo{，“掷石”（彻底地掷）；腊：lithazo{，“掷石”；腊：lithoboleo{，“扔掷石头”）
+description: 圣经新词典 - 用石头打死（STONING）（来：sa{qal，“掷石”，“被石头砸打”；来：ra{g{am，“收集或扔掷石头”；腊：katalithazo{，“掷石”（彻底地掷）；腊：lithazo{，“掷石”；腊：lithoboleo{，“扔掷石头”）
 keywords: 用石头打死, STONING
 comments: false
 ---

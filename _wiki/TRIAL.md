@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶稣的受审（TRIAL OF JESUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶稣的受审（TRIAL OF JESUS）
+description: 圣经新词典 - 耶稣的受审（TRIAL OF JESUS）
 keywords: 耶稣的受审, TRIAL OF JESUS
 comments: false
 ---

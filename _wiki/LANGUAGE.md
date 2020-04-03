@@ -2,7 +2,7 @@
 layout: wiki
 title: 次经的语言（LANGUAGE OF THE APOCRYPHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 次经的语言（LANGUAGE OF THE APOCRYPHA）
+description: 圣经新词典 - 次经的语言（LANGUAGE OF THE APOCRYPHA）
 keywords: 次经的语言, LANGUAGE OF THE APOCRYPHA
 comments: false
 ---

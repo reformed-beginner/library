@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴力（BAAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴力（BAAL）
+description: 圣经新词典 - 巴力（BAAL）
 keywords: 巴力, BAAL
 comments: false
 ---

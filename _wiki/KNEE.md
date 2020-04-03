@@ -2,7 +2,7 @@
 layout: wiki
 title: 膝；跪（KNEE, KNEEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 膝；跪（KNEE, KNEEL）
+description: 圣经新词典 - 膝；跪（KNEE, KNEEL）
 keywords: 膝；跪, KNEE, KNEEL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 沐浴盆（WASHBASIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 沐浴盆（WASHBASIN）（来：si^r rah]as]）
+description: 圣经新词典 - 沐浴盆（WASHBASIN）（来：si^r rah]as]）
 keywords: 沐浴盆, WASHBASIN
 comments: false
 ---

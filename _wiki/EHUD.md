@@ -2,7 +2,7 @@
 layout: wiki
 title: 以笏（EHUD）
 categories: NewBibleDictionary
-description: 圣经新词典: 以笏（EHUD）（来：~e{hu^d[）
+description: 圣经新词典 - 以笏（EHUD）（来：~e{hu^d[）
 keywords: 以笏, EHUD
 comments: false
 ---

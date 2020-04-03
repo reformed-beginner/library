@@ -2,7 +2,7 @@
 layout: wiki
 title: 希幔（HEMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 希幔（HEMAN）（来：he^ma{n，“忠诚”）
+description: 圣经新词典 - 希幔（HEMAN）（来：he^ma{n，“忠诚”）
 keywords: 希幔, HEMAN
 comments: false
 ---

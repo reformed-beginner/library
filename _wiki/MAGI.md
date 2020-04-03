@@ -2,7 +2,7 @@
 layout: wiki
 title: 博士（MAGI）
 categories: NewBibleDictionary
-description: 圣经新词典: 博士（MAGI）
+description: 圣经新词典 - 博士（MAGI）
 keywords: 博士, MAGI
 comments: false
 ---

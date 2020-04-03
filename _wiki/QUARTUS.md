@@ -2,7 +2,7 @@
 layout: wiki
 title: 括土（QUARTUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 括土（QUARTUS）
+description: 圣经新词典 - 括土（QUARTUS）
 keywords: 括土, QUARTUS
 comments: false
 ---

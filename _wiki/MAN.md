@@ -2,7 +2,7 @@
 layout: wiki
 title: 人（MAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 人（MAN）
+description: 圣经新词典 - 人（MAN）
 keywords: 人, MAN
 comments: false
 ---

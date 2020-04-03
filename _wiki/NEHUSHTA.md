@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼护施他（NEHUSHTA）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼护施他（NEHUSHTA）（来：n#h]us%ta{~）
+description: 圣经新词典 - 尼护施他（NEHUSHTA）（来：n#h]us%ta{~）
 keywords: 尼护施他, NEHUSHTA
 comments: false
 ---

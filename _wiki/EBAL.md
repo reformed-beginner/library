@@ -2,7 +2,7 @@
 layout: wiki
 title: 以巴录（俄巴路）
 categories: NewBibleDictionary
-description: 圣经新词典: 以巴录（俄巴路）（EBAL [OBAL]）
+description: 圣经新词典 - 以巴录（俄巴路）（EBAL [OBAL]）
 keywords: 以巴录, 俄巴路
 comments: false
 ---

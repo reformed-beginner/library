@@ -2,7 +2,7 @@
 layout: wiki
 title: 南地（尼革）
 categories: NewBibleDictionary
-description: 圣经新词典: 南地（尼革）（NEGEB）
+description: 圣经新词典 - 南地（尼革）（NEGEB）
 keywords: 南地, 尼革
 comments: false
 ---

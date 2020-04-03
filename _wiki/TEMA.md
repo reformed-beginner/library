@@ -2,7 +2,7 @@
 layout: wiki
 title: 提玛（TEMA）
 categories: NewBibleDictionary
-description: 圣经新词典: 提玛（TEMA）
+description: 圣经新词典 - 提玛（TEMA）
 keywords: 提玛, TEMA
 comments: false
 ---

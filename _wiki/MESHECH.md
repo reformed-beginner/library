@@ -2,7 +2,7 @@
 layout: wiki
 title: 米设（MESHECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 米设（MESHECH）（MT: mes%ek[; LXX: Mosoch）
+description: 圣经新词典 - 米设（MESHECH）（MT: mes%ek[; LXX: Mosoch）
 keywords: 米设, MESHECH
 comments: false
 ---

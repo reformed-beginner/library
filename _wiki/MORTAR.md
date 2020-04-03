@@ -2,7 +2,7 @@
 layout: wiki
 title: 臼和杵（MORTAR AND PESTLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 臼和杵（MORTAR AND PESTLE）
+description: 圣经新词典 - 臼和杵（MORTAR AND PESTLE）
 keywords: 臼和杵, MORTAR AND PESTLE
 comments: false
 ---

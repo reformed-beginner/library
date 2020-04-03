@@ -2,7 +2,7 @@
 layout: wiki
 title: 文士（SCRIBES）
 categories: NewBibleDictionary
-description: 圣经新词典: 文士（SCRIBES）（来：so{p{#ri^m；腊：grammateis, nomikoi 〔意即律法师〕 及 nomodidaskaloi
+description: 圣经新词典 - 文士（SCRIBES）（来：so{p{#ri^m；腊：grammateis, nomikoi 〔意即律法师〕 及 nomodidaskaloi
 〔意即教法师〕）
 keywords: 文士, SCRIBES
 comments: false

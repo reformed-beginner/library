@@ -2,7 +2,7 @@
 layout: wiki
 title: 提庇留（TIBERIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 提庇留（TIBERIUS）
+description: 圣经新词典 - 提庇留（TIBERIUS）
 keywords: 提庇留, TIBERIUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 希利斯（HELEZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 希利斯（HELEZ）
+description: 圣经新词典 - 希利斯（HELEZ）
 keywords: 希利斯, HELEZ
 comments: false
 ---

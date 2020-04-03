@@ -2,7 +2,7 @@
 layout: wiki
 title: 以巴路山（EBAL, MOUNT）
 categories: NewBibleDictionary
-description: 圣经新词典: 以巴路山（EBAL, MOUNT）
+description: 圣经新词典 - 以巴路山（EBAL, MOUNT）
 keywords: 以巴路山, EBAL, MOUNT
 comments: false
 ---

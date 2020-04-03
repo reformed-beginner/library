@@ -2,7 +2,7 @@
 layout: wiki
 title: 含，哈麦（HAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 含，哈麦（HAM）
+description: 圣经新词典 - 含，哈麦（HAM）
 keywords: 含，哈麦, HAM
 comments: false
 ---

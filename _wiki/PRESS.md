@@ -2,7 +2,7 @@
 layout: wiki
 title: 酒醡（PRESS, WINEFAT）
 categories: NewBibleDictionary
-description: 圣经新词典: 酒醡（PRESS, WINEFAT）
+description: 圣经新词典 - 酒醡（PRESS, WINEFAT）
 keywords: 酒醡, PRESS, WINEFAT
 comments: false
 ---

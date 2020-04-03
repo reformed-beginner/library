@@ -2,7 +2,7 @@
 layout: wiki
 title: 西巴（ZEBAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西巴（ZEBAH）（来：zeb[ah]，“屠宰”，“献祭”）
+description: 圣经新词典 - 西巴（ZEBAH）（来：zeb[ah]，“屠宰”，“献祭”）
 keywords: 西巴, ZEBAH
 comments: false
 ---

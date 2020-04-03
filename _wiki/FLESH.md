@@ -2,7 +2,7 @@
 layout: wiki
 title: 肉体（FLESH）
 categories: NewBibleDictionary
-description: 圣经新词典: 肉体（FLESH）
+description: 圣经新词典 - 肉体（FLESH）
 keywords: 肉体, FLESH
 comments: false
 ---

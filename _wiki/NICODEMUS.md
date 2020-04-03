@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼哥底母（NICODEMUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼哥底母（NICODEMUS）
+description: 圣经新词典 - 尼哥底母（NICODEMUS）
 keywords: 尼哥底母, NICODEMUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 旁非利亚（PAMPHYLIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 旁非利亚（PAMPHYLIA）
+description: 圣经新词典 - 旁非利亚（PAMPHYLIA）
 keywords: 旁非利亚, PAMPHYLIA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 恶鬼（EVIL SPIRITS）
 categories: NewBibleDictionary
-description: 圣经新词典: 恶鬼（EVIL SPIRITS）
+description: 圣经新词典 - 恶鬼（EVIL SPIRITS）
 keywords: 恶鬼, EVIL SPIRITS
 comments: false
 ---

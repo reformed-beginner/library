@@ -2,7 +2,7 @@
 layout: wiki
 title: 死亡（DEATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 死亡（DEATH）
+description: 圣经新词典 - 死亡（DEATH）
 keywords: 死亡, DEATH
 comments: false
 ---

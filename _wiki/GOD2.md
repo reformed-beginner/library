@@ -2,7 +2,7 @@
 layout: wiki
 title: 神的名字（GOD, NAMES OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 神的名字（GOD, NAMES OF）
+description: 圣经新词典 - 神的名字（GOD, NAMES OF）
 keywords: 神的名字, GOD, NAMES OF
 comments: false
 ---

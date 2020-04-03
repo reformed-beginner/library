@@ -2,7 +2,7 @@
 layout: wiki
 title: 禁戒（BAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 禁戒（BAN）
+description: 圣经新词典 - 禁戒（BAN）
 keywords: 禁戒, BAN
 comments: false
 ---

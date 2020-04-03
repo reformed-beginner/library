@@ -2,7 +2,7 @@
 layout: wiki
 title: 地狱（HELL）
 categories: NewBibleDictionary
-description: 圣经新词典: 地狱（HELL）
+description: 圣经新词典 - 地狱（HELL）
 keywords: 地狱, HELL
 comments: false
 ---

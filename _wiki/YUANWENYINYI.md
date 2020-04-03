@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 原文音译对照表
+description: 圣经新词典 - 原文音译对照表
 keywords: , 
 comments: false
 ---

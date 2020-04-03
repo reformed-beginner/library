@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼探雅（NETHANIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼探雅（NETHANIAH）（来：n#t[anya{hu{，“耶和华已赐予”；LXX:
+description: 圣经新词典 - 尼探雅（NETHANIAH）（来：n#t[anya{hu{，“耶和华已赐予”；LXX:
 Nathanias；参*拿但业）
 keywords: 尼探雅, NETHANIAH
 comments: false

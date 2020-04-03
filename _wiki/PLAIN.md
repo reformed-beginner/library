@@ -2,7 +2,7 @@
 layout: wiki
 title: 平原之城（PLAIN, CITIES OF THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 平原之城（PLAIN, CITIES OF THE）
+description: 圣经新词典 - 平原之城（PLAIN, CITIES OF THE）
 keywords: 平原之城, PLAIN, CITIES OF THE
 comments: false
 ---

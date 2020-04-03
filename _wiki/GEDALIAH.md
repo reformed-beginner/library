@@ -2,7 +2,7 @@
 layout: wiki
 title: 基大利（GEDALIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基大利（GEDALIAH）（来：g#d[alya^ 或 g#d[alya{hu^，“耶和华是伟大的”）
+description: 圣经新词典 - 基大利（GEDALIAH）（来：g#d[alya^ 或 g#d[alya{hu^，“耶和华是伟大的”）
 keywords: 基大利, GEDALIAH
 comments: false
 ---

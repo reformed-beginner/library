@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴比伦城（BABYLON）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴比伦城（BABYLON）
+description: 圣经新词典 - 巴比伦城（BABYLON）
 keywords: 巴比伦城, BABYLON
 comments: false
 ---

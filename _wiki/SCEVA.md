@@ -2,7 +2,7 @@
 layout: wiki
 title: 士基瓦（犹太祭司长）
 categories: NewBibleDictionary
-description: 圣经新词典: 士基瓦（犹太祭司长）（SCEVA）
+description: 圣经新词典 - 士基瓦（犹太祭司长）（SCEVA）
 keywords: 士基瓦, 犹太祭司长
 comments: false
 ---

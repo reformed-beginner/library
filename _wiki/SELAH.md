@@ -2,7 +2,7 @@
 layout: wiki
 title: 细拉（SELAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 细拉（SELAH）
+description: 圣经新词典 - 细拉（SELAH）
 keywords: 细拉, SELAH
 comments: false
 ---

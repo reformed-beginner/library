@@ -2,7 +2,7 @@
 layout: wiki
 title: 露水（DEW）
 categories: NewBibleDictionary
-description: 圣经新词典: 露水（DEW）
+description: 圣经新词典 - 露水（DEW）
 keywords: 露水, DEW
 comments: false
 ---

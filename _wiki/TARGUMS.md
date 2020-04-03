@@ -2,7 +2,7 @@
 layout: wiki
 title: 他尔根（TARGUMS）
 categories: NewBibleDictionary
-description: 圣经新词典: 他尔根（TARGUMS）
+description: 圣经新词典 - 他尔根（TARGUMS）
 keywords: 他尔根, TARGUMS
 comments: false
 ---

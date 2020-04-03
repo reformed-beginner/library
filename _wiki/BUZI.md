@@ -2,7 +2,7 @@
 layout: wiki
 title: 布西（BUZI）
 categories: NewBibleDictionary
-description: 圣经新词典: 布西（BUZI）
+description: 圣经新词典 - 布西（BUZI）
 keywords: 布西, BUZI
 comments: false
 ---

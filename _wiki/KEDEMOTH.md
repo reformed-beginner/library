@@ -2,7 +2,7 @@
 layout: wiki
 title: 基底莫（KEDEMOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基底莫（KEDEMOTH）
+description: 圣经新词典 - 基底莫（KEDEMOTH）
 keywords: 基底莫, KEDEMOTH
 comments: false
 ---

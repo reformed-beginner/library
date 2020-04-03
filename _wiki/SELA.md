@@ -2,7 +2,7 @@
 layout: wiki
 title: 西拉城（SELA）
 categories: NewBibleDictionary
-description: 圣经新词典: 西拉城（SELA）
+description: 圣经新词典 - 西拉城（SELA）
 keywords: 西拉城, SELA
 comments: false
 ---

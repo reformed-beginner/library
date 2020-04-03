@@ -2,7 +2,7 @@
 layout: wiki
 title: 彼拉多（PILATE）
 categories: NewBibleDictionary
-description: 圣经新词典: 彼拉多（PILATE）
+description: 圣经新词典 - 彼拉多（PILATE）
 keywords: 彼拉多, PILATE
 comments: false
 ---

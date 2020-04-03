@@ -2,7 +2,7 @@
 layout: wiki
 title: 见证，见证人（WITNESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 见证，见证人（WITNESS）
+description: 圣经新词典 - 见证，见证人（WITNESS）
 keywords: 见证，见证人, WITNESS
 comments: false
 ---

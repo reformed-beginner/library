@@ -2,7 +2,7 @@
 layout: wiki
 title: 希耳米神（HERMES）
 categories: NewBibleDictionary
-description: 圣经新词典: 希耳米神（HERMES）
+description: 圣经新词典 - 希耳米神（HERMES）
 keywords: 希耳米神, HERMES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗珥（ZIOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗珥（ZIOR）
+description: 圣经新词典 - 洗珥（ZIOR）
 keywords: 洗珥, ZIOR
 comments: false
 ---

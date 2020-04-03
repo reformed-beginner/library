@@ -2,7 +2,7 @@
 layout: wiki
 title: 旧约年代学（CHRONOLOGY OF THE OLD TESTAMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 旧约年代学（CHRONOLOGY OF THE OLD TESTAMENT）
+description: 圣经新词典 - 旧约年代学（CHRONOLOGY OF THE OLD TESTAMENT）
 keywords: 旧约年代学, CHRONOLOGY OF THE OLD TESTAMENT
 comments: false
 ---

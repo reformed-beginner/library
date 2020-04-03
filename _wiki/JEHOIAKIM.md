@@ -2,7 +2,7 @@
 layout: wiki
 title: 约雅敬（JEHOIAKIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 约雅敬（JEHOIAKIM）(来：y#ho^ya{qi^m，“耶和华已建立”；参：约阿敬 [Joakim]，以斯得拉壹书一37-39）
+description: 圣经新词典 - 约雅敬（JEHOIAKIM）(来：y#ho^ya{qi^m，“耶和华已建立”；参：约阿敬 [Joakim]，以斯得拉壹书一37-39）
 keywords: 约雅敬, JEHOIAKIM
 comments: false
 ---

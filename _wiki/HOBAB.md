@@ -2,7 +2,7 @@
 layout: wiki
 title: 何巴（HOBAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 何巴（HOBAB）（来：h]o{b[a{b[，“至爱的”）
+description: 圣经新词典 - 何巴（HOBAB）（来：h]o{b[a{b[，“至爱的”）
 keywords: 何巴, HOBAB
 comments: false
 ---

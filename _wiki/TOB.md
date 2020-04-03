@@ -2,7 +2,7 @@
 layout: wiki
 title: 陀伯（TOB）
 categories: NewBibleDictionary
-description: 圣经新词典: 陀伯（TOB）
+description: 圣经新词典 - 陀伯（TOB）
 keywords: 陀伯, TOB
 comments: false
 ---

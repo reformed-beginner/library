@@ -2,7 +2,7 @@
 layout: wiki
 title: 雇用，雇工（HIRE, HIRELING）
 categories: NewBibleDictionary
-description: 圣经新词典: 雇用，雇工（HIRE, HIRELING）
+description: 圣经新词典 - 雇用，雇工（HIRE, HIRELING）
 keywords: 雇用，雇工, HIRE, HIRELING
 comments: false
 ---

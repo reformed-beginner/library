@@ -2,7 +2,7 @@
 layout: wiki
 title: 监狱（PRISON）
 categories: NewBibleDictionary
-description: 圣经新词典: 监狱（PRISON）
+description: 圣经新词典 - 监狱（PRISON）
 keywords: 监狱, PRISON
 comments: false
 ---

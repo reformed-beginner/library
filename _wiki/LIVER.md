@@ -2,7 +2,7 @@
 layout: wiki
 title: 肝（LIVER）
 categories: NewBibleDictionary
-description: 圣经新词典: 肝（LIVER）
+description: 圣经新词典 - 肝（LIVER）
 keywords: 肝, LIVER
 comments: false
 ---

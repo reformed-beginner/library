@@ -2,7 +2,7 @@
 layout: wiki
 title: 革迦撒人（GIRGASHITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 革迦撒人（GIRGASHITES）
+description: 圣经新词典 - 革迦撒人（GIRGASHITES）
 keywords: 革迦撒人, GIRGASHITES
 comments: false
 ---

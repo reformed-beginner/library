@@ -2,7 +2,7 @@
 layout: wiki
 title: 启示（REVELATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 启示（REVELATION）
+description: 圣经新词典 - 启示（REVELATION）
 keywords: 启示, REVELATION
 comments: false
 ---

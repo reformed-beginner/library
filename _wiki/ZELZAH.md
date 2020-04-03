@@ -2,7 +2,7 @@
 layout: wiki
 title: 泄撒（ZELZAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 泄撒（ZELZAH）
+description: 圣经新词典 - 泄撒（ZELZAH）
 keywords: 泄撒, ZELZAH
 comments: false
 ---

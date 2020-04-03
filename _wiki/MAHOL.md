@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛曷（MAHOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛曷（MAHOL）（来： ma{h]o^l，意即“跳舞”）
+description: 圣经新词典 - 玛曷（MAHOL）（来： ma{h]o^l，意即“跳舞”）
 keywords: 玛曷, MAHOL
 comments: false
 ---

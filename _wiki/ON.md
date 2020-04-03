@@ -2,7 +2,7 @@
 layout: wiki
 title: 安城（ON）
 categories: NewBibleDictionary
-description: 圣经新词典: 安城（ON）
+description: 圣经新词典 - 安城（ON）
 keywords: 安城, ON
 comments: false
 ---

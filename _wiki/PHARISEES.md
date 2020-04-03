@@ -2,7 +2,7 @@
 layout: wiki
 title: 法利赛人（PHARISEES）
 categories: NewBibleDictionary
-description: 圣经新词典: 法利赛人（PHARISEES）
+description: 圣经新词典 - 法利赛人（PHARISEES）
 keywords: 法利赛人, PHARISEES
 comments: false
 ---

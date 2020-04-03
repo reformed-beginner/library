@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈达临门（HADAD-RIMMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈达临门（HADAD-RIMMON）
+description: 圣经新词典 - 哈达临门（HADAD-RIMMON）
 keywords: 哈达临门, HADAD-RIMMON
 comments: false
 ---

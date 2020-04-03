@@ -2,7 +2,7 @@
 layout: wiki
 title: 谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
 categories: NewBibleDictionary
-description: 圣经新词典: 谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
+description: 圣经新词典 - 谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
 keywords: 谗谤，毁谤，亵渎, TALEBEARING, SLANDER
 comments: false
 ---

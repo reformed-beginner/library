@@ -2,7 +2,7 @@
 layout: wiki
 title: 押沙龙（ABSALOM）
 categories: NewBibleDictionary
-description: 圣经新词典: 押沙龙（ABSALOM）（来：~ab[s%a{lo^m，“父亲是平安，平安的父”）
+description: 圣经新词典 - 押沙龙（ABSALOM）（来：~ab[s%a{lo^m，“父亲是平安，平安的父”）
 keywords: 押沙龙, ABSALOM
 comments: false
 ---

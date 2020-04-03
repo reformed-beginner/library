@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒玛利亚人（SAMARITANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒玛利亚人（SAMARITANS）
+description: 圣经新词典 - 撒玛利亚人（SAMARITANS）
 keywords: 撒玛利亚人, SAMARITANS
 comments: false
 ---

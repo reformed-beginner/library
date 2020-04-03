@@ -2,7 +2,7 @@
 layout: wiki
 title: 米迦勒（MICHAEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 米迦勒（MICHAEL）（来：mi^k[a{~e{l，“谁像神？”──与米该雅和弥迦同义）
+description: 圣经新词典 - 米迦勒（MICHAEL）（来：mi^k[a{~e{l，“谁像神？”──与米该雅和弥迦同义）
 keywords: 米迦勒, MICHAEL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西法瓦音（SEPHARVAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 西法瓦音（SEPHARVAIM）
+description: 圣经新词典 - 西法瓦音（SEPHARVAIM）
 keywords: 西法瓦音, SEPHARVAIM
 comments: false
 ---

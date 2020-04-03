@@ -2,7 +2,7 @@
 layout: wiki
 title: 成圣（SANCTIFICATION, SANCTIFY）
 categories: NewBibleDictionary
-description: 圣经新词典: 成圣（SANCTIFICATION, SANCTIFY）
+description: 圣经新词典 - 成圣（SANCTIFICATION, SANCTIFY）
 keywords: 成圣, SANCTIFICATION, SANCTIFY
 comments: false
 ---

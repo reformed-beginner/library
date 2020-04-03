@@ -2,7 +2,7 @@
 layout: wiki
 title: 欣嫩子谷（HINNOM, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 欣嫩子谷（HINNOM, VALLEY OF）
+description: 圣经新词典 - 欣嫩子谷（HINNOM, VALLEY OF）
 keywords: 欣嫩子谷, HINNOM, VALLEY OF
 comments: false
 ---

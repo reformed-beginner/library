@@ -2,7 +2,7 @@
 layout: wiki
 title: 约阿施（JOASH, JEHOASH）
 categories: NewBibleDictionary
-description: 圣经新词典: 约阿施（JOASH, JEHOASH）（来：yo^~a{s%, y#ho^~a{s%，“耶和华曾赐予”）
+description: 圣经新词典 - 约阿施（JOASH, JEHOASH）（来：yo^~a{s%, y#ho^~a{s%，“耶和华曾赐予”）
 keywords: 约阿施, JOASH, JEHOASH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚哩达（ARETAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚哩达（ARETAS）
+description: 圣经新词典 - 亚哩达（ARETAS）
 keywords: 亚哩达, ARETAS
 comments: false
 ---

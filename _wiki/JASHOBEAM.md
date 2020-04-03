@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅朔班（JASHOBEAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅朔班（JASHOBEAM）
+description: 圣经新词典 - 雅朔班（JASHOBEAM）
 keywords: 雅朔班, JASHOBEAM
 comments: false
 ---

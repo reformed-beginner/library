@@ -2,7 +2,7 @@
 layout: wiki
 title: 智慧主义，诺斯底主义（GNOSTICISM）
 categories: NewBibleDictionary
-description: 圣经新词典: 智慧主义，诺斯底主义（GNOSTICISM）
+description: 圣经新词典 - 智慧主义，诺斯底主义（GNOSTICISM）
 keywords: 智慧主义，诺斯底主义, GNOSTICISM
 comments: false
 ---

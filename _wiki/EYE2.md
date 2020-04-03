@@ -2,7 +2,7 @@
 layout: wiki
 title: 针眼（EYE OF A NEEDLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 针眼（EYE OF A NEEDLE）
+description: 圣经新词典 - 针眼（EYE OF A NEEDLE）
 keywords: 针眼, EYE OF A NEEDLE
 comments: false
 ---

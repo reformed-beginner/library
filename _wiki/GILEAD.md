@@ -2,7 +2,7 @@
 layout: wiki
 title: 基列（GILEAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 基列（GILEAD）
+description: 圣经新词典 - 基列（GILEAD）
 keywords: 基列, GILEAD
 comments: false
 ---

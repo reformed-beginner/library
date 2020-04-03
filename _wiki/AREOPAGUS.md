@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚略巴古（AREOPAGUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚略巴古（AREOPAGUS）（腊：Areios pagos，即阿里斯 [Ares] 的山；阿里斯是希腊的战神，相等于罗马的马尔斯神
+description: 圣经新词典 - 亚略巴古（AREOPAGUS）（腊：Areios pagos，即阿里斯 [Ares] 的山；阿里斯是希腊的战神，相等于罗马的马尔斯神
 [Mars]）
 keywords: 亚略巴古, AREOPAGUS
 comments: false

@@ -2,7 +2,7 @@
 layout: wiki
 title: 干大基（CANDACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 干大基（CANDACE）
+description: 圣经新词典 - 干大基（CANDACE）
 keywords: 干大基, CANDACE
 comments: false
 ---

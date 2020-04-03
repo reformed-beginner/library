@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿何利亚伯（亚何利亚伯）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿何利亚伯（亚何利亚伯）（OHOLIAB）（AV AHOLIAB）
+description: 圣经新词典 - 阿何利亚伯（亚何利亚伯）（OHOLIAB）（AV AHOLIAB）
 keywords: 阿何利亚伯, 亚何利亚伯
 comments: false
 ---

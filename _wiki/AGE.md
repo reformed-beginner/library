@@ -2,7 +2,7 @@
 layout: wiki
 title: 老年（AGE, OLD AGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 老年（AGE, OLD AGE）
+description: 圣经新词典 - 老年（AGE, OLD AGE）
 keywords: 老年, AGE, OLD AGE
 comments: false
 ---

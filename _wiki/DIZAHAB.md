@@ -2,7 +2,7 @@
 layout: wiki
 title: 底撒哈（DIZAHAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 底撒哈（DIZAHAB）
+description: 圣经新词典 - 底撒哈（DIZAHAB）
 keywords: 底撒哈, DIZAHAB
 comments: false
 ---

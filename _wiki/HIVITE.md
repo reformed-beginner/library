@@ -2,7 +2,7 @@
 layout: wiki
 title: 希未人（HIVITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 希未人（HIVITE）
+description: 圣经新词典 - 希未人（HIVITE）
 keywords: 希未人, HIVITE
 comments: false
 ---

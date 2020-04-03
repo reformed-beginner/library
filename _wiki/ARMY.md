@@ -2,7 +2,7 @@
 layout: wiki
 title: 军队（ARMY）
 categories: NewBibleDictionary
-description: 圣经新词典: 军队（ARMY）
+description: 圣经新词典 - 军队（ARMY）
 keywords: 军队, ARMY
 comments: false
 ---

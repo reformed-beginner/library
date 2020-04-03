@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚拉拿（ALALAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚拉拿（ALALAH）（亚甲文；何利文：a-la-la-a\h；埃及文：~irrh\）
+description: 圣经新词典 - 亚拉拿（ALALAH）（亚甲文；何利文：a-la-la-a\h；埃及文：~irrh\）
 keywords: 亚拉拿, ALALAH
 comments: false
 ---

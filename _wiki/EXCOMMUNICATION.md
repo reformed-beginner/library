@@ -2,7 +2,7 @@
 layout: wiki
 title: 赶出，开除会籍（EXCOMMUNICATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 赶出，开除会籍（EXCOMMUNICATION）
+description: 圣经新词典 - 赶出，开除会籍（EXCOMMUNICATION）
 keywords: 赶出，开除会籍, EXCOMMUNICATION
 comments: false
 ---

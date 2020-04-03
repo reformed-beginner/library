@@ -2,7 +2,7 @@
 layout: wiki
 title: 天后（QUEEN OF HEAVEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 天后（QUEEN OF HEAVEN）
+description: 圣经新词典 - 天后（QUEEN OF HEAVEN）
 keywords: 天后, QUEEN OF HEAVEN
 comments: false
 ---

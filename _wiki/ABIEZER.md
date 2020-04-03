@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比以谢（ABIEZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比以谢（ABIEZER）（来：~@b[I^`ezer，“我父是帮助”）
+description: 圣经新词典 - 亚比以谢（ABIEZER）（来：~@b[I^`ezer，“我父是帮助”）
 keywords: 亚比以谢, ABIEZER
 comments: false
 ---

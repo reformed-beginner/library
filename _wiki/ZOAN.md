@@ -2,7 +2,7 @@
 layout: wiki
 title: 琐安（ZOAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 琐安（ZOAN）
+description: 圣经新词典 - 琐安（ZOAN）
 keywords: 琐安, ZOAN
 comments: false
 ---

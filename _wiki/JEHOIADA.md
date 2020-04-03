@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶何耶大（JEHOIADA）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶何耶大（JEHOIADA）（来：y#ho^ya{d[a{`，“耶和华知道”）
+description: 圣经新词典 - 耶何耶大（JEHOIADA）（来：y#ho^ya{d[a{`，“耶和华知道”）
 keywords: 耶何耶大, JEHOIADA
 comments: false
 ---

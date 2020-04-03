@@ -2,7 +2,7 @@
 layout: wiki
 title: 奶，胸膛（BREAST）
 categories: NewBibleDictionary
-description: 圣经新词典: 奶，胸膛（BREAST）
+description: 圣经新词典 - 奶，胸膛（BREAST）
 keywords: 奶，胸膛, BREAST
 comments: false
 ---

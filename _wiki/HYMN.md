@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣诗（HYMN）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣诗（HYMN）
+description: 圣经新词典 - 圣诗（HYMN）
 keywords: 圣诗, HYMN
 comments: false
 ---

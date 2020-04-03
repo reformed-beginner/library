@@ -2,7 +2,7 @@
 layout: wiki
 title: 知识（KNOWLEDGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 知识（KNOWLEDGE）
+description: 圣经新词典 - 知识（KNOWLEDGE）
 keywords: 知识, KNOWLEDGE
 comments: false
 ---

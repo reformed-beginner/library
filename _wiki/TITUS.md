@@ -2,7 +2,7 @@
 layout: wiki
 title: 提多（TITUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 提多（TITUS）
+description: 圣经新词典 - 提多（TITUS）
 keywords: 提多, TITUS
 comments: false
 ---

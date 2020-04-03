@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚多尼比色（ADONI-BEZEK）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚多尼比色（ADONI-BEZEK）（来：~@d[o{ni^-b[ezeq，“比色之主”）
+description: 圣经新词典 - 亚多尼比色（ADONI-BEZEK）（来：~@d[o{ni^-b[ezeq，“比色之主”）
 keywords: 亚多尼比色, ADONI-BEZEK
 comments: false
 ---

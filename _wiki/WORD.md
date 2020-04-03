@@ -2,7 +2,7 @@
 layout: wiki
 title: 话，道（WORD）
 categories: NewBibleDictionary
-description: 圣经新词典: 话，道（WORD）
+description: 圣经新词典 - 话，道（WORD）
 keywords: 话，道, WORD
 comments: false
 ---

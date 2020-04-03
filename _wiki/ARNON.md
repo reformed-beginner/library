@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚嫩河（ARNON）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚嫩河（ARNON）
+description: 圣经新词典 - 亚嫩河（ARNON）
 keywords: 亚嫩河, ARNON
 comments: false
 ---

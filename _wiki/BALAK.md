@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴勒（BALAK）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴勒（BALAK）
+description: 圣经新词典 - 巴勒（BALAK）
 keywords: 巴勒, BALAK
 comments: false
 ---

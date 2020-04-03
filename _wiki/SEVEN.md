@@ -2,7 +2,7 @@
 layout: wiki
 title: 十架七言（SEVEN WORDS, THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 十架七言（SEVEN WORDS, THE）
+description: 圣经新词典 - 十架七言（SEVEN WORDS, THE）
 keywords: 十架七言, SEVEN WORDS, THE
 comments: false
 ---

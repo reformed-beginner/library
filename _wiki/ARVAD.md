@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚发，亚瓦底（ARVAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚发，亚瓦底（ARVAD）
+description: 圣经新词典 - 亚发，亚瓦底（ARVAD）
 keywords: 亚发，亚瓦底, ARVAD
 comments: false
 ---

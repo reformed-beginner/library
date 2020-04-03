@@ -2,7 +2,7 @@
 layout: wiki
 title: 米矶仑（MIGRON）
 categories: NewBibleDictionary
-description: 圣经新词典: 米矶仑（MIGRON）
+description: 圣经新词典 - 米矶仑（MIGRON）
 keywords: 米矶仑, MIGRON
 comments: false
 ---

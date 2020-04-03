@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗澡；沐浴（BATH, BATHING）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗澡；沐浴（BATH, BATHING）（来：ra{h]as]，“洗”、“擦”；腊： louo{, nipto{，〔在约十三10中有所分别〕）
+description: 圣经新词典 - 洗澡；沐浴（BATH, BATHING）（来：ra{h]as]，“洗”、“擦”；腊： louo{, nipto{，〔在约十三10中有所分别〕）
 keywords: 洗澡；沐浴, BATH, BATHING
 comments: false
 ---

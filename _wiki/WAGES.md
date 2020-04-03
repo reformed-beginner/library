@@ -2,7 +2,7 @@
 layout: wiki
 title: 工价（WAGES）
 categories: NewBibleDictionary
-description: 圣经新词典: 工价（WAGES）
+description: 圣经新词典 - 工价（WAGES）
 keywords: 工价, WAGES
 comments: false
 ---

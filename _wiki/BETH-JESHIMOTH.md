@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯耶施末（BETH-JESHIMOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯耶施末（BETH-JESHIMOTH）（来：be^t[ hays%imo^t[，“沙漠之家”的意思，AV 译为 'Jesimoth'）
+description: 圣经新词典 - 伯耶施末（BETH-JESHIMOTH）（来：be^t[ hays%imo^t[，“沙漠之家”的意思，AV 译为 'Jesimoth'）
 keywords: 伯耶施末, BETH-JESHIMOTH
 comments: false
 ---

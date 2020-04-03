@@ -2,7 +2,7 @@
 layout: wiki
 title: 坑（PIT）
 categories: NewBibleDictionary
-description: 圣经新词典: 坑（PIT） 
+description: 圣经新词典 - 坑（PIT） 
 keywords: 坑, PIT
 comments: false
 ---

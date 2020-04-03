@@ -2,7 +2,7 @@
 layout: wiki
 title: 金香炉（CENSER）
 categories: NewBibleDictionary
-description: 圣经新词典: 金香炉（CENSER）
+description: 圣经新词典 - 金香炉（CENSER）
 keywords: 金香炉, CENSER
 comments: false
 ---

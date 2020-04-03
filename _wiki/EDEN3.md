@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊甸家（EDEN, HOUSE OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊甸家（EDEN, HOUSE OF）
+description: 圣经新词典 - 伊甸家（EDEN, HOUSE OF）
 keywords: 伊甸家, EDEN, HOUSE OF
 comments: false
 ---

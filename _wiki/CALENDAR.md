@@ -2,7 +2,7 @@
 layout: wiki
 title: 历法（CALENDAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 历法（CALENDAR）
+description: 圣经新词典 - 历法（CALENDAR）
 keywords: 历法, CALENDAR
 comments: false
 ---

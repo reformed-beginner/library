@@ -2,7 +2,7 @@
 layout: wiki
 title: 法术与邪术（MAGIC AND SORCERY）
 categories: NewBibleDictionary
-description: 圣经新词典: 法术与邪术（MAGIC AND SORCERY）
+description: 圣经新词典 - 法术与邪术（MAGIC AND SORCERY）
 keywords: 法术与邪术, MAGIC AND SORCERY
 comments: false
 ---

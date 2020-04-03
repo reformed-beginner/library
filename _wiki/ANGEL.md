@@ -2,7 +2,7 @@
 layout: wiki
 title: 天使（ANGEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 天使（ANGEL）
+description: 圣经新词典 - 天使（ANGEL）
 keywords: 天使, ANGEL
 comments: false
 ---

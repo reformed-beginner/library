@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚设（ASHER）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚设（ASHER）（来：~a{s%e{r，“快乐，有福”）
+description: 圣经新词典 - 亚设（ASHER）（来：~a{s%e{r，“快乐，有福”）
 keywords: 亚设, ASHER
 comments: false
 ---

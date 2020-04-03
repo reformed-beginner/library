@@ -2,7 +2,7 @@
 layout: wiki
 title: 赎罪（ATONEMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 赎罪（ATONEMENT）
+description: 圣经新词典 - 赎罪（ATONEMENT）
 keywords: 赎罪, ATONEMENT
 comments: false
 ---

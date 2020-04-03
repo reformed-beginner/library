@@ -2,7 +2,7 @@
 layout: wiki
 title: 外邦人（GENTILES）
 categories: NewBibleDictionary
-description: 圣经新词典: 外邦人（GENTILES）（来：go^yi{m；腊：ethne{ 或 Helle{nes；英文 'gentiles' 一字从拉丁文是武加大译本的
+description: 圣经新词典 - 外邦人（GENTILES）（来：go^yi{m；腊：ethne{ 或 Helle{nes；英文 'gentiles' 一字从拉丁文是武加大译本的
 gentiles 演变而来）
 keywords: 外邦人, GENTILES
 comments: false

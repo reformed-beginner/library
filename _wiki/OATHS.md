@@ -2,7 +2,7 @@
 layout: wiki
 title: 誓言（OATHS）
 categories: NewBibleDictionary
-description: 圣经新词典: 誓言（OATHS）
+description: 圣经新词典 - 誓言（OATHS）
 keywords: 誓言, OATHS
 comments: false
 ---

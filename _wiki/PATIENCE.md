@@ -2,7 +2,7 @@
 layout: wiki
 title: 忍耐，宽容（PATIENCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 忍耐，宽容（PATIENCE）
+description: 圣经新词典 - 忍耐，宽容（PATIENCE）
 keywords: 忍耐，宽容, PATIENCE
 comments: false
 ---

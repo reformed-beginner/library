@@ -2,7 +2,7 @@
 layout: wiki
 title: 约雅斤（JEHOIACHIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 约雅斤（JEHOIACHIN）（来：y#ho^ya{k[i^n，“耶和华将建立”；代上三16写作“耶哥尼雅”；参：太一11-12；耶廿二24、28的拼法则是“哥尼雅”）
+description: 圣经新词典 - 约雅斤（JEHOIACHIN）（来：y#ho^ya{k[i^n，“耶和华将建立”；代上三16写作“耶哥尼雅”；参：太一11-12；耶廿二24、28的拼法则是“哥尼雅”）
 keywords: 约雅斤, JEHOIACHIN
 comments: false
 ---

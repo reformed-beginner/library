@@ -2,7 +2,7 @@
 layout: wiki
 title: 度，步，上行（STEPS）
 categories: NewBibleDictionary
-description: 圣经新词典: 度，步，上行（STEPS）（来：ma`@lo^t[，出自
+description: 圣经新词典 - 度，步，上行（STEPS）（来：ma`@lo^t[，出自
 ma`@la^，意为“往上行的动作”、“攀升”；参：拉丁文：gradus；腊：bathmos，“一梯级”〔这是 LXX 的译法〕，“上行”）
 keywords: 度，步，上行, STEPS
 comments: false

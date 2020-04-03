@@ -2,7 +2,7 @@
 layout: wiki
 title: 记号，豫兆（SIGN）
 categories: NewBibleDictionary
-description: 圣经新词典: 记号，豫兆（SIGN）
+description: 圣经新词典 - 记号，豫兆（SIGN）
 keywords: 记号，豫兆, SIGN
 comments: false
 ---

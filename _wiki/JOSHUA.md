@@ -2,7 +2,7 @@
 layout: wiki
 title: 约书亚（JOSHUA）
 categories: NewBibleDictionary
-description: 圣经新词典: 约书亚（JOSHUA）
+description: 圣经新词典 - 约书亚（JOSHUA）
 keywords: 约书亚, JOSHUA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 饥荒（FAMINE）
 categories: NewBibleDictionary
-description: 圣经新词典: 饥荒（FAMINE）
+description: 圣经新词典 - 饥荒（FAMINE）
 keywords: 饥荒, FAMINE
 comments: false
 ---

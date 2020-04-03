@@ -2,7 +2,7 @@
 layout: wiki
 title: 出恶言，毁谤（EVIL SPEAKING）
 categories: NewBibleDictionary
-description: 圣经新词典: 出恶言，毁谤（EVIL SPEAKING）
+description: 圣经新词典 - 出恶言，毁谤（EVIL SPEAKING）
 keywords: 出恶言，毁谤, EVIL SPEAKING
 comments: false
 ---

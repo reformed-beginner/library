@@ -2,7 +2,7 @@
 layout: wiki
 title: 分封王（TETRARCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 分封王（TETRARCH）
+description: 圣经新词典 - 分封王（TETRARCH）
 keywords: 分封王, TETRARCH
 comments: false
 ---

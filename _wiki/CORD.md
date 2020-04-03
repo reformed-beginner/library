@@ -2,7 +2,7 @@
 layout: wiki
 title: 绳子（CORD, ROPE）
 categories: NewBibleDictionary
-description: 圣经新词典: 绳子（CORD, ROPE）
+description: 圣经新词典 - 绳子（CORD, ROPE）
 keywords: 绳子, CORD, ROPE
 comments: false
 ---

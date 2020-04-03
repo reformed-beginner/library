@@ -2,7 +2,7 @@
 layout: wiki
 title: 穷困（POVERTY）
 categories: NewBibleDictionary
-description: 圣经新词典: 穷困（POVERTY）
+description: 圣经新词典 - 穷困（POVERTY）
 keywords: 穷困, POVERTY
 comments: false
 ---

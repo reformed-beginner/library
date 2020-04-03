@@ -2,7 +2,7 @@
 layout: wiki
 title: 米铁亚玛（METHEG-AMMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 米铁亚玛（METHEG-AMMAH）
+description: 圣经新词典 - 米铁亚玛（METHEG-AMMAH）
 keywords: 米铁亚玛, METHEG-AMMAH
 comments: false
 ---

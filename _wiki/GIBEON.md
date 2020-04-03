@@ -2,7 +2,7 @@
 layout: wiki
 title: 基遍（GIBEON）
 categories: NewBibleDictionary
-description: 圣经新词典: 基遍（GIBEON）
+description: 圣经新词典 - 基遍（GIBEON）
 keywords: 基遍, GIBEON
 comments: false
 ---

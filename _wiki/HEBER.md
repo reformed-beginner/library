@@ -2,7 +2,7 @@
 layout: wiki
 title: 希别，希百，希伯（HEBER）
 categories: NewBibleDictionary
-description: 圣经新词典: 希别，希百，希伯（HEBER）
+description: 圣经新词典 - 希别，希百，希伯（HEBER）
 keywords: 希别，希百，希伯, HEBER
 comments: false
 ---

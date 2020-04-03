@@ -2,7 +2,7 @@
 layout: wiki
 title: 枕头（CUSHION）
 categories: NewBibleDictionary
-description: 圣经新词典: 枕头（CUSHION）
+description: 圣经新词典 - 枕头（CUSHION）
 keywords: 枕头, CUSHION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴勒斯坦（PALESTINE）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴勒斯坦（PALESTINE）
+description: 圣经新词典 - 巴勒斯坦（PALESTINE）
 keywords: 巴勒斯坦, PALESTINE
 comments: false
 ---

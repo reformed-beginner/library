@@ -2,7 +2,7 @@
 layout: wiki
 title: 沉沦，灭亡（PERDITION）
 categories: NewBibleDictionary
-description: 圣经新词典: 沉沦，灭亡（PERDITION）（腊：apo{leia，“丧失”，“毁灭”）在新约，这词表示“毁灭”，特指恶人的终局，以及他们失去永生一事”（启十七8、11），“*地狱，*末世论”
+description: 圣经新词典 - 沉沦，灭亡（PERDITION）（腊：apo{leia，“丧失”，“毁灭”）在新约，这词表示“毁灭”，特指恶人的终局，以及他们失去永生一事”（启十七8、11），“*地狱，*末世论”
 keywords: 沉沦，灭亡, PERDITION
 comments: false
 ---

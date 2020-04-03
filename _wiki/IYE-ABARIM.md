@@ -2,7 +2,7 @@
 layout: wiki
 title: 以耶亚巴琳（IYE-ABARIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 以耶亚巴琳（IYE-ABARIM）
+description: 圣经新词典 - 以耶亚巴琳（IYE-ABARIM）
 keywords: 以耶亚巴琳, IYE-ABARIM
 comments: false
 ---

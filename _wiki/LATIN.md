@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉丁文（LATIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉丁文（LATIN）
+description: 圣经新词典 - 拉丁文（LATIN）
 keywords: 拉丁文, LATIN
 comments: false
 ---

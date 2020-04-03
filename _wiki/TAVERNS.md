@@ -2,7 +2,7 @@
 layout: wiki
 title: 三馆（TAVERNS, THREE）
 categories: NewBibleDictionary
-description: 圣经新词典: 三馆（TAVERNS, THREE）（拉丁文：Tres Tabernae）
+description: 圣经新词典 - 三馆（TAVERNS, THREE）（拉丁文：Tres Tabernae）
 keywords: 三馆, TAVERNS, THREE
 comments: false
 ---

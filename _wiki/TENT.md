@@ -2,7 +2,7 @@
 layout: wiki
 title: 帐棚（TENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 帐棚（TENT）
+description: 圣经新词典 - 帐棚（TENT）
 keywords: 帐棚, TENT
 comments: false
 ---

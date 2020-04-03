@@ -2,7 +2,7 @@
 layout: wiki
 title: 咒诅（CURSE）
 categories: NewBibleDictionary
-description: 圣经新词典: 咒诅（CURSE）
+description: 圣经新词典 - 咒诅（CURSE）
 keywords: 咒诅, CURSE
 comments: false
 ---

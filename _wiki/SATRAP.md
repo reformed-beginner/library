@@ -2,7 +2,7 @@
 layout: wiki
 title: 总督（波斯）
 categories: NewBibleDictionary
-description: 圣经新词典: 总督（波斯）（SATRAP）（来：~@h]as%darpa{n；亚兰文：~@h]as%adrpa{n；亚甲文：ah\s%ad(a)-rapannu；源自古波斯文的
+description: 圣经新词典 - 总督（波斯）（SATRAP）（来：~@h]as%darpa{n；亚兰文：~@h]as%adrpa{n；亚甲文：ah\s%ad(a)-rapannu；源自古波斯文的
 h\s%at[apa{van，意即 “王国的保护者”，原本是*玛代文的 khshathrapa{）
 keywords: 总督, 波斯
 comments: false

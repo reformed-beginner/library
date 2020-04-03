@@ -2,7 +2,7 @@
 layout: wiki
 title: 绊脚石（STUMBLING-BLOCK）
 categories: NewBibleDictionary
-description: 圣经新词典: 绊脚石（STUMBLING-BLOCK）
+description: 圣经新词典 - 绊脚石（STUMBLING-BLOCK）
 keywords: 绊脚石, STUMBLING-BLOCK
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚别（ABIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚别（ABIEL）（来：~@b[I^~e{l，“神是我的父”）
+description: 圣经新词典 - 亚别（ABIEL）（来：~@b[I^~e{l，“神是我的父”）
 keywords: 亚别, ABIEL
 comments: false
 ---

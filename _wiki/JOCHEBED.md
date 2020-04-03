@@ -2,7 +2,7 @@
 layout: wiki
 title: 约基别（JOCHEBED）
 categories: NewBibleDictionary
-description: 圣经新词典: 约基别（JOCHEBED）
+description: 圣经新词典 - 约基别（JOCHEBED）
 keywords: 约基别, JOCHEBED
 comments: false
 ---

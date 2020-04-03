@@ -2,7 +2,7 @@
 layout: wiki
 title: 赎罪祭（EXPIATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 赎罪祭（EXPIATION）
+description: 圣经新词典 - 赎罪祭（EXPIATION）
 keywords: 赎罪祭, EXPIATION
 comments: false
 ---

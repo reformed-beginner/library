@@ -2,7 +2,7 @@
 layout: wiki
 title: 基利波（GILBOA）
 categories: NewBibleDictionary
-description: 圣经新词典: 基利波（GILBOA）（来：gilbo{a`，大概指“涌流的泉源”，但不少人怀疑这解释）
+description: 圣经新词典 - 基利波（GILBOA）（来：gilbo{a`，大概指“涌流的泉源”，但不少人怀疑这解释）
 keywords: 基利波, GILBOA
 comments: false
 ---

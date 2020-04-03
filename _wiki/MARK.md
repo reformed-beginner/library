@@ -2,7 +2,7 @@
 layout: wiki
 title: 马可福音（MARK, GOSPEL OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 马可福音（MARK, GOSPEL OF）
+description: 圣经新词典 - 马可福音（MARK, GOSPEL OF）
 keywords: 马可福音, MARK, GOSPEL OF
 comments: false
 ---

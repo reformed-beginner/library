@@ -2,7 +2,7 @@
 layout: wiki
 title: 那鸿书（NAHUM, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 那鸿书（NAHUM, BOOK OF）
+description: 圣经新词典 - 那鸿书（NAHUM, BOOK OF）
 keywords: 那鸿书, NAHUM, BOOK OF
 comments: false
 ---

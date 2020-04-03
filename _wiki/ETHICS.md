@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣经伦理（ETHICS, BIBLICAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣经伦理（ETHICS, BIBLICAL）
+description: 圣经新词典 - 圣经伦理（ETHICS, BIBLICAL）
 keywords: 圣经伦理, ETHICS, BIBLICAL
 comments: false
 ---

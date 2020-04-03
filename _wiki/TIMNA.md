@@ -2,7 +2,7 @@
 layout: wiki
 title: 亭纳（TIMNA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亭纳（TIMNA）
+description: 圣经新词典 - 亭纳（TIMNA）
 keywords: 亭纳, TIMNA
 comments: false
 ---

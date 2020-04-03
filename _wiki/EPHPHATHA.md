@@ -2,7 +2,7 @@
 layout: wiki
 title: 以法大（EPHPHATHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 以法大（EPHPHATHA）
+description: 圣经新词典 - 以法大（EPHPHATHA）
 keywords: 以法大, EPHPHATHA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚多尼兰（ADONIRAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚多尼兰（ADONIRAM）（来：~@d[o{ni^ra{m，“我的主是尊贵的”）
+description: 圣经新词典 - 亚多尼兰（ADONIRAM）（来：~@d[o{ni^ra{m，“我的主是尊贵的”）
 keywords: 亚多尼兰, ADONIRAM
 comments: false
 ---

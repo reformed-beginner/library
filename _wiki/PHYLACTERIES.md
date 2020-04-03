@@ -2,7 +2,7 @@
 layout: wiki
 title: 佩经盒（PHYLACTERIES）
 categories: NewBibleDictionary
-description: 圣经新词典: 佩经盒（PHYLACTERIES）
+description: 圣经新词典 - 佩经盒（PHYLACTERIES）
 keywords: 佩经盒, PHYLACTERIES
 comments: false
 ---

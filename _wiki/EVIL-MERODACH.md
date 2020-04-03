@@ -2,7 +2,7 @@
 layout: wiki
 title: 以未米罗达（EVIL-MERODACH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以未米罗达（EVIL-MERODACH）
+description: 圣经新词典 - 以未米罗达（EVIL-MERODACH）
 keywords: 以未米罗达, EVIL-MERODACH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 诗歌（POETRY）
 categories: NewBibleDictionary
-description: 圣经新词典: 诗歌（POETRY）
+description: 圣经新词典 - 诗歌（POETRY）
 keywords: 诗歌, POETRY
 comments: false
 ---

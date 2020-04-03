@@ -2,7 +2,7 @@
 layout: wiki
 title: 未识之神（UNKNOWN GOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 未识之神（UNKNOWN GOD）（腊：agno{stos theos）
+description: 圣经新词典 - 未识之神（UNKNOWN GOD）（腊：agno{stos theos）
 keywords: 未识之神, UNKNOWN GOD
 comments: false
 ---

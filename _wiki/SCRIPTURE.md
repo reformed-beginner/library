@@ -2,7 +2,7 @@
 layout: wiki
 title: 经书，书，圣经（SCRIPTURE, SCRIPTURES）
 categories: NewBibleDictionary
-description: 圣经新词典: 经书，书，圣经（SCRIPTURE, SCRIPTURES）
+description: 圣经新词典 - 经书，书，圣经（SCRIPTURE, SCRIPTURES）
 keywords: 经书，书，圣经, SCRIPTURE, SCRIPTURES
 comments: false
 ---

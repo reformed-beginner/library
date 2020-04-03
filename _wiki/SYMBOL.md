@@ -2,7 +2,7 @@
 layout: wiki
 title: 象征，记号（SYMBOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 象征，记号（SYMBOL）
+description: 圣经新词典 - 象征，记号（SYMBOL）
 keywords: 象征，记号, SYMBOL
 comments: false
 ---

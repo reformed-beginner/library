@@ -2,7 +2,7 @@
 layout: wiki
 title: 但以理书（DANIEL, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 但以理书（DANIEL, BOOK OF）
+description: 圣经新词典 - 但以理书（DANIEL, BOOK OF）
 keywords: 但以理书, DANIEL, BOOK OF
 comments: false
 ---

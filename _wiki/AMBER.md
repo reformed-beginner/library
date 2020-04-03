@@ -2,7 +2,7 @@
 layout: wiki
 title: 琥珀（AMBER）
 categories: NewBibleDictionary
-description: 圣经新词典: 琥珀（AMBER）
+description: 圣经新词典 - 琥珀（AMBER）
 keywords: 琥珀, AMBER
 comments: false
 ---

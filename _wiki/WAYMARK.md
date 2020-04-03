@@ -2,7 +2,7 @@
 layout: wiki
 title: 指路碑，标记（WAYMARK）
 categories: NewBibleDictionary
-description: 圣经新词典: 指路碑，标记（WAYMARK）
+description: 圣经新词典 - 指路碑，标记（WAYMARK）
 keywords: 指路碑，标记, WAYMARK
 comments: false
 ---

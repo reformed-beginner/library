@@ -2,7 +2,7 @@
 layout: wiki
 title: 利宏（REHUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 利宏（REHUM）
+description: 圣经新词典 - 利宏（REHUM）
 keywords: 利宏, REHUM
 comments: false
 ---

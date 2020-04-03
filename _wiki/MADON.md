@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛顿（MADON）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛顿（MADON）（来：ma{d[o^n）
+description: 圣经新词典 - 玛顿（MADON）（来：ma{d[o^n）
 keywords: 玛顿, MADON
 comments: false
 ---

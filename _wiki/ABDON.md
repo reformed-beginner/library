@@ -2,7 +2,7 @@
 layout: wiki
 title: 押顿，亚伯顿，亚比顿（ABDON）
 categories: NewBibleDictionary
-description: 圣经新词典: 押顿，亚伯顿，亚比顿（ABDON）（来：~ab[do^n）
+description: 圣经新词典 - 押顿，亚伯顿，亚比顿（ABDON）（来：~ab[do^n）
 keywords: 押顿，亚伯顿，亚比顿, ABDON
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 暗兰（AMRAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 暗兰（AMRAM）（来：`amra{m，意即“百姓被高举”）
+description: 圣经新词典 - 暗兰（AMRAM）（来：`amra{m，意即“百姓被高举”）
 keywords: 暗兰, AMRAM
 comments: false
 ---

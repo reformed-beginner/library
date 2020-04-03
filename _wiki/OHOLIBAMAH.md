@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿何利巴玛；阿荷拉；阿荷利巴（OHOLIBAMAH, OHOLAH, OHOLIBAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿何利巴玛；阿荷拉；阿荷利巴（OHOLIBAMAH, OHOLAH, OHOLIBAH）
+description: 圣经新词典 - 阿何利巴玛；阿荷拉；阿荷利巴（OHOLIBAMAH, OHOLAH, OHOLIBAH）
 keywords: 阿何利巴玛；阿荷拉；阿荷利巴, OHOLIBAMAH, OHOLAH, OHOLIBAH
 comments: false
 ---

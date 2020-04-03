@@ -2,7 +2,7 @@
 layout: wiki
 title: 吗哪（MANNA）
 categories: NewBibleDictionary
-description: 圣经新词典: 吗哪（MANNA）
+description: 圣经新词典 - 吗哪（MANNA）
 keywords: 吗哪, MANNA
 comments: false
 ---

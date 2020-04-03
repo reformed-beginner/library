@@ -2,7 +2,7 @@
 layout: wiki
 title: 瓶（小）
 categories: NewBibleDictionary
-description: 圣经新词典: 瓶（小）（VIAL）
+description: 圣经新词典 - 瓶（小）（VIAL）
 keywords: 瓶, 小
 comments: false
 ---

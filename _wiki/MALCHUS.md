@@ -2,7 +2,7 @@
 layout: wiki
 title: 马勒古（MALCHUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 马勒古（MALCHUS）（腊：Malchos，源自来：mele[k，即“君王”之意）
+description: 圣经新词典 - 马勒古（MALCHUS）（腊：Malchos，源自来：mele[k，即“君王”之意）
 keywords: 马勒古, MALCHUS
 comments: false
 ---

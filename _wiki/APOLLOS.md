@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚波罗（APOLLOS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚波罗（APOLLOS）
+description: 圣经新词典 - 亚波罗（APOLLOS）
 keywords: 亚波罗, APOLLOS
 comments: false
 ---

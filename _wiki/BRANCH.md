@@ -2,7 +2,7 @@
 layout: wiki
 title: 枝子，苗裔（BRANCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 枝子，苗裔（BRANCH）
+description: 圣经新词典 - 枝子，苗裔（BRANCH）
 keywords: 枝子，苗裔, BRANCH
 comments: false
 ---

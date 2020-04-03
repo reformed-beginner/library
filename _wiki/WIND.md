@@ -2,7 +2,7 @@
 layout: wiki
 title: 风（WIND）
 categories: NewBibleDictionary
-description: 圣经新词典: 风（WIND）（来：ru^ah]）
+description: 圣经新词典 - 风（WIND）（来：ru^ah]）
 keywords: 风, WIND
 comments: false
 ---

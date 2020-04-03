@@ -2,7 +2,7 @@
 layout: wiki
 title: 希尼，色弗尼（SYENE）
 categories: NewBibleDictionary
-description: 圣经新词典: 希尼，色弗尼（SYENE）（AV：Sinim, Sinites）
+description: 圣经新词典 - 希尼，色弗尼（SYENE）（AV：Sinim, Sinites）
 keywords: 希尼，色弗尼, SYENE
 comments: false
 ---

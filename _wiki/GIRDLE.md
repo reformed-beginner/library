@@ -2,7 +2,7 @@
 layout: wiki
 title: 腰带（GIRDLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 腰带（GIRDLE）
+description: 圣经新词典 - 腰带（GIRDLE）
 keywords: 腰带, GIRDLE
 comments: false
 ---

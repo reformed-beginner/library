@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚们（AMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚们（AMON）
+description: 圣经新词典 - 亚们（AMON）
 keywords: 亚们, AMON
 comments: false
 ---

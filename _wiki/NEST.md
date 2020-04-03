@@ -2,7 +2,7 @@
 layout: wiki
 title: 巢窝（NEST）
 categories: NewBibleDictionary
-description: 圣经新词典: 巢窝（NEST）（来：qe{n，源自qinne{n，“造一个巢”；腊：kataske{no{sis，“栖息的地方”）
+description: 圣经新词典 - 巢窝（NEST）（来：qe{n，源自qinne{n，“造一个巢”；腊：kataske{no{sis，“栖息的地方”）
 keywords: 巢窝, NEST
 comments: false
 ---

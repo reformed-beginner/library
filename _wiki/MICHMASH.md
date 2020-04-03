@@ -2,7 +2,7 @@
 layout: wiki
 title: 密抹，默玛（MICHMASH, MICHMAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 密抹，默玛（MICHMASH, MICHMAS）
+description: 圣经新词典 - 密抹，默玛（MICHMASH, MICHMAS）
 keywords: 密抹，默玛, MICHMASH, MICHMAS
 comments: false
 ---

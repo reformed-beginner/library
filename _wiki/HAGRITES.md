@@ -2,7 +2,7 @@
 layout: wiki
 title: 夏甲人（HAGRITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 夏甲人（HAGRITES）
+description: 圣经新词典 - 夏甲人（HAGRITES）
 keywords: 夏甲人, HAGRITES
 comments: false
 ---

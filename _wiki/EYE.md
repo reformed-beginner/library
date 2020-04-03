@@ -2,7 +2,7 @@
 layout: wiki
 title: 眼睛（EYE）
 categories: NewBibleDictionary
-description: 圣经新词典: 眼睛（EYE）
+description: 圣经新词典 - 眼睛（EYE）
 keywords: 眼睛, EYE
 comments: false
 ---

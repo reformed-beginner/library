@@ -2,7 +2,7 @@
 layout: wiki
 title: 宁林的水（NIMRIM, WATERS OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 宁林的水（NIMRIM, WATERS OF）
+description: 圣经新词典 - 宁林的水（NIMRIM, WATERS OF）
 keywords: 宁林的水, NIMRIM, WATERS OF
 comments: false
 ---

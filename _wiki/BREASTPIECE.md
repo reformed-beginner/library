@@ -2,7 +2,7 @@
 layout: wiki
 title: 大祭司的胸牌（BREASTPIECE OF THE HIGH PRIEST）
 categories: NewBibleDictionary
-description: 圣经新词典: 大祭司的胸牌（BREASTPIECE OF THE HIGH PRIEST）
+description: 圣经新词典 - 大祭司的胸牌（BREASTPIECE OF THE HIGH PRIEST）
 keywords: 大祭司的胸牌, BREASTPIECE OF THE HIGH PRIEST
 comments: false
 ---

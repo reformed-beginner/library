@@ -2,7 +2,7 @@
 layout: wiki
 title: 陀斐特（TOPHETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 陀斐特（TOPHETH）（AV TOPHET）
+description: 圣经新词典 - 陀斐特（TOPHETH）（AV TOPHET）
 keywords: 陀斐特, TOPHETH
 comments: false
 ---

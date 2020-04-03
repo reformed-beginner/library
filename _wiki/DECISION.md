@@ -2,7 +2,7 @@
 layout: wiki
 title: 断定谷（DECISION, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 断定谷（DECISION, VALLEY OF）
+description: 圣经新词典 - 断定谷（DECISION, VALLEY OF）
 keywords: 断定谷, DECISION, VALLEY OF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 一天的路程（DAY'S JOURNEY）
 categories: NewBibleDictionary
-description: 圣经新词典: 一天的路程（DAY'S JOURNEY）
+description: 圣经新词典 - 一天的路程（DAY'S JOURNEY）
 keywords: 一天的路程, DAY'S JOURNEY
 comments: false
 ---

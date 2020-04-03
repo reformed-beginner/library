@@ -2,7 +2,7 @@
 layout: wiki
 title: 罗马帝国（ROMAN EMPIRE）
 categories: NewBibleDictionary
-description: 圣经新词典: 罗马帝国（ROMAN EMPIRE）
+description: 圣经新词典 - 罗马帝国（ROMAN EMPIRE）
 keywords: 罗马帝国, ROMAN EMPIRE
 comments: false
 ---

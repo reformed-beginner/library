@@ -2,7 +2,7 @@
 layout: wiki
 title: 扫罗，少罗（SHAUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 扫罗，少罗（SHAUL）（来：s%a{~u^l，“要求”）
+description: 圣经新词典 - 扫罗，少罗（SHAUL）（来：s%a{~u^l，“要求”）
 keywords: 扫罗，少罗, SHAUL
 comments: false
 ---

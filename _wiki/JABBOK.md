@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅博河（JABBOK）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅博河（JABBOK）
+description: 圣经新词典 - 雅博河（JABBOK）
 keywords: 雅博河, JABBOK
 comments: false
 ---

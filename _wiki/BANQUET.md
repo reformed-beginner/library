@@ -2,7 +2,7 @@
 layout: wiki
 title: 筵席（BANQUET）
 categories: NewBibleDictionary
-description: 圣经新词典: 筵席（BANQUET）
+description: 圣经新词典 - 筵席（BANQUET）
 keywords: 筵席, BANQUET
 comments: false
 ---

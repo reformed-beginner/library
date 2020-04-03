@@ -2,7 +2,7 @@
 layout: wiki
 title: 热心（ZEAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 热心（ZEAL）
+description: 圣经新词典 - 热心（ZEAL）
 keywords: 热心, ZEAL
 comments: false
 ---

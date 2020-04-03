@@ -2,7 +2,7 @@
 layout: wiki
 title: 传道书（ECCLESIASTES, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 传道书（ECCLESIASTES, BOOK OF）
+description: 圣经新词典 - 传道书（ECCLESIASTES, BOOK OF）
 keywords: 传道书, ECCLESIASTES, BOOK OF
 comments: false
 ---

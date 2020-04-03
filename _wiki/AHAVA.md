@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚哈瓦（AHAVA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚哈瓦（AHAVA）
+description: 圣经新词典 - 亚哈瓦（AHAVA）
 keywords: 亚哈瓦, AHAVA
 comments: false
 ---

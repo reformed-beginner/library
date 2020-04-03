@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒但（SATAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒但（SATAN）
+description: 圣经新词典 - 撒但（SATAN）
 keywords: 撒但, SATAN
 comments: false
 ---

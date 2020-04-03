@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗扁（ZEBOIIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗扁（ZEBOIIM）（NEB ZEBOYIM）
+description: 圣经新词典 - 洗扁（ZEBOIIM）（NEB ZEBOYIM）
 keywords: 洗扁, ZEBOIIM
 comments: false
 ---

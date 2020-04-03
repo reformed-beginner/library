@@ -2,7 +2,7 @@
 layout: wiki
 title: 火把，火灯，灯烛（TORCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 火把，火灯，灯烛（TORCH）
+description: 圣经新词典 - 火把，火灯，灯烛（TORCH）
 keywords: 火把，火灯，灯烛, TORCH
 comments: false
 ---

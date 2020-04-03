@@ -2,7 +2,7 @@
 layout: wiki
 title: 乐园（PARADISE）
 categories: NewBibleDictionary
-description: 圣经新词典: 乐园（PARADISE）
+description: 圣经新词典 - 乐园（PARADISE）
 keywords: 乐园, PARADISE
 comments: false
 ---

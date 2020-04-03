@@ -2,7 +2,7 @@
 layout: wiki
 title: 他泊山（TABOR, MOUNT）
 categories: NewBibleDictionary
-description: 圣经新词典: 他泊山（TABOR, MOUNT）
+description: 圣经新词典 - 他泊山（TABOR, MOUNT）
 keywords: 他泊山, TABOR, MOUNT
 comments: false
 ---

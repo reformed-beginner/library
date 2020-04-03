@@ -2,7 +2,7 @@
 layout: wiki
 title: 以米（EMIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 以米（EMIM）
+description: 圣经新词典 - 以米（EMIM）
 keywords: 以米, EMIM
 comments: false
 ---

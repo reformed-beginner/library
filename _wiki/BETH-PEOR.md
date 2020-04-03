@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯毗珥（BETH-PEOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯毗珥（BETH-PEOR）（直译是“毗珥之殿”）
+description: 圣经新词典 - 伯毗珥（BETH-PEOR）（直译是“毗珥之殿”）
 keywords: 伯毗珥, BETH-PEOR
 comments: false
 ---

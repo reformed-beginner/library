@@ -2,7 +2,7 @@
 layout: wiki
 title: 腓力，腓利（PHILIP）
 categories: NewBibleDictionary
-description: 圣经新词典: 腓力，腓利（PHILIP）（腊：philippos，意即“爱马的人”）
+description: 圣经新词典 - 腓力，腓利（PHILIP）（腊：philippos，意即“爱马的人”）
 keywords: 腓力，腓利, PHILIP
 comments: false
 ---

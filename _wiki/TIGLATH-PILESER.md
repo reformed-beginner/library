@@ -2,7 +2,7 @@
 layout: wiki
 title: 提革拉毗列色；提革拉毗尼色（TIGLATH-PILESER, TILGATH-PILNESER）
 categories: NewBibleDictionary
-description: 圣经新词典: 提革拉毗列色；提革拉毗尼色（TIGLATH-PILESER, TILGATH-PILNESER）
+description: 圣经新词典 - 提革拉毗列色；提革拉毗尼色（TIGLATH-PILESER, TILGATH-PILNESER）
 keywords: 提革拉毗列色；提革拉毗尼色, TIGLATH-PILESER, TILGATH-PILNESER
 comments: false
 ---

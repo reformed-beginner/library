@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚甲族（AGAGITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚甲族（AGAGITE）
+description: 圣经新词典 - 亚甲族（AGAGITE）
 keywords: 亚甲族, AGAGITE
 comments: false
 ---

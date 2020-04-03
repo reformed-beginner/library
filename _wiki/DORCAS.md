@@ -2,7 +2,7 @@
 layout: wiki
 title: 多加（DORCAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 多加（DORCAS）
+description: 圣经新词典 - 多加（DORCAS）
 keywords: 多加, DORCAS
 comments: false
 ---

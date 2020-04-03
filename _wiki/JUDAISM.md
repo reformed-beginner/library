@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹太教（JUDAISM）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹太教（JUDAISM）
+description: 圣经新词典 - 犹太教（JUDAISM）
 keywords: 犹太教, JUDAISM
 comments: false
 ---

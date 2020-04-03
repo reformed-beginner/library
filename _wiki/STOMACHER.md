@@ -2,7 +2,7 @@
 layout: wiki
 title: 华丽腰幅，华服（STOMACHER）
 categories: NewBibleDictionary
-description: 圣经新词典: 华丽腰幅，华服（STOMACHER）
+description: 圣经新词典 - 华丽腰幅，华服（STOMACHER）
 keywords: 华丽腰幅，华服, STOMACHER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 恶，邪恶（WICKED）
 categories: NewBibleDictionary
-description: 圣经新词典: 恶，邪恶（WICKED）
+description: 圣经新词典 - 恶，邪恶（WICKED）
 keywords: 恶，邪恶, WICKED
 comments: false
 ---

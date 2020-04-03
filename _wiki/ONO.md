@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿挪（ONO）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿挪（ONO）
+description: 圣经新词典 - 阿挪（ONO）
 keywords: 阿挪, ONO
 comments: false
 ---

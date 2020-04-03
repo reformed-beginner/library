@@ -2,7 +2,7 @@
 layout: wiki
 title: 基突（GEDOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 基突（GEDOR）（来：g#d[o^r）
+description: 圣经新词典 - 基突（GEDOR）（来：g#d[o^r）
 keywords: 基突, GEDOR
 comments: false
 ---

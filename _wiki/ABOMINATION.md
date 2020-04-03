@@ -2,7 +2,7 @@
 layout: wiki
 title: 憎厌，厌恶，可憎，可厌（ABOMINATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 憎厌，厌恶，可憎，可厌（ABOMINATION）
+description: 圣经新词典 - 憎厌，厌恶，可憎，可厌（ABOMINATION）
 keywords: 憎厌，厌恶，可憎，可厌, ABOMINATION
 comments: false
 ---

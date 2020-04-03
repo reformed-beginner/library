@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯亚比勒（BETH-ARBEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯亚比勒（BETH-ARBEL）
+description: 圣经新词典 - 伯亚比勒（BETH-ARBEL）
 keywords: 伯亚比勒, BETH-ARBEL
 comments: false
 ---

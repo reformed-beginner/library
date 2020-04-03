@@ -2,7 +2,7 @@
 layout: wiki
 title: 妾（CONCUBINE）
 categories: NewBibleDictionary
-description: 圣经新词典: 妾（CONCUBINE）
+description: 圣经新词典 - 妾（CONCUBINE）
 keywords: 妾, CONCUBINE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 血（BLOOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 血（BLOOD）
+description: 圣经新词典 - 血（BLOOD）
 keywords: 血, BLOOD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 以实玛利（ISHMAEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 以实玛利（ISHMAEL）（来：yis%ma{e{~l，“神聆听”）
+description: 圣经新词典 - 以实玛利（ISHMAEL）（来：yis%ma{e{~l，“神聆听”）
 keywords: 以实玛利, ISHMAEL
 comments: false
 ---

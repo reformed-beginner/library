@@ -2,7 +2,7 @@
 layout: wiki
 title: 柱子（PILLAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 柱子（PILLAR）
+description: 圣经新词典 - 柱子（PILLAR）
 keywords: 柱子, PILLAR
 comments: false
 ---

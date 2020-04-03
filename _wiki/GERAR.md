@@ -2,7 +2,7 @@
 layout: wiki
 title: 基拉耳（GERAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 基拉耳（GERAR）（来：g#ra{r，“圈子”）
+description: 圣经新词典 - 基拉耳（GERAR）（来：g#ra{r，“圈子”）
 keywords: 基拉耳, GERAR
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西西拉（SISERA）
 categories: NewBibleDictionary
-description: 圣经新词典: 西西拉（SISERA）（si^s#ra{~，非闪族语言，可能是以利哩古的名字）
+description: 圣经新词典 - 西西拉（SISERA）（si^s#ra{~，非闪族语言，可能是以利哩古的名字）
 keywords: 西西拉, SISERA
 comments: false
 ---

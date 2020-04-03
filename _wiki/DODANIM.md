@@ -2,7 +2,7 @@
 layout: wiki
 title: 多单（DODANIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 多单（DODANIM）
+description: 圣经新词典 - 多单（DODANIM）
 keywords: 多单, DODANIM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 外邦人（外族人，寄居者）
 categories: NewBibleDictionary
-description: 圣经新词典: 外邦人（外族人，寄居者）（FOREIGNER）
+description: 圣经新词典 - 外邦人（外族人，寄居者）（FOREIGNER）
 keywords: 外邦人, 外族人，寄居者
 comments: false
 ---

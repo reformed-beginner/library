@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 表　根据创十记载的列国名单
+description: 圣经新词典 - 表　根据创十记载的列国名单
 keywords: , 
 comments: false
 ---

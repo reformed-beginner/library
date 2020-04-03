@@ -2,7 +2,7 @@
 layout: wiki
 title: 树木（TREES）
 categories: NewBibleDictionary
-description: 圣经新词典: 树木（TREES）
+description: 圣经新词典 - 树木（TREES）
 keywords: 树木, TREES
 comments: false
 ---

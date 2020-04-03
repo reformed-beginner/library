@@ -2,7 +2,7 @@
 layout: wiki
 title: 安提帕（ANTIPAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 安提帕（ANTIPAS）
+description: 圣经新词典 - 安提帕（ANTIPAS）
 keywords: 安提帕, ANTIPAS
 comments: false
 ---

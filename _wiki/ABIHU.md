@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比户（ABIHU）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比户（ABIHU）（来：~@b[I^hu^~，“我父是他”〔即耶和华〕）
+description: 圣经新词典 - 亚比户（ABIHU）（来：~@b[I^hu^~，“我父是他”〔即耶和华〕）
 keywords: 亚比户, ABIHU
 comments: false
 ---

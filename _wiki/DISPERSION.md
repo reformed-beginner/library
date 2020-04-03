@@ -2,7 +2,7 @@
 layout: wiki
 title: 分散（犹太侨民）
 categories: NewBibleDictionary
-description: 圣经新词典: 分散（犹太侨民）（DISPERSION）
+description: 圣经新词典 - 分散（犹太侨民）（DISPERSION）
 keywords: 分散, 犹太侨民
 comments: false
 ---

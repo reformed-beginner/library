@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　黏土印鉴
+description: 圣经新词典 - 图　黏土印鉴
 keywords: , 
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 行走（WALK）
 categories: NewBibleDictionary
-description: 圣经新词典: 行走（WALK）
+description: 圣经新词典 - 行走（WALK）
 keywords: 行走, WALK
 comments: false
 ---

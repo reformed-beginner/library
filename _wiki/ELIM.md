@@ -2,7 +2,7 @@
 layout: wiki
 title: 以琳（ELIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 以琳（ELIM）（来：“笃耨香树”或“橡树”）
+description: 圣经新词典 - 以琳（ELIM）（来：“笃耨香树”或“橡树”）
 keywords: 以琳, ELIM
 comments: false
 ---

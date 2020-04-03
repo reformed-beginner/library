@@ -2,7 +2,7 @@
 layout: wiki
 title: 月亮（MOON）
 categories: NewBibleDictionary
-description: 圣经新词典: 月亮（MOON）
+description: 圣经新词典 - 月亮（MOON）
 keywords: 月亮, MOON
 comments: false
 ---

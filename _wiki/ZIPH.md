@@ -2,7 +2,7 @@
 layout: wiki
 title: 西弗（ZIPH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西弗（ZIPH）
+description: 圣经新词典 - 西弗（ZIPH）
 keywords: 西弗, ZIPH
 comments: false
 ---

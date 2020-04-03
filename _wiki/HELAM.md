@@ -2,7 +2,7 @@
 layout: wiki
 title: 希兰（HELAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 希兰（HELAM）
+description: 圣经新词典 - 希兰（HELAM）
 keywords: 希兰, HELAM
 comments: false
 ---

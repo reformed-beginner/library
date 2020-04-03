@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹八（JUBAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹八（JUBAL）
+description: 圣经新词典 - 犹八（JUBAL）
 keywords: 犹八, JUBAL
 comments: false
 ---

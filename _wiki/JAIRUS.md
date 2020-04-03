@@ -2,7 +2,7 @@
 layout: wiki
 title: 睚鲁（JAIRUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 睚鲁（JAIRUS）
+description: 圣经新词典 - 睚鲁（JAIRUS）
 keywords: 睚鲁, JAIRUS
 comments: false
 ---

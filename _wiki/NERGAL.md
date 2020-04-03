@@ -2,7 +2,7 @@
 layout: wiki
 title: 匿甲神（NERGAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 匿甲神（NERGAL）（来：ne{r#g{al；苏默文：U
+description: 圣经新词典 - 匿甲神（NERGAL）（来：ne{r#g{al；苏默文：U
 keywords: 匿甲神, NERGAL
 comments: false
 ---

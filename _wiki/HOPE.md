@@ -2,7 +2,7 @@
 layout: wiki
 title: 盼望，指望（HOPE）
 categories: NewBibleDictionary
-description: 圣经新词典: 盼望，指望（HOPE）
+description: 圣经新词典 - 盼望，指望（HOPE）
 keywords: 盼望，指望, HOPE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 驻防城（COLONY）
 categories: NewBibleDictionary
-description: 圣经新词典: 驻防城（COLONY）
+description: 圣经新词典 - 驻防城（COLONY）
 keywords: 驻防城, COLONY
 comments: false
 ---

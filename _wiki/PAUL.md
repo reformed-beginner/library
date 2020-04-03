@@ -2,7 +2,7 @@
 layout: wiki
 title: 保罗（PAUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 保罗（PAUL）
+description: 圣经新词典 - 保罗（PAUL）
 keywords: 保罗, PAUL
 comments: false
 ---

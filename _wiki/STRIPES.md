@@ -2,7 +2,7 @@
 layout: wiki
 title: 鞭（STRIPES）
 categories: NewBibleDictionary
-description: 圣经新词典: 鞭（STRIPES）
+description: 圣经新词典 - 鞭（STRIPES）
 keywords: 鞭, STRIPES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 挪答（NODAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 挪答（NODAB）
+description: 圣经新词典 - 挪答（NODAB）
 keywords: 挪答, NODAB
 comments: false
 ---

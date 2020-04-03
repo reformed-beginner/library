@@ -2,7 +2,7 @@
 layout: wiki
 title: 食物（FOOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 食物（FOOD）
+description: 圣经新词典 - 食物（FOOD）
 keywords: 食物, FOOD
 comments: false
 ---

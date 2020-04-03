@@ -2,7 +2,7 @@
 layout: wiki
 title: 提阿非罗（THEOPHILUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 提阿非罗（THEOPHILUS）（腊：theophilos，“神所亲爱的”，“神的朋友”）
+description: 圣经新词典 - 提阿非罗（THEOPHILUS）（腊：theophilos，“神所亲爱的”，“神的朋友”）
 keywords: 提阿非罗, THEOPHILUS
 comments: false
 ---

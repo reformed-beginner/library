@@ -2,7 +2,7 @@
 layout: wiki
 title: 腓利门（PHILEMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 腓利门（PHILEMON）
+description: 圣经新词典 - 腓利门（PHILEMON）
 keywords: 腓利门, PHILEMON
 comments: false
 ---

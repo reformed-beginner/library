@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚兰；亚兰人（ARAM, ARAMAEANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚兰；亚兰人（ARAM, ARAMAEANS）
+description: 圣经新词典 - 亚兰；亚兰人（ARAM, ARAMAEANS）
 keywords: 亚兰；亚兰人, ARAM, ARAMAEANS
 comments: false
 ---

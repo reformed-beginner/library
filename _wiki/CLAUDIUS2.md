@@ -2,7 +2,7 @@
 layout: wiki
 title: 革老丢吕西亚（CLAUDIUS LYSIAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 革老丢吕西亚（CLAUDIUS LYSIAS）
+description: 圣经新词典 - 革老丢吕西亚（CLAUDIUS LYSIAS）
 keywords: 革老丢吕西亚, CLAUDIUS LYSIAS
 comments: false
 ---

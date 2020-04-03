@@ -2,7 +2,7 @@
 layout: wiki
 title: 以巴弗提（EPAPHRODITUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 以巴弗提（EPAPHRODITUS）
+description: 圣经新词典 - 以巴弗提（EPAPHRODITUS）
 keywords: 以巴弗提, EPAPHRODITUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 哥辖；哥辖人（KOHATH, KOHATHITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 哥辖；哥辖人（KOHATH, KOHATHITES）
+description: 圣经新词典 - 哥辖；哥辖人（KOHATH, KOHATHITES）
 keywords: 哥辖；哥辖人, KOHATH, KOHATHITES
 comments: false
 ---

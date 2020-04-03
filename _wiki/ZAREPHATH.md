@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒勒法（ZAREPHATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒勒法（ZAREPHATH）（“冶炼的地方”）
+description: 圣经新词典 - 撒勒法（ZAREPHATH）（“冶炼的地方”）
 keywords: 撒勒法, ZAREPHATH
 comments: false
 ---

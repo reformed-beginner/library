@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅杂（JAHAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅杂（JAHAZ）（来：yah]as]）
+description: 圣经新词典 - 雅杂（JAHAZ）（来：yah]as]）
 keywords: 雅杂, JAHAZ
 comments: false
 ---

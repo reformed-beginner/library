@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼哥（NECO, NECHO）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼哥（NECO, NECHO）
+description: 圣经新词典 - 尼哥（NECO, NECHO）
 keywords: 尼哥, NECO, NECHO
 comments: false
 ---

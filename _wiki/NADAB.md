@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿答（NADAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿答（NADAB）（来：na{d[a{b[，含有“宽宏大量”、“崇高”之意）
+description: 圣经新词典 - 拿答（NADAB）（来：na{d[a{b[，含有“宽宏大量”、“崇高”之意）
 keywords: 拿答, NADAB
 comments: false
 ---

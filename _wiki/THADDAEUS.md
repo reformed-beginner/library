@@ -2,7 +2,7 @@
 layout: wiki
 title: 达太（THADDAEUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 达太（THADDAEUS）
+description: 圣经新词典 - 达太（THADDAEUS）
 keywords: 达太, THADDAEUS
 comments: false
 ---

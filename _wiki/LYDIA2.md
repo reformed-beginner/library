@@ -2,7 +2,7 @@
 layout: wiki
 title: 吕底亚（LYDIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 吕底亚（LYDIA）
+description: 圣经新词典 - 吕底亚（LYDIA）
 keywords: 吕底亚, LYDIA
 comments: false
 ---

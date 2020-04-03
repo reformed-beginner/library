@@ -2,7 +2,7 @@
 layout: wiki
 title: 表　不同场合的公祭及祭物表（民廿八-廿九）
 categories: NewBibleDictionary
-description: 圣经新词典: 表　不同场合的公祭及祭物表（民廿八-廿九）
+description: 圣经新词典 - 表　不同场合的公祭及祭物表（民廿八-廿九）
 keywords: 表　不同场合的公祭及祭物表, 民廿八-廿九
 comments: false
 ---

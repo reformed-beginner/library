@@ -2,7 +2,7 @@
 layout: wiki
 title: 吹角节（TRUMPETS, FEAST OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 吹角节（TRUMPETS, FEAST OF）
+description: 圣经新词典 - 吹角节（TRUMPETS, FEAST OF）
 keywords: 吹角节, TRUMPETS, FEAST OF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿撒勒（NAZARETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿撒勒（NAZARETH）
+description: 圣经新词典 - 拿撒勒（NAZARETH）
 keywords: 拿撒勒, NAZARETH
 comments: false
 ---

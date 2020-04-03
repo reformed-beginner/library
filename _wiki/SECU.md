@@ -2,7 +2,7 @@
 layout: wiki
 title: 西沽（SECU [RSV], SECHU [AV]）
 categories: NewBibleDictionary
-description: 圣经新词典: 西沽（SECU [RSV], SECHU [AV]）
+description: 圣经新词典 - 西沽（SECU [RSV], SECHU [AV]）
 keywords: 西沽, SECU [RSV], SECHU [AV]
 comments: false
 ---

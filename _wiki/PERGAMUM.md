@@ -2,7 +2,7 @@
 layout: wiki
 title: 别迦摩（PERGAMUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 别迦摩（PERGAMUM）
+description: 圣经新词典 - 别迦摩（PERGAMUM）
 keywords: 别迦摩, PERGAMUM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 应许之地（PROMISED LAND）
 categories: NewBibleDictionary
-description: 圣经新词典: 应许之地（PROMISED LAND）
+description: 圣经新词典 - 应许之地（PROMISED LAND）
 keywords: 应许之地, PROMISED LAND
 comments: false
 ---

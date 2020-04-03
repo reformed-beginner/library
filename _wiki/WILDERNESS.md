@@ -2,7 +2,7 @@
 layout: wiki
 title: 旷野（WILDERNESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 旷野（WILDERNESS）
+description: 圣经新词典 - 旷野（WILDERNESS）
 keywords: 旷野, WILDERNESS
 comments: false
 ---

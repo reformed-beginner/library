@@ -2,7 +2,7 @@
 layout: wiki
 title: 鲁孚（RUFUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 鲁孚（RUFUS）（“红色”之意）
+description: 圣经新词典 - 鲁孚（RUFUS）（“红色”之意）
 keywords: 鲁孚, RUFUS
 comments: false
 ---

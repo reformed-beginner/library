@@ -2,7 +2,7 @@
 layout: wiki
 title: 十字架；钉十字架（基督的）
 categories: NewBibleDictionary
-description: 圣经新词典: 十字架；钉十字架（基督的）（CROSS, CRUCIFIXION）
+description: 圣经新词典 - 十字架；钉十字架（基督的）（CROSS, CRUCIFIXION）
 keywords: 十字架；钉十字架, 基督的
 comments: false
 ---

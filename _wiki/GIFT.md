@@ -2,7 +2,7 @@
 layout: wiki
 title: 礼物（GIFT）
 categories: NewBibleDictionary
-description: 圣经新词典: 礼物（GIFT）
+description: 圣经新词典 - 礼物（GIFT）
 keywords: 礼物, GIFT
 comments: false
 ---

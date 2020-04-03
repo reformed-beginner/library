@@ -2,7 +2,7 @@
 layout: wiki
 title: 米底巴（MEDEBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 米底巴（MEDEBA）（来：me^d[#b[a{'，可能解作“平静的水”）
+description: 圣经新词典 - 米底巴（MEDEBA）（来：me^d[#b[a{'，可能解作“平静的水”）
 keywords: 米底巴, MEDEBA
 comments: false
 ---

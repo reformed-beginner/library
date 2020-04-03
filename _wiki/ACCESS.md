@@ -2,7 +2,7 @@
 layout: wiki
 title: 进入（ACCESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 进入（ACCESS）
+description: 圣经新词典 - 进入（ACCESS）
 keywords: 进入, ACCESS
 comments: false
 ---

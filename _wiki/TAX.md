@@ -2,7 +2,7 @@
 layout: wiki
 title: 税吏（TAX COLLECTOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 税吏（TAX COLLECTOR）
+description: 圣经新词典 - 税吏（TAX COLLECTOR）
 keywords: 税吏, TAX COLLECTOR
 comments: false
 ---

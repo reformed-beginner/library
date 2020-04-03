@@ -2,7 +2,7 @@
 layout: wiki
 title: 特罗非摩（TROPHIMUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 特罗非摩（TROPHIMUS）
+description: 圣经新词典 - 特罗非摩（TROPHIMUS）
 keywords: 特罗非摩, TROPHIMUS
 comments: false
 ---

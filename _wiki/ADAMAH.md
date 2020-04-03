@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚大玛（ADAMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚大玛（ADAMAH）（来：~@d[a{ma{h）
+description: 圣经新词典 - 亚大玛（ADAMAH）（来：~@d[a{ma{h）
 keywords: 亚大玛, ADAMAH
 comments: false
 ---

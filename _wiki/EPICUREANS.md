@@ -2,7 +2,7 @@
 layout: wiki
 title: 以彼古罗/伊辟鸠罗学派的学士（EPICUREANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 以彼古罗/伊辟鸠罗学派的学士（EPICUREANS）
+description: 圣经新词典 - 以彼古罗/伊辟鸠罗学派的学士（EPICUREANS）
 keywords: 以彼古罗/伊辟鸠罗学派的学士, EPICUREANS
 comments: false
 ---

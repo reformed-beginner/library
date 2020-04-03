@@ -2,7 +2,7 @@
 layout: wiki
 title: 以西结书（EZEKIEL, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 以西结书（EZEKIEL, BOOK OF）
+description: 圣经新词典 - 以西结书（EZEKIEL, BOOK OF）
 keywords: 以西结书, EZEKIEL, BOOK OF
 comments: false
 ---

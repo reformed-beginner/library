@@ -2,7 +2,7 @@
 layout: wiki
 title: 棚（BOOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 棚（BOOTH）
+description: 圣经新词典 - 棚（BOOTH）
 keywords: 棚, BOOTH
 comments: false
 ---

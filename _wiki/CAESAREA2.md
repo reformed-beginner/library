@@ -2,7 +2,7 @@
 layout: wiki
 title: 该撒利亚腓立比（CAESAREA PHILIPPI）
 categories: NewBibleDictionary
-description: 圣经新词典: 该撒利亚腓立比（CAESAREA PHILIPPI）
+description: 圣经新词典 - 该撒利亚腓立比（CAESAREA PHILIPPI）
 keywords: 该撒利亚腓立比, CAESAREA PHILIPPI
 comments: false
 ---

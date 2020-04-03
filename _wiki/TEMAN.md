@@ -2,7 +2,7 @@
 layout: wiki
 title: 提幔（TEMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 提幔（TEMAN）
+description: 圣经新词典 - 提幔（TEMAN）
 keywords: 提幔, TEMAN
 comments: false
 ---

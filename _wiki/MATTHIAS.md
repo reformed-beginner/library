@@ -2,7 +2,7 @@
 layout: wiki
 title: 马提亚（MATTHIAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 马提亚（MATTHIAS）
+description: 圣经新词典 - 马提亚（MATTHIAS）
 keywords: 马提亚, MATTHIAS
 comments: false
 ---

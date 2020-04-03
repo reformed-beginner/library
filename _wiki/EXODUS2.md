@@ -2,7 +2,7 @@
 layout: wiki
 title: 出埃及记（EXODUS, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 出埃及记（EXODUS, BOOK OF）
+description: 圣经新词典 - 出埃及记（EXODUS, BOOK OF）
 keywords: 出埃及记, EXODUS, BOOK OF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 心利（ZIMRI）
 categories: NewBibleDictionary
-description: 圣经新词典: 心利（ZIMRI）（来：zimri^）
+description: 圣经新词典 - 心利（ZIMRI）（来：zimri^）
 keywords: 心利, ZIMRI
 comments: false
 ---

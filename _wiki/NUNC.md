@@ -2,7 +2,7 @@
 layout: wiki
 title: 西面颂（NUNC DIMITTIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 西面颂（NUNC DIMITTIS）
+description: 圣经新词典 - 西面颂（NUNC DIMITTIS）
 keywords: 西面颂, NUNC DIMITTIS
 comments: false
 ---

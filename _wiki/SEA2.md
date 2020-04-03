@@ -2,7 +2,7 @@
 layout: wiki
 title: 玻璃海（SEA OF GLASS）
 categories: NewBibleDictionary
-description: 圣经新词典: 玻璃海（SEA OF GLASS）
+description: 圣经新词典 - 玻璃海（SEA OF GLASS）
 keywords: 玻璃海, SEA OF GLASS
 comments: false
 ---

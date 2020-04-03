@@ -2,7 +2,7 @@
 layout: wiki
 title: 道（道路）
 categories: NewBibleDictionary
-description: 圣经新词典: 道（道路）（WAY）
+description: 圣经新词典 - 道（道路）（WAY）
 keywords: 道, 道路
 comments: false
 ---

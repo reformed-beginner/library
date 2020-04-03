@@ -2,7 +2,7 @@
 layout: wiki
 title: 赫人（HITTITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 赫人（HITTITES）（来：h]itti^m, b#ne^ h]e{t[）
+description: 圣经新词典 - 赫人（HITTITES）（来：h]itti^m, b#ne^ h]e{t[）
 keywords: 赫人, HITTITES
 comments: false
 ---

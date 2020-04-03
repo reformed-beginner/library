@@ -2,7 +2,7 @@
 layout: wiki
 title: 刺绣（EMBROIDERY）
 categories: NewBibleDictionary
-description: 圣经新词典: 刺绣（EMBROIDERY）
+description: 圣经新词典 - 刺绣（EMBROIDERY）
 keywords: 刺绣, EMBROIDERY
 comments: false
 ---

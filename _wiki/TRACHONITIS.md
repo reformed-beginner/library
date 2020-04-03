@@ -2,7 +2,7 @@
 layout: wiki
 title: 特拉可尼（TRACHONITIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 特拉可尼（TRACHONITIS）
+description: 圣经新词典 - 特拉可尼（TRACHONITIS）
 keywords: 特拉可尼, TRACHONITIS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 户伸（HUSHIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 户伸（HUSHIM）
+description: 圣经新词典 - 户伸（HUSHIM）
 keywords: 户伸, HUSHIM
 comments: false
 ---

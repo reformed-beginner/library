@@ -2,7 +2,7 @@
 layout: wiki
 title: 院子（COURT）
 categories: NewBibleDictionary
-description: 圣经新词典: 院子（COURT）
+description: 圣经新词典 - 院子（COURT）
 keywords: 院子, COURT
 comments: false
 ---

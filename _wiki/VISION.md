@@ -2,7 +2,7 @@
 layout: wiki
 title: 异象（VISION）
 categories: NewBibleDictionary
-description: 圣经新词典: 异象（VISION）
+description: 圣经新词典 - 异象（VISION）
 keywords: 异象, VISION
 comments: false
 ---

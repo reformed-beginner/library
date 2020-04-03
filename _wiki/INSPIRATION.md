@@ -2,7 +2,7 @@
 layout: wiki
 title: 默示（INSPIRATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 默示（INSPIRATION）
+description: 圣经新词典 - 默示（INSPIRATION）
 keywords: 默示, INSPIRATION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒母耳（SAMUEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒母耳（SAMUEL）（来：s%#mu^~e{l，“（？）神的名字”）
+description: 圣经新词典 - 撒母耳（SAMUEL）（来：s%#mu^~e{l，“（？）神的名字”）
 keywords: 撒母耳, SAMUEL
 comments: false
 ---

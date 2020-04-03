@@ -2,7 +2,7 @@
 layout: wiki
 title: 西拉（SILAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 西拉（SILAS）
+description: 圣经新词典 - 西拉（SILAS）
 keywords: 西拉, SILAS
 comments: false
 ---

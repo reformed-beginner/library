@@ -2,7 +2,7 @@
 layout: wiki
 title: 鞭打；刑罚，灾害（SCOURGING, SCOURGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 鞭打；刑罚，灾害（SCOURGING, SCOURGE）
+description: 圣经新词典 - 鞭打；刑罚，灾害（SCOURGING, SCOURGE）
 keywords: 鞭打；刑罚，灾害, SCOURGING, SCOURGE
 comments: false
 ---

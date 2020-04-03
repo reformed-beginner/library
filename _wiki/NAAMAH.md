@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿玛（NAAMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿玛（NAAMAH）（“悦人”之意）
+description: 圣经新词典 - 拿玛（NAAMAH）（“悦人”之意）
 keywords: 拿玛, NAAMAH
 comments: false
 ---

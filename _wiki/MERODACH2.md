@@ -2,7 +2,7 @@
 layout: wiki
 title: 米罗达巴拉但（MERODACH-BALADAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 米罗达巴拉但（MERODACH-BALADAN）
+description: 圣经新词典 - 米罗达巴拉但（MERODACH-BALADAN）
 keywords: 米罗达巴拉但, MERODACH-BALADAN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 朔比（SHOBI）
 categories: NewBibleDictionary
-description: 圣经新词典: 朔比（SHOBI）（撒下十七27-29）
+description: 圣经新词典 - 朔比（SHOBI）（撒下十七27-29）
 keywords: 朔比, SHOBI
 comments: false
 ---

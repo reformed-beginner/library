@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚哈随鲁（AHASUERUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚哈随鲁（AHASUERUS）（来：~@h]as%we{ro^s%，等于波斯文的 khshayarsha）
+description: 圣经新词典 - 亚哈随鲁（AHASUERUS）（来：~@h]as%we{ro^s%，等于波斯文的 khshayarsha）
 keywords: 亚哈随鲁, AHASUERUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 御营，衙门（PRAETORIUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 御营，衙门（PRAETORIUM）
+description: 圣经新词典 - 御营，衙门（PRAETORIUM）
 keywords: 御营，衙门, PRAETORIUM
 comments: false
 ---

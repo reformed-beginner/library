@@ -2,7 +2,7 @@
 layout: wiki
 title: 供台，亚利伊勒，亚列（ARIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 供台，亚利伊勒，亚列（ARIEL）（来：~@ri^~e{l，“伊勒〔神〕的炉床”）
+description: 圣经新词典 - 供台，亚利伊勒，亚列（ARIEL）（来：~@ri^~e{l，“伊勒〔神〕的炉床”）
 keywords: 供台，亚利伊勒，亚列, ARIEL
 comments: false
 ---

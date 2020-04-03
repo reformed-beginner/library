@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛黑珥沙拉勒哈施罢斯（MAHER-SHALAL-HASH-BAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛黑珥沙拉勒哈施罢斯（MAHER-SHALAL-HASH-BAZ）
+description: 圣经新词典 - 玛黑珥沙拉勒哈施罢斯（MAHER-SHALAL-HASH-BAZ）
 keywords: 玛黑珥沙拉勒哈施罢斯, MAHER-SHALAL-HASH-BAZ
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚扪；亚扪人（AMMON, AMMONITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚扪；亚扪人（AMMON, AMMONITES）
+description: 圣经新词典 - 亚扪；亚扪人（AMMON, AMMONITES）
 keywords: 亚扪；亚扪人, AMMON, AMMONITES
 comments: false
 ---

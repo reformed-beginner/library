@@ -2,7 +2,7 @@
 layout: wiki
 title: 基利家（CILICIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 基利家（CILICIA）
+description: 圣经新词典 - 基利家（CILICIA）
 keywords: 基利家, CILICIA
 comments: false
 ---

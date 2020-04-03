@@ -2,7 +2,7 @@
 layout: wiki
 title: 比伯赛（PI-BESETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 比伯赛（PI-BESETH）
+description: 圣经新词典 - 比伯赛（PI-BESETH）
 keywords: 比伯赛, PI-BESETH
 comments: false
 ---

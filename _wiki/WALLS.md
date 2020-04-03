@@ -2,7 +2,7 @@
 layout: wiki
 title: 墙（WALLS）
 categories: NewBibleDictionary
-description: 圣经新词典: 墙（WALLS）
+description: 圣经新词典 - 墙（WALLS）
 keywords: 墙, WALLS
 comments: false
 ---

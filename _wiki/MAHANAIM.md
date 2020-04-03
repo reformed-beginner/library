@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛哈念（MAHANAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛哈念（MAHANAIM）（来：mah]@nayim，即“二营军兵”之意）
+description: 圣经新词典 - 玛哈念（MAHANAIM）（来：mah]@nayim，即“二营军兵”之意）
 keywords: 玛哈念, MAHANAIM
 comments: false
 ---

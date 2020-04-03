@@ -2,7 +2,7 @@
 layout: wiki
 title: 非比（PHOEBE）
 categories: NewBibleDictionary
-description: 圣经新词典: 非比（PHOEBE）（AV: 'Phebe'）
+description: 圣经新词典 - 非比（PHOEBE）（AV: 'Phebe'）
 keywords: 非比, PHOEBE
 comments: false
 ---

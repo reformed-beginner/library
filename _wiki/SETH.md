@@ -2,7 +2,7 @@
 layout: wiki
 title: 塞特（SETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 塞特（SETH）
+description: 圣经新词典 - 塞特（SETH）
 keywords: 塞特, SETH
 comments: false
 ---

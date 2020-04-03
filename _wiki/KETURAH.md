@@ -2,7 +2,7 @@
 layout: wiki
 title: 基土拉（KETURAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基土拉（KETURAH）（来：q#t]u^ra^，“芳香的人”）
+description: 圣经新词典 - 基土拉（KETURAH）（来：q#t]u^ra^，“芳香的人”）
 keywords: 基土拉, KETURAH
 comments: false
 ---

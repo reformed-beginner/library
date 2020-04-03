@@ -2,7 +2,7 @@
 layout: wiki
 title: 居里扭（QUIRINIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 居里扭（QUIRINIUS）（路二2，RV，RSV，NEB 均拼作 Quirinius；AV 则作 Cyrenius，跟希腊文的
+description: 圣经新词典 - 居里扭（QUIRINIUS）（路二2，RV，RSV，NEB 均拼作 Quirinius；AV 则作 Cyrenius，跟希腊文的
 Kyre{nios 相近）
 keywords: 居里扭, QUIRINIUS
 comments: false

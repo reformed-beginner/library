@@ -2,7 +2,7 @@
 layout: wiki
 title: 乳母/奶妈（NURSE）
 categories: NewBibleDictionary
-description: 圣经新词典: 乳母/奶妈（NURSE）
+description: 圣经新词典 - 乳母/奶妈（NURSE）
 keywords: 乳母/奶妈, NURSE
 comments: false
 ---

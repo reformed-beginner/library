@@ -2,7 +2,7 @@
 layout: wiki
 title: 流荡者（VAGABOND）
 categories: NewBibleDictionary
-description: 圣经新词典: 流荡者（VAGABOND）
+description: 圣经新词典 - 流荡者（VAGABOND）
 keywords: 流荡者, VAGABOND
 comments: false
 ---

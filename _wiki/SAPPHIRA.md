@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒非喇（SAPPHIRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒非喇（SAPPHIRA）（腊：sappheira，是对亚兰文 s%appi^ra^ 一字的音译；属阴性单数，意思是“美丽”）
+description: 圣经新词典 - 撒非喇（SAPPHIRA）（腊：sappheira，是对亚兰文 s%appi^ra^ 一字的音译；属阴性单数，意思是“美丽”）
 keywords: 撒非喇, SAPPHIRA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚摩利人（AMORITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚摩利人（AMORITES）
+description: 圣经新词典 - 亚摩利人（AMORITES）
 keywords: 亚摩利人, AMORITES
 comments: false
 ---

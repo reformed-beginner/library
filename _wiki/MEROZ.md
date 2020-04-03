@@ -2,7 +2,7 @@
 layout: wiki
 title: 米罗斯（MEROZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 米罗斯（MEROZ）（来：me{ro^z）
+description: 圣经新词典 - 米罗斯（MEROZ）（来：me{ro^z）
 keywords: 米罗斯, MEROZ
 comments: false
 ---

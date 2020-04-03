@@ -2,7 +2,7 @@
 layout: wiki
 title: 利逊（REZON）
 categories: NewBibleDictionary
-description: 圣经新词典: 利逊（REZON）
+description: 圣经新词典 - 利逊（REZON）
 keywords: 利逊, REZON
 comments: false
 ---

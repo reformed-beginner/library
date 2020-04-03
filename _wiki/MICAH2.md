@@ -2,7 +2,7 @@
 layout: wiki
 title: 弥迦书（MICAH, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 弥迦书（MICAH, BOOK OF）（来：mi^k[a^，是 mi^k[a{y#hu^ 的缩写，意即“谁像耶和华？”）
+description: 圣经新词典 - 弥迦书（MICAH, BOOK OF）（来：mi^k[a^，是 mi^k[a{y#hu^ 的缩写，意即“谁像耶和华？”）
 keywords: 弥迦书, MICAH, BOOK OF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 喇合（RAHAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 喇合（RAHAB）（来：ra{h]a{b[，或许与 rh]b ──“广阔”这字根有关）
+description: 圣经新词典 - 喇合（RAHAB）（来：ra{h]a{b[，或许与 rh]b ──“广阔”这字根有关）
 keywords: 喇合, RAHAB
 comments: false
 ---

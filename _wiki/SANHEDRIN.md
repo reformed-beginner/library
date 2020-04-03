@@ -2,7 +2,7 @@
 layout: wiki
 title: 公会（犹太人议会）
 categories: NewBibleDictionary
-description: 圣经新词典: 公会（犹太人议会）（SANHEDRIN）
+description: 圣经新词典 - 公会（犹太人议会）（SANHEDRIN）
 keywords: 公会, 犹太人议会
 comments: false
 ---

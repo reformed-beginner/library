@@ -2,7 +2,7 @@
 layout: wiki
 title: 路加福音（LUKE, GOSPEL OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 路加福音（LUKE, GOSPEL OF）
+description: 圣经新词典 - 路加福音（LUKE, GOSPEL OF）
 keywords: 路加福音, LUKE, GOSPEL OF
 comments: false
 ---

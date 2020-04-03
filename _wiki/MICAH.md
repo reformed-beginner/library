@@ -2,7 +2,7 @@
 layout: wiki
 title: 弥迦；米迦；米该雅（MICAH, MICAIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 弥迦；米迦；米该雅（MICAH, MICAIAH）（意即“谁像耶和华？”）
+description: 圣经新词典 - 弥迦；米迦；米该雅（MICAH, MICAIAH）（意即“谁像耶和华？”）
 keywords: 弥迦；米迦；米该雅, MICAH, MICAIAH
 comments: false
 ---

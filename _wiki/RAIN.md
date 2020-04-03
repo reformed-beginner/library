@@ -2,7 +2,7 @@
 layout: wiki
 title: 雨（RAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 雨（RAIN）
+description: 圣经新词典 - 雨（RAIN）
 keywords: 雨, RAIN
 comments: false
 ---

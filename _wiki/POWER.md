@@ -2,7 +2,7 @@
 layout: wiki
 title: 能力，大能，权柄，力量（POWER）
 categories: NewBibleDictionary
-description: 圣经新词典: 能力，大能，权柄，力量（POWER）
+description: 圣经新词典 - 能力，大能，权柄，力量（POWER）
 keywords: 能力，大能，权柄，力量, POWER
 comments: false
 ---

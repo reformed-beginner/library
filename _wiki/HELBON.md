@@ -2,7 +2,7 @@
 layout: wiki
 title: 黑本（HELBON）
 categories: NewBibleDictionary
-description: 圣经新词典: 黑本（HELBON）（来：h]elbo^n，“肥沃”、“结果累累”）
+description: 圣经新词典 - 黑本（HELBON）（来：h]elbo^n，“肥沃”、“结果累累”）
 keywords: 黑本, HELBON
 comments: false
 ---

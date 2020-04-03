@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙宾（SHAALBIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙宾（SHAALBIM）
+description: 圣经新词典 - 沙宾（SHAALBIM）
 keywords: 沙宾, SHAALBIM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 登山宝训（SERMON ON THE MOUNT）
 categories: NewBibleDictionary
-description: 圣经新词典: 登山宝训（SERMON ON THE MOUNT）
+description: 圣经新词典 - 登山宝训（SERMON ON THE MOUNT）
 keywords: 登山宝训, SERMON ON THE MOUNT
 comments: false
 ---

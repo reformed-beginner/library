@@ -2,7 +2,7 @@
 layout: wiki
 title: 基尼烈（CHINNERETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基尼烈（CHINNERETH）
+description: 圣经新词典 - 基尼烈（CHINNERETH）
 keywords: 基尼烈, CHINNERETH
 comments: false
 ---

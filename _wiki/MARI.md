@@ -2,7 +2,7 @@
 layout: wiki
 title: 马里（MARI）
 categories: NewBibleDictionary
-description: 圣经新词典: 马里（MARI）
+description: 圣经新词典 - 马里（MARI）
 keywords: 马里, MARI
 comments: false
 ---

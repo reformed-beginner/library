@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙鲁险（SHARUHEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙鲁险（SHARUHEN）
+description: 圣经新词典 - 沙鲁险（SHARUHEN）
 keywords: 沙鲁险, SHARUHEN
 comments: false
 ---

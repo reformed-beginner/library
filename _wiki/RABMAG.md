@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉墨（RABMAG）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉墨（RABMAG）
+description: 圣经新词典 - 拉墨（RABMAG）
 keywords: 拉墨, RABMAG
 comments: false
 ---

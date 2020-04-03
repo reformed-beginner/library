@@ -2,7 +2,7 @@
 layout: wiki
 title: 鬼附（DEMON-POSSESSION）
 categories: NewBibleDictionary
-description: 圣经新词典: 鬼附（DEMON-POSSESSION）
+description: 圣经新词典 - 鬼附（DEMON-POSSESSION）
 keywords: 鬼附, DEMON-POSSESSION
 comments: false
 ---

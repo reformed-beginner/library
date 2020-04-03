@@ -2,7 +2,7 @@
 layout: wiki
 title: 约帕（JOPPA）
 categories: NewBibleDictionary
-description: 圣经新词典: 约帕（JOPPA）
+description: 圣经新词典 - 约帕（JOPPA）
 keywords: 约帕, JOPPA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西比玛（SIBMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西比玛（SIBMAH）
+description: 圣经新词典 - 西比玛（SIBMAH）
 keywords: 西比玛, SIBMAH
 comments: false
 ---

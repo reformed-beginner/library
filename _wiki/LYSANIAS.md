@@ -2,7 +2,7 @@
 layout: wiki
 title: 吕撒聂（LYSANIAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 吕撒聂（LYSANIAS）
+description: 圣经新词典 - 吕撒聂（LYSANIAS）
 keywords: 吕撒聂, LYSANIAS
 comments: false
 ---

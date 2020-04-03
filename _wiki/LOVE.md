@@ -2,7 +2,7 @@
 layout: wiki
 title: 爱；蒙爱的（LOVE, BELOVED）
 categories: NewBibleDictionary
-description: 圣经新词典: 爱；蒙爱的（LOVE, BELOVED）
+description: 圣经新词典 - 爱；蒙爱的（LOVE, BELOVED）
 keywords: 爱；蒙爱的, LOVE, BELOVED
 comments: false
 ---

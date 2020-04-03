@@ -2,7 +2,7 @@
 layout: wiki
 title: 何烈施（HORESH）
 categories: NewBibleDictionary
-description: 圣经新词典: 何烈施（HORESH）
+description: 圣经新词典 - 何烈施（HORESH）
 keywords: 何烈施, HORESH
 comments: false
 ---

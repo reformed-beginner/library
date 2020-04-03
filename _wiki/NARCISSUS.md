@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿其数/那西塞斯（NARCISSUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿其数/那西塞斯（NARCISSUS）
+description: 圣经新词典 - 拿其数/那西塞斯（NARCISSUS）
 keywords: 拿其数/那西塞斯, NARCISSUS
 comments: false
 ---

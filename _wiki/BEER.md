@@ -2,7 +2,7 @@
 layout: wiki
 title: 比珥（BEER）
 categories: NewBibleDictionary
-description: 圣经新词典: 比珥（BEER）（b#~e{r，字义是“井”、“贮水池”，多是人造的）
+description: 圣经新词典 - 比珥（BEER）（b#~e{r，字义是“井”、“贮水池”，多是人造的）
 keywords: 比珥, BEER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯大尼的拉撒路（LAZARUS OF BETHANY）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯大尼的拉撒路（LAZARUS OF BETHANY）
+description: 圣经新词典 - 伯大尼的拉撒路（LAZARUS OF BETHANY）
 keywords: 伯大尼的拉撒路, LAZARUS OF BETHANY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 官长，官吏（OFFICERS）
 categories: NewBibleDictionary
-description: 圣经新词典: 官长，官吏（OFFICERS）
+description: 圣经新词典 - 官长，官吏（OFFICERS）
 keywords: 官长，官吏, OFFICERS
 comments: false
 ---

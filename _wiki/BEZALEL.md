@@ -2,7 +2,7 @@
 layout: wiki
 title: 比撒列（BEZALEL, BEZALEEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 比撒列（BEZALEL, BEZALEEL）（来：b#s]al~e{l，意即“在神的影子〔荫庇〕之下”）
+description: 圣经新词典 - 比撒列（BEZALEL, BEZALEEL）（来：b#s]al~e{l，意即“在神的影子〔荫庇〕之下”）
 keywords: 比撒列, BEZALEL, BEZALEEL
 comments: false
 ---

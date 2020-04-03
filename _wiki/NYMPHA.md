@@ -2,7 +2,7 @@
 layout: wiki
 title: 宁法，宁斐（NYMPHA, NYMPHAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 宁法，宁斐（NYMPHA, NYMPHAS）
+description: 圣经新词典 - 宁法，宁斐（NYMPHA, NYMPHAS）
 keywords: 宁法，宁斐, NYMPHA, NYMPHAS
 comments: false
 ---

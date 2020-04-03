@@ -2,7 +2,7 @@
 layout: wiki
 title: 深渊（GULF）
 categories: NewBibleDictionary
-description: 圣经新词典: 深渊（GULF）（腊：chasma, 'chasm' [RSV]，源自 chaino{，“张嘴”或“打呵欠”）
+description: 圣经新词典 - 深渊（GULF）（腊：chasma, 'chasm' [RSV]，源自 chaino{，“张嘴”或“打呵欠”）
 keywords: 深渊, GULF
 comments: false
 ---

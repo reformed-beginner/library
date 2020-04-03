@@ -2,7 +2,7 @@
 layout: wiki
 title: 杖，竿，棍（ROD [STAFF]）
 categories: NewBibleDictionary
-description: 圣经新词典: 杖，竿，棍（ROD [STAFF]）
+description: 圣经新词典 - 杖，竿，棍（ROD [STAFF]）
 keywords: 杖，竿，棍, ROD [STAFF]
 comments: false
 ---

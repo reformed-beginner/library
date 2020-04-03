@@ -2,7 +2,7 @@
 layout: wiki
 title: 升天（ASCENSION）
 categories: NewBibleDictionary
-description: 圣经新词典: 升天（ASCENSION）
+description: 圣经新词典 - 升天（ASCENSION）
 keywords: 升天, ASCENSION
 comments: false
 ---

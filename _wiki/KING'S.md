@@ -2,7 +2,7 @@
 layout: wiki
 title: 王园（KING'S GARDEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 王园（KING'S GARDEN）
+description: 圣经新词典 - 王园（KING'S GARDEN）
 keywords: 王园, KING'S GARDEN
 comments: false
 ---

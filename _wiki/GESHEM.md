@@ -2,7 +2,7 @@
 layout: wiki
 title: 基善（GESHEM）
 categories: NewBibleDictionary
-description: 圣经新词典: 基善（GESHEM）
+description: 圣经新词典 - 基善（GESHEM）
 keywords: 基善, GESHEM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚西加（AZEKAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚西加（AZEKAH）
+description: 圣经新词典 - 亚西加（AZEKAH）
 keywords: 亚西加, AZEKAH
 comments: false
 ---

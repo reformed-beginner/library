@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿八（NABAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿八（NABAL）（“愚人”之意）
+description: 圣经新词典 - 拿八（NABAL）（“愚人”之意）
 keywords: 拿八, NABAL
 comments: false
 ---

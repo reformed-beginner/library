@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶宾（JABIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶宾（JABIN）（来：ya{b[i^n，意思可能是“〔神〕觉知”）
+description: 圣经新词典 - 耶宾（JABIN）（来：ya{b[i^n，意思可能是“〔神〕觉知”）
 keywords: 耶宾, JABIN
 comments: false
 ---

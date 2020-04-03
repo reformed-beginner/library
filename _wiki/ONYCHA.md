@@ -2,7 +2,7 @@
 layout: wiki
 title: 施喜列香料（ONYCHA）
 categories: NewBibleDictionary
-description: 圣经新词典: 施喜列香料（ONYCHA）
+description: 圣经新词典 - 施喜列香料（ONYCHA）
 keywords: 施喜列香料, ONYCHA
 comments: false
 ---

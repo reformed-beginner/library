@@ -2,7 +2,7 @@
 layout: wiki
 title: 基提（KITTIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 基提（KITTIM）
+description: 圣经新词典 - 基提（KITTIM）
 keywords: 基提, KITTIM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 被摒弃的（REPROBATE）
 categories: NewBibleDictionary
-description: 圣经新词典: 被摒弃的（REPROBATE）
+description: 圣经新词典 - 被摒弃的（REPROBATE）
 keywords: 被摒弃的, REPROBATE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒摩尼（SALMONE）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒摩尼（SALMONE）
+description: 圣经新词典 - 撒摩尼（SALMONE）
 keywords: 撒摩尼, SALMONE
 comments: false
 ---

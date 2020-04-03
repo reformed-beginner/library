@@ -2,7 +2,7 @@
 layout: wiki
 title: 格拉沙，格拉森（GERASA）
 categories: NewBibleDictionary
-description: 圣经新词典: 格拉沙，格拉森（GERASA）
+description: 圣经新词典 - 格拉沙，格拉森（GERASA）
 keywords: 格拉沙，格拉森, GERASA
 comments: false
 ---

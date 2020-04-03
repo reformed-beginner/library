@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿们（AMEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿们（AMEN）
+description: 圣经新词典 - 阿们（AMEN）
 keywords: 阿们, AMEN
 comments: false
 ---

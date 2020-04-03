@@ -2,7 +2,7 @@
 layout: wiki
 title: 森林，树林（FOREST）
 categories: NewBibleDictionary
-description: 圣经新词典: 森林，树林（FOREST）
+description: 圣经新词典 - 森林，树林（FOREST）
 keywords: 森林，树林, FOREST
 comments: false
 ---

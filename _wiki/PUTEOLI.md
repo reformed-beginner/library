@@ -2,7 +2,7 @@
 layout: wiki
 title: 部丢利（PUTEOLI）
 categories: NewBibleDictionary
-description: 圣经新词典: 部丢利（PUTEOLI）
+description: 圣经新词典 - 部丢利（PUTEOLI）
 keywords: 部丢利, PUTEOLI
 comments: false
 ---

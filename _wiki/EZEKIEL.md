@@ -2,7 +2,7 @@
 layout: wiki
 title: 以西结（EZEKIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 以西结（EZEKIEL）（来：y#h]ezqe{~l，意即“神巩固”）
+description: 圣经新词典 - 以西结（EZEKIEL）（来：y#h]ezqe{~l，意即“神巩固”）
 keywords: 以西结, EZEKIEL
 comments: false
 ---

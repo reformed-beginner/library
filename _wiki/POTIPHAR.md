@@ -2,7 +2,7 @@
 layout: wiki
 title: 波提乏（POTIPHAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 波提乏（POTIPHAR）
+description: 圣经新词典 - 波提乏（POTIPHAR）
 keywords: 波提乏, POTIPHAR
 comments: false
 ---

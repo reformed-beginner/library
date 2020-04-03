@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛基大（MAKKEDAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛基大（MAKKEDAH）（来：maqqe{d[a^h）
+description: 圣经新词典 - 玛基大（MAKKEDAH）（来：maqqe{d[a^h）
 keywords: 玛基大, MAKKEDAH
 comments: false
 ---

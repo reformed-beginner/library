@@ -2,7 +2,7 @@
 layout: wiki
 title: 以得来（EDREI）
 categories: NewBibleDictionary
-description: 圣经新词典: 以得来（EDREI）（来：~ed[re`i^）
+description: 圣经新词典 - 以得来（EDREI）（来：~ed[re`i^）
 keywords: 以得来, EDREI
 comments: false
 ---

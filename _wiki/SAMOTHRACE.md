@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒摩特喇（SAMOTHRACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒摩特喇（SAMOTHRACE）
+description: 圣经新词典 - 撒摩特喇（SAMOTHRACE）
 keywords: 撒摩特喇, SAMOTHRACE
 comments: false
 ---

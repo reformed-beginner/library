@@ -2,7 +2,7 @@
 layout: wiki
 title: 后裔，种子，子粒（SEED）
 categories: NewBibleDictionary
-description: 圣经新词典: 后裔，种子，子粒（SEED）
+description: 圣经新词典 - 后裔，种子，子粒（SEED）
 keywords: 后裔，种子，子粒, SEED
 comments: false
 ---

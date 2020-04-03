@@ -2,7 +2,7 @@
 layout: wiki
 title: 彼勒神（BEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 彼勒神（BEL）
+description: 圣经新词典 - 彼勒神（BEL）
 keywords: 彼勒神, BEL
 comments: false
 ---

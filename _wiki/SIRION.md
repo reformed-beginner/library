@@ -2,7 +2,7 @@
 layout: wiki
 title: 西连山（SIRION）
 categories: NewBibleDictionary
-description: 圣经新词典: 西连山（SIRION）（来：s*iryo{n）
+description: 圣经新词典 - 西连山（SIRION）（来：s*iryo{n）
 keywords: 西连山, SIRION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 生产之痛，劳苦（TRAVAIL）
 categories: NewBibleDictionary
-description: 圣经新词典: 生产之痛，劳苦（TRAVAIL）
+description: 圣经新词典 - 生产之痛，劳苦（TRAVAIL）
 keywords: 生产之痛，劳苦, TRAVAIL
 comments: false
 ---

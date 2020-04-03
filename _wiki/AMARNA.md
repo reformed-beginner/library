@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚玛拿（AMARNA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚玛拿（AMARNA）
+description: 圣经新词典 - 亚玛拿（AMARNA）
 keywords: 亚玛拿, AMARNA
 comments: false
 ---

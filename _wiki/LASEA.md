@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉西亚（LASEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉西亚（LASEA）
+description: 圣经新词典 - 拉西亚（LASEA）
 keywords: 拉西亚, LASEA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西古提人（SCYTHIANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 西古提人（SCYTHIANS）
+description: 圣经新词典 - 西古提人（SCYTHIANS）
 keywords: 西古提人, SCYTHIANS
 comments: false
 ---

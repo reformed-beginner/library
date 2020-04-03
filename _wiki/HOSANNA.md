@@ -2,7 +2,7 @@
 layout: wiki
 title: 和散那（HOSANNA）
 categories: NewBibleDictionary
-description: 圣经新词典: 和散那（HOSANNA）
+description: 圣经新词典 - 和散那（HOSANNA）
 keywords: 和散那, HOSANNA
 comments: false
 ---

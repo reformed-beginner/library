@@ -2,7 +2,7 @@
 layout: wiki
 title: 游廊（PARBAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 游廊（PARBAR）
+description: 圣经新词典 - 游廊（PARBAR）
 keywords: 游廊, PARBAR
 comments: false
 ---

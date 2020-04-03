@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛基雅（MALCHIJAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛基雅（MALCHIJAH）（意即“耶和华是王”）
+description: 圣经新词典 - 玛基雅（MALCHIJAH）（意即“耶和华是王”）
 keywords: 玛基雅, MALCHIJAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 福徒拿都（FORTUNATUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 福徒拿都（FORTUNATUS）
+description: 圣经新词典 - 福徒拿都（FORTUNATUS）
 keywords: 福徒拿都, FORTUNATUS
 comments: false
 ---

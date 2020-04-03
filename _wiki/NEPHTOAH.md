@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼弗多亚（NEPHTOAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼弗多亚（NEPHTOAH）
+description: 圣经新词典 - 尼弗多亚（NEPHTOAH）
 keywords: 尼弗多亚, NEPHTOAH
 comments: false
 ---

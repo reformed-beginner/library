@@ -2,7 +2,7 @@
 layout: wiki
 title: 波斯；波斯人（PERSIA, PERSIANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 波斯；波斯人（PERSIA, PERSIANS）
+description: 圣经新词典 - 波斯；波斯人（PERSIA, PERSIANS）
 keywords: 波斯；波斯人, PERSIA, PERSIANS
 comments: false
 ---

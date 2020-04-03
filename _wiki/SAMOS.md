@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒摩（SAMOS）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒摩（SAMOS）
+description: 圣经新词典 - 撒摩（SAMOS）
 keywords: 撒摩, SAMOS
 comments: false
 ---

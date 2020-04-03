@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿非施（NAPHISH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿非施（NAPHISH）
+description: 圣经新词典 - 拿非施（NAPHISH）
 keywords: 拿非施, NAPHISH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚巴琳山（ABARIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚巴琳山（ABARIM）
+description: 圣经新词典 - 亚巴琳山（ABARIM）
 keywords: 亚巴琳山, ABARIM
 comments: false
 ---

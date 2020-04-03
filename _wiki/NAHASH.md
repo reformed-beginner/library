@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿辖（NAHASH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿辖（NAHASH）（来：na{h]a{s%）
+description: 圣经新词典 - 拿辖（NAHASH）（来：na{h]a{s%）
 keywords: 拿辖, NAHASH
 comments: false
 ---

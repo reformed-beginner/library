@@ -2,7 +2,7 @@
 layout: wiki
 title: 西尼与播薛（SENEH 〔尖石〕 and BOZEZ 〔滑？〕）
 categories: NewBibleDictionary
-description: 圣经新词典: 西尼与播薛（SENEH 〔尖石〕 and BOZEZ 〔滑？〕）
+description: 圣经新词典 - 西尼与播薛（SENEH 〔尖石〕 and BOZEZ 〔滑？〕）
 keywords: 西尼与播薛, SENEH 〔尖石〕 and BOZEZ 〔滑？〕
 comments: false
 ---

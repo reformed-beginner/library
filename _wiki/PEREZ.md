@@ -2,7 +2,7 @@
 layout: wiki
 title: 法勒斯；法勒斯族（PEREZ, PEREZITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 法勒斯；法勒斯族（PEREZ, PEREZITES）
+description: 圣经新词典 - 法勒斯；法勒斯族（PEREZ, PEREZITES）
 keywords: 法勒斯；法勒斯族, PEREZ, PEREZITES
 comments: false
 ---

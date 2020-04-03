@@ -2,7 +2,7 @@
 layout: wiki
 title: 利斯巴（RIZPAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 利斯巴（RIZPAH）（来：ris]pa^，意即“一块热石”，“一块燃烧的煤炭”）
+description: 圣经新词典 - 利斯巴（RIZPAH）（来：ris]pa^，意即“一块热石”，“一块燃烧的煤炭”）
 keywords: 利斯巴, RIZPAH
 comments: false
 ---

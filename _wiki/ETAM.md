@@ -2,7 +2,7 @@
 layout: wiki
 title: 以坦（ETAM）
 categories: NewBibleDictionary
-description: 圣经新词典: 以坦（ETAM）
+description: 圣经新词典 - 以坦（ETAM）
 keywords: 以坦, ETAM
 comments: false
 ---

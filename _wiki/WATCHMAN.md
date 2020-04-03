@@ -2,7 +2,7 @@
 layout: wiki
 title: 守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
 categories: NewBibleDictionary
-description: 圣经新词典: 守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
+description: 圣经新词典 - 守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
 keywords: 守望者；守望台，守望楼, WATCHMAN, WATCH-TOWERS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 以斯德伦（ESDRAELON）
 categories: NewBibleDictionary
-description: 圣经新词典: 以斯德伦（ESDRAELON）
+description: 圣经新词典 - 以斯德伦（ESDRAELON）
 keywords: 以斯德伦, ESDRAELON
 comments: false
 ---

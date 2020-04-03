@@ -2,7 +2,7 @@
 layout: wiki
 title: 恩膏（UNCTION）
 categories: NewBibleDictionary
-description: 圣经新词典: 恩膏（UNCTION）
+description: 圣经新词典 - 恩膏（UNCTION）
 keywords: 恩膏, UNCTION
 comments: false
 ---

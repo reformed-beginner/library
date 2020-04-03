@@ -2,7 +2,7 @@
 layout: wiki
 title: 他施（TARSHISH）
 categories: NewBibleDictionary
-description: 圣经新词典: 他施（TARSHISH）
+description: 圣经新词典 - 他施（TARSHISH）
 keywords: 他施, TARSHISH
 comments: false
 ---

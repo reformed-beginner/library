@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴珊（BASHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴珊（BASHAN）
+description: 圣经新词典 - 巴珊（BASHAN）
 keywords: 巴珊, BASHAN
 comments: false
 ---

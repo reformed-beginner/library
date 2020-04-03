@@ -2,7 +2,7 @@
 layout: wiki
 title: 憎恨（HATRED, HATE）
 categories: NewBibleDictionary
-description: 圣经新词典: 憎恨（HATRED, HATE）
+description: 圣经新词典 - 憎恨（HATRED, HATE）
 keywords: 憎恨, HATRED, HATE
 comments: false
 ---

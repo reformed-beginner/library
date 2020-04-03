@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚大利（ATTALIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚大利（ATTALIA）
+description: 圣经新词典 - 亚大利（ATTALIA）
 keywords: 亚大利, ATTALIA
 comments: false
 ---

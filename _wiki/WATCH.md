@@ -2,7 +2,7 @@
 layout: wiki
 title: 把守，看守；更（WATCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 把守，看守；更（WATCH）
+description: 圣经新词典 - 把守，看守；更（WATCH）
 keywords: 把守，看守；更, WATCH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴力夏琐（BAAL-HAZOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴力夏琐（BAAL-HAZOR）
+description: 圣经新词典 - 巴力夏琐（BAAL-HAZOR）
 keywords: 巴力夏琐, BAAL-HAZOR
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 首领，军长（CAPTAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 首领，军长（CAPTAIN）
+description: 圣经新词典 - 首领，军长（CAPTAIN）
 keywords: 首领，军长, CAPTAIN
 comments: false
 ---

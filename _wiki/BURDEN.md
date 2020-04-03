@@ -2,7 +2,7 @@
 layout: wiki
 title: 重担（BURDEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 重担（BURDEN）
+description: 圣经新词典 - 重担（BURDEN）
 keywords: 重担, BURDEN
 comments: false
 ---

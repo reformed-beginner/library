@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚实基拿（ASHKENAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚实基拿（ASHKENAZ）
+description: 圣经新词典 - 亚实基拿（ASHKENAZ）
 keywords: 亚实基拿, ASHKENAZ
 comments: false
 ---

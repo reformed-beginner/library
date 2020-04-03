@@ -2,7 +2,7 @@
 layout: wiki
 title: 苦胆，苦胆水，苦菜，毒气（GALL）
 categories: NewBibleDictionary
-description: 圣经新词典: 苦胆，苦胆水，苦菜，毒气（GALL）
+description: 圣经新词典 - 苦胆，苦胆水，苦菜，毒气（GALL）
 keywords: 苦胆，苦胆水，苦菜，毒气, GALL
 comments: false
 ---

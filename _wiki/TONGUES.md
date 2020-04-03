@@ -2,7 +2,7 @@
 layout: wiki
 title: 方言的恩赐（TONGUES, GIFT OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 方言的恩赐（TONGUES, GIFT OF）
+description: 圣经新词典 - 方言的恩赐（TONGUES, GIFT OF）
 keywords: 方言的恩赐, TONGUES, GIFT OF
 comments: false
 ---

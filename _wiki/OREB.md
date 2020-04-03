@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄立（OREB）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄立（OREB）（来：`o{re{b[，“渡乌鸦”）
+description: 圣经新词典 - 俄立（OREB）（来：`o{re{b[，“渡乌鸦”）
 keywords: 俄立, OREB
 comments: false
 ---

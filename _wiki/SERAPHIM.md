@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒拉弗（SERAPHIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒拉弗（SERAPHIM）
+description: 圣经新词典 - 撒拉弗（SERAPHIM）
 keywords: 撒拉弗, SERAPHIM
 comments: false
 ---

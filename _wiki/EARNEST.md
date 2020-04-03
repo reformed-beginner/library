@@ -2,7 +2,7 @@
 layout: wiki
 title: 凭据（EARNEST）
 categories: NewBibleDictionary
-description: 圣经新词典: 凭据（EARNEST）（腊：arrabo{n，是从闪族语借用而来的字；来：`e{ra{b[o^n；拉丁文：arrha，arr(h)abo）
+description: 圣经新词典 - 凭据（EARNEST）（腊：arrabo{n，是从闪族语借用而来的字；来：`e{ra{b[o^n；拉丁文：arrha，arr(h)abo）
 keywords: 凭据, EARNEST
 comments: false
 ---

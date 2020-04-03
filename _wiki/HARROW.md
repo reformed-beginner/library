@@ -2,7 +2,7 @@
 layout: wiki
 title: 耙（HARROW）
 categories: NewBibleDictionary
-description: 圣经新词典: 耙（HARROW）
+description: 圣经新词典 - 耙（HARROW）
 keywords: 耙, HARROW
 comments: false
 ---

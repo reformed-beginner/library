@@ -2,7 +2,7 @@
 layout: wiki
 title: 艺术（ART）
 categories: NewBibleDictionary
-description: 圣经新词典: 艺术（ART）
+description: 圣经新词典 - 艺术（ART）
 keywords: 艺术, ART
 comments: false
 ---

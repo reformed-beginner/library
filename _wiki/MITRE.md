@@ -2,7 +2,7 @@
 layout: wiki
 title: 冕旒（MITRE）
 categories: NewBibleDictionary
-description: 圣经新词典: 冕旒（MITRE）（AV；来：mis]nep{et[）
+description: 圣经新词典 - 冕旒（MITRE）（AV；来：mis]nep{et[）
 keywords: 冕旒, MITRE
 comments: false
 ---

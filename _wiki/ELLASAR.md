@@ -2,7 +2,7 @@
 layout: wiki
 title: 以拉撒（ELLASAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 以拉撒（ELLASAR）
+description: 圣经新词典 - 以拉撒（ELLASAR）
 keywords: 以拉撒, ELLASAR
 comments: false
 ---

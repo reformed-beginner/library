@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼甲沙利薛（NERGAL-SHAREZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼甲沙利薛（NERGAL-SHAREZER）
+description: 圣经新词典 - 尼甲沙利薛（NERGAL-SHAREZER）
 keywords: 尼甲沙利薛, NERGAL-SHAREZER
 comments: false
 ---

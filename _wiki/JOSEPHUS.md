@@ -2,7 +2,7 @@
 layout: wiki
 title: 约瑟夫（夫拉维）
 categories: NewBibleDictionary
-description: 圣经新词典: 约瑟夫（夫拉维）（JOSEPHUS, FLAVIUS）
+description: 圣经新词典 - 约瑟夫（夫拉维）（JOSEPHUS, FLAVIUS）
 keywords: 约瑟夫, 夫拉维
 comments: false
 ---

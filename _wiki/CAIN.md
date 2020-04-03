@@ -2,7 +2,7 @@
 layout: wiki
 title: 该隐（CAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 该隐（CAIN）（来：qayin）
+description: 圣经新词典 - 该隐（CAIN）（来：qayin）
 keywords: 该隐, CAIN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 杖，圭（SCEPTRE）
 categories: NewBibleDictionary
-description: 圣经新词典: 杖，圭（SCEPTRE）（来：s%e{b[et], s%ar#b[i^t]；腊：rhabdos）
+description: 圣经新词典 - 杖，圭（SCEPTRE）（来：s%e{b[et], s%ar#b[i^t]；腊：rhabdos）
 keywords: 杖，圭, SCEPTRE
 comments: false
 ---

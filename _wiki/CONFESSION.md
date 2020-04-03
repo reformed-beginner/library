@@ -2,7 +2,7 @@
 layout: wiki
 title: 承认（认信，认罪）
 categories: NewBibleDictionary
-description: 圣经新词典: 承认（认信，认罪）（CONFESSION）
+description: 圣经新词典 - 承认（认信，认罪）（CONFESSION）
 keywords: 承认, 认信，认罪
 comments: false
 ---

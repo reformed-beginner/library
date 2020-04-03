@@ -2,7 +2,7 @@
 layout: wiki
 title: 歌革及玛各（GOG AND MAGOG）
 categories: NewBibleDictionary
-description: 圣经新词典: 歌革及玛各（GOG AND MAGOG）
+description: 圣经新词典 - 歌革及玛各（GOG AND MAGOG）
 keywords: 歌革及玛各, GOG AND MAGOG
 comments: false
 ---

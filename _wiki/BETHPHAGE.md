@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯法其（BETHPHAGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯法其（BETHPHAGE）（亚兰文：“幼嫩无花果之地”的意思）
+description: 圣经新词典 - 伯法其（BETHPHAGE）（亚兰文：“幼嫩无花果之地”的意思）
 keywords: 伯法其, BETHPHAGE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 押煞（ACHSHAPH）
 categories: NewBibleDictionary
-description: 圣经新词典: 押煞（ACHSHAPH）（来：~ak[s%a{p{）
+description: 圣经新词典 - 押煞（ACHSHAPH）（来：~ak[s%a{p{）
 keywords: 押煞, ACHSHAPH
 comments: false
 ---

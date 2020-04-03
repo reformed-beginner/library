@@ -2,7 +2,7 @@
 layout: wiki
 title: 摩利设迦特，摩利沙（MORESHETH-GATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 摩利设迦特，摩利沙（MORESHETH-GATH）
+description: 圣经新词典 - 摩利设迦特，摩利沙（MORESHETH-GATH）
 keywords: 摩利设迦特，摩利沙, MORESHETH-GATH
 comments: false
 ---

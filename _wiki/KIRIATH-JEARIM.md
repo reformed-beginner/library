@@ -2,7 +2,7 @@
 layout: wiki
 title: 基列耶琳（KIRIATH-JEARIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 基列耶琳（KIRIATH-JEARIM）（来：qiryat[-y#`a{ri^m，意思是“森林之城”）
+description: 圣经新词典 - 基列耶琳（KIRIATH-JEARIM）（来：qiryat[-y#`a{ri^m，意思是“森林之城”）
 keywords: 基列耶琳, KIRIATH-JEARIM
 comments: false
 ---

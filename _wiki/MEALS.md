@@ -2,7 +2,7 @@
 layout: wiki
 title: 膳食（MEALS）
 categories: NewBibleDictionary
-description: 圣经新词典: 膳食（MEALS）
+description: 圣经新词典 - 膳食（MEALS）
 keywords: 膳食, MEALS
 comments: false
 ---

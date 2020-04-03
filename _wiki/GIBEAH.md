@@ -2,7 +2,7 @@
 layout: wiki
 title: 基比亚（GIBEAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基比亚（GIBEAH）（来：gib[#`a^, gib[#at[）
+description: 圣经新词典 - 基比亚（GIBEAH）（来：gib[#`a^, gib[#at[）
 keywords: 基比亚, GIBEAH
 comments: false
 ---

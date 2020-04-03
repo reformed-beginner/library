@@ -2,7 +2,7 @@
 layout: wiki
 title: 拔示巴（BATHSHEBA）
 categories: NewBibleDictionary
-description: 圣经新词典: 拔示巴（BATHSHEBA）
+description: 圣经新词典 - 拔示巴（BATHSHEBA）
 keywords: 拔示巴, BATHSHEBA
 comments: false
 ---

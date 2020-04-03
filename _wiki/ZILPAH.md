@@ -2,7 +2,7 @@
 layout: wiki
 title: 悉帕（ZILPAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 悉帕（ZILPAH）
+description: 圣经新词典 - 悉帕（ZILPAH）
 keywords: 悉帕, ZILPAH
 comments: false
 ---

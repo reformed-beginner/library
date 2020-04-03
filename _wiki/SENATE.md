@@ -2,7 +2,7 @@
 layout: wiki
 title: 议院，元老院；议员（SENATE，SENATOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 议院，元老院；议员（SENATE，SENATOR）
+description: 圣经新词典 - 议院，元老院；议员（SENATE，SENATOR）
 keywords: 议院，元老院；议员, SENATE，SENATOR
 comments: false
 ---

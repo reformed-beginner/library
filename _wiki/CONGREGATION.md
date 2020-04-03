@@ -2,7 +2,7 @@
 layout: wiki
 title: 会众，严肃会（CONGREGATION, SOLEMN ASSEMBLY）
 categories: NewBibleDictionary
-description: 圣经新词典: 会众，严肃会（CONGREGATION, SOLEMN ASSEMBLY）
+description: 圣经新词典 - 会众，严肃会（CONGREGATION, SOLEMN ASSEMBLY）
 keywords: 会众，严肃会, CONGREGATION, SOLEMN ASSEMBLY
 comments: false
 ---

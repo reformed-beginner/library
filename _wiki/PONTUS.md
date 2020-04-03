@@ -2,7 +2,7 @@
 layout: wiki
 title: 本都（PONTUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 本都（PONTUS）
+description: 圣经新词典 - 本都（PONTUS）
 keywords: 本都, PONTUS
 comments: false
 ---

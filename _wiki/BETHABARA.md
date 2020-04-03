@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯大巴喇（BETHABARA）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯大巴喇（BETHABARA）（可能源于来： be^t[ `@b[a{ra^，“浅滩之居所”）
+description: 圣经新词典 - 伯大巴喇（BETHABARA）（可能源于来： be^t[ `@b[a{ra^，“浅滩之居所”）
 keywords: 伯大巴喇, BETHABARA
 comments: false
 ---

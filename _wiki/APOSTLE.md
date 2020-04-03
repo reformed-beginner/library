@@ -2,7 +2,7 @@
 layout: wiki
 title: 使徒（APOSTLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 使徒（APOSTLE）
+description: 圣经新词典 - 使徒（APOSTLE）
 keywords: 使徒, APOSTLE
 comments: false
 ---

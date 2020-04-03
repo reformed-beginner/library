@@ -2,7 +2,7 @@
 layout: wiki
 title: 何西阿，何细亚（HOSHEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 何西阿，何细亚（HOSHEA）（来：ho^s%e{a`）
+description: 圣经新词典 - 何西阿，何细亚（HOSHEA）（来：ho^s%e{a`）
 keywords: 何西阿，何细亚, HOSHEA
 comments: false
 ---

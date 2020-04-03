@@ -2,7 +2,7 @@
 layout: wiki
 title: 学校，学房（SCHOOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 学校，学房（SCHOOL）
+description: 圣经新词典 - 学校，学房（SCHOOL）
 keywords: 学校，学房, SCHOOL
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 摩押的吉珥，基珥，吉珥哈列设（KIR OF MOAB, KIR-HARESETH¡^
+description: 圣经新词典 - 摩押的吉珥，基珥，吉珥哈列设（KIR OF MOAB, KIR-HARESETH¡^
 keywords: , 
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 提斯比人（TISHBITE, THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 提斯比人（TISHBITE, THE）（来：hattis%bi^）
+description: 圣经新词典 - 提斯比人（TISHBITE, THE）（来：hattis%bi^）
 keywords: 提斯比人, TISHBITE, THE
 comments: false
 ---

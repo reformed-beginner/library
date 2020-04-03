@@ -2,7 +2,7 @@
 layout: wiki
 title: 良心（CONSCIENCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 良心（CONSCIENCE）
+description: 圣经新词典 - 良心（CONSCIENCE）
 keywords: 良心, CONSCIENCE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 教训，教义（DOCTRINE）
 categories: NewBibleDictionary
-description: 圣经新词典: 教训，教义（DOCTRINE）
+description: 圣经新词典 - 教训，教义（DOCTRINE）
 keywords: 教训，教义, DOCTRINE
 comments: false
 ---

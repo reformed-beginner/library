@@ -2,7 +2,7 @@
 layout: wiki
 title: 约珊（JOKSHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 约珊（JOKSHAN）
+description: 圣经新词典 - 约珊（JOKSHAN）
 keywords: 约珊, JOKSHAN
 comments: false
 ---

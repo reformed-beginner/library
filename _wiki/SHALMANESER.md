@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒缦以色（SHALMANESER）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu
+description: 圣经新词典 - 撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu
 “撒缦[〔S%ulman〕神是首领”）
 keywords: 撒缦以色, SHALMANESER
 comments: false

@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗革拉（ZIKLAG）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗革拉（ZIKLAG）
+description: 圣经新词典 - 洗革拉（ZIKLAG）
 keywords: 洗革拉, ZIKLAG
 comments: false
 ---

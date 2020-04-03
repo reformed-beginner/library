@@ -2,7 +2,7 @@
 layout: wiki
 title: 教父文学作品（PATRISTIC LITERATURE）
 categories: NewBibleDictionary
-description: 圣经新词典: 教父文学作品（PATRISTIC LITERATURE）
+description: 圣经新词典 - 教父文学作品（PATRISTIC LITERATURE）
 keywords: 教父文学作品, PATRISTIC LITERATURE
 comments: false
 ---

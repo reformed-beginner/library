@@ -2,7 +2,7 @@
 layout: wiki
 title: 基色（GEZER）
 categories: NewBibleDictionary
-description: 圣经新词典: 基色（GEZER）
+description: 圣经新词典 - 基色（GEZER）
 keywords: 基色, GEZER
 comments: false
 ---

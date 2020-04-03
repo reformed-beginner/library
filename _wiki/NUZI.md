@@ -2,7 +2,7 @@
 layout: wiki
 title: 努斯（NUZI）
 categories: NewBibleDictionary
-description: 圣经新词典: 努斯（NUZI）
+description: 圣经新词典 - 努斯（NUZI）
 keywords: 努斯, NUZI
 comments: false
 ---

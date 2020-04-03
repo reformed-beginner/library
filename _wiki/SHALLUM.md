@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙龙（SHALLUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙龙（SHALLUM）（来：s%allu^m, s%allum）
+description: 圣经新词典 - 沙龙（SHALLUM）（来：s%allu^m, s%allum）
 keywords: 沙龙, SHALLUM
 comments: false
 ---

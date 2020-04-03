@@ -2,7 +2,7 @@
 layout: wiki
 title: 埃及人（EGYPTIAN, THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 埃及人（EGYPTIAN, THE）
+description: 圣经新词典 - 埃及人（EGYPTIAN, THE）
 keywords: 埃及人, EGYPTIAN, THE
 comments: false
 ---

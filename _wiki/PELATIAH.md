@@ -2,7 +2,7 @@
 layout: wiki
 title: 毗拉提（PELATIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 毗拉提（PELATIAH）（来：p#lat]ya{h (u{)，意即“耶和华拯救”；腊：Phaltias, Phalettia）
+description: 圣经新词典 - 毗拉提（PELATIAH）（来：p#lat]ya{h (u{)，意即“耶和华拯救”；腊：Phaltias, Phalettia）
 keywords: 毗拉提, PELATIAH
 comments: false
 ---

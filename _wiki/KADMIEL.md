@@ -2,7 +2,7 @@
 layout: wiki
 title: 甲篾（KADMIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 甲篾（KADMIEL）（来：qad[mi^~e{l,“神/伊勒是首/远古者”）
+description: 圣经新词典 - 甲篾（KADMIEL）（来：qad[mi^~e{l,“神/伊勒是首/远古者”）
 keywords: 甲篾, KADMIEL
 comments: false
 ---

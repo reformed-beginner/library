@@ -2,7 +2,7 @@
 layout: wiki
 title: 搭模斯（TAMMUZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 搭模斯（TAMMUZ）
+description: 圣经新词典 - 搭模斯（TAMMUZ）
 keywords: 搭模斯, TAMMUZ
 comments: false
 ---

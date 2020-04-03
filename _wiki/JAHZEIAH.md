@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅哈谢（JAHZEIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅哈谢（JAHZEIAH）（来：ya h]z#ya^，“耶和华看见、显露”；AV 译作“Jahaziah”，拉十15）
+description: 圣经新词典 - 雅哈谢（JAHZEIAH）（来：ya h]z#ya^，“耶和华看见、显露”；AV 译作“Jahaziah”，拉十15）
 keywords: 雅哈谢, JAHZEIAH
 comments: false
 ---

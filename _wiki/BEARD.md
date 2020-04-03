@@ -2,7 +2,7 @@
 layout: wiki
 title: 胡须（BEARD）
 categories: NewBibleDictionary
-description: 圣经新词典: 胡须（BEARD）
+description: 圣经新词典 - 胡须（BEARD）
 keywords: 胡须, BEARD
 comments: false
 ---

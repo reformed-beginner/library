@@ -2,7 +2,7 @@
 layout: wiki
 title: 荣归主颂（GLORIA IN EXCELSIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 荣归主颂（GLORIA IN EXCELSIS）
+description: 圣经新词典 - 荣归主颂（GLORIA IN EXCELSIS）
 keywords: 荣归主颂, GLORIA IN EXCELSIS
 comments: false
 ---

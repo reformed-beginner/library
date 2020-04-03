@@ -2,7 +2,7 @@
 layout: wiki
 title: 图　刻有亚兰字母哈马（Hamath）
 categories: NewBibleDictionary
-description: 圣经新词典: 图　刻有亚兰字母哈马（Hamath）的一个象牙标签
+description: 圣经新词典 - 图　刻有亚兰字母哈马（Hamath）的一个象牙标签
 keywords: 图　刻有亚兰字母哈马, Hamath
 comments: false
 ---

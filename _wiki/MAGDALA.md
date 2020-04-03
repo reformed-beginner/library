@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 抹大拉；抹大拉的（MAGDALA, MAGDALENE¡^
+description: 圣经新词典 - 抹大拉；抹大拉的（MAGDALA, MAGDALENE¡^
 keywords: , 
 comments: false
 ---

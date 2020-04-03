@@ -2,7 +2,7 @@
 layout: wiki
 title: 真理（TRUTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 真理（TRUTH）
+description: 圣经新词典 - 真理（TRUTH）
 keywords: 真理, TRUTH
 comments: false
 ---

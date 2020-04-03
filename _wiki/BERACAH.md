@@ -2,7 +2,7 @@
 layout: wiki
 title: 比拉迦（BERACAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 比拉迦（BERACAH）（字面上是“祝福”的意思）
+description: 圣经新词典 - 比拉迦（BERACAH）（字面上是“祝福”的意思）
 keywords: 比拉迦, BERACAH
 comments: false
 ---

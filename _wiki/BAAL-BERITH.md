@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴力比利土（BAAL-BERITH）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴力比利土（BAAL-BERITH）（来：ba`al b#ri^t[，“约之神”）
+description: 圣经新词典 - 巴力比利土（BAAL-BERITH）（来：ba`al b#ri^t[，“约之神”）
 keywords: 巴力比利土, BAAL-BERITH
 comments: false
 ---

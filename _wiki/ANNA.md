@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚拿（ANNA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚拿（ANNA）（来：h]anna^ 一字的希腊文译法，意即“恩典”）
+description: 圣经新词典 - 亚拿（ANNA）（来：h]anna^ 一字的希腊文译法，意即“恩典”）
 keywords: 亚拿, ANNA
 comments: false
 ---

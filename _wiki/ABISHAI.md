@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比筛（ABISHAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比筛（ABISHAI）（来：~@b[I^s%ay，“恩赐之父”或“我父是耶西”）
+description: 圣经新词典 - 亚比筛（ABISHAI）（来：~@b[I^s%ay，“恩赐之父”或“我父是耶西”）
 keywords: 亚比筛, ABISHAI
 comments: false
 ---

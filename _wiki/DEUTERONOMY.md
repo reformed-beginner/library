@@ -2,7 +2,7 @@
 layout: wiki
 title: 申命记（DEUTERONOMY, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 申命记（DEUTERONOMY, BOOK OF）
+description: 圣经新词典 - 申命记（DEUTERONOMY, BOOK OF）
 keywords: 申命记, DEUTERONOMY, BOOK OF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 阿尼色弗（ONESIPHORUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 阿尼色弗（ONESIPHORUS）
+description: 圣经新词典 - 阿尼色弗（ONESIPHORUS）
 keywords: 阿尼色弗, ONESIPHORUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西订谷（SIDDIM, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 西订谷（SIDDIM, VALLEY OF）（来：siddi^m，可能衍生自赫人的用语 siyantas 〔盐〕）
+description: 圣经新词典 - 西订谷（SIDDIM, VALLEY OF）（来：siddi^m，可能衍生自赫人的用语 siyantas 〔盐〕）
 keywords: 西订谷, SIDDIM, VALLEY OF
 comments: false
 ---

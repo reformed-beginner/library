@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈米亚楼（HUNDRED, TOWER OF THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈米亚楼（HUNDRED, TOWER OF THE）
+description: 圣经新词典 - 哈米亚楼（HUNDRED, TOWER OF THE）
 keywords: 哈米亚楼, HUNDRED, TOWER OF THE
 comments: false
 ---

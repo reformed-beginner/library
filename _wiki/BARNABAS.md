@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴拿巴（BARNABAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴拿巴（BARNABAS）
+description: 圣经新词典 - 巴拿巴（BARNABAS）
 keywords: 巴拿巴, BARNABAS
 comments: false
 ---

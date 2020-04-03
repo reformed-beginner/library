@@ -2,7 +2,7 @@
 layout: wiki
 title: 蜡花盘（TRAYS）
 categories: NewBibleDictionary
-description: 圣经新词典: 蜡花盘（TRAYS）
+description: 圣经新词典 - 蜡花盘（TRAYS）
 keywords: 蜡花盘, TRAYS
 comments: false
 ---

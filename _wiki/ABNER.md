@@ -2,7 +2,7 @@
 layout: wiki
 title: 押尼珥（ABNER）
 categories: NewBibleDictionary
-description: 圣经新词典: 押尼珥（ABNER）（来：~ab[ne{r，撒上十四50作 ~@b[I^ne{r）
+description: 圣经新词典 - 押尼珥（ABNER）（来：~ab[ne{r，撒上十四50作 ~@b[I^ne{r）
 keywords: 押尼珥, ABNER
 comments: false
 ---

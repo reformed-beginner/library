@@ -2,7 +2,7 @@
 layout: wiki
 title: 末世论（ESCHATOLOGY）
 categories: NewBibleDictionary
-description: 圣经新词典: 末世论（ESCHATOLOGY）
+description: 圣经新词典 - 末世论（ESCHATOLOGY）
 keywords: 末世论, ESCHATOLOGY
 comments: false
 ---

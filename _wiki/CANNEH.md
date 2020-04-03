@@ -2,7 +2,7 @@
 layout: wiki
 title: 干尼（CANNEH）
 categories: NewBibleDictionary
-description: 圣经新词典: 干尼（CANNEH）
+description: 圣经新词典 - 干尼（CANNEH）
 keywords: 干尼, CANNEH
 comments: false
 ---

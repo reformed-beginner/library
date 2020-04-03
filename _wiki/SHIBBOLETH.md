@@ -2,7 +2,7 @@
 layout: wiki
 title: 示播列（SHIBBOLETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 示播列（SHIBBOLETH）
+description: 圣经新词典 - 示播列（SHIBBOLETH）
 keywords: 示播列, SHIBBOLETH
 comments: false
 ---

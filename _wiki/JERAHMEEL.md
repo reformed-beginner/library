@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶拉篾（JERAHMEEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶拉篾（JERAHMEEL）（来：y#rah]m#~e{l，“愿神有怜悯”）
+description: 圣经新词典 - 耶拉篾（JERAHMEEL）（来：y#rah]m#~e{l，“愿神有怜悯”）
 keywords: 耶拉篾, JERAHMEEL
 comments: false
 ---

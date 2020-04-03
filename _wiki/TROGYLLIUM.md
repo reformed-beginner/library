@@ -2,7 +2,7 @@
 layout: wiki
 title: 多基利乌（TROGYLLIUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 多基利乌（TROGYLLIUM）（多基利亚 [Trogyllia]）
+description: 圣经新词典 - 多基利乌（TROGYLLIUM）（多基利亚 [Trogyllia]）
 keywords: 多基利乌, TROGYLLIUM
 comments: false
 ---

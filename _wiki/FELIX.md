@@ -2,7 +2,7 @@
 layout: wiki
 title: 腓力斯（FELIX）
 categories: NewBibleDictionary
-description: 圣经新词典: 腓力斯（FELIX）
+description: 圣经新词典 - 腓力斯（FELIX）
 keywords: 腓力斯, FELIX
 comments: false
 ---

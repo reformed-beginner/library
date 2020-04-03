@@ -2,7 +2,7 @@
 layout: wiki
 title: 爱色尼派（ESSENES）
 categories: NewBibleDictionary
-description: 圣经新词典: 爱色尼派（ESSENES）
+description: 圣经新词典 - 爱色尼派（ESSENES）
 keywords: 爱色尼派, ESSENES
 comments: false
 ---

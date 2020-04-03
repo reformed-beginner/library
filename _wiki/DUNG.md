@@ -2,7 +2,7 @@
 layout: wiki
 title: 粪堆（DUNG）
 categories: NewBibleDictionary
-description: 圣经新词典: 粪堆（DUNG）
+description: 圣经新词典 - 粪堆（DUNG）
 keywords: 粪堆, DUNG
 comments: false
 ---

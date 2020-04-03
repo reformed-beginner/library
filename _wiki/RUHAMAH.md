@@ -2,7 +2,7 @@
 layout: wiki
 title: 路哈玛（RUHAMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 路哈玛（RUHAMAH）（来：ruh]a{ma^，“蒙怜悯的”）
+description: 圣经新词典 - 路哈玛（RUHAMAH）（来：ruh]a{ma^，“蒙怜悯的”）
 keywords: 路哈玛, RUHAMAH
 comments: false
 ---

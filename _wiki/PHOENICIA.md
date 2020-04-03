@@ -2,7 +2,7 @@
 layout: wiki
 title: 腓尼基；腓尼基人（PHOENICIA, PHOENICIANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 腓尼基；腓尼基人（PHOENICIA, PHOENICIANS）
+description: 圣经新词典 - 腓尼基；腓尼基人（PHOENICIA, PHOENICIANS）
 keywords: 腓尼基；腓尼基人, PHOENICIA, PHOENICIANS
 comments: false
 ---

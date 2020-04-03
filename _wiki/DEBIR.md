@@ -2,7 +2,7 @@
 layout: wiki
 title: 底璧（DEBIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 底璧（DEBIR）（来：d#b[i^r）
+description: 圣经新词典 - 底璧（DEBIR）（来：d#b[i^r）
 keywords: 底璧, DEBIR
 comments: false
 ---

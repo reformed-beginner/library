@@ -2,7 +2,7 @@
 layout: wiki
 title: 尼希米（NEHEMIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 尼希米（NEHEMIAH）
+description: 圣经新词典 - 尼希米（NEHEMIAH）
 keywords: 尼希米, NEHEMIAH
 comments: false
 ---

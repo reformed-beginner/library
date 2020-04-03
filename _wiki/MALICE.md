@@ -2,7 +2,7 @@
 layout: wiki
 title: 恶毒（MALICE）
 categories: NewBibleDictionary
-description: 圣经新词典: 恶毒（MALICE）
+description: 圣经新词典 - 恶毒（MALICE）
 keywords: 恶毒, MALICE
 comments: false
 ---

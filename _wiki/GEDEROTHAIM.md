@@ -2,7 +2,7 @@
 layout: wiki
 title: 基底罗他（GEDEROTHAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 基底罗他（GEDEROTHAIM）（来：g#d[e{ro{t[aim）
+description: 圣经新词典 - 基底罗他（GEDEROTHAIM）（来：g#d[e{ro{t[aim）
 keywords: 基底罗他, GEDEROTHAIM
 comments: false
 ---

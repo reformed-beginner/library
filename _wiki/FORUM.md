@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比乌市/广场（FORUM OF APPIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比乌市/广场（FORUM OF APPIUS）
+description: 圣经新词典 - 亚比乌市/广场（FORUM OF APPIUS）
 keywords: 亚比乌市/广场, FORUM OF APPIUS
 comments: false
 ---

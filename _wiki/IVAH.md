@@ -2,7 +2,7 @@
 layout: wiki
 title: 以瓦（IVAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以瓦（IVAH）
+description: 圣经新词典 - 以瓦（IVAH）
 keywords: 以瓦, IVAH
 comments: false
 ---

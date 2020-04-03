@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶书仑（JESHURUN）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶书仑（JESHURUN）（来：y#s%uru^n，“正直者”；七十士译本作“蒙爱者”）
+description: 圣经新词典 - 耶书仑（JESHURUN）（来：y#s%uru^n，“正直者”；七十士译本作“蒙爱者”）
 keywords: 耶书仑, JESHURUN
 comments: false
 ---

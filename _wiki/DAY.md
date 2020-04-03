@@ -2,7 +2,7 @@
 layout: wiki
 title: 主的日子（耶和华的日子）
 categories: NewBibleDictionary
-description: 圣经新词典: 主的日子（耶和华的日子）（DAY OF THE LORD）
+description: 圣经新词典 - 主的日子（耶和华的日子）（DAY OF THE LORD）
 keywords: 主的日子, 耶和华的日子
 comments: false
 ---

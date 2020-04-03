@@ -2,7 +2,7 @@
 layout: wiki
 title: 同负一轭的（SYNZYGUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 同负一轭的（SYNZYGUS）
+description: 圣经新词典 - 同负一轭的（SYNZYGUS）
 keywords: 同负一轭的, SYNZYGUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 捐项（筹募自保罗建立的教会）
 categories: NewBibleDictionary
-description: 圣经新词典: 捐项（筹募自保罗建立的教会）（COLLECTION [PAULINE CHURCHES]）
+description: 圣经新词典 - 捐项（筹募自保罗建立的教会）（COLLECTION [PAULINE CHURCHES]）
 keywords: 捐项, 筹募自保罗建立的教会
 comments: false
 ---

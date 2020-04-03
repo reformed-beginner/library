@@ -2,7 +2,7 @@
 layout: wiki
 title: 西迦迦（SECACAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西迦迦（SECACAH）（来：s#k[a{k[a^h）
+description: 圣经新词典 - 西迦迦（SECACAH）（来：s#k[a{k[a^h）
 keywords: 西迦迦, SECACAH
 comments: false
 ---

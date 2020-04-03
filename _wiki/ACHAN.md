@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚干（ACHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚干（ACHAN）（来：`a{k[a{n）
+description: 圣经新词典 - 亚干（ACHAN）（来：`a{k[a{n）
 keywords: 亚干, ACHAN
 comments: false
 ---

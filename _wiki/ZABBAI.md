@@ -2,7 +2,7 @@
 layout: wiki
 title: 萨拜（ZABBAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 萨拜（ZABBAI）
+description: 圣经新词典 - 萨拜（ZABBAI）
 keywords: 萨拜, ZABBAI
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌萨（UZAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌萨（UZAL）
+description: 圣经新词典 - 乌萨（UZAL）
 keywords: 乌萨, UZAL
 comments: false
 ---

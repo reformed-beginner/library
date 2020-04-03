@@ -2,7 +2,7 @@
 layout: wiki
 title: 埋葬与哀悼（BURIAL AND MOURNING）
 categories: NewBibleDictionary
-description: 圣经新词典: 埋葬与哀悼（BURIAL AND MOURNING）
+description: 圣经新词典 - 埋葬与哀悼（BURIAL AND MOURNING）
 keywords: 埋葬与哀悼, BURIAL AND MOURNING
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 米罗达（MERODACH）
 categories: NewBibleDictionary
-description: 圣经新词典: 米罗达（MERODACH）
+description: 圣经新词典 - 米罗达（MERODACH）
 keywords: 米罗达, MERODACH
 comments: false
 ---

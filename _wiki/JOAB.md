@@ -2,7 +2,7 @@
 layout: wiki
 title: 约押（JOAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 约押（JOAB）（来：yo^a{b[，“耶和华是父亲”）
+description: 圣经新词典 - 约押（JOAB）（来：yo^a{b[，“耶和华是父亲”）
 keywords: 约押, JOAB
 comments: false
 ---

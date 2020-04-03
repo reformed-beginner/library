@@ -2,7 +2,7 @@
 layout: wiki
 title: 书雅，书亚，书哈（SHUA）
 categories: NewBibleDictionary
-description: 圣经新词典: 书雅，书亚，书哈（SHUA）
+description: 圣经新词典 - 书雅，书亚，书哈（SHUA）
 keywords: 书雅，书亚，书哈, SHUA
 comments: false
 ---

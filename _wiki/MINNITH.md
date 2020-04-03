@@ -2,7 +2,7 @@
 layout: wiki
 title: 米匿（MINNITH）
 categories: NewBibleDictionary
-description: 圣经新词典: 米匿（MINNITH）（来：minni^t[）
+description: 圣经新词典 - 米匿（MINNITH）（来：minni^t[）
 keywords: 米匿, MINNITH
 comments: false
 ---

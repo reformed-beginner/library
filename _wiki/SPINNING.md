@@ -2,7 +2,7 @@
 layout: wiki
 title: 纺线与编织（SPINNING AND WEAVING）
 categories: NewBibleDictionary
-description: 圣经新词典: 纺线与编织（SPINNING AND WEAVING）
+description: 圣经新词典 - 纺线与编织（SPINNING AND WEAVING）
 keywords: 纺线与编织, SPINNING AND WEAVING
 comments: false
 ---

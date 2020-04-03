@@ -2,7 +2,7 @@
 layout: wiki
 title: 自制，节制（SELF-CONTROL）
 categories: NewBibleDictionary
-description: 圣经新词典: 自制，节制（SELF-CONTROL）
+description: 圣经新词典 - 自制，节制（SELF-CONTROL）
 keywords: 自制，节制, SELF-CONTROL
 comments: false
 ---

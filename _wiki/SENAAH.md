@@ -2,7 +2,7 @@
 layout: wiki
 title: 西拿（SENAAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西拿（SENAAH）
+description: 圣经新词典 - 西拿（SENAAH）
 keywords: 西拿, SENAAH
 comments: false
 ---

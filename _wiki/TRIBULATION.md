@@ -2,7 +2,7 @@
 layout: wiki
 title: 患难，苦难，灾难（TRIBULATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 患难，苦难，灾难（TRIBULATION）
+description: 圣经新词典 - 患难，苦难，灾难（TRIBULATION）
 keywords: 患难，苦难，灾难, TRIBULATION
 comments: false
 ---

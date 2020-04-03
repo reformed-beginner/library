@@ -2,7 +2,7 @@
 layout: wiki
 title: 路司得（LYSTRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 路司得（LYSTRA）
+description: 圣经新词典 - 路司得（LYSTRA）
 keywords: 路司得, LYSTRA
 comments: false
 ---

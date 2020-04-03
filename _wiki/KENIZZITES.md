@@ -2,7 +2,7 @@
 layout: wiki
 title: 基尼洗人（KENIZZITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 基尼洗人（KENIZZITES）（来：q#nizzi^）
+description: 圣经新词典 - 基尼洗人（KENIZZITES）（来：q#nizzi^）
 keywords: 基尼洗人, KENIZZITES
 comments: false
 ---

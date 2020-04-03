@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚孟（AMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚孟（AMON）（埃及文：Amu{n，“隐藏者”）
+description: 圣经新词典 - 亚孟（AMON）（埃及文：Amu{n，“隐藏者”）
 keywords: 亚孟, AMON
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 地方官（AUTHORITIES, CITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 地方官（AUTHORITIES, CITY）
+description: 圣经新词典 - 地方官（AUTHORITIES, CITY）
 keywords: 地方官, AUTHORITIES, CITY
 comments: false
 ---

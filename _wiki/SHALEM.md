@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒冷（SHALEM）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒冷（SHALEM）
+description: 圣经新词典 - 撒冷（SHALEM）
 keywords: 撒冷, SHALEM
 comments: false
 ---

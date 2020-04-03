@@ -2,7 +2,7 @@
 layout: wiki
 title: 低加波利（十邑）
 categories: NewBibleDictionary
-description: 圣经新词典: 低加波利（十邑）（DECAPOLIS）
+description: 圣经新词典 - 低加波利（十邑）（DECAPOLIS）
 keywords: 低加波利, 十邑
 comments: false
 ---

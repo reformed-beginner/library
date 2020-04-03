@@ -2,7 +2,7 @@
 layout: wiki
 title: 鼻；鼻孔（NOSE, NOSTRILS）
 categories: NewBibleDictionary
-description: 圣经新词典: 鼻；鼻孔（NOSE, NOSTRILS）（来：~ap{，“鼻子”或“鼻孔”）
+description: 圣经新词典 - 鼻；鼻孔（NOSE, NOSTRILS）（来：~ap{，“鼻子”或“鼻孔”）
 keywords: 鼻；鼻孔, NOSE, NOSTRILS
 comments: false
 ---

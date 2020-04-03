@@ -2,7 +2,7 @@
 layout: wiki
 title: 士大古（STACHYS）
 categories: NewBibleDictionary
-description: 圣经新词典: 士大古（STACHYS）
+description: 圣经新词典 - 士大古（STACHYS）
 keywords: 士大古, STACHYS
 comments: false
 ---

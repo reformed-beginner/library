@@ -2,7 +2,7 @@
 layout: wiki
 title: 珠宝与宝石（JEWELS AND PRECIOUS STONES）
 categories: NewBibleDictionary
-description: 圣经新词典: 珠宝与宝石（JEWELS AND PRECIOUS STONES）
+description: 圣经新词典 - 珠宝与宝石（JEWELS AND PRECIOUS STONES）
 keywords: 珠宝与宝石, JEWELS AND PRECIOUS STONES
 comments: false
 ---

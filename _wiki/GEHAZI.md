@@ -2,7 +2,7 @@
 layout: wiki
 title: 基哈西（GEHAZI）
 categories: NewBibleDictionary
-description: 圣经新词典: 基哈西（GEHAZI）
+description: 圣经新词典 - 基哈西（GEHAZI）
 keywords: 基哈西, GEHAZI
 comments: false
 ---

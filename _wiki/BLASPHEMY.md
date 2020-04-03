@@ -2,7 +2,7 @@
 layout: wiki
 title: 亵渎，谤渎神（BLASPHEMY）
 categories: NewBibleDictionary
-description: 圣经新词典: 亵渎，谤渎神（BLASPHEMY）
+description: 圣经新词典 - 亵渎，谤渎神（BLASPHEMY）
 keywords: 亵渎，谤渎神, BLASPHEMY
 comments: false
 ---

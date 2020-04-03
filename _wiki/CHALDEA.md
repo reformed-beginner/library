@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦勒底；迦勒底人（CHALDEA, CHALDEANS）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦勒底；迦勒底人（CHALDEA, CHALDEANS）
+description: 圣经新词典 - 迦勒底；迦勒底人（CHALDEA, CHALDEANS）
 keywords: 迦勒底；迦勒底人, CHALDEA, CHALDEANS
 comments: false
 ---

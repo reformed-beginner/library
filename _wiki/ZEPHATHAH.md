@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗法谷（ZEPHATHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗法谷（ZEPHATHAH）（来：s]#p{at[a^h）
+description: 圣经新词典 - 洗法谷（ZEPHATHAH）（来：s]#p{at[a^h）
 keywords: 洗法谷, ZEPHATHAH
 comments: false
 ---

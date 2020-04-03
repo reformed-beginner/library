@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚多尼雅（ADONIJAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚多尼雅（ADONIJAH）（来：~@d[o{niyya^，“我的主为耶和华”）
+description: 圣经新词典 - 亚多尼雅（ADONIJAH）（来：~@d[o{niyya^，“我的主为耶和华”）
 keywords: 亚多尼雅, ADONIJAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 贪欲，情欲，私欲，欲望（LUST）
 categories: NewBibleDictionary
-description: 圣经新词典: 贪欲，情欲，私欲，欲望（LUST）
+description: 圣经新词典 - 贪欲，情欲，私欲，欲望（LUST）
 keywords: 贪欲，情欲，私欲，欲望, LUST
 comments: false
 ---

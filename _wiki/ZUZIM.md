@@ -2,7 +2,7 @@
 layout: wiki
 title: 苏西人（ZUZIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 苏西人（ZUZIM）（来：zu^zi^m；腊：ethne{ ischyra，“强壮之民”）
+description: 圣经新词典 - 苏西人（ZUZIM）（来：zu^zi^m；腊：ethne{ ischyra，“强壮之民”）
 keywords: 苏西人, ZUZIM
 comments: false
 ---

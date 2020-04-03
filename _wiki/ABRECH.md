@@ -2,7 +2,7 @@
 layout: wiki
 title: 跪下，注意（ABRECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 跪下，注意（ABRECH）
+description: 圣经新词典 - 跪下，注意（ABRECH）
 keywords: 跪下，注意, ABRECH
 comments: false
 ---

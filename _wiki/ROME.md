@@ -2,7 +2,7 @@
 layout: wiki
 title: 罗马（ROME）
 categories: NewBibleDictionary
-description: 圣经新词典: 罗马（ROME）
+description: 圣经新词典 - 罗马（ROME）
 keywords: 罗马, ROME
 comments: false
 ---

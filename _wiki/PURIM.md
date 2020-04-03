@@ -2,7 +2,7 @@
 layout: wiki
 title: 普珥日（PURIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 普珥日（PURIM）
+description: 圣经新词典 - 普珥日（PURIM）
 keywords: 普珥日, PURIM
 comments: false
 ---

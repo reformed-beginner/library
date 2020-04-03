@@ -2,7 +2,7 @@
 layout: wiki
 title: 谦和，谦卑，温柔（MEEKNESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 谦和，谦卑，温柔（MEEKNESS）
+description: 圣经新词典 - 谦和，谦卑，温柔（MEEKNESS）
 keywords: 谦和，谦卑，温柔, MEEKNESS
 comments: false
 ---

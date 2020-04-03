@@ -2,7 +2,7 @@
 layout: wiki
 title: 复兴（RESTORATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 复兴（RESTORATION）
+description: 圣经新词典 - 复兴（RESTORATION）
 keywords: 复兴, RESTORATION
 comments: false
 ---

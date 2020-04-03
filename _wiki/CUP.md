@@ -2,7 +2,7 @@
 layout: wiki
 title: 杯，卜杯（CUP）
 categories: NewBibleDictionary
-description: 圣经新词典: 杯，卜杯（CUP）
+description: 圣经新词典 - 杯，卜杯（CUP）
 keywords: 杯，卜杯, CUP
 comments: false
 ---

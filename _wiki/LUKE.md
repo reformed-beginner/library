@@ -2,7 +2,7 @@
 layout: wiki
 title: 路加（LUKE）
 categories: NewBibleDictionary
-description: 圣经新词典: 路加（LUKE）
+description: 圣经新词典 - 路加（LUKE）
 keywords: 路加, LUKE
 comments: false
 ---

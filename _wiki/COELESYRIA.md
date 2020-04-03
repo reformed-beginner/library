@@ -2,7 +2,7 @@
 layout: wiki
 title: 基利叙利亚（COELESYRIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 基利叙利亚（COELESYRIA）（腊：koile{ syria，“凹陷的叙利亚”，[hollow Syria]）
+description: 圣经新词典 - 基利叙利亚（COELESYRIA）（腊：koile{ syria，“凹陷的叙利亚”，[hollow Syria]）
 keywords: 基利叙利亚, COELESYRIA
 comments: false
 ---

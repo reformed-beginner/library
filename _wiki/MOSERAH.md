@@ -2,7 +2,7 @@
 layout: wiki
 title: 摩西拉，摩西录（MOSERAH, MOSEROTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 摩西拉，摩西录（MOSERAH, MOSEROTH）
+description: 圣经新词典 - 摩西拉，摩西录（MOSERAH, MOSEROTH）
 keywords: 摩西拉，摩西录, MOSERAH, MOSEROTH
 comments: false
 ---

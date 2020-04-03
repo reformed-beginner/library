@@ -2,7 +2,7 @@
 layout: wiki
 title: 推基古（TYCHICUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 推基古（TYCHICUS）
+description: 圣经新词典 - 推基古（TYCHICUS）
 keywords: 推基古, TYCHICUS
 comments: false
 ---

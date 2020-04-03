@@ -2,7 +2,7 @@
 layout: wiki
 title: 西珥山（SEIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 西珥山（SEIR）
+description: 圣经新词典 - 西珥山（SEIR）
 keywords: 西珥山, SEIR
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚甲（AGAG）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚甲（AGAG）
+description: 圣经新词典 - 亚甲（AGAG）
 keywords: 亚甲, AGAG
 comments: false
 ---

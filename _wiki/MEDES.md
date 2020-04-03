@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛代人；玛代（MEDES, MEDIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛代人；玛代（MEDES, MEDIA）（来：madai；亚述文：(A)mada；古波斯文：Mada；腊：Medai）
+description: 圣经新词典 - 玛代人；玛代（MEDES, MEDIA）（来：madai；亚述文：(A)mada；古波斯文：Mada；腊：Medai）
 keywords: 玛代人；玛代, MEDES, MEDIA
 comments: false
 ---

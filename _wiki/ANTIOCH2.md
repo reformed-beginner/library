@@ -2,7 +2,7 @@
 layout: wiki
 title: 安提阿（叙利亚的）
 categories: NewBibleDictionary
-description: 圣经新词典: 安提阿（叙利亚的）（ANTIOCH [SYRIAN]）
+description: 圣经新词典 - 安提阿（叙利亚的）（ANTIOCH [SYRIAN]）
 keywords: 安提阿, 叙利亚的
 comments: false
 ---

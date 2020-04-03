@@ -2,7 +2,7 @@
 layout: wiki
 title: 监狱里的灵（SPIRITS IN PRISON）
 categories: NewBibleDictionary
-description: 圣经新词典: 监狱里的灵（SPIRITS IN PRISON）
+description: 圣经新词典 - 监狱里的灵（SPIRITS IN PRISON）
 keywords: 监狱里的灵, SPIRITS IN PRISON
 comments: false
 ---

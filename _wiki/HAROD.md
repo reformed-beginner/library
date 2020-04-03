@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈律（HAROD）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈律（HAROD）（来：h]@ro{d[，意即“颤抖”）
+description: 圣经新词典 - 哈律（HAROD）（来：h]@ro{d[，意即“颤抖”）
 keywords: 哈律, HAROD
 comments: false
 ---

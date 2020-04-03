@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚麻（FLAX）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚麻（FLAX）（来：pis%ta^，见于出九31；赛四十二3；旧约其他地方用 pis%teh；太十二20的希腊文是 linon）
+description: 圣经新词典 - 亚麻（FLAX）（来：pis%ta^，见于出九31；赛四十二3；旧约其他地方用 pis%teh；太十二20的希腊文是 linon）
 keywords: 亚麻, FLAX
 comments: false
 ---

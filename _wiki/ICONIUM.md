@@ -2,7 +2,7 @@
 layout: wiki
 title: 以哥念（ICONIUM）
 categories: NewBibleDictionary
-description: 圣经新词典: 以哥念（ICONIUM）
+description: 圣经新词典 - 以哥念（ICONIUM）
 keywords: 以哥念, ICONIUM
 comments: false
 ---

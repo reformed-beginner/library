@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利撒反（ELZAPHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利撒反（ELZAPHAN）（来：`els]a{pha{n，“神隐藏起来了”）
+description: 圣经新词典 - 以利撒反（ELZAPHAN）（来：`els]a{pha{n，“神隐藏起来了”）
 keywords: 以利撒反, ELZAPHAN
 comments: false
 ---

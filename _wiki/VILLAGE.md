@@ -2,7 +2,7 @@
 layout: wiki
 title: 村庄，乡村（VILLAGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 村庄，乡村（VILLAGE）
+description: 圣经新词典 - 村庄，乡村（VILLAGE）
 keywords: 村庄，乡村, VILLAGE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 米罗（MILLO）
 categories: NewBibleDictionary
-description: 圣经新词典: 米罗（MILLO）
+description: 圣经新词典 - 米罗（MILLO）
 keywords: 米罗, MILLO
 comments: false
 ---

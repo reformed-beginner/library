@@ -2,7 +2,7 @@
 layout: wiki
 title: 基士（KISH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基士（KISH）（来：qi^s%，意指“弓”，“能力”）
+description: 圣经新词典 - 基士（KISH）（来：qi^s%，意指“弓”，“能力”）
 keywords: 基士, KISH
 comments: false
 ---

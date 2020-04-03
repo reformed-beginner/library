@@ -2,7 +2,7 @@
 layout: wiki
 title: 特拉西/塞拉斯（THRACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 特拉西/塞拉斯（THRACE）
+description: 圣经新词典 - 特拉西/塞拉斯（THRACE）
 keywords: 特拉西/塞拉斯, THRACE
 comments: false
 ---

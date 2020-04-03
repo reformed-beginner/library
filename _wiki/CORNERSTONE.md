@@ -2,7 +2,7 @@
 layout: wiki
 title: 房角石（CORNERSTONE）
 categories: NewBibleDictionary
-description: 圣经新词典: 房角石（CORNERSTONE）
+description: 圣经新词典 - 房角石（CORNERSTONE）
 keywords: 房角石, CORNERSTONE
 comments: false
 ---

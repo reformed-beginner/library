@@ -2,7 +2,7 @@
 layout: wiki
 title: 方舟（ARK）
 categories: NewBibleDictionary
-description: 圣经新词典: 方舟（ARK）
+description: 圣经新词典 - 方舟（ARK）
 keywords: 方舟, ARK
 comments: false
 ---

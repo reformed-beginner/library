@@ -2,7 +2,7 @@
 layout: wiki
 title: 战车，马车（CHARIOT）
 categories: NewBibleDictionary
-description: 圣经新词典: 战车，马车（CHARIOT）
+description: 圣经新词典 - 战车，马车（CHARIOT）
 keywords: 战车，马车, CHARIOT
 comments: false
 ---

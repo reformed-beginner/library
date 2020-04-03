@@ -2,7 +2,7 @@
 layout: wiki
 title: 流沙（QUICKSANDS）
 categories: NewBibleDictionary
-description: 圣经新词典: 流沙（QUICKSANDS）（腊：syrtis，“一个沙坝”，RSV 采其音译：〔译注：和合本亦音译作“赛耳底沙滩”〕，徒廿七17）
+description: 圣经新词典 - 流沙（QUICKSANDS）（腊：syrtis，“一个沙坝”，RSV 采其音译：〔译注：和合本亦音译作“赛耳底沙滩”〕，徒廿七17）
 keywords: 流沙, QUICKSANDS
 comments: false
 ---

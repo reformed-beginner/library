@@ -2,7 +2,7 @@
 layout: wiki
 title: 银行（BANK, BANKER）
 categories: NewBibleDictionary
-description: 圣经新词典: 银行（BANK, BANKER）
+description: 圣经新词典 - 银行（BANK, BANKER）
 keywords: 银行, BANK, BANKER
 comments: false
 ---

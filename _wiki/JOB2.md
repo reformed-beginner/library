@@ -2,7 +2,7 @@
 layout: wiki
 title: 约伯记（JOB, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 约伯记（JOB, BOOK OF）
+description: 圣经新词典 - 约伯记（JOB, BOOK OF）
 keywords: 约伯记, JOB, BOOK OF
 comments: false
 ---

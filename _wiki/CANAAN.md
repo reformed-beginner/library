@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦南（CANAAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦南（CANAAN）
+description: 圣经新词典 - 迦南（CANAAN）
 keywords: 迦南, CANAAN
 comments: false
 ---

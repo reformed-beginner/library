@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙拉，示拉，西罗亚（SHELAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙拉，示拉，西罗亚（SHELAH）
+description: 圣经新词典 - 沙拉，示拉，西罗亚（SHELAH）
 keywords: 沙拉，示拉，西罗亚, SHELAH
 comments: false
 ---

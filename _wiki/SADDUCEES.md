@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒都该人（SADDUCEES）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒都该人（SADDUCEES）
+description: 圣经新词典 - 撒都该人（SADDUCEES）
 keywords: 撒都该人, SADDUCEES
 comments: false
 ---

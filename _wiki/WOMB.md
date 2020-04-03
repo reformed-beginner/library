@@ -2,7 +2,7 @@
 layout: wiki
 title: 母胎（WOMB）
 categories: NewBibleDictionary
-description: 圣经新词典: 母胎（WOMB）
+description: 圣经新词典 - 母胎（WOMB）
 keywords: 母胎, WOMB
 comments: false
 ---

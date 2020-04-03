@@ -2,7 +2,7 @@
 layout: wiki
 title: 心（HEART）
 categories: NewBibleDictionary
-description: 圣经新词典: 心（HEART）
+description: 圣经新词典 - 心（HEART）
 keywords: 心, HEART
 comments: false
 ---

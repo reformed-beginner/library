@@ -2,7 +2,7 @@
 layout: wiki
 title: 报名上册，数点（百姓）
 categories: NewBibleDictionary
-description: 圣经新词典: 报名上册，数点（百姓）（CENSUS）（拉丁文 census，意即“估价”，为希腊文援用，作
+description: 圣经新词典 - 报名上册，数点（百姓）（CENSUS）（拉丁文 census，意即“估价”，为希腊文援用，作
 ke{nsos，意即“税款”，见：太十七25，廿二17、19；可十二14
 keywords: 报名上册，数点, 百姓
 comments: false

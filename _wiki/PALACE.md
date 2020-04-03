@@ -2,7 +2,7 @@
 layout: wiki
 title: 宫殿（PALACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 宫殿（PALACE）
+description: 圣经新词典 - 宫殿（PALACE）
 keywords: 宫殿, PALACE
 comments: false
 ---

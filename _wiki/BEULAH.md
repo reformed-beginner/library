@@ -2,7 +2,7 @@
 layout: wiki
 title: 有夫之妇（BEULAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 有夫之妇（BEULAH）
+description: 圣经新词典 - 有夫之妇（BEULAH）
 keywords: 有夫之妇, BEULAH
 comments: false
 ---

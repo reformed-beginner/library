@@ -2,7 +2,7 @@
 layout: wiki
 title: 巨人，伟人（GIANT）
 categories: NewBibleDictionary
-description: 圣经新词典: 巨人，伟人（GIANT）
+description: 圣经新词典 - 巨人，伟人（GIANT）
 keywords: 巨人，伟人, GIANT
 comments: false
 ---

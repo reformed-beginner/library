@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗鲁雅（ZERUIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗鲁雅（ZERUIAH）（来：s]#ru^ya^, s]#ruya^；可能源出亚拉伯文的字根，或指 (1) “出血，流血”，或指 (2)
+description: 圣经新词典 - 洗鲁雅（ZERUIAH）（来：s]#ru^ya^, s]#ruya^；可能源出亚拉伯文的字根，或指 (1) “出血，流血”，或指 (2)
 一种散发气味的树或其树胶的名称）
 keywords: 洗鲁雅, ZERUIAH
 comments: false

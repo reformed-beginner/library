@@ -2,7 +2,7 @@
 layout: wiki
 title: 母牛犊（HEIFER）
 categories: NewBibleDictionary
-description: 圣经新词典: 母牛犊（HEIFER）
+description: 圣经新词典 - 母牛犊（HEIFER）
 keywords: 母牛犊, HEIFER
 comments: false
 ---

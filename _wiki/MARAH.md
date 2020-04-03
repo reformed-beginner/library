@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛拉（MARAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛拉（MARAH）（来：ma{ra^, 即“苦”之意）
+description: 圣经新词典 - 玛拉（MARAH）（来：ma{ra^, 即“苦”之意）
 keywords: 玛拉, MARAH
 comments: false
 ---

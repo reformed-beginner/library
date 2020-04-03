@@ -2,7 +2,7 @@
 layout: wiki
 title: 希拿（HENA）
 categories: NewBibleDictionary
-description: 圣经新词典: 希拿（HENA）
+description: 圣经新词典 - 希拿（HENA）
 keywords: 希拿, HENA
 comments: false
 ---

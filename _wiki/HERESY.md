@@ -2,7 +2,7 @@
 layout: wiki
 title: 异端邪说（HERESY）
 categories: NewBibleDictionary
-description: 圣经新词典: 异端邪说（HERESY）
+description: 圣经新词典 - 异端邪说（HERESY）
 keywords: 异端邪说, HERESY
 comments: false
 ---

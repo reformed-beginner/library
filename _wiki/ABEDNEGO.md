@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚伯尼歌（ABEDNEGO）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚伯尼歌（ABEDNEGO）
+description: 圣经新词典 - 亚伯尼歌（ABEDNEGO）
 keywords: 亚伯尼歌, ABEDNEGO
 comments: false
 ---

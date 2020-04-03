@@ -2,7 +2,7 @@
 layout: wiki
 title: 弥赛亚（MESSIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 弥赛亚（MESSIAH）
+description: 圣经新词典 - 弥赛亚（MESSIAH）
 keywords: 弥赛亚, MESSIAH
 comments: false
 ---

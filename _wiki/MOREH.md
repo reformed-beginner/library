@@ -2,7 +2,7 @@
 layout: wiki
 title: 摩利（MOREH）
 categories: NewBibleDictionary
-description: 圣经新词典: 摩利（MOREH）（来：mo{reh，指“教师”，“占卜者”）
+description: 圣经新词典 - 摩利（MOREH）（来：mo{reh，指“教师”，“占卜者”）
 keywords: 摩利, MOREH
 comments: false
 ---

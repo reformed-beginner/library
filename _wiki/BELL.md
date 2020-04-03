@@ -2,7 +2,7 @@
 layout: wiki
 title: 铃（BELL）
 categories: NewBibleDictionary
-description: 圣经新词典: 铃（BELL）
+description: 圣经新词典 - 铃（BELL）
 keywords: 铃, BELL
 comments: false
 ---

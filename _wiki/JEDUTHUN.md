@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶杜顿（JEDUTHUN）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶杜顿（JEDUTHUN）（来：y#d[u^t[u^n）
+description: 圣经新词典 - 耶杜顿（JEDUTHUN）（来：y#d[u^t[u^n）
 keywords: 耶杜顿, JEDUTHUN
 comments: false
 ---

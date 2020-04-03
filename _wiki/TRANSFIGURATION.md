@@ -2,7 +2,7 @@
 layout: wiki
 title: 改变形像（TRANSFIGURATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 改变形像（TRANSFIGURATION）
+description: 圣经新词典 - 改变形像（TRANSFIGURATION）
 keywords: 改变形像, TRANSFIGURATION
 comments: false
 ---

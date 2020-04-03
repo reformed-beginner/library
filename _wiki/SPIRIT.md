@@ -2,7 +2,7 @@
 layout: wiki
 title: 灵；圣灵（SPIRIT, HOLY SPIRIT）
 categories: NewBibleDictionary
-description: 圣经新词典: 灵；圣灵（SPIRIT, HOLY SPIRIT）（旧约：来：ru^ah] 378次〔另加但以理书中亚兰文的11次〕；新约：腊：pneuma
+description: 圣经新词典 - 灵；圣灵（SPIRIT, HOLY SPIRIT）（旧约：来：ru^ah] 378次〔另加但以理书中亚兰文的11次〕；新约：腊：pneuma
 379次
 keywords: 灵；圣灵, SPIRIT, HOLY SPIRIT
 comments: false

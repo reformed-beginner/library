@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿哈列（NAHALIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿哈列（NAHALIEL）（来：nah]@li^~e{l，意即“神之谷”）
+description: 圣经新词典 - 拿哈列（NAHALIEL）（来：nah]@li^~e{l，意即“神之谷”）
 keywords: 拿哈列, NAHALIEL
 comments: false
 ---

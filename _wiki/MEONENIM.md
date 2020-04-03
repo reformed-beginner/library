@@ -2,7 +2,7 @@
 layout: wiki
 title: 米恶尼尼的橡树（MEONENIM, OAK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 米恶尼尼的橡树（MEONENIM, OAK OF）
+description: 圣经新词典 - 米恶尼尼的橡树（MEONENIM, OAK OF）
 keywords: 米恶尼尼的橡树, MEONENIM, OAK OF
 comments: false
 ---

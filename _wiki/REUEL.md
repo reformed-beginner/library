@@ -2,7 +2,7 @@
 layout: wiki
 title: 流珥（REUEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 流珥（REUEL）（来：r#`u^~e{l；腊：raguel；这名字大概是“神的朋友”的意思）
+description: 圣经新词典 - 流珥（REUEL）（来：r#`u^~e{l；腊：raguel；这名字大概是“神的朋友”的意思）
 keywords: 流珥, REUEL
 comments: false
 ---

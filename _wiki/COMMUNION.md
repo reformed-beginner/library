@@ -2,7 +2,7 @@
 layout: wiki
 title: 团契，沟通，相交，共享（COMMUNION）
 categories: NewBibleDictionary
-description: 圣经新词典: 团契，沟通，相交，共享（COMMUNION）
+description: 圣经新词典 - 团契，沟通，相交，共享（COMMUNION）
 keywords: 团契，沟通，相交，共享, COMMUNION
 comments: false
 ---

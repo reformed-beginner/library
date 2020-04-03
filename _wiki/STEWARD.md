@@ -2,7 +2,7 @@
 layout: wiki
 title: 家宰，管家（STEWARD）
 categories: NewBibleDictionary
-description: 圣经新词典: 家宰，管家（STEWARD）
+description: 圣经新词典 - 家宰，管家（STEWARD）
 keywords: 家宰，管家, STEWARD
 comments: false
 ---

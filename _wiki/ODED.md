@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄德（ODED）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄德（ODED）
+description: 圣经新词典 - 俄德（ODED）
 keywords: 俄德, ODED
 comments: false
 ---

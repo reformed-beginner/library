@@ -2,7 +2,7 @@
 layout: wiki
 title: 奉献（DEDICATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 奉献（DEDICATION）
+description: 圣经新词典 - 奉献（DEDICATION）
 keywords: 奉献, DEDICATION
 comments: false
 ---

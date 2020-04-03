@@ -2,7 +2,7 @@
 layout: wiki
 title: 米斯巴（MIZPAH, MIZPEH）
 categories: NewBibleDictionary
-description: 圣经新词典: 米斯巴（MIZPAH, MIZPEH）
+description: 圣经新词典 - 米斯巴（MIZPAH, MIZPEH）
 keywords: 米斯巴, MIZPAH, MIZPEH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 无底坑，阴间，地的深处（ABYSS）
 categories: NewBibleDictionary
-description: 圣经新词典: 无底坑，阴间，地的深处（ABYSS）
+description: 圣经新词典 - 无底坑，阴间，地的深处（ABYSS）
 keywords: 无底坑，阴间，地的深处, ABYSS
 comments: false
 ---

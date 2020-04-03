@@ -2,7 +2,7 @@
 layout: wiki
 title: 会幕（TABERNACLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 会幕（TABERNACLE）
+description: 圣经新词典 - 会幕（TABERNACLE）
 keywords: 会幕, TABERNACLE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 押巴拿（EBLA）
 categories: NewBibleDictionary
-description: 圣经新词典: 押巴拿（EBLA）
+description: 圣经新词典 - 押巴拿（EBLA）
 keywords: 押巴拿, EBLA
 comments: false
 ---

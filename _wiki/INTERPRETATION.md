@@ -2,7 +2,7 @@
 layout: wiki
 title: 解释圣经（INTERPRETATION, BIBLICAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 解释圣经（INTERPRETATION, BIBLICAL）
+description: 圣经新词典 - 解释圣经（INTERPRETATION, BIBLICAL）
 keywords: 解释圣经, INTERPRETATION, BIBLICAL
 comments: false
 ---

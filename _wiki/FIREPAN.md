@@ -2,7 +2,7 @@
 layout: wiki
 title: 火鼎，火盆（FIREPAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 火鼎，火盆（FIREPAN）（来：mahta^ 一字由 h]at[a^ 而来，是“抓取”之意）
+description: 圣经新词典 - 火鼎，火盆（FIREPAN）（来：mahta^ 一字由 h]at[a^ 而来，是“抓取”之意）
 keywords: 火鼎，火盆, FIREPAN
 comments: false
 ---

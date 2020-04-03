@@ -2,7 +2,7 @@
 layout: wiki
 title: 海岛，洲岛（ISLAND, ISLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 海岛，洲岛（ISLAND, ISLE）（来：~i^，众数 ~iyyi^m；腊：ne{sos, ne{sion）
+description: 圣经新词典 - 海岛，洲岛（ISLAND, ISLE）（来：~i^，众数 ~iyyi^m；腊：ne{sos, ne{sion）
 keywords: 海岛，洲岛, ISLAND, ISLE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 约翰书信（JOHN, EPISTLES OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 约翰书信（JOHN, EPISTLES OF）
+description: 圣经新词典 - 约翰书信（JOHN, EPISTLES OF）
 keywords: 约翰书信, JOHN, EPISTLES OF
 comments: false
 ---

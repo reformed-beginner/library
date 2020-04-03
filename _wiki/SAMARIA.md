@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒玛利亚（SAMARIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒玛利亚（SAMARIA）
+description: 圣经新词典 - 撒玛利亚（SAMARIA）
 keywords: 撒玛利亚, SAMARIA
 comments: false
 ---

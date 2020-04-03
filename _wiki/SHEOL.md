@@ -2,7 +2,7 @@
 layout: wiki
 title: 阴间（SHEOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 阴间（SHEOL）
+description: 圣经新词典 - 阴间（SHEOL）
 keywords: 阴间, SHEOL
 comments: false
 ---

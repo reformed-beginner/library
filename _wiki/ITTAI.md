@@ -2,7 +2,7 @@
 layout: wiki
 title: 以太（ITTAI）
 categories: NewBibleDictionary
-description: 圣经新词典: 以太（ITTAI）（来：~ittay, ？，“〔神〕与我在一起”）
+description: 圣经新词典 - 以太（ITTAI）（来：~ittay, ？，“〔神〕与我在一起”）
 keywords: 以太, ITTAI
 comments: false
 ---

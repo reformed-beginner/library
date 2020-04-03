@@ -2,7 +2,7 @@
 layout: wiki
 title: 艾城，爱地（AI）
 categories: NewBibleDictionary
-description: 圣经新词典: 艾城，爱地（AI）
+description: 圣经新词典 - 艾城，爱地（AI）
 keywords: 艾城，爱地, AI
 comments: false
 ---

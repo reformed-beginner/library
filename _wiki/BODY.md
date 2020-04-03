@@ -2,7 +2,7 @@
 layout: wiki
 title: 身体（BODY）
 categories: NewBibleDictionary
-description: 圣经新词典: 身体（BODY）
+description: 圣经新词典 - 身体（BODY）
 keywords: 身体, BODY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西坡拉（ZIPPORAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西坡拉（ZIPPORAH）
+description: 圣经新词典 - 西坡拉（ZIPPORAH）
 keywords: 西坡拉, ZIPPORAH
 comments: false
 ---

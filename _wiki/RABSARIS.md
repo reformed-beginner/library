@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉伯撒利/拉撒力（RABSARIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉伯撒利/拉撒力（RABSARIS）
+description: 圣经新词典 - 拉伯撒利/拉撒力（RABSARIS）
 keywords: 拉伯撒利/拉撒力, RABSARIS
 comments: false
 ---

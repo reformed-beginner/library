@@ -2,7 +2,7 @@
 layout: wiki
 title: 头生，长子（FIRST-BORN）
 categories: NewBibleDictionary
-description: 圣经新词典: 头生，长子（FIRST-BORN）
+description: 圣经新词典 - 头生，长子（FIRST-BORN）
 keywords: 头生，长子, FIRST-BORN
 comments: false
 ---

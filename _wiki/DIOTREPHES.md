@@ -2,7 +2,7 @@
 layout: wiki
 title: 丢特腓（DIOTREPHES）
 categories: NewBibleDictionary
-description: 圣经新词典: 丢特腓（DIOTREPHES）
+description: 圣经新词典 - 丢特腓（DIOTREPHES）
 keywords: 丢特腓, DIOTREPHES
 comments: false
 ---

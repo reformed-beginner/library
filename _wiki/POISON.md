@@ -2,7 +2,7 @@
 layout: wiki
 title: 毒害（POISON）
 categories: NewBibleDictionary
-description: 圣经新词典: 毒害（POISON）
+description: 圣经新词典 - 毒害（POISON）
 keywords: 毒害, POISON
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 桌子，筵席（TABLE）
 categories: NewBibleDictionary
-description: 圣经新词典: 桌子，筵席（TABLE）
+description: 圣经新词典 - 桌子，筵席（TABLE）
 keywords: 桌子，筵席, TABLE
 comments: false
 ---

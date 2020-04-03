@@ -2,7 +2,7 @@
 layout: wiki
 title: 复活节（EASTER）
 categories: NewBibleDictionary
-description: 圣经新词典: 复活节（EASTER）
+description: 圣经新词典 - 复活节（EASTER）
 keywords: 复活节, EASTER
 comments: false
 ---

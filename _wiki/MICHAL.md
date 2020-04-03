@@ -2,7 +2,7 @@
 layout: wiki
 title: 米甲（MICHAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 米甲（MICHAL）（来：mi^k[al）
+description: 圣经新词典 - 米甲（MICHAL）（来：mi^k[al）
 keywords: 米甲, MICHAL
 comments: false
 ---

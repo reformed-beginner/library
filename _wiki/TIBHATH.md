@@ -2,7 +2,7 @@
 layout: wiki
 title: 提巴（TIBHATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 提巴（TIBHATH）
+description: 圣经新词典 - 提巴（TIBHATH）
 keywords: 提巴, TIBHATH
 comments: false
 ---

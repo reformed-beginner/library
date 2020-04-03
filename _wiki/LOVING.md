@@ -2,7 +2,7 @@
 layout: wiki
 title: 慈爱（LOVING-KINDNESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 慈爱（LOVING-KINDNESS）
+description: 圣经新词典 - 慈爱（LOVING-KINDNESS）
 keywords: 慈爱, LOVING-KINDNESS
 comments: false
 ---

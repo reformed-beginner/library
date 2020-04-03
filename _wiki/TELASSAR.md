@@ -2,7 +2,7 @@
 layout: wiki
 title: 提拉撒（TELASSAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 提拉撒（TELASSAR）
+description: 圣经新词典 - 提拉撒（TELASSAR）
 keywords: 提拉撒, TELASSAR
 comments: false
 ---

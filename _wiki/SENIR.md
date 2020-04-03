@@ -2,7 +2,7 @@
 layout: wiki
 title: 示尼珥（SENIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 示尼珥（SENIR）
+description: 圣经新词典 - 示尼珥（SENIR）
 keywords: 示尼珥, SENIR
 comments: false
 ---

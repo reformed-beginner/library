@@ -2,7 +2,7 @@
 layout: wiki
 title: 基列亭（KIRIATHAIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 基列亭（KIRIATHAIM）
+description: 圣经新词典 - 基列亭（KIRIATHAIM）
 keywords: 基列亭, KIRIATHAIM
 comments: false
 ---

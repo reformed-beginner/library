@@ -2,7 +2,7 @@
 layout: wiki
 title: 洗礼（BAPTISM）
 categories: NewBibleDictionary
-description: 圣经新词典: 洗礼（BAPTISM）
+description: 圣经新词典 - 洗礼（BAPTISM）
 keywords: 洗礼, BAPTISM
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 街市（MARKET, MARKETPLACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 街市（MARKET, MARKETPLACE）
+description: 圣经新词典 - 街市（MARKET, MARKETPLACE）
 keywords: 街市, MARKET, MARKETPLACE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基诺波斯基安（CHENOBOSKION）
 categories: NewBibleDictionary
-description: 圣经新词典: 基诺波斯基安（CHENOBOSKION）（按字义为“饲养鹅的牧场”；科普替文作 Sheneset）
+description: 圣经新词典 - 基诺波斯基安（CHENOBOSKION）（按字义为“饲养鹅的牧场”；科普替文作 Sheneset）
 keywords: 基诺波斯基安, CHENOBOSKION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 预表论（TYPOLOGY）
 categories: NewBibleDictionary
-description: 圣经新词典: 预表论（TYPOLOGY）（腊：typos，“印记”）
+description: 圣经新词典 - 预表论（TYPOLOGY）（腊：typos，“印记”）
 keywords: 预表论, TYPOLOGY
 comments: false
 ---

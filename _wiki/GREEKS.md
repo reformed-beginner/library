@@ -2,7 +2,7 @@
 layout: wiki
 title: 希利尼人/希腊人（GREEKS）
 categories: NewBibleDictionary
-description: 圣经新词典: 希利尼人/希腊人（GREEKS）
+description: 圣经新词典 - 希利尼人/希腊人（GREEKS）
 keywords: 希利尼人/希腊人, GREEKS
 comments: false
 ---

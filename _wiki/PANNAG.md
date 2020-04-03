@@ -2,7 +2,7 @@
 layout: wiki
 title: 潘纳（PANNAG）
 categories: NewBibleDictionary
-description: 圣经新词典: 潘纳（PANNAG）
+description: 圣经新词典 - 潘纳（PANNAG）
 keywords: 潘纳, PANNAG
 comments: false
 ---

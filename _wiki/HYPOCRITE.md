@@ -2,7 +2,7 @@
 layout: wiki
 title: 假冒为善的人（HYPOCRITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 假冒为善的人（HYPOCRITE）
+description: 圣经新词典 - 假冒为善的人（HYPOCRITE）
 keywords: 假冒为善的人, HYPOCRITE
 comments: false
 ---

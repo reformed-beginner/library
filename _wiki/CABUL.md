@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦布（CABUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦布（CABUL）
+description: 圣经新词典 - 迦布（CABUL）
 keywords: 迦布, CABUL
 comments: false
 ---

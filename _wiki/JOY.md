@@ -2,7 +2,7 @@
 layout: wiki
 title: 喜乐（JOY）
 categories: NewBibleDictionary
-description: 圣经新词典: 喜乐（JOY）
+description: 圣经新词典 - 喜乐（JOY）
 keywords: 喜乐, JOY
 comments: false
 ---

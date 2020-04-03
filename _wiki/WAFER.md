@@ -2,7 +2,7 @@
 layout: wiki
 title: 薄饼（WAFER）
 categories: NewBibleDictionary
-description: 圣经新词典: 薄饼（WAFER）
+description: 圣经新词典 - 薄饼（WAFER）
 keywords: 薄饼, WAFER
 comments: false
 ---

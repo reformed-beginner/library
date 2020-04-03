@@ -2,7 +2,7 @@
 layout: wiki
 title: 土西拉（DRUSILLA）
 categories: NewBibleDictionary
-description: 圣经新词典: 土西拉（DRUSILLA）
+description: 圣经新词典 - 土西拉（DRUSILLA）
 keywords: 土西拉, DRUSILLA
 comments: false
 ---

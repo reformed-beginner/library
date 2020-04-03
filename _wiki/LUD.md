@@ -2,7 +2,7 @@
 layout: wiki
 title: 路德；路德族，路低人（LUD, LUDIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 路德；路德族，路低人（LUD, LUDIM）
+description: 圣经新词典 - 路德；路德族，路低人（LUD, LUDIM）
 keywords: 路德；路德族，路低人, LUD, LUDIM
 comments: false
 ---

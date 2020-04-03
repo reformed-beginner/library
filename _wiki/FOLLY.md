@@ -2,7 +2,7 @@
 layout: wiki
 title: 愚昧（FOLLY）
 categories: NewBibleDictionary
-description: 圣经新词典: 愚昧（FOLLY）
+description: 圣经新词典 - 愚昧（FOLLY）
 keywords: 愚昧, FOLLY
 comments: false
 ---

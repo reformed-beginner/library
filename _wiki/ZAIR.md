@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒益（ZAIR）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒益（ZAIR）
+description: 圣经新词典 - 撒益（ZAIR）
 keywords: 撒益, ZAIR
 comments: false
 ---

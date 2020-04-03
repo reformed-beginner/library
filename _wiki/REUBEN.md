@@ -2,7 +2,7 @@
 layout: wiki
 title: 流便（REUBEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 流便（REUBEN）（MT: r#~u^b[e{n; LXX: Roube{n;
+description: 圣经新词典 - 流便（REUBEN）（MT: r#~u^b[e{n; LXX: Roube{n;
 别西大译本：Roubi^l；约瑟夫著作：Roube{los；亚拉伯文：Ra~u^bi^n；拉丁文：Rubin）
 keywords: 流便, REUBEN
 comments: false

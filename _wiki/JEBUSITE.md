@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶布斯人（JEBUSITE）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶布斯人（JEBUSITE）
+description: 圣经新词典 - 耶布斯人（JEBUSITE）
 keywords: 耶布斯人, JEBUSITE
 comments: false
 ---

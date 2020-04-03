@@ -2,7 +2,7 @@
 layout: wiki
 title: 敌基督（ANTICHRIST）
 categories: NewBibleDictionary
-description: 圣经新词典: 敌基督（ANTICHRIST）
+description: 圣经新词典 - 敌基督（ANTICHRIST）
 keywords: 敌基督, ANTICHRIST
 comments: false
 ---

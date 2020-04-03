@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌薛（UZZIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌薛（UZZIEL）（来：`uzzi^~e{l，“神是我的力量”）
+description: 圣经新词典 - 乌薛（UZZIEL）（来：`uzzi^~e{l，“神是我的力量”）
 keywords: 乌薛, UZZIEL
 comments: false
 ---

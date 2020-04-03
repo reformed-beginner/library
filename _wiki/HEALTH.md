@@ -2,7 +2,7 @@
 layout: wiki
 title: 健康；疾病与医治（HEALTH, DISEASE AND HEALING）
 categories: NewBibleDictionary
-description: 圣经新词典: 健康；疾病与医治（HEALTH, DISEASE AND HEALING）
+description: 圣经新词典 - 健康；疾病与医治（HEALTH, DISEASE AND HEALING）
 keywords: 健康；疾病与医治, HEALTH, DISEASE AND HEALING
 comments: false
 ---

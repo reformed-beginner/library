@@ -2,7 +2,7 @@
 layout: wiki
 title: 米特利达（MITHREDATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 米特利达（MITHREDATH）（“米特拉所给予的”，米特拉〔Mithra〕是波斯的光明之神，参：希腊和拉丁文的 'Mithridates'）
+description: 圣经新词典 - 米特利达（MITHREDATH）（“米特拉所给予的”，米特拉〔Mithra〕是波斯的光明之神，参：希腊和拉丁文的 'Mithridates'）
 keywords: 米特利达, MITHREDATH
 comments: false
 ---

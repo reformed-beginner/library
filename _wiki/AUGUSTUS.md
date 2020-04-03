@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚古士督（AUGUSTUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚古士督（AUGUSTUS）
+description: 圣经新词典 - 亚古士督（AUGUSTUS）
 keywords: 亚古士督, AUGUSTUS
 comments: false
 ---

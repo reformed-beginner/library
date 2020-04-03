@@ -2,7 +2,7 @@
 layout: wiki
 title: 底马（DEMAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 底马（DEMAS）
+description: 圣经新词典 - 底马（DEMAS）
 keywords: 底马, DEMAS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌加列，沙呣拉角/拉斯珊拉（UGARIT, RAS SHAMRA）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌加列，沙呣拉角/拉斯珊拉（UGARIT, RAS SHAMRA）
+description: 圣经新词典 - 乌加列，沙呣拉角/拉斯珊拉（UGARIT, RAS SHAMRA）
 keywords: 乌加列，沙呣拉角/拉斯珊拉, UGARIT, RAS SHAMRA
 comments: false
 ---

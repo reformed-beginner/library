@@ -2,7 +2,7 @@
 layout: wiki
 title: 伊施波设（ISHBOSHETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 伊施波设（ISHBOSHETH）
+description: 圣经新词典 - 伊施波设（ISHBOSHETH）
 keywords: 伊施波设, ISHBOSHETH
 comments: false
 ---

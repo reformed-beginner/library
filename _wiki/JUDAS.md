@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹大（JUDAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹大（JUDAS）
+description: 圣经新词典 - 犹大（JUDAS）
 keywords: 犹大, JUDAS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 米推利尼（MITYLENE）
 categories: NewBibleDictionary
-description: 圣经新词典: 米推利尼（MITYLENE）
+description: 圣经新词典 - 米推利尼（MITYLENE）
 keywords: 米推利尼, MITYLENE
 comments: false
 ---

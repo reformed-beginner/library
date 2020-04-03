@@ -2,7 +2,7 @@
 layout: wiki
 title: 哥拉汛（CHORZIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 哥拉汛（CHORZIN）
+description: 圣经新词典 - 哥拉汛（CHORZIN）
 keywords: 哥拉汛, CHORZIN
 comments: false
 ---

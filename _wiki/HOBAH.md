@@ -2,7 +2,7 @@
 layout: wiki
 title: 何把（HOBAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 何把（HOBAH）
+description: 圣经新词典 - 何把（HOBAH）
 keywords: 何把, HOBAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 福音书（GOSPELS）
 categories: NewBibleDictionary
-description: 圣经新词典: 福音书（GOSPELS）
+description: 圣经新词典 - 福音书（GOSPELS）
 keywords: 福音书, GOSPELS
 comments: false
 ---

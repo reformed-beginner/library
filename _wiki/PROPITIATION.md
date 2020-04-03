@@ -2,7 +2,7 @@
 layout: wiki
 title: 挽回祭（PROPITIATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 挽回祭（PROPITIATION）
+description: 圣经新词典 - 挽回祭（PROPITIATION）
 keywords: 挽回祭, PROPITIATION
 comments: false
 ---

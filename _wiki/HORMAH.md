@@ -2,7 +2,7 @@
 layout: wiki
 title: 何珥玛（HORMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 何珥玛（HORMAH）（来：h]orma^h）
+description: 圣经新词典 - 何珥玛（HORMAH）（来：h]orma^h）
 keywords: 何珥玛, HORMAH
 comments: false
 ---

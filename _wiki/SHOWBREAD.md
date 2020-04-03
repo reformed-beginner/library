@@ -2,7 +2,7 @@
 layout: wiki
 title: 陈设饼（SHOWBREAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 陈设饼（SHOWBREAD）
+description: 圣经新词典 - 陈设饼（SHOWBREAD）
 keywords: 陈设饼, SHOWBREAD
 comments: false
 ---

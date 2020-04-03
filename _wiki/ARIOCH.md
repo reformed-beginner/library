@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚略（ARIOCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚略（ARIOCH）
+description: 圣经新词典 - 亚略（ARIOCH）
 keywords: 亚略, ARIOCH
 comments: false
 ---

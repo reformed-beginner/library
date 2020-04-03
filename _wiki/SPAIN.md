@@ -2,7 +2,7 @@
 layout: wiki
 title: 士班雅，西班牙（SPAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 士班雅，西班牙（SPAIN）
+description: 圣经新词典 - 士班雅，西班牙（SPAIN）
 keywords: 士班雅，西班牙, SPAIN
 comments: false
 ---

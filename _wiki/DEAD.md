@@ -2,7 +2,7 @@
 layout: wiki
 title: 死海（DEAD SEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 死海（DEAD SEA）
+description: 圣经新词典 - 死海（DEAD SEA）
 keywords: 死海, DEAD SEA
 comments: false
 ---

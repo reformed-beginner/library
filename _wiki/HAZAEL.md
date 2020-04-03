@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 图　一片可能献予哈薛王的象牙匾的部分
+description: 圣经新词典 - 图　一片可能献予哈薛王的象牙匾的部分
 keywords: , 
 comments: false
 ---

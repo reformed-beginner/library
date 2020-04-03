@@ -2,7 +2,7 @@
 layout: wiki
 title: 师傅（SCHOOLMASTER）
 categories: NewBibleDictionary
-description: 圣经新词典: 师傅（SCHOOLMASTER）
+description: 圣经新词典 - 师傅（SCHOOLMASTER）
 keywords: 师傅, SCHOOLMASTER
 comments: false
 ---

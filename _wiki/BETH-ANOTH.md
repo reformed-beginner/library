@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯亚诺（BETH-ANOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯亚诺（BETH-ANOTH）（来： be^t[ `@no^t[，可能是“亚拿特之殿”的意思）
+description: 圣经新词典 - 伯亚诺（BETH-ANOTH）（来： be^t[ `@no^t[，可能是“亚拿特之殿”的意思）
 keywords: 伯亚诺, BETH-ANOTH
 comments: false
 ---

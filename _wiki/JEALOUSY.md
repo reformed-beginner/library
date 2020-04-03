@@ -2,7 +2,7 @@
 layout: wiki
 title: 疑恨，嫉恨，忌恨，愤恨，嫉妒，发愤，发热心，忌邪（JEALOUSY）
 categories: NewBibleDictionary
-description: 圣经新词典: 疑恨，嫉恨，忌恨，愤恨，嫉妒，发愤，发热心，忌邪（JEALOUSY）
+description: 圣经新词典 - 疑恨，嫉恨，忌恨，愤恨，嫉妒，发愤，发热心，忌邪（JEALOUSY）
 keywords: 疑恨，嫉恨，忌恨，愤恨，嫉妒，发愤，发热心，忌邪, JEALOUSY
 comments: false
 ---

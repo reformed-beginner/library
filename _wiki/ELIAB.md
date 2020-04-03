@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利押（ELIAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利押（ELIAB）
+description: 圣经新词典 - 以利押（ELIAB）
 keywords: 以利押, ELIAB
 comments: false
 ---

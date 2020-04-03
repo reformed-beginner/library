@@ -2,7 +2,7 @@
 layout: wiki
 title: 预告耶稣诞生（ANNUNCIATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 预告耶稣诞生（ANNUNCIATION）
+description: 圣经新词典 - 预告耶稣诞生（ANNUNCIATION）
 keywords: 预告耶稣诞生, ANNUNCIATION
 comments: false
 ---

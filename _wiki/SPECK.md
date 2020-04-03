@@ -2,7 +2,7 @@
 layout: wiki
 title: 刺（SPECK）
 categories: NewBibleDictionary
-description: 圣经新词典: 刺（SPECK）
+description: 圣经新词典 - 刺（SPECK）
 keywords: 刺, SPECK
 comments: false
 ---

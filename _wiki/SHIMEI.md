@@ -2,7 +2,7 @@
 layout: wiki
 title: 示每（SHIMEI）
 categories: NewBibleDictionary
-description: 圣经新词典: 示每（SHIMEI）（来：s%im`i^，大概是 s%#ma`ya{hu^ ──“耶和华已听见”的缩写）
+description: 圣经新词典 - 示每（SHIMEI）（来：s%im`i^，大概是 s%#ma`ya{hu^ ──“耶和华已听见”的缩写）
 keywords: 示每, SHIMEI
 comments: false
 ---

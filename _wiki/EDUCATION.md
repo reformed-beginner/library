@@ -2,7 +2,7 @@
 layout: wiki
 title: 教育（EDUCATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 教育（EDUCATION）
+description: 圣经新词典 - 教育（EDUCATION）
 keywords: 教育, EDUCATION
 comments: false
 ---

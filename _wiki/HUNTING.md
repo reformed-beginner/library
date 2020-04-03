@@ -2,7 +2,7 @@
 layout: wiki
 title: 狩猎；狩猎者（HUNTING, HUNTER）
 categories: NewBibleDictionary
-description: 圣经新词典: 狩猎；狩猎者（HUNTING, HUNTER）
+description: 圣经新词典 - 狩猎；狩猎者（HUNTING, HUNTER）
 keywords: 狩猎；狩猎者, HUNTING, HUNTER
 comments: false
 ---

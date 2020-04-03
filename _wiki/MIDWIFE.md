@@ -2,7 +2,7 @@
 layout: wiki
 title: 收生婆（MIDWIFE）
 categories: NewBibleDictionary
-description: 圣经新词典: 收生婆（MIDWIFE）（来：m#yalled[et[，一个协助妇人生产的人）
+description: 圣经新词典 - 收生婆（MIDWIFE）（来：m#yalled[et[，一个协助妇人生产的人）
 keywords: 收生婆, MIDWIFE
 comments: false
 ---

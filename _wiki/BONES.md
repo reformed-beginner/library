@@ -2,7 +2,7 @@
 layout: wiki
 title: 骨（BONES）
 categories: NewBibleDictionary
-description: 圣经新词典: 骨（BONES）（来：`es]em，旧约中常见的字；腊：osteon，新约中只出现五次）
+description: 圣经新词典 - 骨（BONES）（来：`es]em，旧约中常见的字；腊：osteon，新约中只出现五次）
 keywords: 骨, BONES
 comments: false
 ---

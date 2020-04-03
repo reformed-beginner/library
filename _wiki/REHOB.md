@@ -2,7 +2,7 @@
 layout: wiki
 title: 利合（REHOB）
 categories: NewBibleDictionary
-description: 圣经新词典: 利合（REHOB）（来：r#h]o{b[，〔城镇或村落的〕“广场、市集”；这在圣经中既是人名，也是地名）
+description: 圣经新词典 - 利合（REHOB）（来：r#h]o{b[，〔城镇或村落的〕“广场、市集”；这在圣经中既是人名，也是地名）
 keywords: 利合, REHOB
 comments: false
 ---

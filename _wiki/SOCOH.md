@@ -2,7 +2,7 @@
 layout: wiki
 title: 梭哥（SOCOH, SOCO）
 categories: NewBibleDictionary
-description: 圣经新词典: 梭哥（SOCOH, SOCO）
+description: 圣经新词典 - 梭哥（SOCOH, SOCO）
 keywords: 梭哥, SOCOH, SOCO
 comments: false
 ---

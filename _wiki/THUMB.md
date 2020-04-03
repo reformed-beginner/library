@@ -2,7 +2,7 @@
 layout: wiki
 title: 大拇指（THUMB）
 categories: NewBibleDictionary
-description: 圣经新词典: 大拇指（THUMB）
+description: 圣经新词典 - 大拇指（THUMB）
 keywords: 大拇指, THUMB
 comments: false
 ---

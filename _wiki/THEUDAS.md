@@ -2,7 +2,7 @@
 layout: wiki
 title: 丢大（THEUDAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 丢大（THEUDAS）
+description: 圣经新词典 - 丢大（THEUDAS）
 keywords: 丢大, THEUDAS
 comments: false
 ---

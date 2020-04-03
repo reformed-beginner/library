@@ -2,7 +2,7 @@
 layout: wiki
 title: 钩（HOOK）
 categories: NewBibleDictionary
-description: 圣经新词典: 钩（HOOK）
+description: 圣经新词典 - 钩（HOOK）
 keywords: 钩, HOOK
 comments: false
 ---

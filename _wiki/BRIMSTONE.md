@@ -2,7 +2,7 @@
 layout: wiki
 title: 硫磺（BRIMSTONE）
 categories: NewBibleDictionary
-description: 圣经新词典: 硫磺（BRIMSTONE）（来：gop{ri^t[；腊：theion，意即“硫磺”）
+description: 圣经新词典 - 硫磺（BRIMSTONE）（来：gop{ri^t[；腊：theion，意即“硫磺”）
 keywords: 硫磺, BRIMSTONE
 comments: false
 ---

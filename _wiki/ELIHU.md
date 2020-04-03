@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利户（ELIHU）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利户（ELIHU）（来：~#lihu^，“他是我的神”）
+description: 圣经新词典 - 以利户（ELIHU）（来：~#lihu^，“他是我的神”）
 keywords: 以利户, ELIHU
 comments: false
 ---

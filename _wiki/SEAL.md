@@ -2,7 +2,7 @@
 layout: wiki
 title: 印（SEAL, SEALING）
 categories: NewBibleDictionary
-description: 圣经新词典: 印（SEAL, SEALING）
+description: 圣经新词典 - 印（SEAL, SEALING）
 keywords: 印, SEAL, SEALING
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 不信（UNBELIEF）
 categories: NewBibleDictionary
-description: 圣经新词典: 不信（UNBELIEF）
+description: 圣经新词典 - 不信（UNBELIEF）
 keywords: 不信, UNBELIEF
 comments: false
 ---

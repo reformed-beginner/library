@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴力西卜；巴力西布（BAAL-ZEBUB, BEELZEBUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴力西卜；巴力西布（BAAL-ZEBUB, BEELZEBUL）
+description: 圣经新词典 - 巴力西卜；巴力西布（BAAL-ZEBUB, BEELZEBUL）
 keywords: 巴力西卜；巴力西布, BAAL-ZEBUB, BEELZEBUL
 comments: false
 ---

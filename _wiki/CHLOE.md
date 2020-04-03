@@ -2,7 +2,7 @@
 layout: wiki
 title: 革来（CHLOE）
 categories: NewBibleDictionary
-description: 圣经新词典: 革来（CHLOE）
+description: 圣经新词典 - 革来（CHLOE）
 keywords: 革来, CHLOE
 comments: false
 ---

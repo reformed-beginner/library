@@ -2,7 +2,7 @@
 layout: wiki
 title: 爱筵（LOVE FEAST）
 categories: NewBibleDictionary
-description: 圣经新词典: 爱筵（LOVE FEAST）
+description: 圣经新词典 - 爱筵（LOVE FEAST）
 keywords: 爱筵, LOVE FEAST
 comments: false
 ---

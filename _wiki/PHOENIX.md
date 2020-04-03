@@ -2,7 +2,7 @@
 layout: wiki
 title: 长生鸟，非尼基海口（PHOENIX）
 categories: NewBibleDictionary
-description: 圣经新词典: 长生鸟，非尼基海口（PHOENIX）
+description: 圣经新词典 - 长生鸟，非尼基海口（PHOENIX）
 keywords: 长生鸟，非尼基海口, PHOENIX
 comments: false
 ---

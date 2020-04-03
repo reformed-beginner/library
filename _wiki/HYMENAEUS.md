@@ -2,7 +2,7 @@
 layout: wiki
 title: 许米乃（HYMENAEUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 许米乃（HYMENAEUS）
+description: 圣经新词典 - 许米乃（HYMENAEUS）
 keywords: 许米乃, HYMENAEUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 神（GOD）
 categories: NewBibleDictionary
-description: 圣经新词典: 神（GOD）
+description: 圣经新词典 - 神（GOD）
 keywords: 神, GOD
 comments: false
 ---

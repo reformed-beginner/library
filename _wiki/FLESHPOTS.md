@@ -2,7 +2,7 @@
 layout: wiki
 title: 肉锅（FLESHPOTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 肉锅（FLESHPOTS）（来：si^r，大概是外来语
+description: 圣经新词典 - 肉锅（FLESHPOTS）（来：si^r，大概是外来语
 keywords: 肉锅, FLESHPOTS
 comments: false
 ---

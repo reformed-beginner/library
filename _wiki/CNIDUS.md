@@ -2,7 +2,7 @@
 layout: wiki
 title: 革尼土（CNIDUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 革尼土（CNIDUS）
+description: 圣经新词典 - 革尼土（CNIDUS）
 keywords: 革尼土, CNIDUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 弟兄之爱（BROTHERLY LOVE）
 categories: NewBibleDictionary
-description: 圣经新词典: 弟兄之爱（BROTHERLY LOVE）
+description: 圣经新词典 - 弟兄之爱（BROTHERLY LOVE）
 keywords: 弟兄之爱, BROTHERLY LOVE
 comments: false
 ---

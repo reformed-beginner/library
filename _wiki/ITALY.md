@@ -2,7 +2,7 @@
 layout: wiki
 title: 义大利（ITALY）
 categories: NewBibleDictionary
-description: 圣经新词典: 义大利（ITALY）（腊：Italia）
+description: 圣经新词典 - 义大利（ITALY）（腊：Italia）
 keywords: 义大利, ITALY
 comments: false
 ---

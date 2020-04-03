@@ -2,7 +2,7 @@
 layout: wiki
 title: 宙斯/丢斯（ZEUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 宙斯/丢斯（ZEUS）
+description: 圣经新词典 - 宙斯/丢斯（ZEUS）
 keywords: 宙斯/丢斯, ZEUS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 土八该隐（TUBAL-CAIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 土八该隐（TUBAL-CAIN）
+description: 圣经新词典 - 土八该隐（TUBAL-CAIN）
 keywords: 土八该隐, TUBAL-CAIN
 comments: false
 ---

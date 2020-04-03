@@ -2,7 +2,7 @@
 layout: wiki
 title: 宁录（NIMROD）
 categories: NewBibleDictionary
-description: 圣经新词典: 宁录（NIMROD）
+description: 圣经新词典 - 宁录（NIMROD）
 keywords: 宁录, NIMROD
 comments: false
 ---

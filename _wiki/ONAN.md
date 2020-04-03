@@ -2,7 +2,7 @@
 layout: wiki
 title: 俄南（ONAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 俄南（ONAN）（来：~o{na{n，“精力充沛”的意思）
+description: 圣经新词典 - 俄南（ONAN）（来：~o{na{n，“精力充沛”的意思）
 keywords: 俄南, ONAN
 comments: false
 ---

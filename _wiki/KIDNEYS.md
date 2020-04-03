@@ -2,7 +2,7 @@
 layout: wiki
 title: 肾脏，腰子（KIDNEYS）
 categories: NewBibleDictionary
-description: 圣经新词典: 肾脏，腰子（KIDNEYS）
+description: 圣经新词典 - 肾脏，腰子（KIDNEYS）
 keywords: 肾脏，腰子, KIDNEYS
 comments: false
 ---

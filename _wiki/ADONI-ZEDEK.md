@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚多尼洗德（ADONI-ZEDEK）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚多尼洗德（ADONI-ZEDEK）（来：~@d[o{ni^-s]ed[eq，“我主是公义的”）
+description: 圣经新词典 - 亚多尼洗德（ADONI-ZEDEK）（来：~@d[o{ni^-s]ed[eq，“我主是公义的”）
 keywords: 亚多尼洗德, ADONI-ZEDEK
 comments: false
 ---

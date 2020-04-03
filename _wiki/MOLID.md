@@ -2,7 +2,7 @@
 layout: wiki
 title: 摩利（MOLID）
 categories: NewBibleDictionary
-description: 圣经新词典: 摩利（MOLID）
+description: 圣经新词典 - 摩利（MOLID）
 keywords: 摩利, MOLID
 comments: false
 ---

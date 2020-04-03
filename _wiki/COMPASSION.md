@@ -2,7 +2,7 @@
 layout: wiki
 title: 怜恤，怜悯（COMPASSION）
 categories: NewBibleDictionary
-description: 圣经新词典: 怜恤，怜悯（COMPASSION）
+description: 圣经新词典 - 怜恤，怜悯（COMPASSION）
 keywords: 怜恤，怜悯, COMPASSION
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚劳拿（ARAUNAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚劳拿（ARAUNAH）（来：~@rawna^，亦作 ha{~@warna^, ~@ranya^）
+description: 圣经新词典 - 亚劳拿（ARAUNAH）（来：~@rawna^，亦作 ha{~@warna^, ~@ranya^）
 keywords: 亚劳拿, ARAUNAH
 comments: false
 ---

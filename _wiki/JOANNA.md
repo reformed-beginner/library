@@ -2,7 +2,7 @@
 layout: wiki
 title: 约亚拿（JOANNA）
 categories: NewBibleDictionary
-description: 圣经新词典: 约亚拿（JOANNA）
+description: 圣经新词典 - 约亚拿（JOANNA）
 keywords: 约亚拿, JOANNA
 comments: false
 ---

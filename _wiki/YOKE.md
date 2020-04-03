@@ -2,7 +2,7 @@
 layout: wiki
 title: 轭（YOKE）
 categories: NewBibleDictionary
-description: 圣经新词典: 轭（YOKE）
+description: 圣经新词典 - 轭（YOKE）
 keywords: 轭, YOKE
 comments: false
 ---

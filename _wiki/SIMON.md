@@ -2,7 +2,7 @@
 layout: wiki
 title: 西门（SIMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 西门（SIMON）
+description: 圣经新词典 - 西门（SIMON）
 keywords: 西门, SIMON
 comments: false
 ---

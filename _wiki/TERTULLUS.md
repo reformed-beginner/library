@@ -2,7 +2,7 @@
 layout: wiki
 title: 帖土罗（TERTULLUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 帖土罗（TERTULLUS）
+description: 圣经新词典 - 帖土罗（TERTULLUS）
 keywords: 帖土罗, TERTULLUS
 comments: false
 ---

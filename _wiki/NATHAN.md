@@ -2,7 +2,7 @@
 layout: wiki
 title: 拿单（NATHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 拿单（NATHAN）（来：na{t[a{n，“祂〔神〕已赐予”）
+description: 圣经新词典 - 拿单（NATHAN）（来：na{t[a{n，“祂〔神〕已赐予”）
 keywords: 拿单, NATHAN
 comments: false
 ---

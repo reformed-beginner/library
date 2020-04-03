@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦勒（CALEB）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦勒（CALEB）（来：ka{le{b[）
+description: 圣经新词典 - 迦勒（CALEB）（来：ka{le{b[）
 keywords: 迦勒, CALEB
 comments: false
 ---

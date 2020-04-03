@@ -2,7 +2,7 @@
 layout: wiki
 title: 网（NETS）
 categories: NewBibleDictionary
-description: 圣经新词典: 网（NETS）
+description: 圣经新词典 - 网（NETS）
 keywords: 网, NETS
 comments: false
 ---

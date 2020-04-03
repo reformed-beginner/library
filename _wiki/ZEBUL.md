@@ -2,7 +2,7 @@
 layout: wiki
 title: 西布勒（ZEBUL）
 categories: NewBibleDictionary
-description: 圣经新词典: 西布勒（ZEBUL）（来：z#b[u^l，“崇高的”，即首领，或高地）
+description: 圣经新词典 - 西布勒（ZEBUL）（来：z#b[u^l，“崇高的”，即首领，或高地）
 keywords: 西布勒, ZEBUL
 comments: false
 ---

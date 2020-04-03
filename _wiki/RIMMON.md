@@ -2,7 +2,7 @@
 layout: wiki
 title: 临门（RIMMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 临门（RIMMON）
+description: 圣经新词典 - 临门（RIMMON）
 keywords: 临门, RIMMON
 comments: false
 ---

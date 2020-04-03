@@ -2,7 +2,7 @@
 layout: wiki
 title: 黑甲（HELKATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 黑甲（HELKATH）
+description: 圣经新词典 - 黑甲（HELKATH）
 keywords: 黑甲, HELKATH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 心兰（ZIMRAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 心兰（ZIMRAN）（来：zimra{n，意思不肯定）
+description: 圣经新词典 - 心兰（ZIMRAN）（来：zimra{n，意思不肯定）
 keywords: 心兰, ZIMRAN
 comments: false
 ---

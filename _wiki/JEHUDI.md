@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹底（JEHUDI）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹底（JEHUDI）（来：y#hu^d[i^）
+description: 圣经新词典 - 犹底（JEHUDI）（来：y#hu^d[i^）
 keywords: 犹底, JEHUDI
 comments: false
 ---

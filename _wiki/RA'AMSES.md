@@ -2,7 +2,7 @@
 layout: wiki
 title: 兰塞（RA'AMSES, RAMESES）
 categories: NewBibleDictionary
-description: 圣经新词典: 兰塞（RA'AMSES, RAMESES）（埃及文：Pr-R`mssw, Pi-Ramesse{，“兰塞的领土”）
+description: 圣经新词典 - 兰塞（RA'AMSES, RAMESES）（埃及文：Pr-R`mssw, Pi-Ramesse{，“兰塞的领土”）
 keywords: 兰塞, RA'AMSES, RAMESES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 彼得前书（PETER, FIRST EPISTLE OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 彼得前书（PETER, FIRST EPISTLE OF）
+description: 圣经新词典 - 彼得前书（PETER, FIRST EPISTLE OF）
 keywords: 彼得前书, PETER, FIRST EPISTLE OF
 comments: false
 ---

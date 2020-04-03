@@ -2,7 +2,7 @@
 layout: wiki
 title: 伯亚文（BETH-AVEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 伯亚文（BETH-AVEN）（来：be^t[ ~a{wen，“过犯之家”）
+description: 圣经新词典 - 伯亚文（BETH-AVEN）（来：be^t[ ~a{wen，“过犯之家”）
 keywords: 伯亚文, BETH-AVEN
 comments: false
 ---

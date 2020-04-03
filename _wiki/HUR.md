@@ -2,7 +2,7 @@
 layout: wiki
 title: 户珥（HUR）
 categories: NewBibleDictionary
-description: 圣经新词典: 户珥（HUR）（h]u^r “孩子”？或*何利人）
+description: 圣经新词典 - 户珥（HUR）（h]u^r “孩子”？或*何利人）
 keywords: 户珥, HUR
 comments: false
 ---

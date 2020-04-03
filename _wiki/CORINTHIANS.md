@@ -2,7 +2,7 @@
 layout: wiki
 title: 哥林多前后书（CORINTHIANS, EPISTLES TO THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 哥林多前后书（CORINTHIANS, EPISTLES TO THE）
+description: 圣经新词典 - 哥林多前后书（CORINTHIANS, EPISTLES TO THE）
 keywords: 哥林多前后书, CORINTHIANS, EPISTLES TO THE
 comments: false
 ---

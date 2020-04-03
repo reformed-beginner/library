@@ -2,7 +2,7 @@
 layout: wiki
 title: 陀拉（TOLA）
 categories: NewBibleDictionary
-description: 圣经新词典: 陀拉（TOLA）（来：to^la{`）
+description: 圣经新词典 - 陀拉（TOLA）（来：to^la{`）
 keywords: 陀拉, TOLA
 comments: false
 ---

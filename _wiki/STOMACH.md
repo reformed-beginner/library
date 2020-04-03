@@ -2,7 +2,7 @@
 layout: wiki
 title: 胃；肚腹（STOMACH, BELLY）
 categories: NewBibleDictionary
-description: 圣经新词典: 胃；肚腹（STOMACH, BELLY）
+description: 圣经新词典 - 胃；肚腹（STOMACH, BELLY）
 keywords: 胃；肚腹, STOMACH, BELLY
 comments: false
 ---

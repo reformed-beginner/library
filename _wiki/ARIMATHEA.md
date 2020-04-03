@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚利马太（ARIMATHEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚利马太（ARIMATHEA）
+description: 圣经新词典 - 亚利马太（ARIMATHEA）
 keywords: 亚利马太, ARIMATHEA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 帕弗（PAPHOS）
 categories: NewBibleDictionary
-description: 圣经新词典: 帕弗（PAPHOS）
+description: 圣经新词典 - 帕弗（PAPHOS）
 keywords: 帕弗, PAPHOS
 comments: false
 ---

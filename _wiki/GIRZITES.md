@@ -2,7 +2,7 @@
 layout: wiki
 title: 基色人（GIRZITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 基色人（GIRZITES）
+description: 圣经新词典 - 基色人（GIRZITES）
 keywords: 基色人, GIRZITES
 comments: false
 ---

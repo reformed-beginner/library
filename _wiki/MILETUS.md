@@ -2,7 +2,7 @@
 layout: wiki
 title: 米利都（MILETUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 米利都（MILETUS）
+description: 圣经新词典 - 米利都（MILETUS）
 keywords: 米利都, MILETUS
 comments: false
 ---

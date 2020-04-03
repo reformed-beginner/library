@@ -2,7 +2,7 @@
 layout: wiki
 title: 基博罗哈他瓦（KIBROTH-HATTAAVAH¡^（来：qib{ro^t[ hatta~@wa^，“贪欲的坟墓”）
 categories: NewBibleDictionary
-description: 圣经新词典: 基博罗哈他瓦（KIBROTH-HATTAAVAH¡^（来：qib{ro^t[ hatta~@wa^，“贪欲的坟墓”）
+description: 圣经新词典 - 基博罗哈他瓦（KIBROTH-HATTAAVAH¡^（来：qib{ro^t[ hatta~@wa^，“贪欲的坟墓”）
 keywords: 基博罗哈他瓦, KIBROTH-HATTAAVAH¡^（来：qib{ro^t[ hatta~@wa^，“贪欲的坟墓”
 comments: false
 ---

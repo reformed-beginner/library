@@ -2,7 +2,7 @@
 layout: wiki
 title: 试探（TEMPTATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 试探（TEMPTATION）
+description: 圣经新词典 - 试探（TEMPTATION）
 keywords: 试探, TEMPTATION
 comments: false
 ---

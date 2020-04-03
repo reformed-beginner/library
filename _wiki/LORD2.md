@@ -2,7 +2,7 @@
 layout: wiki
 title: 主祷文（LORD'S PRAYER, THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 主祷文（LORD'S PRAYER, THE）
+description: 圣经新词典 - 主祷文（LORD'S PRAYER, THE）
 keywords: 主祷文, LORD'S PRAYER, THE
 comments: false
 ---

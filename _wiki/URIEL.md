@@ -2,7 +2,7 @@
 layout: wiki
 title: 乌列（URIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 乌列（URIEL）（来： ~u^ri^~e{l，“神是我的亮光”）
+description: 圣经新词典 - 乌列（URIEL）（来： ~u^ri^~e{l，“神是我的亮光”）
 keywords: 乌列, URIEL
 comments: false
 ---

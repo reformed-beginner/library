@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐哈歌利（EN-HAKKORE）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐哈歌利（EN-HAKKORE）（来：'e^n-haqqo^re{'）
+description: 圣经新词典 - 隐哈歌利（EN-HAKKORE）（来：'e^n-haqqo^re{'）
 keywords: 隐哈歌利, EN-HAKKORE
 comments: false
 ---

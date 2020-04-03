@@ -2,7 +2,7 @@
 layout: wiki
 title: 历代志上下（CHRONICLES, BOOKS OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 历代志上下（CHRONICLES, BOOKS OF）
+description: 圣经新词典 - 历代志上下（CHRONICLES, BOOKS OF）
 keywords: 历代志上下, CHRONICLES, BOOKS OF
 comments: false
 ---

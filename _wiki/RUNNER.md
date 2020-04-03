@@ -2,7 +2,7 @@
 layout: wiki
 title: 跑信者，通报者（RUNNER）
 categories: NewBibleDictionary
-description: 圣经新词典: 跑信者，通报者（RUNNER）
+description: 圣经新词典 - 跑信者，通报者（RUNNER）
 keywords: 跑信者，通报者, RUNNER
 comments: false
 ---

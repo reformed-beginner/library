@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛挪亚（MANOAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛挪亚（MANOAH）
+description: 圣经新词典 - 玛挪亚（MANOAH）
 keywords: 玛挪亚, MANOAH
 comments: false
 ---

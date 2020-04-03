@@ -2,7 +2,7 @@
 layout: wiki
 title: 帐篷，亭子，棚子（PAVILION）
 categories: NewBibleDictionary
-description: 圣经新词典: 帐篷，亭子，棚子（PAVILION）（来；so{k[, sukka^）
+description: 圣经新词典 - 帐篷，亭子，棚子（PAVILION）（来；so{k[, sukka^）
 keywords: 帐篷，亭子，棚子, PAVILION
 comments: false
 ---

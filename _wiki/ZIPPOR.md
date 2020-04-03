@@ -2,7 +2,7 @@
 layout: wiki
 title: 西拨（ZIPPOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 西拨（ZIPPOR）（来：s]ippo^r, s]ippo{r，“小鸟”，或许是“麻雀”）
+description: 圣经新词典 - 西拨（ZIPPOR）（来：s]ippo^r, s]ippo{r，“小鸟”，或许是“麻雀”）
 keywords: 西拨, ZIPPOR
 comments: false
 ---

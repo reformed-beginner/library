@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚波罗尼亚（APOLLONIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚波罗尼亚（APOLLONIA）
+description: 圣经新词典 - 亚波罗尼亚（APOLLONIA）
 keywords: 亚波罗尼亚, APOLLONIA
 comments: false
 ---

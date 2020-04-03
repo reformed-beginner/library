@@ -2,7 +2,7 @@
 layout: wiki
 title: 土非拿与土富撒（TRYPHAENA AND TRYPHOSA）
 categories: NewBibleDictionary
-description: 圣经新词典: 土非拿与土富撒（TRYPHAENA AND TRYPHOSA）
+description: 圣经新词典 - 土非拿与土富撒（TRYPHAENA AND TRYPHOSA）
 keywords: 土非拿与土富撒, TRYPHAENA AND TRYPHOSA
 comments: false
 ---

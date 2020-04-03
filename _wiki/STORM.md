@@ -2,7 +2,7 @@
 layout: wiki
 title: 暴风（STORM）
 categories: NewBibleDictionary
-description: 圣经新词典: 暴风（STORM）
+description: 圣经新词典 - 暴风（STORM）
 keywords: 暴风, STORM
 comments: false
 ---

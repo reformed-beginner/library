@@ -2,7 +2,7 @@
 layout: wiki
 title: 灰尘，炉灰，灰（ASHES）
 categories: NewBibleDictionary
-description: 圣经新词典: 灰尘，炉灰，灰（ASHES）
+description: 圣经新词典 - 灰尘，炉灰，灰（ASHES）
 keywords: 灰尘，炉灰，灰, ASHES
 comments: false
 ---

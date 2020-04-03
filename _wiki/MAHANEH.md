@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛哈尼但（MAHANEH-DAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛哈尼但（MAHANEH-DAN）（来；mah]@ne{h-d[a{n，意即“但之营地”）
+description: 圣经新词典 - 玛哈尼但（MAHANEH-DAN）（来；mah]@ne{h-d[a{n，意即“但之营地”）
 keywords: 玛哈尼但, MAHANEH-DAN
 comments: false
 ---

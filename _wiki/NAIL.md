@@ -2,7 +2,7 @@
 layout: wiki
 title: 橛子，钉子，指甲（NAIL）
 categories: NewBibleDictionary
-description: 圣经新词典: 橛子，钉子，指甲（NAIL）
+description: 圣经新词典 - 橛子，钉子，指甲（NAIL）
 keywords: 橛子，钉子，指甲, NAIL
 comments: false
 ---

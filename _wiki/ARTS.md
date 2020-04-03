@@ -2,7 +2,7 @@
 layout: wiki
 title: 技艺（ARTS AND CRAFTS）
 categories: NewBibleDictionary
-description: 圣经新词典: 技艺（ARTS AND CRAFTS）
+description: 圣经新词典 - 技艺（ARTS AND CRAFTS）
 keywords: 技艺, ARTS AND CRAFTS
 comments: false
 ---

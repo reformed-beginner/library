@@ -2,7 +2,7 @@
 layout: wiki
 title: 教会（CHURCH）
 categories: NewBibleDictionary
-description: 圣经新词典: 教会（CHURCH）
+description: 圣经新词典 - 教会（CHURCH）
 keywords: 教会, CHURCH
 comments: false
 ---

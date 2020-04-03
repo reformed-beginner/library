@@ -2,7 +2,7 @@
 layout: wiki
 title: 和好，复和（RECONCILIATION）
 categories: NewBibleDictionary
-description: 圣经新词典: 和好，复和（RECONCILIATION）
+description: 圣经新词典 - 和好，复和（RECONCILIATION）
 keywords: 和好，复和, RECONCILIATION
 comments: false
 ---

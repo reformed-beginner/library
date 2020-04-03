@@ -2,7 +2,7 @@
 layout: wiki
 title: 毗夺（PETHOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 毗夺（PETHOR）
+description: 圣经新词典 - 毗夺（PETHOR）
 keywords: 毗夺, PETHOR
 comments: false
 ---

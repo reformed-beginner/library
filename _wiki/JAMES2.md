@@ -2,7 +2,7 @@
 layout: wiki
 title: 雅各书（JAMES, EPISTLE OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 雅各书（JAMES, EPISTLE OF）
+description: 圣经新词典 - 雅各书（JAMES, EPISTLE OF）
 keywords: 雅各书, JAMES, EPISTLE OF
 comments: false
 ---

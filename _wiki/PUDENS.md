@@ -2,7 +2,7 @@
 layout: wiki
 title: 布田（PUDENS）
 categories: NewBibleDictionary
-description: 圣经新词典: 布田（PUDENS）
+description: 圣经新词典 - 布田（PUDENS）
 keywords: 布田, PUDENS
 comments: false
 ---

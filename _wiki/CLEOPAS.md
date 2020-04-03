@@ -2,7 +2,7 @@
 layout: wiki
 title: 革流巴（CLEOPAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 革流巴（CLEOPAS）（是 Cleopatros 的缩写）
+description: 圣经新词典 - 革流巴（CLEOPAS）（是 Cleopatros 的缩写）
 keywords: 革流巴, CLEOPAS
 comments: false
 ---

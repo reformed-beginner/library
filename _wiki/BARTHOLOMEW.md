@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴多罗买（BARTHOLOMEW）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴多罗买（BARTHOLOMEW）（腊：bartholomaios，意谓挞买 [Talmai] 之子”，或在希罗时代表示“多利买
+description: 圣经新词典 - 巴多罗买（BARTHOLOMEW）（腊：bartholomaios，意谓挞买 [Talmai] 之子”，或在希罗时代表示“多利买
 [Ptolemy] 之子”）
 keywords: 巴多罗买, BARTHOLOMEW
 comments: false

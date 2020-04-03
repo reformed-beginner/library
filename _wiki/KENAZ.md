@@ -2,7 +2,7 @@
 layout: wiki
 title: 基纳斯（KENAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 基纳斯（KENAZ）
+description: 圣经新词典 - 基纳斯（KENAZ）
 keywords: 基纳斯, KENAZ
 comments: false
 ---

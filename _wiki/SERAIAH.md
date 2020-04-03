@@ -2,7 +2,7 @@
 layout: wiki
 title: 西莱雅（SERAIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 西莱雅（SERAIAH）（来：s*#ra{ya^, s*#ra{ya{hu^，意即“耶和华已经得胜”）
+description: 圣经新词典 - 西莱雅（SERAIAH）（来：s*#ra{ya^, s*#ra{ya{hu^，意即“耶和华已经得胜”）
 keywords: 西莱雅, SERAIAH
 comments: false
 ---

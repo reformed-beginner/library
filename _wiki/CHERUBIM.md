@@ -2,7 +2,7 @@
 layout: wiki
 title: 基路伯（CHERUBIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 基路伯（CHERUBIM）（来：k#ru^b[i^m）
+description: 圣经新词典 - 基路伯（CHERUBIM）（来：k#ru^b[i^m）
 keywords: 基路伯, CHERUBIM
 comments: false
 ---

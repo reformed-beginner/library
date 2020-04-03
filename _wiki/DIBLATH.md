@@ -2,7 +2,7 @@
 layout: wiki
 title: 第伯拉他（DIBLATH, DIBLAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 第伯拉他（DIBLATH, DIBLAH）
+description: 圣经新词典 - 第伯拉他（DIBLATH, DIBLAH）
 keywords: 第伯拉他, DIBLATH, DIBLAH
 comments: false
 ---

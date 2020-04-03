@@ -2,7 +2,7 @@
 layout: wiki
 title: 光（LIGHT）
 categories: NewBibleDictionary
-description: 圣经新词典: 光（LIGHT）
+description: 圣经新词典 - 光（LIGHT）
 keywords: 光, LIGHT
 comments: false
 ---

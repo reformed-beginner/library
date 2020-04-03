@@ -2,7 +2,7 @@
 layout: wiki
 title: 平安（PEACE）
 categories: NewBibleDictionary
-description: 圣经新词典: 平安（PEACE）
+description: 圣经新词典 - 平安（PEACE）
 keywords: 平安, PEACE
 comments: false
 ---

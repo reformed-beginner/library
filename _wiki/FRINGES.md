@@ -2,7 +2,7 @@
 layout: wiki
 title: 繸子（FRINGES）
 categories: NewBibleDictionary
-description: 圣经新词典: 繸子（FRINGES）
+description: 圣经新词典 - 繸子（FRINGES）
 keywords: 繸子, FRINGES
 comments: false
 ---

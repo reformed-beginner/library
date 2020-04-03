@@ -2,7 +2,7 @@
 layout: wiki
 title: 网罗（SNARE）
 categories: NewBibleDictionary
-description: 圣经新词典: 网罗（SNARE）
+description: 圣经新词典 - 网罗（SNARE）
 keywords: 网罗, SNARE
 comments: false
 ---

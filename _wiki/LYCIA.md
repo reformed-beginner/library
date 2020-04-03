@@ -2,7 +2,7 @@
 layout: wiki
 title: 吕家（LYCIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 吕家（LYCIA）
+description: 圣经新词典 - 吕家（LYCIA）
 keywords: 吕家, LYCIA
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 饶恕（FORGIVENESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 饶恕（FORGIVENESS）
+description: 圣经新词典 - 饶恕（FORGIVENESS）
 keywords: 饶恕, FORGIVENESS
 comments: false
 ---

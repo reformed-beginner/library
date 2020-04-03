@@ -2,7 +2,7 @@
 layout: wiki
 title: 户煞别（HUZZAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 户煞别（HUZZAB）（来：hus]s]ab[，意思不详，大概源自 na{s]ab[ 一字，意即“已经命定了”）
+description: 圣经新词典 - 户煞别（HUZZAB）（来：hus]s]ab[，意思不详，大概源自 na{s]ab[ 一字，意即“已经命定了”）
 keywords: 户煞别, HUZZAB
 comments: false
 ---

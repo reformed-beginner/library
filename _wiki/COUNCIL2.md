@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶路撒冷大公会议（COUNCIL, JERUSALEM）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶路撒冷大公会议（COUNCIL, JERUSALEM）
+description: 圣经新词典 - 耶路撒冷大公会议（COUNCIL, JERUSALEM）
 keywords: 耶路撒冷大公会议, COUNCIL, JERUSALEM
 comments: false
 ---

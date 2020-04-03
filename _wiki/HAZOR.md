@@ -2,7 +2,7 @@
 layout: wiki
 title: 夏琐（HAZOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 夏琐（HAZOR）（来：h]a{s]o^r）
+description: 圣经新词典 - 夏琐（HAZOR）（来：h]a{s]o^r）
 keywords: 夏琐, HAZOR
 comments: false
 ---

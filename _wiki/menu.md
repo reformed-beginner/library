@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 目录
+description: 圣经新词典 - 目录
 keywords: , 
 comments: false
 ---

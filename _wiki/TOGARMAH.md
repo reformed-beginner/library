@@ -2,7 +2,7 @@
 layout: wiki
 title: 陀迦玛（TOGARMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 陀迦玛（TOGARMAH）
+description: 圣经新词典 - 陀迦玛（TOGARMAH）
 keywords: 陀迦玛, TOGARMAH
 comments: false
 ---

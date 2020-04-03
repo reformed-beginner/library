@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴忒罗；帕斯鲁细人（PATHROS, PATHRUSIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴忒罗；帕斯鲁细人（PATHROS, PATHRUSIM）
+description: 圣经新词典 - 巴忒罗；帕斯鲁细人（PATHROS, PATHRUSIM）
 keywords: 巴忒罗；帕斯鲁细人, PATHROS, PATHRUSIM
 comments: false
 ---

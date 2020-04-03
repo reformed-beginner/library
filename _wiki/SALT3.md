@@ -2,7 +2,7 @@
 layout: wiki
 title: 盐谷（SALT, VALLEY OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 盐谷（SALT, VALLEY OF）
+description: 圣经新词典 - 盐谷（SALT, VALLEY OF）
 keywords: 盐谷, SALT, VALLEY OF
 comments: false
 ---

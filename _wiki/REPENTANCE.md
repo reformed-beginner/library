@@ -2,7 +2,7 @@
 layout: wiki
 title: 悔改（REPENTANCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 悔改（REPENTANCE）
+description: 圣经新词典 - 悔改（REPENTANCE）
 keywords: 悔改, REPENTANCE
 comments: false
 ---

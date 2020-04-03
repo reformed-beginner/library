@@ -2,7 +2,7 @@
 layout: wiki
 title: 脚凳（FOOTSTOOL）
 categories: NewBibleDictionary
-description: 圣经新词典: 脚凳（FOOTSTOOL）
+description: 圣经新词典 - 脚凳（FOOTSTOOL）
 keywords: 脚凳, FOOTSTOOL
 comments: false
 ---

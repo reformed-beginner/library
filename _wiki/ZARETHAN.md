@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒利但（ZARETHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒利但（ZARETHAN）
+description: 圣经新词典 - 撒利但（ZARETHAN）
 keywords: 撒利但, ZARETHAN
 comments: false
 ---

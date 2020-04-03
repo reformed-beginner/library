@@ -2,7 +2,7 @@
 layout: wiki
 title: 以萨迦（ISSACHAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 以萨迦（ISSACHAR）
+description: 圣经新词典 - 以萨迦（ISSACHAR）
 keywords: 以萨迦, ISSACHAR
 comments: false
 ---

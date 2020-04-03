@@ -2,7 +2,7 @@
 layout: wiki
 title: 以罗伊，以罗伊，拉马撒巴各大尼（ELOI, ELOI, LAMA SABACHTHANI）
 categories: NewBibleDictionary
-description: 圣经新词典: 以罗伊，以罗伊，拉马撒巴各大尼（ELOI, ELOI, LAMA SABACHTHANI）
+description: 圣经新词典 - 以罗伊，以罗伊，拉马撒巴各大尼（ELOI, ELOI, LAMA SABACHTHANI）
 keywords: 以罗伊，以罗伊，拉马撒巴各大尼, ELOI, ELOI, LAMA SABACHTHANI
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 以色（EZEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 以色（EZEL）
+description: 圣经新词典 - 以色（EZEL）
 keywords: 以色, EZEL
 comments: false
 ---

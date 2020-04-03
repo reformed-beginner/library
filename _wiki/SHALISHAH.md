@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙利沙（SHALISHAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙利沙（SHALISHAH）
+description: 圣经新词典 - 沙利沙（SHALISHAH）
 keywords: 沙利沙, SHALISHAH
 comments: false
 ---

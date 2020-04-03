@@ -2,7 +2,7 @@
 layout: wiki
 title: 罪（SIN）
 categories: NewBibleDictionary
-description: 圣经新词典: 罪（SIN）
+description: 圣经新词典 - 罪（SIN）
 keywords: 罪, SIN
 comments: false
 ---

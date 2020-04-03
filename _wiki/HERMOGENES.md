@@ -2,7 +2,7 @@
 layout: wiki
 title: 黑摩其尼（HERMOGENES）
 categories: NewBibleDictionary
-description: 圣经新词典: 黑摩其尼（HERMOGENES）
+description: 圣经新词典 - 黑摩其尼（HERMOGENES）
 keywords: 黑摩其尼, HERMOGENES
 comments: false
 ---

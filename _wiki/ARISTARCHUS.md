@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚里达古（ARISTARCHUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚里达古（ARISTARCHUS）
+description: 圣经新词典 - 亚里达古（ARISTARCHUS）
 keywords: 亚里达古, ARISTARCHUS
 comments: false
 ---

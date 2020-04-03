@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴哈摩押（PAHATH-MOAB）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴哈摩押（PAHATH-MOAB）（直译为“摩押的省长”）
+description: 圣经新词典 - 巴哈摩押（PAHATH-MOAB）（直译为“摩押的省长”）
 keywords: 巴哈摩押, PAHATH-MOAB
 comments: false
 ---

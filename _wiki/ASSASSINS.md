@@ -2,7 +2,7 @@
 layout: wiki
 title: 凶徒（ASSASSINS）
 categories: NewBibleDictionary
-description: 圣经新词典: 凶徒（ASSASSINS）
+description: 圣经新词典 - 凶徒（ASSASSINS）
 keywords: 凶徒, ASSASSINS
 comments: false
 ---

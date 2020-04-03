@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚述巴尼帕（ASHURBANIPAL）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚述巴尼帕（ASHURBANIPAL）（亚述文：As%s%ur-ba{n-apli，“亚述得了一个儿子”）
+description: 圣经新词典 - 亚述巴尼帕（ASHURBANIPAL）（亚述文：As%s%ur-ba{n-apli，“亚述得了一个儿子”）
 keywords: 亚述巴尼帕, ASHURBANIPAL
 comments: false
 ---

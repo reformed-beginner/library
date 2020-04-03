@@ -2,7 +2,7 @@
 layout: wiki
 title: 圣所（SANCTURAY）
 categories: NewBibleDictionary
-description: 圣经新词典: 圣所（SANCTURAY）
+description: 圣经新词典 - 圣所（SANCTURAY）
 keywords: 圣所, SANCTURAY
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 果子（FRUIT, FRUITS）
 categories: NewBibleDictionary
-description: 圣经新词典: 果子（FRUIT, FRUITS）
+description: 圣经新词典 - 果子（FRUIT, FRUITS）
 keywords: 果子, FRUIT, FRUITS
 comments: false
 ---

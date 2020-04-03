@@ -2,7 +2,7 @@
 layout: wiki
 title: 象牙（IVORY）
 categories: NewBibleDictionary
-description: 圣经新词典: 象牙（IVORY）
+description: 圣经新词典 - 象牙（IVORY）
 keywords: 象牙, IVORY
 comments: false
 ---

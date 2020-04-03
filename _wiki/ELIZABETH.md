@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利沙伯（ELIZABETH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利沙伯（ELIZABETH）（取自来：~#li^s%eb[a`，意即“神是〔我的〕誓言”）
+description: 圣经新词典 - 以利沙伯（ELIZABETH）（取自来：~#li^s%eb[a`，意即“神是〔我的〕誓言”）
 keywords: 以利沙伯, ELIZABETH
 comments: false
 ---

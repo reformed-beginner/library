@@ -2,7 +2,7 @@
 layout: wiki
 title: 玛能那他（主必要来）
 categories: NewBibleDictionary
-description: 圣经新词典: 玛能那他（主必要来）（MARANATHA）
+description: 圣经新词典 - 玛能那他（主必要来）（MARANATHA）
 keywords: 玛能那他, 主必要来
 comments: false
 ---

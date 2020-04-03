@@ -2,7 +2,7 @@
 layout: wiki
 title: 埃提阿伯的女子（ETHIOPIAN WOMAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 埃提阿伯的女子（ETHIOPIAN WOMAN）
+description: 圣经新词典 - 埃提阿伯的女子（ETHIOPIAN WOMAN）
 keywords: 埃提阿伯的女子, ETHIOPIAN WOMAN
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒罗米（SALOME）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒罗米（SALOME）（来：s%a{lo^m，意为“平安”，加上希腊文词尾）
+description: 圣经新词典 - 撒罗米（SALOME）（来：s%a{lo^m，意为“平安”，加上希腊文词尾）
 keywords: 撒罗米, SALOME
 comments: false
 ---

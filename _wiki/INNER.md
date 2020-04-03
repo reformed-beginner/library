@@ -2,7 +2,7 @@
 layout: wiki
 title: 内心，内里的人（INNER MAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 内心，内里的人（INNER MAN）
+description: 圣经新词典 - 内心，内里的人（INNER MAN）
 keywords: 内心，内里的人, INNER MAN
 comments: false
 ---

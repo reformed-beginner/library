@@ -2,7 +2,7 @@
 layout: wiki
 title: 利鲜（RESEN）
 categories: NewBibleDictionary
-description: 圣经新词典: 利鲜（RESEN）（腊：Dasen）
+description: 圣经新词典 - 利鲜（RESEN）（腊：Dasen）
 keywords: 利鲜, RESEN
 comments: false
 ---

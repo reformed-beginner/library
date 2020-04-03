@@ -2,7 +2,7 @@
 layout: wiki
 title: 沙玛（SHAMMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 沙玛（SHAMMAH）
+description: 圣经新词典 - 沙玛（SHAMMAH）
 keywords: 沙玛, SHAMMAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚比米勒（ABIMELECH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚比米勒（ABIMELECH）（来：~@b[I^melek[，“〔神圣的〕王是我父”）
+description: 圣经新词典 - 亚比米勒（ABIMELECH）（来：~@b[I^melek[，“〔神圣的〕王是我父”）
 keywords: 亚比米勒, ABIMELECH
 comments: false
 ---

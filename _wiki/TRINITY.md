@@ -2,7 +2,7 @@
 layout: wiki
 title: 三位一体（TRINITY）
 categories: NewBibleDictionary
-description: 圣经新词典: 三位一体（TRINITY）
+description: 圣经新词典 - 三位一体（TRINITY）
 keywords: 三位一体, TRINITY
 comments: false
 ---

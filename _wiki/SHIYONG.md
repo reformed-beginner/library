@@ -2,7 +2,7 @@
 layout: wiki
 title: 
 categories: NewBibleDictionary
-description: 圣经新词典: 本辞典的使用方法
+description: 圣经新词典 - 本辞典的使用方法
 keywords: , 
 comments: false
 ---

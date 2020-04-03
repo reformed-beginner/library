@@ -2,7 +2,7 @@
 layout: wiki
 title: 问安（GREETING）
 categories: NewBibleDictionary
-description: 圣经新词典: 问安（GREETING）
+description: 圣经新词典 - 问安（GREETING）
 keywords: 问安, GREETING
 comments: false
 ---

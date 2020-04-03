@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈门（HARMON）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈门（HARMON）
+description: 圣经新词典 - 哈门（HARMON）
 keywords: 哈门, HARMON
 comments: false
 ---

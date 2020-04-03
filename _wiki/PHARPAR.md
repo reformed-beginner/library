@@ -2,7 +2,7 @@
 layout: wiki
 title: 法珥法河（PHARPAR）
 categories: NewBibleDictionary
-description: 圣经新词典: 法珥法河（PHARPAR）（“急速”之意）
+description: 圣经新词典 - 法珥法河（PHARPAR）（“急速”之意）
 keywords: 法珥法河, PHARPAR
 comments: false
 ---

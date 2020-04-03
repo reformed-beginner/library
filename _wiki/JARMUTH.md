@@ -2,7 +2,7 @@
 layout: wiki
 title: 耶末（JARMUTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 耶末（JARMUTH）（来：yarmu^t[）
+description: 圣经新词典 - 耶末（JARMUTH）（来：yarmu^t[）
 keywords: 耶末, JARMUTH
 comments: false
 ---

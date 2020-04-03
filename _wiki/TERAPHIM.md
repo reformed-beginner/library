@@ -2,7 +2,7 @@
 layout: wiki
 title: 家神（TERAPHIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 家神（TERAPHIM）
+description: 圣经新词典 - 家神（TERAPHIM）
 keywords: 家神, TERAPHIM
 comments: false
 ---

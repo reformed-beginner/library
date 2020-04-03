@@ -2,7 +2,7 @@
 layout: wiki
 title: 彼得（PETER）
 categories: NewBibleDictionary
-description: 圣经新词典: 彼得（PETER）
+description: 圣经新词典 - 彼得（PETER）
 keywords: 彼得, PETER
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚哈斯（AHAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚哈斯（AHAZ）（来：~a{h]az，意思为“他已抓住”）
+description: 圣经新词典 - 亚哈斯（AHAZ）（来：~a{h]az，意思为“他已抓住”）
 keywords: 亚哈斯, AHAZ
 comments: false
 ---

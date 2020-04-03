@@ -2,7 +2,7 @@
 layout: wiki
 title: 监督，主教（BISHOP）
 categories: NewBibleDictionary
-description: 圣经新词典: 监督，主教（BISHOP）
+description: 圣经新词典 - 监督，主教（BISHOP）
 keywords: 监督，主教, BISHOP
 comments: false
 ---

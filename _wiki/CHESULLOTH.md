@@ -2,7 +2,7 @@
 layout: wiki
 title: 基苏律（CHESULLOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 基苏律（CHESULLOTH）
+description: 圣经新词典 - 基苏律（CHESULLOTH）
 keywords: 基苏律, CHESULLOTH
 comments: false
 ---

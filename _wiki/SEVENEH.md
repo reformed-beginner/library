@@ -2,7 +2,7 @@
 layout: wiki
 title: 色弗尼（SEVENEH）
 categories: NewBibleDictionary
-description: 圣经新词典: 色弗尼（SEVENEH）
+description: 圣经新词典 - 色弗尼（SEVENEH）
 keywords: 色弗尼, SEVENEH
 comments: false
 ---

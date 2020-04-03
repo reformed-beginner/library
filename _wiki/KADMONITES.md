@@ -2,7 +2,7 @@
 layout: wiki
 title: 甲摩尼人（KADMONITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 甲摩尼人（KADMONITES）
+description: 圣经新词典 - 甲摩尼人（KADMONITES）
 keywords: 甲摩尼人, KADMONITES
 comments: false
 ---

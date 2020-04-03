@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚希玛斯（AHIMAAZ）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚希玛斯（AHIMAAZ）（来：~@h]i^ma`as]，意思为“我的弟兄愤怒”）
+description: 圣经新词典 - 亚希玛斯（AHIMAAZ）（来：~@h]i^ma`as]，意思为“我的弟兄愤怒”）
 keywords: 亚希玛斯, AHIMAAZ
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 隐示麦（EN-SHEMESH）
 categories: NewBibleDictionary
-description: 圣经新词典: 隐示麦（EN-SHEMESH）（来：`e^n-s%emes%，“太阳之泉”）
+description: 圣经新词典 - 隐示麦（EN-SHEMESH）（来：`e^n-s%emes%，“太阳之泉”）
 keywords: 隐示麦, EN-SHEMESH
 comments: false
 ---

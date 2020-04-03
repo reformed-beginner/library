@@ -2,7 +2,7 @@
 layout: wiki
 title: 迦勒底的吾珥（UR OF THE CHALDEES）
 categories: NewBibleDictionary
-description: 圣经新词典: 迦勒底的吾珥（UR OF THE CHALDEES）
+description: 圣经新词典 - 迦勒底的吾珥（UR OF THE CHALDEES）
 keywords: 迦勒底的吾珥, UR OF THE CHALDEES
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 戏园（THEATRE）
 categories: NewBibleDictionary
-description: 圣经新词典: 戏园（THEATRE）
+description: 圣经新词典 - 戏园（THEATRE）
 keywords: 戏园, THEATRE
 comments: false
 ---

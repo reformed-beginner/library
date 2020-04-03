@@ -2,7 +2,7 @@
 layout: wiki
 title: 王的朋友（FRIEND OF THE KING）
 categories: NewBibleDictionary
-description: 圣经新词典: 王的朋友（FRIEND OF THE KING）
+description: 圣经新词典 - 王的朋友（FRIEND OF THE KING）
 keywords: 王的朋友, FRIEND OF THE KING
 comments: false
 ---

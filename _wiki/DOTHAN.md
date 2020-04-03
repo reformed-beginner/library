@@ -2,7 +2,7 @@
 layout: wiki
 title: 多坍（DOTHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 多坍（DOTHAN）
+description: 圣经新词典 - 多坍（DOTHAN）
 keywords: 多坍, DOTHAN
 comments: false
 ---

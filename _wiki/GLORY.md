@@ -2,7 +2,7 @@
 layout: wiki
 title: 荣耀（GLORY）
 categories: NewBibleDictionary
-description: 圣经新词典: 荣耀（GLORY）
+description: 圣经新词典 - 荣耀（GLORY）
 keywords: 荣耀, GLORY
 comments: false
 ---

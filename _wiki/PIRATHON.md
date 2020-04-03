@@ -2,7 +2,7 @@
 layout: wiki
 title: 比拉顿（PIRATHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 比拉顿（PIRATHON）
+description: 圣经新词典 - 比拉顿（PIRATHON）
 keywords: 比拉顿, PIRATHON
 comments: false
 ---

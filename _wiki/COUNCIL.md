@@ -2,7 +2,7 @@
 layout: wiki
 title: 议会（COUNCIL）
 categories: NewBibleDictionary
-description: 圣经新词典: 议会（COUNCIL）
+description: 圣经新词典 - 议会（COUNCIL）
 keywords: 议会, COUNCIL
 comments: false
 ---

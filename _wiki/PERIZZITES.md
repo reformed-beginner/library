@@ -2,7 +2,7 @@
 layout: wiki
 title: 比利洗人（PERIZZITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 比利洗人（PERIZZITES）
+description: 圣经新词典 - 比利洗人（PERIZZITES）
 keywords: 比利洗人, PERIZZITES
 comments: false
 ---

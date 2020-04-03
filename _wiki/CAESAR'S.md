@@ -2,7 +2,7 @@
 layout: wiki
 title: 该撒家里的人（CAESAR'S HOUSEHOLD）
 categories: NewBibleDictionary
-description: 圣经新词典: 该撒家里的人（CAESAR'S HOUSEHOLD）
+description: 圣经新词典 - 该撒家里的人（CAESAR'S HOUSEHOLD）
 keywords: 该撒家里的人, CAESAR'S HOUSEHOLD
 comments: false
 ---

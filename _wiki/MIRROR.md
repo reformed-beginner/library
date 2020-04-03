@@ -2,7 +2,7 @@
 layout: wiki
 title: 镜子（MIRROR）
 categories: NewBibleDictionary
-description: 圣经新词典: 镜子（MIRROR）
+description: 圣经新词典 - 镜子（MIRROR）
 keywords: 镜子, MIRROR
 comments: false
 ---

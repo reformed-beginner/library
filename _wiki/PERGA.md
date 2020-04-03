@@ -2,7 +2,7 @@
 layout: wiki
 title: 别加（PERGA）
 categories: NewBibleDictionary
-description: 圣经新词典: 别加（PERGA）
+description: 圣经新词典 - 别加（PERGA）
 keywords: 别加, PERGA
 comments: false
 ---

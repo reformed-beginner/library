@@ -2,7 +2,7 @@
 layout: wiki
 title: 犹士都（JUSTUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 犹士都（JUSTUS）
+description: 圣经新词典 - 犹士都（JUSTUS）
 keywords: 犹士都, JUSTUS
 comments: false
 ---

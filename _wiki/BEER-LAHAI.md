@@ -2,7 +2,7 @@
 layout: wiki
 title: 庇耳拉海莱（BEER-LAHAI-ROI）
 categories: NewBibleDictionary
-description: 圣经新词典: 庇耳拉海莱（BEER-LAHAI-ROI）
+description: 圣经新词典 - 庇耳拉海莱（BEER-LAHAI-ROI）
 keywords: 庇耳拉海莱, BEER-LAHAI-ROI
 comments: false
 ---

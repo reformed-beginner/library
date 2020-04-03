@@ -2,7 +2,7 @@
 layout: wiki
 title: 革罗罢（CLOPAS）
 categories: NewBibleDictionary
-description: 圣经新词典: 革罗罢（CLOPAS）（AV 作 'Cleophas'）
+description: 圣经新词典 - 革罗罢（CLOPAS）（AV 作 'Cleophas'）
 keywords: 革罗罢, CLOPAS
 comments: false
 ---

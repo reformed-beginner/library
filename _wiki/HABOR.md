@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈博河（HABOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈博河（HABOR）
+description: 圣经新词典 - 哈博河（HABOR）
 keywords: 哈博河, HABOR
 comments: false
 ---

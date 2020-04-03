@@ -2,7 +2,7 @@
 layout: wiki
 title: 赶牛的棍子（GOAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 赶牛的棍子（GOAD）
+description: 圣经新词典 - 赶牛的棍子（GOAD）
 keywords: 赶牛的棍子, GOAD
 comments: false
 ---

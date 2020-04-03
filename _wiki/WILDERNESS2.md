@@ -2,7 +2,7 @@
 layout: wiki
 title: 旷野漂流（WILDERNESS OF WANDERING）
 categories: NewBibleDictionary
-description: 圣经新词典: 旷野漂流（WILDERNESS OF WANDERING）
+description: 圣经新词典 - 旷野漂流（WILDERNESS OF WANDERING）
 keywords: 旷野漂流, WILDERNESS OF WANDERING
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 基低斯；拿弗他利的基低斯（KEDESH, KEDESH IN NAPHTALI）
 categories: NewBibleDictionary
-description: 圣经新词典: 基低斯；拿弗他利的基低斯（KEDESH, KEDESH IN NAPHTALI）
+description: 圣经新词典 - 基低斯；拿弗他利的基低斯（KEDESH, KEDESH IN NAPHTALI）
 keywords: 基低斯；拿弗他利的基低斯, KEDESH, KEDESH IN NAPHTALI
 comments: false
 ---

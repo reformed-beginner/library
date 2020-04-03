@@ -2,7 +2,7 @@
 layout: wiki
 title: 底米丢（DEMETRIUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 底米丢（DEMETRIUS）
+description: 圣经新词典 - 底米丢（DEMETRIUS）
 keywords: 底米丢, DEMETRIUS
 comments: false
 ---

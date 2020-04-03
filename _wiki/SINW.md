@@ -2,7 +2,7 @@
 layout: wiki
 title: 汛的旷野（SIN, WILDERSNESS OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 汛的旷野（SIN, WILDERSNESS OF）
+description: 圣经新词典 - 汛的旷野（SIN, WILDERSNESS OF）
 keywords: 汛的旷野, SIN, WILDERSNESS OF
 comments: false
 ---

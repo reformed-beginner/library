@@ -2,7 +2,7 @@
 layout: wiki
 title: 香（INCENSE）
 categories: NewBibleDictionary
-description: 圣经新词典: 香（INCENSE）
+description: 圣经新词典 - 香（INCENSE）
 keywords: 香, INCENSE
 comments: false
 ---

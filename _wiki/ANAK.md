@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚衲；亚衲人（ANAK, ANAKIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚衲；亚衲人（ANAK, ANAKIM）（来：`@na^qi^m）
+description: 圣经新词典 - 亚衲；亚衲人（ANAK, ANAKIM）（来：`@na^qi^m）
 keywords: 亚衲；亚衲人, ANAK, ANAKIM
 comments: false
 ---

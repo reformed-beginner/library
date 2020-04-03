@@ -2,7 +2,7 @@
 layout: wiki
 title: 像，形像（IMAGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 像，形像（IMAGE）
+description: 圣经新词典 - 像，形像（IMAGE）
 keywords: 像，形像, IMAGE
 comments: false
 ---

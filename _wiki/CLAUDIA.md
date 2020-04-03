@@ -2,7 +2,7 @@
 layout: wiki
 title: 革老底亚（CLAUDIA）
 categories: NewBibleDictionary
-description: 圣经新词典: 革老底亚（CLAUDIA）
+description: 圣经新词典 - 革老底亚（CLAUDIA）
 keywords: 革老底亚, CLAUDIA
 comments: false
 ---

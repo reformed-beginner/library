@@ -2,7 +2,7 @@
 layout: wiki
 title: 撒分（ZAPHON）
 categories: NewBibleDictionary
-description: 圣经新词典: 撒分（ZAPHON）
+description: 圣经新词典 - 撒分（ZAPHON）
 keywords: 撒分, ZAPHON
 comments: false
 ---

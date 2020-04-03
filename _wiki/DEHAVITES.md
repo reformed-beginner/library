@@ -2,7 +2,7 @@
 layout: wiki
 title: 底亥人（DEHAVITES, DEHAITES）
 categories: NewBibleDictionary
-description: 圣经新词典: 底亥人（DEHAVITES, DEHAITES）
+description: 圣经新词典 - 底亥人（DEHAVITES, DEHAITES）
 keywords: 底亥人, DEHAVITES, DEHAITES
 comments: false
 ---

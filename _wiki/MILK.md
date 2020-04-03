@@ -2,7 +2,7 @@
 layout: wiki
 title: 奶（MILK）
 categories: NewBibleDictionary
-description: 圣经新词典: 奶（MILK）（来：h]a{la{b[；腊：gala）
+description: 圣经新词典 - 奶（MILK）（来：h]a{la{b[；腊：gala）
 keywords: 奶, MILK
 comments: false
 ---

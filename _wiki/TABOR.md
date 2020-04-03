@@ -2,7 +2,7 @@
 layout: wiki
 title: 他泊（TABOR）
 categories: NewBibleDictionary
-description: 圣经新词典: 他泊（TABOR）
+description: 圣经新词典 - 他泊（TABOR）
 keywords: 他泊, TABOR
 comments: false
 ---

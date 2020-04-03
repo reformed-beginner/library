@@ -2,7 +2,7 @@
 layout: wiki
 title: 疏割比讷（SUCCOTH-BENOTH）
 categories: NewBibleDictionary
-description: 圣经新词典: 疏割比讷（SUCCOTH-BENOTH）
+description: 圣经新词典 - 疏割比讷（SUCCOTH-BENOTH）
 keywords: 疏割比讷, SUCCOTH-BENOTH
 comments: false
 ---

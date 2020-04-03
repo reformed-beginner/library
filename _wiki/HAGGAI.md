@@ -2,7 +2,7 @@
 layout: wiki
 title: 哈该书（HAGGAI, BOOK OF）
 categories: NewBibleDictionary
-description: 圣经新词典: 哈该书（HAGGAI, BOOK OF）
+description: 圣经新词典 - 哈该书（HAGGAI, BOOK OF）
 keywords: 哈该书, HAGGAI, BOOK OF
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 西罗非哈（ZELOPHEHAD）
 categories: NewBibleDictionary
-description: 圣经新词典: 西罗非哈（ZELOPHEHAD）
+description: 圣经新词典 - 西罗非哈（ZELOPHEHAD）
 keywords: 西罗非哈, ZELOPHEHAD
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 教会体制（CHURCH GOVERNMENT）
 categories: NewBibleDictionary
-description: 圣经新词典: 教会体制（CHURCH GOVERNMENT）
+description: 圣经新词典 - 教会体制（CHURCH GOVERNMENT）
 keywords: 教会体制, CHURCH GOVERNMENT
 comments: false
 ---

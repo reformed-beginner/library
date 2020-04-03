@@ -2,7 +2,7 @@
 layout: wiki
 title: 贸易与商业（TRADE AND COMMERCE）
 categories: NewBibleDictionary
-description: 圣经新词典: 贸易与商业（TRADE AND COMMERCE）
+description: 圣经新词典 - 贸易与商业（TRADE AND COMMERCE）
 keywords: 贸易与商业, TRADE AND COMMERCE
 comments: false
 ---

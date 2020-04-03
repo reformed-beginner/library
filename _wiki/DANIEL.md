@@ -2,7 +2,7 @@
 layout: wiki
 title: 但以理，但以利（DANIEL）
 categories: NewBibleDictionary
-description: 圣经新词典: 但以理，但以利（DANIEL）（来：da{niyye{~l, da{ni~e{l，“神是我的审判者”）
+description: 圣经新词典 - 但以理，但以利（DANIEL）（来：da{niyye{~l, da{ni~e{l，“神是我的审判者”）
 keywords: 但以理，但以利, DANIEL
 comments: false
 ---

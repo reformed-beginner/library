@@ -2,7 +2,7 @@
 layout: wiki
 title: 底格里斯河（TIGRIS）
 categories: NewBibleDictionary
-description: 圣经新词典: 底格里斯河（TIGRIS）
+description: 圣经新词典 - 底格里斯河（TIGRIS）
 keywords: 底格里斯河, TIGRIS
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 可拉（KORAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 可拉（KORAH）（来：qo{rah] = 光秃？）
+description: 圣经新词典 - 可拉（KORAH）（来：qo{rah] = 光秃？）
 keywords: 可拉, KORAH
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 温柔（GENTLENESS）
 categories: NewBibleDictionary
-description: 圣经新词典: 温柔（GENTLENESS）
+description: 圣经新词典 - 温柔（GENTLENESS）
 keywords: 温柔, GENTLENESS
 comments: false
 ---

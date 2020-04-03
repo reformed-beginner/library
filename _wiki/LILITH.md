@@ -2,7 +2,7 @@
 layout: wiki
 title: 利利特（LILITH）
 categories: NewBibleDictionary
-description: 圣经新词典: 利利特（LILITH）（来：li^li^t，赛卅四14，RV 旁注，JB; LXX: onokentauros; Symm
+description: 圣经新词典 - 利利特（LILITH）（来：li^li^t，赛卅四14，RV 旁注，JB; LXX: onokentauros; Symm
 keywords: 利利特, LILITH
 comments: false
 ---

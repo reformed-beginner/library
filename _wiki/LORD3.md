@@ -2,7 +2,7 @@
 layout: wiki
 title: 主餐（LORD'S SUPPER, THE）
 categories: NewBibleDictionary
-description: 圣经新词典: 主餐（LORD'S SUPPER, THE）
+description: 圣经新词典 - 主餐（LORD'S SUPPER, THE）
 keywords: 主餐, LORD'S SUPPER, THE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 传讲，宣教（PREACHING）
 categories: NewBibleDictionary
-description: 圣经新词典: 传讲，宣教（PREACHING）
+description: 圣经新词典 - 传讲，宣教（PREACHING）
 keywords: 传讲，宣教, PREACHING
 comments: false
 ---

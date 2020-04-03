@@ -2,7 +2,7 @@
 layout: wiki
 title: 麦比拉（MACHPELAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 麦比拉（MACHPELAH）
+description: 圣经新词典 - 麦比拉（MACHPELAH）
 keywords: 麦比拉, MACHPELAH
 comments: false
 ---

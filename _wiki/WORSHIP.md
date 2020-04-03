@@ -2,7 +2,7 @@
 layout: wiki
 title: 崇拜（WORSHIP）
 categories: NewBibleDictionary
-description: 圣经新词典: 崇拜（WORSHIP）
+description: 圣经新词典 - 崇拜（WORSHIP）
 keywords: 崇拜, WORSHIP
 comments: false
 ---

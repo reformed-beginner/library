@@ -2,7 +2,7 @@
 layout: wiki
 title: 利未安单（LEVIATHAN）
 categories: NewBibleDictionary
-description: 圣经新词典: 利未安单（LEVIATHAN）
+description: 圣经新词典 - 利未安单（LEVIATHAN）
 keywords: 利未安单, LEVIATHAN
 comments: false
 ---

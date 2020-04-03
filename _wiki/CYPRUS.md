@@ -2,7 +2,7 @@
 layout: wiki
 title: 居比路/塞浦路斯（CYPRUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 居比路/塞浦路斯（CYPRUS）
+description: 圣经新词典 - 居比路/塞浦路斯（CYPRUS）
 keywords: 居比路/塞浦路斯, CYPRUS
 comments: false
 ---

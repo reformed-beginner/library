@@ -2,7 +2,7 @@
 layout: wiki
 title: 族长时期/列祖时期（PATRIARCHAL AGE）
 categories: NewBibleDictionary
-description: 圣经新词典: 族长时期/列祖时期（PATRIARCHAL AGE）
+description: 圣经新词典 - 族长时期/列祖时期（PATRIARCHAL AGE）
 keywords: 族长时期/列祖时期, PATRIARCHAL AGE
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 利河伯城（REHOBOTH-IR）
 categories: NewBibleDictionary
-description: 圣经新词典: 利河伯城（REHOBOTH-IR）（来：r#h]o{b[o{t[ `i^r）
+description: 圣经新词典 - 利河伯城（REHOBOTH-IR）（来：r#h]o{b[o{t[ `i^r）
 keywords: 利河伯城, REHOBOTH-IR
 comments: false
 ---

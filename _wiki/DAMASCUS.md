@@ -2,7 +2,7 @@
 layout: wiki
 title: 大马色/大马士革（DAMASCUS）
 categories: NewBibleDictionary
-description: 圣经新词典: 大马色/大马士革（DAMASCUS）
+description: 圣经新词典 - 大马色/大马士革（DAMASCUS）
 keywords: 大马色/大马士革, DAMASCUS
 comments: false
 ---

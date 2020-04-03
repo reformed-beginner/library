@@ -2,7 +2,7 @@
 layout: wiki
 title: 城里的书记（TOWN CLERK）
 categories: NewBibleDictionary
-description: 圣经新词典: 城里的书记（TOWN CLERK）
+description: 圣经新词典 - 城里的书记（TOWN CLERK）
 keywords: 城里的书记, TOWN CLERK
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: wiki
 title: 琐腓（ZOPHIM）
 categories: NewBibleDictionary
-description: 圣经新词典: 琐腓（ZOPHIM）
+description: 圣经新词典 - 琐腓（ZOPHIM）
 keywords: 琐腓, ZOPHIM
 comments: false
 ---

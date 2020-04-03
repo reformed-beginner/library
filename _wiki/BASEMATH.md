@@ -2,7 +2,7 @@
 layout: wiki
 title: 巴实抹（BASEMATH）
 categories: NewBibleDictionary
-description: 圣经新词典: 巴实抹（BASEMATH）（AV 作 BASHE-MATH）
+description: 圣经新词典 - 巴实抹（BASEMATH）（AV 作 BASHE-MATH）
 keywords: 巴实抹, BASEMATH
 comments: false
 ---

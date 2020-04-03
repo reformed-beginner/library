@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉玛（RAMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉玛（RAMAH）
+description: 圣经新词典 - 拉玛（RAMAH）
 keywords: 拉玛, RAMAH
 comments: false
 ---

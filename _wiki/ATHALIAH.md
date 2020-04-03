@@ -2,7 +2,7 @@
 layout: wiki
 title: 亚他利雅（ATHALIAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 亚他利雅（ATHALIAH）（来：`@t[aya{hu^，“耶和华被高举”，'Yahweh is exalted'）
+description: 圣经新词典 - 亚他利雅（ATHALIAH）（来：`@t[aya{hu^，“耶和华被高举”，'Yahweh is exalted'）
 keywords: 亚他利雅, ATHALIAH
 comments: false
 ---

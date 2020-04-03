@@ -2,7 +2,7 @@
 layout: wiki
 title: 以利亚利（ELEALEH）
 categories: NewBibleDictionary
-description: 圣经新词典: 以利亚利（ELEALEH）（来：~el`a{le{h，“神被高举”，'God is exalted'）
+description: 圣经新词典 - 以利亚利（ELEALEH）（来：~el`a{le{h，“神被高举”，'God is exalted'）
 keywords: 以利亚利, ELEALEH
 comments: false
 ---

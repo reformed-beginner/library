@@ -2,7 +2,7 @@
 layout: wiki
 title: 以土买（IDUMAEA）
 categories: NewBibleDictionary
-description: 圣经新词典: 以土买（IDUMAEA）
+description: 圣经新词典 - 以土买（IDUMAEA）
 keywords: 以土买, IDUMAEA
 comments: false
 ---

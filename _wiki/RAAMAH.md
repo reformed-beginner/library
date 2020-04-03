@@ -2,7 +2,7 @@
 layout: wiki
 title: 拉玛（RAAMAH）
 categories: NewBibleDictionary
-description: 圣经新词典: 拉玛（RAAMAH）（来：ra`ma^, ra`ma{，“战栗”）
+description: 圣经新词典 - 拉玛（RAAMAH）（来：ra`ma^, ra`ma{，“战栗”）
 keywords: 拉玛, RAAMAH
 comments: false
 ---
