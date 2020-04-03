@@ -2,19 +2,21 @@
 layout: wiki
 title: 胡须（BEARD）
 categories: NewBibleDictionary
-description: 胡须（BEARD）
-keywords: 胡须（BEARD）
+description: 圣经新词典: 胡须（BEARD）
+keywords: 胡须, BEARD
 comments: false
 ---
 
 ## 胡须（BEARD）
 
-
-
-胡须（BEARD）
 1. 来：za{qa{n。以色列人及邻族的人，都喜爱蓄上满脸胡须，并小心护理。胡须是生命力及男性俊美的表记（诗一三三2；参：撒下十九24）；剃掉或遮蔽胡须便是悲痛或哀号的象征（赛十五2；耶四十八37等等；参：利十九27，廿一5，可能是对付拜偶像风习的措施），也是痳疯病者的征记（利十四6）。损折别人的胡须乃是对那人不敬的表现（撒下十4；赛五十6）。耶利米批评那些刮净鬓角的人（耶九26等等）。（*头发；*埋葬与哀悼）
+
 2. 来：s*a{p{a{m （撒下十九24），指口唇以上的髭。
+
 J.D.D.
+
+
+
 
 
 

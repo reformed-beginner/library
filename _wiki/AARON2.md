@@ -2,18 +2,20 @@
 layout: wiki
 title: 亚伦的杖（AARON'S ROD）
 categories: NewBibleDictionary
-description: 亚伦的杖（AARON'S ROD）
-keywords: 亚伦的杖（AARON'S ROD）
+description: 圣经新词典: 亚伦的杖（AARON'S ROD）
+keywords: 亚伦的杖, AARON'S ROD
 comments: false
 ---
 
 ## 亚伦的杖（AARON'S ROD）
 
-
-
-亚伦的杖（AARON'S ROD）
 　　可拉与同党的叛逆（民十六1起）清楚地显出：利未支派的神圣地位，以及该支派中亚伦及其子孙的祭司职位，都当公开的确立。于是每支派首领的名都写在该支派的棍子或杖（来：Mat]t]eh）上（亚伦的名字写在利未支派的杖上），然后十二根杖给放在“会幕内法柜前”（即置于内有法版的约柜前）。翌日早晨，写有亚伦名字的杖已经发了芽，开了花，并结出熟杏－这是亚伦为神拣选的祭司之表征。接着，他的杖仍放回“法柜前”，对任何反叛者作警戒（民十七1-11）。根据来九4，此杖是与“约版”同放在约柜中。在加低斯被用来击打磐石的似乎是同一根杖（民廿7-11）；参：“神的杖”（出四20，十七9）。
+
 F.F.B.
+
+
+
+
 
 
 

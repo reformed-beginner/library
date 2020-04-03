@@ -2,18 +2,19 @@
 layout: wiki
 title: 亚里达古（ARISTARCHUS）
 categories: NewBibleDictionary
-description: 亚里达古（ARISTARCHUS）
-keywords: 亚里达古（ARISTARCHUS）
+description: 圣经新词典: 亚里达古（ARISTARCHUS）
+keywords: 亚里达古, ARISTARCHUS
 comments: false
 ---
 
 ## 亚里达古（ARISTARCHUS）
 
-
-
-亚里达古（ARISTARCHUS）
 　　在圣经中所有用到此名字之处，无疑的均指同一人。首先，徒十九29描述以弗所的暴民捉拿他时，他已是保罗旅程中的伙伴（虽然有人辩称这节经文只是提早说明他的身份）。在徒廿4，他跟随保罗往耶路撒冷，可能带同捐款前往，作为帖撒罗尼迦人正式的代表；在徒廿七2，他自该撒利亚起，便与保罗同船。拉呣齐（W. M. Ramsay）相信他只可能以保罗的奴隶这身份同行（SPT，页315-6）。在此，莱特佛特（Lightfoot）的意见值得一提，莱氏说这些经文提到亚里达古的方式，显示他正在返回家乡帖撒罗尼迦的途上。可是（假设歌罗西书写于罗马），他与保罗再相会，且成为保罗的“监狱伙伴”（西四10），可能他自愿地与以巴弗交替着坐监（参：西四10-12和门23-24）。根据“监狱书信写于保罗在以弗所遭监禁时期”的理论，亚里达古应该在暴乱过后，以及歌罗西书完成后，就回到自己的家乡（参 G. S. Duncan, St. Paul's Ephesian Ministry, 1929，页196、237起）。有学者根据他与捐款的关系，认为他就是林后八18的那“弟兄”（Zahn, INT, 1，页320）。对西四10-11最自然的了解，是指他是犹太裔的人。
+
 A.F.W.
+
+
+
 
 
 

@@ -2,18 +2,19 @@
 layout: wiki
 title: 拔示巴（BATHSHEBA）
 categories: NewBibleDictionary
-description: 拔示巴（BATHSHEBA）
-keywords: 拔示巴（BATHSHEBA）
+description: 圣经新词典: 拔示巴（BATHSHEBA）
+keywords: 拔示巴, BATHSHEBA
 comments: false
 ---
 
 ## 拔示巴（BATHSHEBA）
 
-
-
-拔示巴（BATHSHEBA）
 　　拔示巴（代上三5称她为“亚米利的女儿拔书亚 [Bathshua]”），是以连的女儿（撒下十一3），而她的父亲若是撒下廿三34所列举的“勇士”之一，那么她便是亚希多弗的孙女儿。大卫趁着她的丈夫赫人乌利亚带领军队出征围攻亚扪人首都拉巴时，占有了她。这事引致乌利亚被谋杀、拔示巴入宫为妃嫔，以及先知拿单谴责大卫（撒下十二）。在大卫晚年的时候，拔示巴联同拿单匡扶所罗门登基，因而晋升王太后。她代亚多尼雅请求所罗门允赐大卫妃妾亚比煞为妻（王上二19-21）。所罗门把此事解释为亚多尼雅篡位的先声，结果把他诛灭。
+
 M.B.
+
+
+
 
 
 

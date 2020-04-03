@@ -2,20 +2,24 @@
 layout: wiki
 title: 门槛（THRESHOLD）
 categories: NewBibleDictionary
-description: 门槛（THRESHOLD）
-keywords: 门槛（THRESHOLD）
+description: 圣经新词典: 门槛（THRESHOLD）
+keywords: 门槛, THRESHOLD
 comments: false
 ---
 
 ## 门槛（THRESHOLD）
 
-
-
-门槛（THRESHOLD）
 1. mip{ta{n 一字用于亚实突的大衮庙（撒上五4-5）、耶路撒冷圣殿（结九3，十4、18）及以西结异象中的圣殿（四十六2，四十七1）的门槛。西番雅提及跳过门槛的拜祭偶像习俗（一9）。在夏琐发现了门槛的例子（Y. Yadin, Hazor, 1972，图页22a）。
+
 2. sap{ （AV 亦作闸、门、门柱）主要用于神圣的建筑物，但也有例外：在王上十四17指耶罗波安住所的门槛；斯二21和六2指王宫的门；士十九27指房子的门槛。尽管在以西结的圣殿中（四十6-7）它是指外墙上的闸门，但大部分的经文（王下十二9；赛六4；摩九1）都显示，所说的门槛是属于耶路撒冷圣殿的圣所。门槛本身是用石造成，也许备有杯子形状凹处，使门柱可以在上转动。
+
 3. ~@sup{i^m （尼十二25）──“门槛”（AV），应译作“库房”（RSV；〔译注：和合本同〕）。
+
 C.J.D.
+
+
+
+
 
 
 

@@ -2,19 +2,22 @@
 layout: wiki
 title: 宗教，虔诚（RELIGION）
 categories: NewBibleDictionary
-description: 宗教，虔诚（RELIGION）
-keywords: 宗教，虔诚（RELIGION）
+description: 圣经新词典: 宗教，虔诚（RELIGION）
+keywords: 宗教，虔诚, RELIGION
 comments: false
 ---
 
 ## 宗教，虔诚（RELIGION）
 
-
-
-宗教，虔诚（RELIGION）
 　　英文“宗教”（religion）一字来自武加大〔通俗拉丁文圣经〕译本，那儿 religio 一字在第十三世纪成为了雅一26-27里 thre{skeia 这希腊字的意译〔译注：和合本作“虔诚”〕。在徒廿六5，这字代表犹太教（参：加一13-14）〔译注：和合本单译作“教”〕。在徒廿六5及在次经中，thre{skeia 一字均指信仰的外在表达，而不是指其内容（正如我们拿基督“教”与佛教相比时所著重的）。但 RSV 在提前三16用“宗教”一词来翻译希腊文的 eusebeia （AV 作 'godliness' 〔虔诚〕），又在提后三5同样用“宗教”一词，而两处都接近“宗教内容”的意思，我们一般直觉上会用“基督教”一词〔译注：和合本在上述两处均译作“敬虔”〕。由于 thre{skeia 与犹太教有关联，故此雅各采用这字大概含有讽刺的意味。他所称为“清洁没有玷污的 thre{skeia”，对他那些只把宗教局限于礼仪的敌对者来说，绝不会认为是 thre{skeia。
+
 　　今天，我们不会随便用“宗教”一词来指基督教信仰的内容，或其外在礼仪，因为许多人相信基督教并非只是芸芸宗教之一；它与所有其他宗教都不同，它的内容是由神启示的，而信徒的外在表达形式也非旨在赚取救恩，乃是对得到救赎的一种感恩祭。
+
 J.B.J.
+
+
+
+
 
 
 

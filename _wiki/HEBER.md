@@ -2,21 +2,26 @@
 layout: wiki
 title: 希别，希百，希伯（HEBER）
 categories: NewBibleDictionary
-description: 希别，希百，希伯（HEBER）
-keywords: 希别，希百，希伯（HEBER）
+description: 圣经新词典: 希别，希百，希伯（HEBER）
+keywords: 希别，希百，希伯, HEBER
 comments: false
 ---
 
 ## 希别，希百，希伯（HEBER）
 
-
-
-希别，希百，希伯（HEBER）
 1. 希别是亚设的后代，比利亚的儿子（创四十六17；民廿六45；代上七31-32；路三35）。
+
 2. 希百是*雅亿的丈夫。虽然他曾经离开其他基尼人（游牧的铜匠）而居住，但仍被称为“基尼人希百”（士四11、17、五24）。经文的上下文显示他是个相当重要的人物。
+
 3. 希伯是犹大的后裔，梭哥之祖（代上四18）。
+
 4. 希伯是便雅悯的后裔，以利巴力的儿子（代上八18）。
+
 J.D.D.
+
+
+
+
 
 
 

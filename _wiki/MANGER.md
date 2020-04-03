@@ -2,19 +2,22 @@
 layout: wiki
 title: 马槽，牛槽（MANGER）
 categories: NewBibleDictionary
-description: 马槽，牛槽（MANGER）
-keywords: 马槽，牛槽（MANGER）
+description: 圣经新词典: 马槽，牛槽（MANGER）
+keywords: 马槽，牛槽, MANGER
 comments: false
 ---
 
 ## 马槽，牛槽（MANGER）
 
-
-
-马槽，牛槽（MANGER）
 　　在牛棚或马内喂饲动物的槽，伯卅九9（AV, RSV）、箴十四4（AV）和赛一3（AV，RSV）译作“槽”（英文 'crib'）。希腊文 phatne{ 的引申义是“马、牛棚”之意（路十三15），七十士译本用以翻译几个不同的希伯来字：~urwa^ 即“棚”（代下卅二28），rep{et[ （哈三17），~e{b[u^s （伯卅九9；箴十四4；赛一3）。在新约，它出现于路二7、12、16，十三15。
+
 　　除了巴勒斯坦以外，其他地区也有马槽。在巴勒斯坦，牛棚或马是与主人的房子相连的，棚内设有喂饲槽。在*米吉多所发现的马，学者今鉴定其年代为暗利王朝之时，棚里的喂饲槽是挖空大块的石灰石而成的。基督教传统认为圣稣生在伯利恒邻近的一个洞穴中；在这情况之下，那槽子可能是从石壁挖凿出来的。
+
 J.A.T.
+
+
+
+
 
 
 

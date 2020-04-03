@@ -1,22 +1,27 @@
 ---
 layout: wiki
-title: 犹太人（JEW）（来：y#hu^d[i^；亚兰文：y#hu^d[ai；腊：joudaios；拉丁文：judaeaus）
+title: 犹太人（JEW）
 categories: NewBibleDictionary
-description: 犹太人（JEW）（来：y#hu^d[i^；亚兰文：y#hu^d[ai；腊：joudaios；拉丁文：judaeaus）
-keywords: 犹太人（JEW）（来：y#hu^d[i^；亚兰文：y#hu^d[ai；腊：joudaios；拉丁文：judaeaus）
+description: 圣经新词典: 犹太人（JEW）（来：y#hu^d[i^；亚兰文：y#hu^d[ai；腊：joudaios；拉丁文：judaeaus）
+keywords: 犹太人, JEW
 comments: false
 ---
 
 ## 犹太人（JEW）（来：y#hu^d[i^；亚兰文：y#hu^d[ai；腊：joudaios；拉丁文：judaeaus）
 
-
-
-犹太人（JEW）（来：y#hu^d[i^；亚兰文：y#hu^d[ai；腊：joudaios；拉丁文：judaeaus）
 　　原指*犹大国的一个成员（王下十六6；尼一2；耶卅二12）。由主前八世纪开始，外邦人就这样沿用这个名称（如：亚述文 Yaudaia，ANET 页287、301）。非犹太人用这个名称来指从前在犹大省居住的人，以便与被掳时期之后的其他国民有所识别（斯九15；但三8；亚八23）；又或者用这名来指那些皈依*犹太教的人（斯八17）“犹大女子”见于代上四18；徒十六1〔译注：和合本作“犹太妇人”〕以及徒廿四24〔译注：和合本作“犹太的女子”〕。“犹太人”一词，又见于加二14和多一14。“犹太人的语言”是指在犹大境内的人所讲的闪族方言。这片语与“犹太人”一词一样（耶卅四9），后来变成与“希伯来人”同义。AV 的 'Jewry' （但五13；路廿三5；约七1）即“犹大”。
+
 　　在新约，“犹太人”被用来指信奉犹太教的成员或代表他们的领袖（这用法特别见于约翰福音）。不过，到了现代，尤其在以色列国，这个词有时被引伸来指生为犹太裔但不一定信奉犹太教的人。因此，“犹太人”这名称准确的含意是什么，现今经常是个具争论性的问题。
+
 　　书目：EJ,
+
 10, 1971，页22-6。
+
 D.J.W.
+
+
+
+
 
 
 

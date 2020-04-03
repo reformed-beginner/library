@@ -1,27 +1,30 @@
 ---
 layout: wiki
-title: 撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu
-“撒缦[〔S%ulman〕神是首领”）
+title: 撒缦以色（SHALMANESER）
 categories: NewBibleDictionary
-description: 撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu
+description: 圣经新词典: 撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu
 “撒缦[〔S%ulman〕神是首领”）
-keywords: 撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu
-“撒缦[〔S%ulman〕神是首领”）
+keywords: 撒缦以色, SHALMANESER
 comments: false
 ---
 
-## 撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu
-“撒缦[〔S%ulman〕神是首领”）
+## 撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu “撒缦[〔S%ulman〕神是首领”）。希伯来文可能读作 s*lmn~sr （JSS 21, 1976，页8）。
 
-
-
-撒缦以色（SHALMANESER）（来：s%alman~eser；腊：Salmennasar，亚述文：S%ulmanu-as%aridu “撒缦[〔S%ulman〕神是首领”）。希伯来文可能读作 s*lmn~sr （JSS 21, 1976，页8）。
 　　撒缦以色是数位*亚述王的名字。以色列王何细亚所服侍的亚述王（王下十七3）是提革拉毗列色三世的儿子撒缦以色五世（主前727-722）。当何细亚在位第七年时，他不再向亚述进贡，撒缦以色开始围困以色列的首都*撒玛利亚，达三年之久。有关撒缦以色的编年史今日并不存在，但“亚述的名祖表”（Eponym List）记录了这次围困事件，而巴比伦历代志亦提到撒缦以色“攻破撒玛拿现（Shamara~in）城（的防卫）”。攻陷这城的“亚述王”可能就是同一个撒缦以色，不过最后在主前722/1年占领这城的是他的继承人撒珥根二世。撒珥根可能是在围城期间篡夺王位并继续攻城之战（DOTT，页58-63）。
+
 　　主前859至824年作亚述王的撒缦以色三世，经常攻打西面的地区；史载亚述人与以色列人首次的接触见于他的编年史中。主前853年，他在夸夸（Qarqar）与一支由哈马的以户连尼（Irhuleni）和大马色的哈大底谢率领的叙利亚众王的盟军作战。他们的同盟当中有“以色列人亚哈”。根据亚述人的记载，他供应了二千辆战车和一万名军兵。亚述的进攻为时短暂，而撒缦以色三年内亦没有回来（王上十六29，廿20，廿二1）。
+
 　　撒缦以色在记录主前841年攻打叙利亚的经过时，声称击败了大马色的哈薛（见：王上十九15）。然而，他没有攻取这城，却经过浩兰（Hauran）去到利巴嫩，在那里他接受“暗利之子耶户”的进贡。这事并未记录在旧约，但在从宁录出土的黑色方尖塔上则有描绘（*迦拉）。
+
 　　书目：CAH3,
+
 3, 1978。
+
 D.J.W.
+
+
+
+
 
 
 

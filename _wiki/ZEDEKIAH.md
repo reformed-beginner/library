@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　西底家家族演译图
+title: 
 categories: NewBibleDictionary
-description: 图　西底家家族演译图
-keywords: 图　西底家家族演译图
+description: 圣经新词典: 图　西底家家族演译图
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-图　西底家家族演译图
+
+
+
 
 
 

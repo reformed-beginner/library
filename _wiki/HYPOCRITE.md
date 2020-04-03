@@ -2,21 +2,27 @@
 layout: wiki
 title: 假冒为善的人（HYPOCRITE）
 categories: NewBibleDictionary
-description: 假冒为善的人（HYPOCRITE）
-keywords: 假冒为善的人（HYPOCRITE）
+description: 圣经新词典: 假冒为善的人（HYPOCRITE）
+keywords: 假冒为善的人, HYPOCRITE
 comments: false
 ---
 
 ## 假冒为善的人（HYPOCRITE）
 
-
-
-假冒为善的人（HYPOCRITE）
 　　英文 'hypocrite' 是指一个故意和惯性的自称是好人，却明知自己不好的人。可是，英文这字本身是音译自希腊文的 hypocrite{s 的，而这希腊字通常被解作戏剧演员。虽然教会所用的希腊文很快便采用了现代所用的这个解释，但我们似乎没法子证明这个字在主后一世纪的时候已经含有这个意思。七十士译本两次用这字来翻译希伯来文的 h]a{ne{p{，即“不信神的”。
+
 　　在新约，只有符类福音出现过“假冒为善的人”的字眼，是基督对文士及法利赛人的评语。虽然“法利赛人”的资料（Sot]ah 22b）承认在他们中间有假冒为善的人，也谴责这种行为；但无论是新约一般的说法、是他勒目及米大示所显示的、一世纪的法利赛人的教训，或者是他们所得到的群众支持（Jos., Ant. 13.298）。都使人难以接受“他们是假冒为善的人”这个笼统的指责。研究当时对他们的实际指控会发现，只在某些罕见事例中，我们才可以说他们是假冒为善的人。我们发现他们对自己的错谬是盲目的（太七5）。他们也看不见神的作为（路十二56）。另外，他们又不晓得什么才是真正有价值的事（路十三15）。他们过分看重世人的传统（太十五7；可七6），对神的要求完全无知（太廿三14-15、25、29），又喜欢炫耀自己（太六2、5、16）。只有基督这位唯一能完全识透人真正内心的神（太廿三27-28），才敢于作出这种判断。
+
 　　书目：J. Jocz, The Jewish People and Jesus Christ,
+
 1949; H. L. Ellison, `Jesus and the Pharisees', JTVI 85, 1953; Arndt，参 hypokrite{s 一条；U. Wilckens, TDNT 8，页559-70; W. Gu/nther 等人，NIDNTT 2，页467-74。
+
 H.L.E.
+
+
+
+
+
 
 
 

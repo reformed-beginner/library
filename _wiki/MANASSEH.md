@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　玛拿西支派所得之地
+title: 
 categories: NewBibleDictionary
-description: 图　玛拿西支派所得之地
-keywords: 图　玛拿西支派所得之地
+description: 圣经新词典: 图　玛拿西支派所得之地
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-图　玛拿西支派所得之地
+
+
+
 
 
 

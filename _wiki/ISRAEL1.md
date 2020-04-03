@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　直至亚基帕一世统治时期的以色列领袖的年代表
+title: 
 categories: NewBibleDictionary
-description: 表　直至亚基帕一世统治时期的以色列领袖的年代表
-keywords: 表　直至亚基帕一世统治时期的以色列领袖的年代表
+description: 圣经新词典: 表　直至亚基帕一世统治时期的以色列领袖的年代表
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,10 @@ comments: false
 
 
 
-表　直至亚基帕一世统治时期的以色列领袖的年代表
+
+
+
+
 
 
 

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　圣经内和圣经以外的主要犹太节期
+title: 
 categories: NewBibleDictionary
-description: 表　圣经内和圣经以外的主要犹太节期
-keywords: 表　圣经内和圣经以外的主要犹太节期
+description: 圣经新词典: 表　圣经内和圣经以外的主要犹太节期
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,8 @@ comments: false
 
 
 
-表　圣经内和圣经以外的主要犹太节期
+
+
 
 
 

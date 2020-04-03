@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　以色列史的简化图表
+title: 
 categories: NewBibleDictionary
-description: 图　以色列史的简化图表
-keywords: 图　以色列史的简化图表
+description: 圣经新词典: 图　以色列史的简化图表
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,8 @@ comments: false
 
 
 
-图　以色列史的简化图表
+
+
 
 
 

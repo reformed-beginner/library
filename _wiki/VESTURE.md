@@ -2,19 +2,22 @@
 layout: wiki
 title: 衣服，罩衣（VESTURE）
 categories: NewBibleDictionary
-description: 衣服，罩衣（VESTURE）
-keywords: 衣服，罩衣（VESTURE）
+description: 圣经新词典: 衣服，罩衣（VESTURE）
+keywords: 衣服，罩衣, VESTURE
 comments: false
 ---
 
 ## 衣服，罩衣（VESTURE）
 
-
-
-衣服，罩衣（VESTURE）
 　　英文的 'vesture' 是表示*服饰的一个古字，RSV 用了一次来翻译创四十九11中难解的 su^t[ 字（AV 译作“衣服”，JB 作“外套”，NEB 作“长衣”；〔译注：和合本作“袍褂”〕）。AV 译本以 'vesture' 来翻译下列的希伯来字： 1. beg{ed[，指“罩袍”、“衣物”、“外衣”（创四十一42〔和合本作“衣”〕）； 2. k#su^t[，指“遮盖物”（申廿二12〔和合本作“外衣”〕，*繸子）； 3. l#b[u^s%，“衣服”、“服饰”、“服装”（诗廿二18，一○二26〔和合本均作“里衣”〕）。AV 也用 'vesture' 来翻译下列的希腊字： 1. himation，指“外衣”（启十九13、16〔和合本译作“衣服”〕），可能是一块正方形的大布，用作披肩或罩袍（太五40如此翻译〔和合本作“外衣”〕）； 2. himatismos，指“服饰”、“衣服”（太廿七35；路九29；约十九24〔和合本于此作“里衣”〕）； 3. peribolaion，指“裹着身体之物”（来一12〔和合本作“外衣”〕）。
+
 　　王下十22提及“礼服室”（melta{h]a^；参：王下廿二14之“掌管衣柜的人”）的主管〔和合本两处均作“掌管礼服”者〕，他掌管巴力庙的祭司所穿的“礼服”或圣服（malbu^s%）。
+
 J.D.D.
+
+
+
+
 
 
 

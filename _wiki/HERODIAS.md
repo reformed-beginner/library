@@ -2,18 +2,20 @@
 layout: wiki
 title: 希罗底（HERODIAS）
 categories: NewBibleDictionary
-description: 希罗底（HERODIAS）
-keywords: 希罗底（HERODIAS）
+description: 圣经新词典: 希罗底（HERODIAS）
+keywords: 希罗底, HERODIAS
 comments: false
 ---
 
 ## 希罗底（HERODIAS）
 
-
-
-希罗底（HERODIAS）
 　　（可六17；路三19），亚里多布（大希律和玛利安尼所生的儿子）的女儿。她起初下嫁叔父希律腓力（大希律的儿子，由另一玛利安尼所生，此腓力与分封王*腓力不同），继而下嫁叔父希律安提帕（*希律，3）。希罗底从她的第一任丈夫生了女儿撒罗米。撒罗米嫁了其叔祖父分封王腓力。我们无法确定可六22起所提及的希罗底之女的身份。主后39年，当安提帕被放逐的时候，希罗底宁愿选择陪伴他，也不愿因为自己是亚基帕的姊妹，而接受该犹王帝为了其朋友亚基帕欲向她施予的恩惠（*希律，4）。
+
 F.F.B.
+
+
+
+
 
 
 

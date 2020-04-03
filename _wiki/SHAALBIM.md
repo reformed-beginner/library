@@ -2,18 +2,20 @@
 layout: wiki
 title: 沙宾（SHAALBIM）
 categories: NewBibleDictionary
-description: 沙宾（SHAALBIM）
-keywords: 沙宾（SHAALBIM）
+description: 圣经新词典: 沙宾（SHAALBIM）
+keywords: 沙宾, SHAALBIM
 comments: false
 ---
 
 ## 沙宾（SHAALBIM）
 
-
-
-沙宾（SHAALBIM）
 　　靠近希烈山和亚雅仑的一条村落，亚摩利人在抵抗但人时居住于此。后来亚摩利人被约瑟家征服（士一35）。沙宾连同玛迦斯、伯示麦和以伦伯哈南，构成所罗门的第二个行政区的一部分（王上四9），我们几乎可以肯定，沙宾是在但支派地业名单里与亚雅仑并列的沙拉宾（书十九42），也是大卫的一个勇士以利雅哈巴的家乡沙本（撒下廿三32；代上十一33）。由于沙涉及的地区差不多相同，士一35和王上四9的沙宾亦可能是同一地方。今天的塞比特（Selbi{t]），位于亚雅仑西北五公里，伯示麦以北十三公里，非常切合以上的经文，只是此名字在语言学上有分别。沙宾等名字，可能解作“狐狸出没的地方”。
+
 D.J.W.
+
+
+
+
 
 
 

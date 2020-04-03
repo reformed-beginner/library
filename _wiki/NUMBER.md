@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　圣经时代通用的数字一览表
+title: 
 categories: NewBibleDictionary
-description: 表　圣经时代通用的数字一览表
-keywords: 表　圣经时代通用的数字一览表
+description: 圣经新词典: 表　圣经时代通用的数字一览表
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-表　圣经时代通用的数字一览表
+
+
+
 
 
 

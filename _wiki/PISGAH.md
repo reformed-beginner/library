@@ -2,21 +2,26 @@
 layout: wiki
 title: 毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
 categories: NewBibleDictionary
-description: 毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
-keywords: 毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
+description: 圣经新词典: 毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
+keywords: 毗斯迦；亚实突毗斯迦, PISGAH, ASHDOTH-PISGAH
 comments: false
 ---
 
 ## 毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
 
-
-
-毗斯迦；亚实突毗斯迦（PISGAH, ASHDOTH-PISGAH）
 　　毗斯迦一词总是与定冠词连用，其义与登山有关，或指出的“顶部”（头），或指山的“斜坡”（亚实突）。由此推论，毗斯迦可能是一个普通名词，泛指大山或丘陵的脊。这样，“那毗斯迦”（'THE Pisgah'）便是指外约但高原上众多山脊中的一个或多个，而“毗斯迦的山坡〔译注：和合本作“山根”〕”（亚实突毗斯迦）则指死海以东摩押高原的整条边缘（申三17，AV，四49；书十二3，十三20）。这些经文均论到亚摩利人领土的疆界，而后来则是流便支派的疆界。
+
 　　毗斯迦除了泛指上述外约但的高原外，还特指*尼波山的某山脊或顶峰。民廿一20和民廿三14都提到毗斯迦山顶，前者是以色列人出埃及时所经之地，后者是巴兰企图咒诅以色列民的地方，二者均靠近死海东面与北面的旷野（*耶施扪），故这两处经文很可能是指同一道山脊。
+
 　　摩西在临终前就是从“尼波山，毗斯迦山顶”远眺应许之地（申三27，卅四1）。这片高原的岬角大概是西亚哈角（Ras es Siyaghah），即尼波山北面第二道较低的山脊。这山脊进一步向西伸展，由此眺望应许之地因而景观更宽广无阻，故此摩西很可能就是从这里远望河西。
+
 　　书目：G. T. Manley, EQ 21, 1943，页81-92。
+
 G.G.G
+
+
+
+
 
 
 

@@ -2,19 +2,22 @@
 layout: wiki
 title: 欣嫩子谷（HINNOM, VALLEY OF）
 categories: NewBibleDictionary
-description: 欣嫩子谷（HINNOM, VALLEY OF）
-keywords: 欣嫩子谷（HINNOM, VALLEY OF）
+description: 圣经新词典: 欣嫩子谷（HINNOM, VALLEY OF）
+keywords: 欣嫩子谷, HINNOM, VALLEY OF
 comments: false
 ---
 
 ## 欣嫩子谷（HINNOM, VALLEY OF）
 
-
-
-欣嫩子谷（HINNOM, VALLEY OF）
 　　耶路撒冷以南的山谷，也被称为“欣嫩子（或众子）的山谷”。在耶利米时代，这地方与崇拜摩洛有关。约西亚亵渎这神龛，并且禁止在那里献祭。后来这山谷似乎被用来焚烧犯人和动物的尸体，事实上任何类型的废物都是在这里焚化。因此这名字日后被用作*地狱的同义词。希伯来文的 ge^ hinno{m （欣嫩子谷），成为了希腊文的 geenna，继而成为拉丁文和英文的 Gehenna。曾经有一段时间犹太人的传统认为这山谷是地狱的入口。
+
 　　这山谷的地理位置不易确定。它是犹大与便雅悯二支派领地之间边界的一部分，位于“耶布斯〔即耶路撒冷〕南面”与隐罗结之间（书十五7-8，AV）。因此很显然的，如何找出这两个地点，会影响我们如何确定欣嫩谷的位置。若*隐罗结就是处女泉，那么欣嫩谷就是汲沦谷，它由耶路撒冷的东面伸往东南面。但若它是今日称为艾邑井（Bir Eyyub）的地方，便剩下两个可能性：这山谷可能是推诺翩谷（Tyropoeon Valley），它由耶路撒冷的中央伸往东南方；也可能是那围绕耶城西面和南面的山谷，今日被称为拉巴比城河谷（Wadi al-Rababi）。这三个山谷的东南端，都是终止于西罗亚附近。回教传统支持汲沦谷的说法，但这一说法最不可能；大部分学者接受拉巴比河谷为正确地点。
+
 D.F.P.
+
+
+
+
 
 
 

@@ -1,23 +1,29 @@
 ---
 layout: wiki
-title: 米设（MESHECH）（MT: mes%ek[; LXX: Mosoch）
+title: 米设（MESHECH）
 categories: NewBibleDictionary
-description: 米设（MESHECH）（MT: mes%ek[; LXX: Mosoch）
-keywords: 米设（MESHECH）（MT: mes%ek[; LXX: Mosoch）
+description: 圣经新词典: 米设（MESHECH）（MT: mes%ek[; LXX: Mosoch）
+keywords: 米设, MESHECH
 comments: false
 ---
 
-## 米设（MESHECH）（MT: mes%ek[; LXX: Mosoch）
+## 米设（MESHECH）（MT: mes%ek[;
 
-
-
-米设（MESHECH）（MT: mes%ek[;
 LXX: Mosoch）
+
 　　雅弗众子之一（创十2＝代上一5），圣经在此并在别处把他与土巴相连系。代上一17又称他为闪的后裔，由亚兰而生，但创十23的平行经文却称他为玛施。其中一处可能出错，七十士译本于创十23的 Mosoch 一字，显示希伯来文在该处也许少了字母 k。按此理解，米设一名同时出现于雅弗和闪的后代名录中，也许暗示了雅弗和闪的后代互相通婚；这看法并非没有可能（*列国名单）。
+
 　　圣经后来提到米设的后代出口奴隶和铜器（结廿七13）；提到他们是好战的民族，在北方为患（结卅二26，卅八2-3，卅九1）；也提到他们是典型的野蛮社群（诗一二○5）。米设和土巴两个名字的密切关系，可能表示他们正是亚述碑铭中常常并提的 Taba^l 和 Musku 或 Mus%ku 民族；以及希罗多德（Herodotus）所提的 Tibare{noi 和 Moschoi。在提革拉毗列色一世的编年史中（主前约1100），首次提及 mus%-ka-a-ia 在北方组成了为数二万人的大军。他们可能早在一个世纪之前便已经活跃于黑海东南一带；当时赫人的文献提及该处有一人叫米塔斯（Mitas），这名字与第八世纪时莫舒基（Mus%ki）王的名称相似。第九世纪的塔库提宁努特（Tukulti-Ninurta）二世和亚述拿西帕二世的编年史，以及第八世纪的撒珥根编年史亦有提及他们。按这王的报导，他们的统治者叫
+
 mi-ta-a。一些学者认为这相等于弗吕家的米达斯（Midas）（弗吕家是继赫人之后在小亚细亚建立的王国），因此莫舒基人便相等于弗吕家人。Mus%ku 一名并没有出现在古波斯阿垦米尼王朝的碑铭上，但希罗多德则声称 Moschoi 属于波斯王大利乌的第十九个管辖区（3. 94），并为薛西的军队提供了一个小分队（7. 78）。这些资料引致一个结论：米设人大概是指一种说印欧语系语言的人，他们从北面草原进入近东地区，强行统治安纳托利亚（小亚细亚古称）东部地区的原居民。
+
 　　书目：S. Parpola, Neo-Assyrian Toponyms, 1970, 页252-3; R. D. Barnett, CAH 3, 1975, 页417-42; J. N. Postgate, Iraq 35, 1973, 页21-34。
+
 T.C.M.
+
+
+
+
 
 
 

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　流行于古代巴勒斯坦的书写体一
+title: 
 categories: NewBibleDictionary
-description: 表　流行于古代巴勒斯坦的书写体一
-keywords: 表　流行于古代巴勒斯坦的书写体一
+description: 圣经新词典: 表　流行于古代巴勒斯坦的书写体一
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-表　流行于古代巴勒斯坦的书写体一
+
+
+
 
 
 

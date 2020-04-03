@@ -1,20 +1,23 @@
 ---
 layout: wiki
-title: 法勒（PELEG）（来：peleg{，意即“河道”、“分岔”）
+title: 法勒（PELEG）
 categories: NewBibleDictionary
-description: 法勒（PELEG）（来：peleg{，意即“河道”、“分岔”）
-keywords: 法勒（PELEG）（来：peleg{，意即“河道”、“分岔”）
+description: 圣经新词典: 法勒（PELEG）（来：peleg{，意即“河道”、“分岔”）
+keywords: 法勒, PELEG
 comments: false
 ---
 
 ## 法勒（PELEG）（来：peleg{，意即“河道”、“分岔”）
 
-
-
-法勒（PELEG）（来：peleg{，意即“河道”、“分岔”）
 　　希伯的儿子、*约坍的兄弟、闪的孙子（创十25）。那时的人“分地居住”（nip{l#g{a^），这希伯来字语带相关，同时解释了法勒这名字的意思。按一般解释，这词是指世界人口按地理环境和不同语言而分开居住（创十一1-9）。但这同样可指*希伯的子孙（半游牧民族）所发展的农业技术──以人工运河（亚述文：plagu）灌溉作物。赛卅25，卅二2；伯廿九6，卅八25中所说的“川”、“河流”、“河”、“道”等，都是取 peleg{ 一字的这个意思。这字也可指以地界（亚甲文：pulukku; JCS
+
 18, 1964，页69；pala{ku；“分地界”）划分地区。法勒是拉吴的父亲（创十一19）。
+
 D.J.W.
+
+
+
+
 
 
 

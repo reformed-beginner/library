@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　犹大列王年表
+title: 
 categories: NewBibleDictionary
-description: 表　犹大列王年表
-keywords: 表　犹大列王年表
+description: 圣经新词典: 表　犹大列王年表
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,10 @@ comments: false
 
 
 
-表　犹大列王年表
+
+
+
+
 
 
 

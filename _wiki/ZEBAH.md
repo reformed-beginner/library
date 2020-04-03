@@ -1,19 +1,21 @@
 ---
 layout: wiki
-title: 西巴（ZEBAH）（来：zeb[ah]，“屠宰”，“献祭”）
+title: 西巴（ZEBAH）
 categories: NewBibleDictionary
-description: 西巴（ZEBAH）（来：zeb[ah]，“屠宰”，“献祭”）
-keywords: 西巴（ZEBAH）（来：zeb[ah]，“屠宰”，“献祭”）
+description: 圣经新词典: 西巴（ZEBAH）（来：zeb[ah]，“屠宰”，“献祭”）
+keywords: 西巴, ZEBAH
 comments: false
 ---
 
 ## 西巴（ZEBAH）（来：zeb[ah]，“屠宰”，“献祭”）
 
-
-
-西巴（ZEBAH）（来：zeb[ah]，“屠宰”，“献祭”）
 　　米甸的二王之一，当基甸作士师的日子，二王袭击巴勒斯坦。在一次米甸人的攻击下，有些基甸的人被杀（士八18-19）。基甸小心地挑选了三百人，追赶这些攻击者。疏割和毗努伊勒的人，均拒绝帮助他，后来受到惩罚。基甸在加各（第10节）擒住西巴和撒慕拿，杀死他们。这次胜仗以后，基甸被拥戴作以色列的王，但他推却了（士八22-23）。在诗八十三1-12，这事件被列为神赐给祂子民的胜利之一。
+
 J.A.T.
+
+
+
+
 
 
 

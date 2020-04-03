@@ -2,21 +2,26 @@
 layout: wiki
 title: 弗吕家（PHRYGIA）
 categories: NewBibleDictionary
-description: 弗吕家（PHRYGIA）
-keywords: 弗吕家（PHRYGIA）
+description: 圣经新词典: 弗吕家（PHRYGIA）
+keywords: 弗吕家, PHRYGIA
 comments: false
 ---
 
 ## 弗吕家（PHRYGIA）
 
-
-
-弗吕家（PHRYGIA）
 　　此地区以位于安纳托利亚（Anatolia 〔小亚细亚古称〕）大高原的西边分水岭为中心，北达桑加里斯河（Sangarius）上游的山谷，西南降至米安得河（Maeander）的河谷，东南方则跨越高原，大概延伸至以哥念。弗吕家人建立了（传奇中的？）米达斯（Midas）王国。在别迦摩的亚他乐斯王朝（Attalid）的时代，他们直接受希腊人影响，而到了主前116年，弗吕家差不多全被罗马人纳入其亚西亚行省的版图。它的东陲（加拉太的弗吕家）于主前25年成为加拉太新行省的一部分。弗吕家人对区伯利女神（Cybele）浑然出神的膜拜，令罗马人留下深刻的印象。在该区现存一些主后第二世纪的墓碑，大概属孟他努派（Montanist）的遗物；碑文的语调流露强烈的对抗意味，似乎出自当地人的民族狂热；它们是现存最早的基督教公开宣言。然而，并无证据显示该地在新约时代已有本地人的基督教会。至于那些严格上坐落于弗吕家的教会（老底嘉、希拉波立、歌罗西、彼西底的安提阿、大概也包括以哥念），实际上都是在境内的希腊社群中间建立的。昔日到访耶路撒冷的，似乎是定居于这些希腊城邑的犹太人（徒二10）。假如西二1并非否定保罗曾到访此地（这是有可能的），则徒十六6和十八23所指的很可能便是上述所提到的前三个城市，它们都位于米安得河上游。假如我们不接受这说法的话，我们可采取另一种说法，即“弗吕家*加拉太一带地方”是一个复合专用词，意指加拉太省内的弗吕家部分，特别指以哥念和彼西底的安提阿的教会。若非如此，我们便很难了解那些与保罗阔别而留在“弗吕家”的门徒究竟是指何人。
+
 　　书目：Strabo, 12; J. Friedrich, RE, 20, 1，页781-891; W. M. Ramsay, Cities and Bishoprics of Phrygia,
+
 1895-7; A. H. M. Jones, Cities of the
+
 Eastern Roman Provinces, 1937; D. Magie, Roman Rule in Asia Minor, 2 vols., 1950; W. M; Calder, AS 5,1955，页25-38。
+
 E.A.J.
+
+
+
+
 
 
 

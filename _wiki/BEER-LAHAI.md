@@ -2,18 +2,19 @@
 layout: wiki
 title: 庇耳拉海莱（BEER-LAHAI-ROI）
 categories: NewBibleDictionary
-description: 庇耳拉海莱（BEER-LAHAI-ROI）
-keywords: 庇耳拉海莱（BEER-LAHAI-ROI）
+description: 圣经新词典: 庇耳拉海莱（BEER-LAHAI-ROI）
+keywords: 庇耳拉海莱, BEER-LAHAI-ROI
 comments: false
 ---
 
 ## 庇耳拉海莱（BEER-LAHAI-ROI）
 
-
-
-庇耳拉海莱（BEER-LAHAI-ROI）
 　　庇耳拉海莱首先出现在创十六13-14，这名字本身和经文的某些细节，是难有确定译法的。按现时的拼法，这名字的意思也许是：“那看顾我的永活者之井”，或“那看顾我的活着，这是祂的井”。然而，原来的地名在流传中可能受到某种程度的歪曲，今日已无可稽考。这不是旧约中唯一遇到这种问题的专有名词。至于庇耳拉海莱的准确地点，没有人晓得。创十六7、14指出它接近埃及的边界，使女埃及人夏甲逃避主母撒莱的怒气的时候，就是跑到那里去。神在此向夏甲显现，并宣告以实玛利的出生。以撒等待以利以谢为他从米所波大米迎娶妻子回来的时候（创廿四62），路经此地，并在亚伯拉罕身故后定居这里。
+
 R.J.W.
+
+
+
 
 
 

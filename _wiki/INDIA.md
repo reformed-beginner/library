@@ -2,26 +2,37 @@
 layout: wiki
 title: 印度（INDIA）
 categories: NewBibleDictionary
-description: 印度（INDIA）
-keywords: 印度（INDIA）
+description: 圣经新词典: 印度（INDIA）
+keywords: 印度, INDIA
 comments: false
 ---
 
 ## 印度（INDIA）
 
-
-
-印度（INDIA）
 Ⅰ　早期
+
 　　希伯来文 ho{ddu^ 一字，来自古波斯语的 hindu
+
 （参：梵文 sindhu），后者见于波斯王大利乌一世及薛西一世的碑文中。这名词所指的是在阿富汗山区以东的部分印度河谷（Indus Valley）和一些平原，大利乌一世将之并入其波斯帝国，使这地区成为他帝国的东面边界（Herodotus, 3, 94; 4. 40, 44）。从斯一1和八9，我们知道亚哈随鲁王（薛西一世）的统治范围是“由印度至古实”，ho{ddu^ 和 ku{s%；这一点与薛西一世自己的古波斯碑文所记载的吻合。参 R. G. Kent, Old Persian: Grammar, Texts, Lexicon,
+
 1953年版，页151, II. 25, 29及 §3，所列的国家名单中包括 'Sind' （即印度，Hidus%）和古实（Kus%iya）。从文献及在米所波大米发现的印度河谷的印鉴，可知在亚哈随鲁王以前很久，早在主前约2100年，印度和米所波大米之间已有贸易来往。有人认为*俄斐可能就是印度的（S）upa{ra。亚历山大大帝和他在叙利亚的继承者西流古诸王所用的作战大象，就是来自印度。在希腊──罗马时代，许多珍贵的外来用品都源自印度，通常是取道南阿拉伯，从红海运上来，或经陆路由亚拉伯西面运过来。有关这些路线及航海，参 van Beek 及 Hourani, JAOS 78, 1958，页146-7；及80，1960，页135-9。希腊的执政者在部分印度西北地区有好一段时间保持了他们的统治地位；参 W. W. Tarn, The Greeks in Bactria and India, 1938。有关希罗期间在埃及的印度人，参 H. I. Bell 爵士，Cults and Creeds in Graeco-Roman Egypt, 1953，页48; E. Bevan, History of Egypt under the Ptolemaic Dynasty,
+
 1927，页155；有关从孟斐所发现的印度人像：Petrie, Memphis I, 1909，页16-7，图页39。
+
 Ⅱ　后期
+
 　　主前一世纪至约主后200年，由于罗马的市场对东方奢侈品多有需求，并因时人发现了季候风的特性，以致开辟了一条定期前往塔米尔城镇（今日的 Cranganore 及 Kottayam），甚至到马得拉斯（Sopatma）及更远地区的航线。于是，印度与地中海沿岸诸国在商业及文化方面便有更密切的联系。在此背景下，我们要看看基督教首次传往印度的事迹。历史悠久的南印度教会的传统说法一致，追溯其本源至使徒多马。有诺斯底主义倾向的（犹大）多马行传（*新约次经）的叙述，也论及多马在印度的活动。这行传本身是极之无稽的传说，但法库哈（J. N. Farquhar）却认为这叙述准确地反映了一世纪时印度的情况。他并且假定多马首先在旁遮普（Punjab）工作，稍后往南面去（BJRL
+
 11, 1926; 12, 1927）。但是除了这些行传以外，似乎没有其他早期的记载报导多马在印度的活动（A. Mingana, BJRL 11, 1926; 12, 1927）。到处巡回的潘塔努斯（Pantaenus）据说在主后180年前不久是印度的传教士，他在印度看见基督徒，并且他们手上有一卷由巴多罗买遗留下来，以希伯来文写成的马太福音（Eusebius, EH 5.10）；但这种说法可能只是笼统地指阿丹（Aden）或及亚拉伯其他部分，不一定是指印度。操叙利亚语的南印度教会有非常悠久的历史，这一点是无可否认的，至于这教会是否由使徒或使徒直接的后人建立，则未有定案。
+
 　　书目：E. H. Warmington, Indian Commerce, 1928; L. W. Browne, The Indian Christians of St Thomas, 1956。
+
 K.A.K.
+
+
+
+
+
 
 
 

@@ -1,22 +1,27 @@
 ---
 layout: wiki
-title: 客西马尼园（GETHSEMANE）（源自亚兰文：gat[ s%emen，意即“油榨”）
+title: 客西马尼园（GETHSEMANE）
 categories: NewBibleDictionary
-description: 客西马尼园（GETHSEMANE）（源自亚兰文：gat[ s%emen，意即“油榨”）
-keywords: 客西马尼园（GETHSEMANE）（源自亚兰文：gat[ s%emen，意即“油榨”）
+description: 圣经新词典: 客西马尼园（GETHSEMANE）（源自亚兰文：gat[ s%emen，意即“油榨”）
+keywords: 客西马尼园, GETHSEMANE
 comments: false
 ---
 
-## 客西马尼园（GETHSEMANE）（源自亚兰文：gat[ s%emen，意即“油榨”）
+## 客西马尼园（GETHSEMANE）（源自亚兰文：gat[
 
-
-
-客西马尼园（GETHSEMANE）（源自亚兰文：gat[
 s%emen，意即“油榨”）
+
 　　客西马尼是个园子（ke{pos；约十八1），位于耶路撒冷以东，没沦谷以外，橄榄山的附近（太廿六30）。基督及祂的门徒常喜欢在此退修。
+
 　　基督曾经在客西马尼园痛苦挣扎，而犹大出卖主及主被捕的事，也是在客西马尼园发生的（可十四32-52）。大概我们应该将这园子与伊甸园相比；客西马尼是第二个亚当得胜试探的园子。基督徒跪下祷告的传统，乃是仿效基督在客西马尼园的行动的（路廿二41）。拉丁教会的传统认为，客西马尼园乃是位于横跨汲沦谷的耶利哥公路桥梁的东面，园中有橄榄树，据说是属于主后七世纪的。这个地点的面积，是五十平方公尺，有一度墙围着，是由方济会士于1848年筑成的。这个位置也符合优西比乌（Eusebius）和耶柔米（Jerome）的说法。不过，近代的学者如汤呣森（Thomson），鲁宾逊（Robinson）及巴克莱（Barclay），却觉得这个地点太小及太接近公路。希腊教会在北面附近划出了另一个地点，作为客西马尼园的所在地。在现今圣玛利亚教堂（Church of St. Mary）东北面有一片宽敞的土地，其上有更大、更僻静的一些园子，供朝圣者使用。汤氏认为这里才是客西马尼园真正的所在地。园子原有的树木，已经被提多（Titus〔译注：罗马将军，后为王帝〕）砍掉（Jos., BJ 5. 523 ）。
+
 　　书目：W. M. Thomson, The Land and the Book, 1888，页634, G. Dalman, Sacred Sites and Ways, 1935，页321起。
+
 D.H.T.
+
+
+
+
 
 
 

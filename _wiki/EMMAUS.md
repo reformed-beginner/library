@@ -2,22 +2,28 @@
 layout: wiki
 title: 以马忤斯（EMMAUS）
 categories: NewBibleDictionary
-description: 以马忤斯（EMMAUS）
-keywords: 以马忤斯（EMMAUS）
+description: 圣经新词典: 以马忤斯（EMMAUS）
+keywords: 以马忤斯, EMMAUS
 comments: false
 ---
 
 ## 以马忤斯（EMMAUS）
 
-
-
-以马忤斯（EMMAUS）
 　　一个村庄，据说距离耶路撒冷有六十浪（十一公里）；*革流巴和另一个门徒在往这条村子去的途中，遇见复活的主向他们显现（路廿四13）。以马忤斯的位置不能确定。一个可能性是，以马忤斯就是今日仍被称为阿暗华斯（`Amwas）的这个城镇，距离耶路撒冷西北以西卅二公里。主前166年，犹大马加比（Judas Maccabeus）在此地击败戈治亚斯（Gorgias，马加比壹书三40、57，四3）。可是，这个地方与耶路撒冷的距离，并不符合路加所记载的以马忤斯与耶路撒冷的距离（除非我们认为西乃抄本 [Codex Sinaiticus] 与其他手抄本中，一百六十浪这个写法保存了原来的经文）。此外，旅客要走一百六十浪距离的路，也是一段长的旅程，虽然走这么远的路不至是不可能的事。
+
 　　在耶路撒冷约十一公里范围之内的城市中，有两座曾经被认为是以马忤斯。在主后一世纪于奎贝比（El-qubeibeh）有一个村庄，而日后十字军在这个村庄发现了一座堡垒，名叫以马忤斯堡垒。不幸的是，我们没有证据证明这个名称可以追溯到一世纪。约瑟夫（BJ
+
 7.217）提到维斯帕先（Vespasian）在耶路撒冷以西约六公里的阿马欧斯（Ammaous），建有军事殖民地。阿马欧斯曾经被鉴定为凯洛尼耶（Kaloniye，拉丁文是 colonia），或米赞之家废墟（Kh. Beit Mizza，古代的莫沙，Mozah）。可是，这些地方与耶路撒冷的距离又不是路加所记的距离，除非路加所提到的六十浪，是包括来回双程的总距离。
+
 　　书目：J. Finegan, The Archaeology of the New Testament,
+
 1969，页177-80; ZPEB, 2，页299-300。
+
 I.H.M.
+
+
+
+
 
 
 

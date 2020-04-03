@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　两约之间的以色列
+title: 
 categories: NewBibleDictionary
-description: 图　两约之间的以色列
-keywords: 图　两约之间的以色列
+description: 圣经新词典: 图　两约之间的以色列
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,10 @@ comments: false
 
 
 
-图　两约之间的以色列
+
+
+
+
 
 
 

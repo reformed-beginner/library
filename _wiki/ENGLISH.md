@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　主要英文圣经译本的年份表
+title: 
 categories: NewBibleDictionary
-description: 表　主要英文圣经译本的年份表
-keywords: 表　主要英文圣经译本的年份表
+description: 圣经新词典: 表　主要英文圣经译本的年份表
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,6 @@ comments: false
 
 
 
-表　主要英文圣经译本的年份表
 
 
 

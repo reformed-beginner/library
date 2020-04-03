@@ -2,22 +2,28 @@
 layout: wiki
 title: 荣归主颂（GLORIA IN EXCELSIS）
 categories: NewBibleDictionary
-description: 荣归主颂（GLORIA IN EXCELSIS）
-keywords: 荣归主颂（GLORIA IN EXCELSIS）
+description: 圣经新词典: 荣归主颂（GLORIA IN EXCELSIS）
+keywords: 荣归主颂, GLORIA IN EXCELSIS
 comments: false
 ---
 
 ## 荣归主颂（GLORIA IN EXCELSIS）
 
-
-
-荣归主颂（GLORIA IN EXCELSIS）
 　　这名词主要是指在教父时期教会里开始唱诵的一首礼仪用圣诗（参 SHERK,
+
 6, 501; ODCC），这首诗歌的灵感来自路二14中天使所唱的那首歌。正如在撒迦利亚及马利亚所看见的异象中一般（路一13、30），天使在路二10发出安慰，同时也宣布好消息。较早前，天使的宣告是特别给看见异象的人。这讯息所带来的喜乐却是给所有属神的子民；牧羊人只是代表了广大的、热切期待弥赛亚带来救恩的群众。赞美的祝祷不单表达了对将来的盼望，也说明了弥赛亚的出生所体现的真实情况：
+
 　　在至高之处荣耀归与神！
+
 　　在地上平安归与祂的人！
+
 　　“神所喜悦的人”是〔比“祂的人”〕较佳的译法，这与第10节的“民众”相平行。这里所指的，是神拯救的恩惠所临到的人，也是神所喜悦的那些人（参：路三22）。天使所宣告的平安，不是那外在和短暂的罗马帝国的太平盛世（pax Romana）；这种平安能医治圣洁的神与有罪的人之间的隔阂（参：赛九6-7；罗十15）。（*撒迦利亚颂，以色列颂）
+
 E.E.E.
+
+
+
+
 
 
 

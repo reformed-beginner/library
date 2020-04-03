@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　歌罗西位置图
+title: 
 categories: NewBibleDictionary
-description: 图　歌罗西位置图
-keywords: 图　歌罗西位置图
+description: 圣经新词典: 图　歌罗西位置图
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,8 @@ comments: false
 
 
 
-图　歌罗西位置图
+
+
 
 
 

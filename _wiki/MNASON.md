@@ -2,21 +2,26 @@
 layout: wiki
 title: 拿孙（MNASON）
 categories: NewBibleDictionary
-description: 拿孙（MNASON）
-keywords: 拿孙（MNASON）
+description: 圣经新词典: 拿孙（MNASON）
+keywords: 拿孙, MNASON
 comments: false
 ---
 
 ## 拿孙（MNASON）
 
-
-
-拿孙（MNASON）
 　　“一个早期（最早）的门徒”──即至少从五旬节时开始──和款待保罗的主人家（徒廿一16）。正如巴拿巴一样，拿孙是犹太血裔的居比路人。他的名字是一个普通的希腊名字。
+
 　　武加大〔通俗拉丁文圣经〕译本、AV、RV，和 NEB 将这经文理解为“该撒利亚的几个门徒将拿孙带来”（但为何他们要把这个预期的主人带来呢？）；而 RSV 和 TEV 〔译注：和合本同〕则译作“带我们到拿孙的家”。两个解释都有困难，很可能这里 Mnaso{ni 一字已经在它的关系词影响下给改写了词格（参 A. T. Robertson, Gram., 页719）。我们推算拿孙住在耶路撒冷，因为一个希利尼的主人才不会使保罗的外邦朋友感到局促不安。西方系经文有这样的翻译（其本身是没有价值的）：“到达一处村落，我们便与拿孙在一起”。这可能只是一个猜测──这旅途的确须要借宿一宵──但亦可能译对了路加的意思。那么，拿孙的家便位于该撒利亚和耶路撒冷之间：因此保罗需要几个门徒伴同前往，而第17节又提到耶路撒冷。
+
 　　路加提到这事可能是暗示拿孙提供了资料（参 Ramsay, BRD, 页309注）。
+
 　　书目：H. J. Cadbury in Amicitiae Corolla, 1933, 页51起；F. F. Bruce, The Acts of the Apostles, 1951, 见有关之处。
+
 A.F.W.
+
+
+
+
 
 
 

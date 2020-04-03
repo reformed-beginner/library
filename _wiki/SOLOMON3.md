@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　所罗门时代的贸易路线，标示主要的进口物资和其输出地
+title: 
 categories: NewBibleDictionary
-description: 图　所罗门时代的贸易路线，标示主要的进口物资和其输出地
-keywords: 图　所罗门时代的贸易路线，标示主要的进口物资和其输出地
+description: 圣经新词典: 图　所罗门时代的贸易路线，标示主要的进口物资和其输出地
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-图　所罗门时代的贸易路线，标示主要的进口物资和其输出地
+
+
+
 
 
 

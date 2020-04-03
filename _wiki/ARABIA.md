@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　古代的亚拉伯
+title: 
 categories: NewBibleDictionary
-description: 图　古代的亚拉伯
-keywords: 图　古代的亚拉伯
+description: 圣经新词典: 图　古代的亚拉伯
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,8 @@ comments: false
 
 
 
-图　古代的亚拉伯
+
+
 
 
 

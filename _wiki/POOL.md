@@ -2,19 +2,22 @@
 layout: wiki
 title: 池（POOL）
 categories: NewBibleDictionary
-description: 池（POOL）
-keywords: 池（POOL）
+description: 圣经新词典: 池（POOL）
+keywords: 池, POOL
 comments: false
 ---
 
 ## 池（POOL）
 
-
-
-池（POOL）
 　　冬天和春天〔下雨时〕汇聚于池中的水，成为夏天一个重要的水源。人造池能收集和贮蓄雨水，以色列人因而得以在巴勒斯坦不毛地区定居（*贮水池）。人造池凿于城寨内（*摩押石碑上记有一例），通常是由渠道自外面水泉引水进城，以确保敌人围城时城内不乏供水。在基色、*夏琐、米吉多、基遍（参：撒下二13）及其他地方，都发现有这种水池（见 J. B. Pritchard, 'The
+
 Water System at Gibeon', BA 19, 1956，页65-75）。“希西家引水道”和耶路撒冷的*西罗亚池也许最为驰名（约九7、11；尼三15）。由于缺乏佐证，耶路撒冷内其他记有名字的池子到底坐落何处，学者仍无法确定（下池、旧池，赛廿二9、11；王池及挖成的池子，尼二14，三16；另见*撒玛利亚，*毕士大）。
+
 A.R.M.
+
+
+
+
 
 
 

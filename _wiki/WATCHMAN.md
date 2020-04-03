@@ -2,20 +2,24 @@
 layout: wiki
 title: 守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
 categories: NewBibleDictionary
-description: 守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
-keywords: 守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
+description: 圣经新词典: 守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
+keywords: 守望者；守望台，守望楼, WATCHMAN, WATCH-TOWERS
 comments: false
 ---
 
 ## 守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
 
-
-
-守望者；守望台，守望楼（WATCHMAN, WATCH-TOWERS）
 　　希伯来文表示“守望者”的字是 s]o{p{eh 和 s%o{me{r，希腊文的字是 phylax 和 te{ro{n。指“守望台”的希伯来字则是 mis]pa^, mig{da{l 和 bah]an。在圣经时代，守望台有两种不同的作用： (1) 从最早时起（参：创卅五21），在草场上筑守望台是为了保护牛羊免受野兽和盗贼侵害（参：代下廿六10；弥四8）。人亦可能在葡萄园和麦田中竖立守望台，以防盗贼（参：赛廿七3）。 (2) 在较大的城市内，结构较复杂的望楼是防御工事的一部分。今人所知最古旧的这类以色列守望楼，见于奥伯莱（W. F. Albright）在弗尔废丘（Tell el-Ful）所发掘的扫罗的城堡。这是处于拐角的望楼，属双层护城墙的一部分。
+
 　　奥伯莱在巴勒斯坦南面的米西呣之家废丘（Tell beit Mirsim）有重要的发现：他发掘出一幢城门楼，楼后是一个长方形庭院，然后庭院引到六间铺了地面的房间，大概是给访客使用的（*建筑）。在纳斯贝废丘（Tell en-Nasbeh）的考古发掘显示，该城的防御墙每隔约三十公尺处建有望楼，向外伸出约二公尺。以色列早期所筑的是方形的望楼，但后来，圆形的较受欢迎。希律在*耶路撒冷兴建了三座巨大的望楼，称为希皮库斯（Hippicus）、法撒勒（Phasael）和马利安尼（Mariamne）。今日称为“大卫楼”的地面结构，大概是法撒勒楼的一部分（8公尺 X 40公尺）。所谓“密夺”（mig{da{l）和“米罗”（millo^~）（士九6、20；撒下五9；王上九15）是城堡，就是城寨里的卫城。这些城堡在城市被攻占后用作最后的避难处。在伯善出土的 mig{da{l，就是这种城堡的好例子（参 C. Watzinger, Denkma/ler, 2, 1935，图页19-21）。
+
 　　守望楼上有守望者随时警觉，提防敌人侵城的活动。任何人若临近城墙，他们也负责向君王报信（如：撒下十八24-27；王下九17-20）。在两邦交恶的时候，人特别惧怕夜间的危险，守望者切望晨曦的来临（赛廿一11）。（*防卫和围攻）
+
 F.C.F.
+
+
+
+
 
 
 

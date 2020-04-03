@@ -2,20 +2,24 @@
 layout: wiki
 title: 犁，鹤嘴锄（MATTOCK）
 categories: NewBibleDictionary
-description: 犁，鹤嘴锄（MATTOCK）
-keywords: 犁，鹤嘴锄（MATTOCK）
+description: 圣经新词典: 犁，鹤嘴锄（MATTOCK）
+keywords: 犁，鹤嘴锄, MATTOCK
 comments: false
 ---
 
 ## 犁，鹤嘴锄（MATTOCK）
 
-
-
-犁，鹤嘴锄（MATTOCK）
 　　来：mah]@re{s%a{，见于撒上十三20（原文末尾部分）、21〔译注：和合本作“铲”〕，和另一个相近的字 mah]@res%et[ （见于第20节的较前部分；〔译注：和合本作“锄”〕）均指切割的工具（字根是 h]rs%，含有“挖掘”或“雕刻”之意），所以大概就是鹤嘴锄和锄。在这两节经文出现的其他名词之中，第二个是来：~e{t[，即工具的金属头，于王下六5用来指“斧头”，在此大概指犁头，或更准确地说，应是木犁上的金属套（而不是 AV 所译的“犁头刀” [coulter]）；参：赛二4＝弥四3；珥三10；经文预言人要转化战争武器为耕种工具（或相反）的说法，是有可能的，也是激发人心的。撒上十三20的第三个名词（qardo{m）是镐（AV 作斧头 [axe]；〔译注：和合本亦作“斧”〕）。
+
 　　AV 把赛七25的 ma`de{r 译作“鹤嘴锄”。这是用于葡萄园的锄头〔译注：和合本作“锄”〕（亦参：赛五6）。AV 对代下卅四6的 b#h]arbo{t[e^hem 亦作同样的翻译。然而后者却似乎应译作“在它们的颓垣败瓦中”，RV 及 RSV （根据 h]orba^）采用这译法〔译注：和合本作“破坏之处”〕。
+
 　　在巴勒斯坦西南的詹米废丘（Tell Jemmeh）出土的一柄铁制鹤嘴锄，大约是主前第十世纪的工具，这方面见：赖特（G. E. Wright）, Biblical Archaeology, 1957，页92，图57:3。（*技艺）
+
 K.A.K.
+
+
+
+
 
 
 

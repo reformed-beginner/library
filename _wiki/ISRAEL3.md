@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　以色列和犹大国
+title: 
 categories: NewBibleDictionary
-description: 图　以色列和犹大国
-keywords: 图　以色列和犹大国
+description: 圣经新词典: 图　以色列和犹大国
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,7 @@ comments: false
 
 
 
-图　以色列和犹大国
+
 
 
 

@@ -2,18 +2,19 @@
 layout: wiki
 title: 银行（BANK, BANKER）
 categories: NewBibleDictionary
-description: 银行（BANK, BANKER）
-keywords: 银行（BANK, BANKER）
+description: 圣经新词典: 银行（BANK, BANKER）
+keywords: 银行, BANK, BANKER
 comments: false
 ---
 
 ## 银行（BANK, BANKER）
 
-
-
-银行（BANK, BANKER）
 　　古时以色列没有保管私人财帛或提供商业信贷的银行。把贵重物品埋藏地里（书七21），或交托邻舍照管（出廿二7），是私人保管财物的方式。商业大致上始终由王室垄断（撒下五11；王上十14-19；参：代下廿35起）。王宫及圣殿均为国家财富的仓库（王上十四26）；后来私人财产也托交圣殿保管（马加比贰书三6、10起）。虽然早至主前2000年，巴比伦便设有银行制度，但是犹太人在被掳以前，一直没有采用。太廿一12；可十一15；约二14-15中兑换银钱之人，是把罗马货币兑换为缴交半舍客勒殿税用的正统货币（太十七24）。太廿五27（路十九23）提及放款者。
+
 A.E.W.
+
+
+
 
 
 

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　犹大各王在位年表
+title: 
 categories: NewBibleDictionary
-description: 图　犹大各王在位年表
-keywords: 图　犹大各王在位年表
+description: 圣经新词典: 图　犹大各王在位年表
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-图　犹大各王在位年表
+
+
+
 
 
 

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　巴勒斯坦：植物
+title: 
 categories: NewBibleDictionary
-description: 图　巴勒斯坦：植物
-keywords: 图　巴勒斯坦：植物
+description: 圣经新词典: 图　巴勒斯坦：植物
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-图　巴勒斯坦：植物
+
+
+
 
 
 

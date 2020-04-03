@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　迦南式大衮神庙平面图
+title: 
 categories: NewBibleDictionary
-description: 图　迦南式大衮神庙平面图
-keywords: 图　迦南式大衮神庙平面图
+description: 圣经新词典: 图　迦南式大衮神庙平面图
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,8 @@ comments: false
 
 
 
-图　迦南式大衮神庙平面图
+
+
 
 
 

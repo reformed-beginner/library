@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　利百加的家族
+title: 
 categories: NewBibleDictionary
-description: 图　利百加的家族
-keywords: 图　利百加的家族
+description: 圣经新词典: 图　利百加的家族
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-图　利百加的家族
+
+
+
 
 
 

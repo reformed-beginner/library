@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　雅各和他的后代
+title: 
 categories: NewBibleDictionary
-description: 表　雅各和他的后代
-keywords: 表　雅各和他的后代
+description: 圣经新词典: 表　雅各和他的后代
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-表　雅各和他的后代
+
+
+
 
 
 

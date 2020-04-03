@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　约兰和约沙法的家谱
+title: 
 categories: NewBibleDictionary
-description: 表　约兰和约沙法的家谱
-keywords: 表　约兰和约沙法的家谱
+description: 圣经新词典: 表　约兰和约沙法的家谱
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-表　约兰和约沙法的家谱
+
+
+
 
 
 

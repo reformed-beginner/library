@@ -2,20 +2,24 @@
 layout: wiki
 title: 沙拉，示拉，西罗亚（SHELAH）
 categories: NewBibleDictionary
-description: 沙拉，示拉，西罗亚（SHELAH）
-keywords: 沙拉，示拉，西罗亚（SHELAH）
+description: 圣经新词典: 沙拉，示拉，西罗亚（SHELAH）
+keywords: 沙拉，示拉，西罗亚, SHELAH
 comments: false
 ---
 
 ## 沙拉，示拉，西罗亚（SHELAH）
 
-
-
-沙拉，示拉，西罗亚（SHELAH）
 1. 沙拉：闪族后裔亚法撒的儿子，希伯之父（创十24，十一12-15；代上一18、24；路三35）。
+
 2. 示拉：犹大与妻书亚所生的小儿子（创卅八5，四十六12；代上二3，四21）。在他的两个哥哥珥和俄南死后，犹大应许媳妇他玛让示拉娶她为妻以立后（创卅八11、14、26）。他是示拉族（Shelanites）之祖（民廿六20）。叙利亚译本在尼十一5将“示罗的子孙”（'Shilonites'）写作“示拉族”（参：代上九5；〔译注：和合本在此二处分别译作“示罗尼的儿子”和“示罗的子孙”；原文却是同一写法。〕）。
+
 3. 尼三15中的池子名称，希伯来文原作 shelah（见 RSV），AV 作 'Siloah'；但此池的常见名称为 'Siloam' 〔译注：和合本在此及别处都译作“西罗亚”〕。
+
 J.G.G.N.
+
+
+
+
 
 
 

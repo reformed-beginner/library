@@ -1,20 +1,22 @@
 ---
 layout: wiki
-title: 肠子（BOWELS）（来：me{`i^m；腊：splanchna）
+title: 肠子（BOWELS）
 categories: NewBibleDictionary
-description: 肠子（BOWELS）（来：me{`i^m；腊：splanchna）
-keywords: 肠子（BOWELS）（来：me{`i^m；腊：splanchna）
+description: 圣经新词典: 肠子（BOWELS）（来：me{`i^m；腊：splanchna）
+keywords: 肠子, BOWELS
 comments: false
 ---
 
 ## 肠子（BOWELS）（来：me{`i^m；腊：splanchna）
 
-
-
-肠子（BOWELS）（来：me{`i^m；腊：splanchna）
 　　希伯来人对于内脏的生理学缺乏清楚的概念。RSV 把 me{`i^m 和 splanchna 分别译作 'belly' （“肚腹”），拿一17；'body' （“*身体”，〔译注；和合本把“你身体所生的”译作“你的后裔”〕），撒下七12；'breast' （“*奶，胸膛”，〔译注；和合本译作“里面”〕），诗廿二14； 'heart' （“*心”），伯卅27；约壹三17； 'soul' （“*生命，生灵，心”，〔译注：和合本译作“心腹”〕），赛十六11；'stomach' （“*胃”〔译注：和合本译作“肚腹”〕），结三3；'womb' （“*母胎”），诗七十一6。RSV 只将清楚指明是“肠”的经文译作“肠子”；这些肠子通常是因为人死亡或腹部受伤以致表灵出来的，撒下廿10；徒一18〔译注：和合本在这两处经文中都作“肠子”〕。
+
 　　这个字的译法有时也含有比喻的意味，如“极度痛苦”，〔译注：和合本译作“肺腑”〕（耶四19 )。特别是在新约，如:“情感”〔译注：和合本译作“心肠”〕（林后六12）。希腊文有个同词源的动词 splanchnizomai （路十33），意即“动了慈心”。
+
 B.O.B.
+
+
+
 
 
 

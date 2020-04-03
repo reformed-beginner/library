@@ -2,19 +2,22 @@
 layout: wiki
 title: 帕大喇（PATARA）
 categories: NewBibleDictionary
-description: 帕大喇（PATARA）
-keywords: 帕大喇（PATARA）
+description: 圣经新词典: 帕大喇（PATARA）
+keywords: 帕大喇, PATARA
 comments: false
 ---
 
 ## 帕大喇（PATARA）
 
-
-
-帕大喇（PATARA）
 　　赞塔斯（Xanthus）河谷内*吕家西南方的一个海港。此地除经营附近的贸易外，也是为直接〔由小亚细亚〕前往腓尼基的海路充任合宜的启程点，因而有其重要性（*船〔大型与小型〕）。依据一般接受的亚历山太系经文，徒廿一1记载，保罗在往耶路撒冷途中，曾在帕大喇换船。西方系经文或许受到徒廿七5-6的影响，在此处经文〔“帕大拉”后面〕加上了“和*每拉”一语，这意味着他在换船前曾沿岸航行到较东边之处。我们有理由相信，由于风向关系，帕大喇是渡海〔前往腓尼基〕时最适合的启程点，而每拉则是回程时经常的终点。
+
 　　帕大喇也以其亚波罗神谕著名。
+
 K.L.McK.
+
+
+
+
 
 
 

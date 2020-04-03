@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 表　士师年代表
+title: 
 categories: NewBibleDictionary
-description: 表　士师年代表
-keywords: 表　士师年代表
+description: 圣经新词典: 表　士师年代表
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-表　士师年代表
+
+
+
 
 
 

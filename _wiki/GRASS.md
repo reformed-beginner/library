@@ -1,23 +1,29 @@
 ---
 layout: wiki
-title: 草（GRASS）（来：h]a{s]i^r, des%e~, yereq, `e{s*eb[；腊：chortos）
+title: 草（GRASS）
 categories: NewBibleDictionary
-description: 草（GRASS）（来：h]a{s]i^r, des%e~, yereq, `e{s*eb[；腊：chortos）
-keywords: 草（GRASS）（来：h]a{s]i^r, des%e~, yereq, `e{s*eb[；腊：chortos）
+description: 圣经新词典: 草（GRASS）（来：h]a{s]i^r, des%e~, yereq, `e{s*eb[；腊：chortos）
+keywords: 草, GRASS
 comments: false
 ---
 
-## 草（GRASS）（来：h]a{s]i^r, des%e~, yereq, `e{s*eb[；腊：chortos）
+## 草（GRASS）（来：h]a{s]i^r, des%e~, yereq,
 
-
-
-草（GRASS）（来：h]a{s]i^r, des%e~, yereq,
 `e{s*eb[；腊：chortos）
+
 　　根据创一11，在创造记录提到的“第三日”，地长出了青草。在应许之地，青草乃是牛的食物。神会使田野长出青草，作为对选民顺服的回应（申十一15）。在尼布甲尼撒王疯癫的期间，青草乃是他的食物（但四15、25）。
+
 　　青草地在巴勒斯坦地并不常有，只在雨季后出现片刻，到旱季草便会枯萎。故此，用草来象征人生的昙花一现（如：诗一○三15；赛四十6-7），和富尼人的权势的短暂（雅一10-11），是很适切的。草也用来象征软弱的人，灭亡中的敌人（赛卅七27 ＝ 王下十九26），快被割下的恶者（诗卅七2），以及恨恶锡安的人（诗一二九6）。
+
 　　圣经用繁茂的叶片来比喻众多的人群（伯五25；赛四十四4），及日益强盛的民（诗七十二16）。茂盛的青草地被用来象征属灵生命的平稳（诗廿三2）。公义的君王，可以“使地发生嫩草”（撒下廿三4）。一个仁慈的君王，像两降在已割的草地上，如甘霖滋润田地（诗七十二6）。
+
 　　相反，一个没有草的光秃地带，可能是神烈怒的表征（申廿九23）。
+
 R.A.H.G.
+
+
+
+
 
 
 

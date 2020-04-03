@@ -1,23 +1,29 @@
 ---
 layout: wiki
-title: 乌撒（UZZA）（来： `uzza{~）
+title: 乌撒（UZZA）
 categories: NewBibleDictionary
-description: 乌撒（UZZA）（来： `uzza{~）
-keywords: 乌撒（UZZA）（来： `uzza{~）
+description: 圣经新词典: 乌撒（UZZA）（来： `uzza{~）
+keywords: 乌撒, UZZA
 comments: false
 ---
 
 ## 乌撒（UZZA）（来： `uzza{~）
 
-
-
-乌撒（UZZA）（来： `uzza{~）
 1. 便雅悯人以忽的一个后裔（代上八7）。
+
 2. 米拉利的一个儿子（代上六29）。
+
 3. 被掳后归回的尼提宁人其中一族的领袖（拉二49）。
+
 4. 亚比拿达（大概是利未人，参：撒上七1）的儿子。约柜放在新车上，从基列耶琳运进大卫城时（撒下六3），乌撒是驱车者之一，那时牛失前蹄，乌撒“伸手扶住神的约柜”，且因为这样对约柜不敬，被神击杀（撒下六6-7）。
+
 5. 玛拿西和亚们埋葬的园子的主人（王下廿一18、26）。除这处记载外，此人不见经传。
+
 M.A.M.
+
+
+
+
 
 
 

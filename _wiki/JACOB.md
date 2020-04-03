@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 图　雅各时代的巴勒斯坦和叙利亚
+title: 
 categories: NewBibleDictionary
-description: 图　雅各时代的巴勒斯坦和叙利亚
-keywords: 图　雅各时代的巴勒斯坦和叙利亚
+description: 圣经新词典: 图　雅各时代的巴勒斯坦和叙利亚
+keywords: , 
 comments: false
 ---
 
@@ -11,7 +11,9 @@ comments: false
 
 
 
-图　雅各时代的巴勒斯坦和叙利亚
+
+
+
 
 
 

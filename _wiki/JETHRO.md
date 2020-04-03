@@ -2,18 +2,20 @@
 layout: wiki
 title: 叶忒罗（JETHRO）
 categories: NewBibleDictionary
-description: 叶忒罗（JETHRO）
-keywords: 叶忒罗（JETHRO）
+description: 圣经新词典: 叶忒罗（JETHRO）
+keywords: 叶忒罗, JETHRO
 comments: false
 ---
 
 ## 叶忒罗（JETHRO）
 
-
-
-叶忒罗（JETHRO）
 　　摩西的岳父。*流珥，于出三1，四18被称为叶忒罗。他曾经带女儿西坡拉和她的两个儿子到何烈山与摩西重聚，并在那里向耶和华献祭，感谢祂拯救以色列人脱离埃及人的手。在何烈山，叶忒罗又建议摩西委任不同的人协助他审判百姓案件的工作（出十八）。摩西曾经说服叶忒罗的儿子何巴加入以色列人的行列。在士四11，基尼人何巴被称为摩西的 h]o{t[e{n 〔译注：和合本作“岳父”，小字作“内兄”〕，这个词的广义可能是“姻亲”。这节经文与士一16是唯一证明叶忒罗是基尼人的经节。“叶忒罗”这名字可能有“出类拔萃”的意思。
+
 J.P.U.L.
+
+
+
+
 
 
 

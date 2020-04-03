@@ -2,19 +2,21 @@
 layout: wiki
 title: 希耳米神（HERMES）
 categories: NewBibleDictionary
-description: 希耳米神（HERMES）
-keywords: 希耳米神（HERMES）
+description: 圣经新词典: 希耳米神（HERMES）
+keywords: 希耳米神, HERMES
 comments: false
 ---
 
 ## 希耳米神（HERMES）
 
-
-
-希耳米神（HERMES）
 　　希耳米原指住在 herma 亦即圆锥形石堆的灵。这石堆的设立，是作为指标或界限之用的。因此，雅典的房屋在门侧设有 herms，就是雕刻粗糙、呈阴茎形状的石柱，而这神明的功用被认为是死人活人的引导，是使用道路者（包括拦路强盗）的保謢神，又是宙斯神的随从和代言者（徒十四12）。（奂维德 [Ovid] 保存下来的，关乎腓利门和包锡斯 [Baucis] 的传说，以及一些同时刻有两个神祇的铭刻，都表明了在小亚细亚的路司得，宙斯和希耳米在宗教上的关系。徒十四12形容希耳米为“说话领首”，与任碧和 [Iamblichus]；〔译注：他乃叙利亚新柏拉图主义大师〕形容希耳米为“发言的领袖”，是相类似的。）用拟人法写成的神话，将希耳米当作宙斯与梅亚（Maia）之子，说他是上天行动迅速的使者，又是商业、辩才、文学及青春人的护卫神。希耳米的拉丁文写法是“梅柯里厄斯”（Mercurius，即 Mercury，麦邱立神）。
+
 E.M.B.
+
 F.F.B.
+
+
+
 
 
 

@@ -1,21 +1,25 @@
 ---
 layout: wiki
-title: 希尼，色弗尼（SYENE）（AV：Sinim, Sinites）
+title: 希尼，色弗尼（SYENE）
 categories: NewBibleDictionary
-description: 希尼，色弗尼（SYENE）（AV：Sinim, Sinites）
-keywords: 希尼，色弗尼（SYENE）（AV：Sinim, Sinites）
+description: 圣经新词典: 希尼，色弗尼（SYENE）（AV：Sinim, Sinites）
+keywords: 希尼，色弗尼, SYENE
 comments: false
 ---
 
 ## 希尼，色弗尼（SYENE）（AV：Sinim, Sinites）
 
-
-
-希尼，色弗尼（SYENE）（AV：Sinim, Sinites）
 1. 来：si^ni^m。这是一个遥远的地方，百姓会从那里回以色列（赛四十九12）。此地与北方和西方并列，故此很可能是极南或极东之地（LXX 因此译作“波斯人之地”）。有学者曾认为此处乃古代的西内（Sinae，即中国），然而犹太人在这时期却似乎不大可能定居于那么遥远的地方。因此有人提出希尼即训（皮鲁细呣，结卅15）或西乃的汛（出十六1）。最有可能的地点是结廿九10和卅6所提到的“色弗尼”，在埃及极南界。此地的埃及名字为 swn ──“市场”，科普替名为 Suan，现在则称为阿斯旺（~Aswa{n）。犹太人曾于主前第五世纪定居此地，这社群遗下很多亚兰文蒲纸文稿，里面皆称这地为 swn，因此RV和RSV在结廿九、卅译作*色弗尼（Seveneh），但更好的翻译是“到色弗”（'to Seven'）。“从密夺（AV，RV 作“塔”）到色弗尼”〔译注：和合本作“从色弗尼塔”），意思是从埃及的一端到另一端。位于尼罗河第一条大瀑布旁边的色弗尼，是一个要塞，也是远征努比亚（古实）的基地。它是河道交通的终点站，也是用来建筑纪念馆的红花岗石的产地（正长岩 [syenite]）。从以赛亚书的昆兰抄本（1Q Isa）看来，“色弗尼人”（Syenites）应取代 si^ni^m（赛四十九12）；七十士译本则以色弗尼取代结卅16中的训。
+
 2. 西尼人（来：si^ni^）是一个迦南民族（创十17；代上一15）。大概这是一个地区，位于利巴嫩的海岸，在阿奎（Arqa{）附近。从*马里出土的文稿曾提及这地，来自*押巴拿的文稿也有此可能。这地名在汛河（Nahr as-Sinn）一名中仍然继续使用，其乌加列名是 syn，亚甲名则是 siyanu。
+
 　　书目：E. G. Kraeling, BA 15, 1952，页50-68; The Brooklyn Museum Aramaic Papyri, 1953，页21。
+
 D.J.W.
+
+
+
+
 
 
 

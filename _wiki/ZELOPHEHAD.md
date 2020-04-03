@@ -2,18 +2,20 @@
 layout: wiki
 title: 西罗非哈（ZELOPHEHAD）
 categories: NewBibleDictionary
-description: 西罗非哈（ZELOPHEHAD）
-keywords: 西罗非哈（ZELOPHEHAD）
+description: 圣经新词典: 西罗非哈（ZELOPHEHAD）
+keywords: 西罗非哈, ZELOPHEHAD
 comments: false
 ---
 
 ## 西罗非哈（ZELOPHEHAD）
 
-
-
-西罗非哈（ZELOPHEHAD）
 　　希弗之子，玛拿西族基列的孙，五个女儿的父亲（民廿六33；书十七3；代上七15）。他在旷野漂流中过世以后，由于没有子嗣，他的女儿们得以从摩西和以利亚撒那里争取到承继产业的权利（民廿七1、7）。因此便产生了女儿得地业的条例：人若没有子嗣，他的产业应先归给他的女儿（第8节）。这条例印证了在没有子嗣的情况下，女儿可以留传产业的习俗，从早期开始，叙利亚、巴比伦和以拦都有类似的风俗。这些承业女子必须嫁给同宗族的人，以保全他们父亲所属宗族的血脉（民卅六2-9）。（见 Z. Ben-Barak, JSS 24, 1979。）后来基列族的首领更提出这些妇女必须只与同宗支派的人通婚，以确保该支派继续拥有这些产业。这要求被接纳，并成为希伯来法例（民卅六2-9）。
+
 D.J.W.
+
+
+
+
 
 
 

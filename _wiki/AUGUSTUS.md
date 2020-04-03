@@ -2,20 +2,23 @@
 layout: wiki
 title: 亚古士督（AUGUSTUS）
 categories: NewBibleDictionary
-description: 亚古士督（AUGUSTUS）
-keywords: 亚古士督（AUGUSTUS）
+description: 圣经新词典: 亚古士督（AUGUSTUS）
+keywords: 亚古士督, AUGUSTUS
 comments: false
 ---
 
 ## 亚古士督（AUGUSTUS）
 
-
-
-亚古士督（AUGUSTUS）
 　　这是主前27年*该撒奥大维在自己的地位合法化的时候所采用的另一个名字〔译注：此名即“可敬”、“尊贵”之意〕，似乎旨在显明他的道德权威，表明这是他在罗马共和国拥有首要地位的基础（Res Gestae 34）。日后他的继承者使用亚古士督作为一个衔头，而不是一个名字，故此圣经提及亚古士督的继承者的时候，就把这词意译为希腊文的 sebastos （“王上”、“王帝”，徒廿五21、25），但提及他本人时则音译为“亚古士督”（路二1）。
+
 　　亚古士督体现了罗马的理想：个人的长处理当赢得尊严和权力。可是，他的成功终止了一切争竞对手，使管理整个帝国的重担落在他的身上。亚古士督五十七年（主前43年直到主后14年）的统治，为*罗马帝国建立了根基，使帝国进入一个太平的新纪元。
+
 　　书目：A. H M. Jones, Augustus, 1970。
+
 E.A.J.
+
+
+
 
 
 

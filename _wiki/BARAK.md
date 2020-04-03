@@ -1,19 +1,20 @@
 ---
 layout: wiki
-title: 巴拉（BARAK）（来：ba{ra{q，“闪电”；参：迦太基文：Barca）
+title: 巴拉（BARAK）
 categories: NewBibleDictionary
-description: 巴拉（BARAK）（来：ba{ra{q，“闪电”；参：迦太基文：Barca）
-keywords: 巴拉（BARAK）（来：ba{ra{q，“闪电”；参：迦太基文：Barca）
+description: 圣经新词典: 巴拉（BARAK）（来：ba{ra{q，“闪电”；参：迦太基文：Barca）
+keywords: 巴拉, BARAK
 comments: false
 ---
 
 ## 巴拉（BARAK）（来：ba{ra{q，“闪电”；参：迦太基文：Barca）
 
-
-
-巴拉（BARAK）（来：ba{ra{q，“闪电”；参：迦太基文：Barca）
 　　按士四6起的记载，女先知*底波拉召亚比挪庵的儿子巴拉，从拿弗他利的基低斯上来，由他招聚以色列各支派作战，一起对抗迦南军事联盟的主帅*西西拉。他答允的条件是，底波拉必须陪伴左右，他才肯采取行动。由于这个原因，底波拉告诉他，剿灭西西拉的殊荣，将归于一名妇人，而不归他。后来*基顺河突然泛滥，淹没西西拉大军等等战事胜利的细节，在底波拉之歌中有生动的描绘（士五19-22）。来十一32提到巴拉，以他为圣经记载中信心得蒙印证的“古人”之一，根据七十士译本和叙利亚译本，撒上十二11的“比但”或许应当修正为“巴拉”（见 RSV, NEB）。
+
 F.F.B.
+
+
+
 
 
 

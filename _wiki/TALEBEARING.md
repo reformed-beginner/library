@@ -2,18 +2,20 @@
 layout: wiki
 title: 谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
 categories: NewBibleDictionary
-description: 谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
-keywords: 谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
+description: 圣经新词典: 谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
+keywords: 谗谤，毁谤，亵渎, TALEBEARING, SLANDER
 comments: false
 ---
 
 ## 谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
 
-
-
-谗谤，毁谤，亵渎（TALEBEARING, SLANDER）
 　　在旧约，这些字眼所翻译的希伯来字词包含下列意思：秘密（箴十八8，“传舌人”），恶信（民十四36），毁谤（诗五十20）或往来传舌（箴十一13），（错）用舌头（诗一○一5）或（错）用双足（撒下十九27）。在新约，它们用来翻译指控（提前三11，diabolos），讲人坏话（林后十二20；彼前二1，katalalia），或破坏别人名誉（罗三8，blasphe{meo{）。所有搬弄是非，无论是错（参：太五11）或对（参：但三8），恶意的（诗卅一13；结廿二9）或愚妄的（箴十18；参十八8 ＝ 廿六22；太十二36），尤其是发生在邻舍（耶九4）或弟兄之间的（雅四11），都会被神定罪（利十九16）和惩罚（诗一○一5），并会导致争执（箴廿六20）。谗谤是从属肉体的人（罗一30）心中发出（可七22），并且使人不能亲近神（诗十五3）。谗谤必须从基督徒群体中除去（林后十二20；弗四31；西三8；彼前二1；参：〔妇女的谗言〕提前三11；多二3），基督徒群体却身受谗谤之害（太五11；参：罗三8）。
+
 P.E.
+
+
+
+
 
 
 
