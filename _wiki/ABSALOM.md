@@ -16,11 +16,3 @@ comments: false
 3. 在次经中，是马加比（Judas Maccabaeus）的一个使节，马他提亚（Mattathias）与约拿单的父亲（马加比壹书十一70，十三11；马加比贰书十一17）。
 
 T.H.J.
-
-
-
-
-
-
-
-
