@@ -32,11 +32,3 @@ comments: false
 　　书目：R. de Vaux, Ancient Israel2, 1965，页345-401。
 
 F.F.B.
-
-
-
-
-
-
-
-

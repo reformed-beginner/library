@@ -15,16 +15,6 @@ comments: false
 
 　　耶稣似乎是第一位将此字应用在神身上的人，他也将这样做的权柄赐予门徒。保罗视此用法为基督徒被神收纳为嗣子，以及具圣灵的象征。
 
-　　书目：J. Jeremias, The Central Message of the NT, 1965，页9-30；同作者，Abba,
-
-1966，页1-67；TDNT 卷1，页5起；卷5，页1006; NIDNTT 卷1，页614起。
+　　书目：J. Jeremias, The Central Message of the NT, 1965，页9-30；同作者，Abba, 1966，页1-67；TDNT 卷1，页5起；卷5，页1006; NIDNTT 卷1，页614起。
 
 D.F.P.
-
-
-
-
-
-
-
-
