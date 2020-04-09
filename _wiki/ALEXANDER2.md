@@ -13,16 +13,6 @@ comments: false
 
 　　但以理书八21和十一3所提及的人，大概是指亚历山大大帝。
 
-　　书目：Arrian, Anabasis; Plutarch, Life of Alexander, C. B. Welles, Alexander and the Hellenistic World, 1970; R. L. Fox, Alexander the Great, 1973; J. R.
-
-Hamilton, Alexander the Great, 1973;
-
-P. Green, Alexander of Maccedon, 1974。
+　　书目：Arrian, Anabasis; Plutarch, Life of Alexander, C. B. Welles, Alexander and the Hellenistic World, 1970; R. L. Fox, Alexander the Great, 1973; J. R. Hamilton, Alexander the Great, 1973; P. Green, Alexander of Maccedon, 1974。
 
 E.A.J.
-
-
-
-
-
-

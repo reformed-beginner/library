@@ -33,18 +33,4 @@ comments: false
 
 　　摩西的利未记律例包括了一些耕种的原则，上文已部分提及。这些原则往往是保养土壤的好方法，例如：田地逢第七年要休耕（利廿五），或是保持社会公平的好方法，例如：工人须把收割剩下的禾稼留给穷人和寄居者捡拾（利廿三22）。百姓若不遵行耶和华的律例，田地必不出土产，饥荒便临到百姓（利廿六14起）。这些实际及道德性的原则，在今日世界中，仍是适切及有待学习的功课。
 
-　　书目：D. Baly, The Geography of the Bible2, 1974; A.
-
-Reifenberg, The Desert and the Sown,
-
-1956; F. N. Hepper, Plants in Bible Lands,
-
-in prep; P. J. Ucko and G. W. Dimbleby （合编），The Domestication and Exploitation of Plants and Animals, 1969。
-
-
-
-
-
-
-
-
+　　书目：D. Baly, The Geography of the Bible2, 1974; A. Reifenberg, The Desert and the Sown, 1956; F. N. Hepper, Plants in Bible Lands, in prep; P. J. Ucko and G. W. Dimbleby （合编），The Domestication and Exploitation of Plants and Animals, 1969。

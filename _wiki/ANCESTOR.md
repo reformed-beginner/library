@@ -23,26 +23,6 @@ comments: false
 
 　　由此可见，不论是祖先崇拜或是死人拜祭，在以色列真正的信仰中，都没有占一席位。
 
-　　书目：R. H. Lowie, An Introduction to Cultural Anthropology,
-
-1940，页308-9（论现代原始人）；J. N. D. Anderson 编，The World's
-
-Religions4,
-
-1975，页40（论现代原始人）、202-3（神道教）、223-4（儒教）；A. H. Gardiner, The Attitude of
-
-the Ancient Egyptians to Death and the Dead, 1935, H. R. Hall in ERE, 1，页440-3（埃及）；A. Heidel, The Gilgamesh Epic and Old Testament
-
-Parallels2, 1949，页137-223; H. W. F. Saggs, 'Some Ancient
-
-Semitic Conceptions of the After-life', Faith
-
-and Thought 90, 1958，页157-82; C. F. A. Schaeffer, The Cuneiform Texts of Ras Shamra, 1939，页49-54; G. Margoliouth in ERE, 1，页444-50; M. Burrows, What Mean These Stones?, 1941，页238-42; R. de Vaux, Ancient Israel，英译本，1961，页38。
+　　书目：R. H. Lowie, An Introduction to Cultural Anthropology, 1940，页308-9（论现代原始人）；J. N. D. Anderson 编，The World's Religions4, 1975，页40（论现代原始人）、202-3（神道教）、223-4（儒教）；A. H. Gardiner, The Attitude of the Ancient Egyptians to Death and the Dead, 1935, H. R. Hall in ERE, 1，页440-3（埃及）；A. Heidel, The Gilgamesh Epic and Old Testament Parallels2, 1949，页137-223; H. W. F. Saggs, 'Some Ancient Semitic Conceptions of the After-life', Faith and Thought 90, 1958，页157-82; C. F. A. Schaeffer, The Cuneiform Texts of Ras Shamra, 1939，页49-54; G. Margoliouth in ERE, 1，页444-50; M. Burrows, What Mean These Stones?, 1941，页238-42; R. de Vaux, Ancient Israel，英译本，1961，页38。
 
 T.C.M.
-
-
-
-
-
-

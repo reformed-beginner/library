@@ -29,28 +29,6 @@ comments: false
 
 　　考古学的发现显示主前六世纪时，巴比伦的征讨中断了亚扪地长期有人定居的情况，直主前三世纪时，才有新的居民在原地居住。在亚扪地居住的人先后计有：居沙漠地的贝度英人（Bedouin）、多比雅人（Tobiads）（主前四-二世纪）、拿巴提人（Nabataeans）（主前一世纪）及罗马人（主前一世纪至主后三世纪）。
 
-　　书目：W. F. Albright, Miscellanea Biblica B. Ubach, 1953，页131起；P. Bordreuil, Syria 50, 1973，页181-95 (seals); G. Garbini,
-
-Ann. De l~Inst. Or. Napoli 20,
-
-1970，页249-57；同作者，JSS 19, 1974，页159-68；N. Glueck, The Other Side of Jorden, 1940；同作者，AASOR
-
-18, 19, 25-8; P. C. Hammond, BASOR
-
-160, 1960，页38-41; S. H. Horn, BASOR
-
-193, 1967，页2-13; G. M. Landes, BA 243,
-
-1961，页66-86; H. O. Thompson, AJBA
-
-2. 2, 1973，页23-38；同作者和 F. Zayadine, BASOR 212,
-
-1973，页5-11。
+　　书目：W. F. Albright, Miscellanea Biblica B. Ubach, 1953，页131起；P. Bordreuil, Syria 50, 1973，页181-95 (seals); G. Garbini, Ann. De l~Inst. Or. Napoli 20, 1970，页249-57；同作者，JSS 19, 1974，页159-68；N. Glueck, The Other Side of Jorden, 1940；同作者，AASOR 18, 19, 25-8; P. C. Hammond, BASOR 160, 1960，页38-41; S. H. Horn, BASOR 193, 1967，页2-13; G. M. Landes, BA 243, 1961，页66-86; H. O. Thompson, AJBA 2. 2, 1973，页23-38；同作者和 F. Zayadine, BASOR 212, 1973，页5-11。
 
 J.A.T.
-
-
-
-
-
-

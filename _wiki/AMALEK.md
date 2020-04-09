@@ -26,9 +26,3 @@ comments: false
 　　书目：F. M. Abel, Ge{ographie de la Palestine, 2, 1933，页270-3; D. Baly, The Geography of the Bible2, 1974。
 
 J.A.T.
-
-
-
-
-
-

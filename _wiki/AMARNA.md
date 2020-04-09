@@ -27,18 +27,6 @@ comments: false
 
 [SA, GAZ]）占据的地方，并不由大城市严格控制，他们通常以小撮形式侵袭巴勒斯坦及叙利亚各地，而不像是围攻城市的人，其他如沙呣拉角（Ras Shamra）及*亚拉拿出土的文献都反映了以上的事实。而且，这些文献显示当时的情况与约书亚领导之下的局面不同：拉吉及基色不但没有被消灭（书十），更积极支持哈皮鲁人。而且，首领的名字也不相同，当时耶路撒冷的王为艾狄──希巴。此外，这些文献谓哈皮鲁人活跃于耶路撒冷一带，但直至大卫的时代，耶路撒冷才属于以色列人。最后，上述的文献谓哈皮鲁人使用马车，但直到大卫在位时，以色列人才懂得在打仗时使用战车。
 
-　　书目：J. A. Kundtzon, Die El-Amarna-Tafeln, 2 vols., 1907, 1915 (=
-
-EA); A. F. Rainey, El Amarna tablets
-
-359-3792, 1978; W. F. Albright in ANET，页483-90; C. J. M. Weir in DOTT，页38-45; W. F. Albright, The Amarna letters from Palestine, CAH, 2/2, 1975，页98-116; F. F. Bruce in AOTS,，页1-20; K. A. Kitchen, Suppiluliuma and the Amarna Pharaohs,
-
-1962。
+　　书目：J. A. Kundtzon, Die El-Amarna-Tafeln, 2 vols., 1907, 1915 (= EA); A. F. Rainey, El Amarna tablets 359-3792, 1978; W. F. Albright in ANET，页483-90; C. J. M. Weir in DOTT，页38-45; W. F. Albright, The Amarna letters from Palestine, CAH, 2/2, 1975，页98-116; F. F. Bruce in AOTS,，页1-20; K. A. Kitchen, Suppiluliuma and the Amarna Pharaohs, 1962。
 
 M.J.S.
-
-
-
-
-
-

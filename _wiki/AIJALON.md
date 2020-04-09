@@ -20,11 +20,3 @@ el-Lo{n。
  　　书目：F. M. Abel, Ge*ographie de la Palestine, 2, 1937，页241。
 
 J.P.U.L.
-
-
-
-
-
-
-
-

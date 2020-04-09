@@ -13,18 +13,6 @@ comments: false
 
 　　在新约圣经中，“全能者”（pantokrato{r）在林后六18使用，又在启示录出现九次，每次特别强调神的能力（一8，四8，十一17，十五3，十六7、14，十九6、15，廿一22）。
 
-　　书目：N. Walker, ZAW 72, 1960，页64-6; L. Morris in A. E.
-
-Cundall and L. Morris, Judges and Ruth,
-
-TOTC, 1968，页264-8; K. Koch, VT 26, 1976，页299-332; W. Michaelis, TDNT 3，页914-5。
+　　书目：N. Walker, ZAW 72, 1960，页64-6; L. Morris in A. E. Cundall and L. Morris, Judges and Ruth, TOTC, 1968，页264-8; K. Koch, VT 26, 1976，页299-332; W. Michaelis, TDNT 3，页914-5。
 
 A.R.M.
-
-
-
-
-
-
-
-

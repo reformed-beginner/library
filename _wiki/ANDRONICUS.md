@@ -7,9 +7,7 @@ keywords: 安多尼古和犹尼亚, ANDRONICUS AND JUNIAS, JUNIA
 comments: false
 ---
 
-## 安多尼古和犹尼亚（ANDRONICUS AND JUNIAS,
-
-JUNIA）
+## 安多尼古和犹尼亚（ANDRONICUS AND JUNIAS, JUNIA）
 
 　　（AV 〔译注：及中文译本〕采用 Junia，就是女子的名字，这样她或许是安多尼古的妻子；RSV 采用 Junias，就是男姓的名字，为 Junianus 的缩写）。保罗在罗十六7中亲切地向他们问安，称他们为：
 
@@ -24,9 +22,3 @@ syngene{s，用此字作尊称之例）；拉姆齐（Ramsay）在 Cities of St.
 4. “比我先在基督里”，用于使徒这说法是贴切的。有关二人与以弗所或罗马教会之成立有密切关系之说，请参阅 B. W. Bacon, ExpT 42, 1930-1，页300起；及 G. A. Barton，同上，43, 1931-2，页359起。
 
 A.F.W.
-
-
-
-
-
-

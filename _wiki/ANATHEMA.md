@@ -25,14 +25,6 @@ comments: false
 
 　　与 anathema 一字同字源的动词在可十四71；徒廿三12、14、21中出现。
 
-　　书目：H. Aust, D.
-
-Mu/ller, NIDNTT 1，页413-5; J. Behm, TDNT 1，页354-5。
+　　书目：H. Aust, D. Mu/ller, NIDNTT 1，页413-5; J. Behm, TDNT 1，页354-5。
 
 A.F.W.
-
-
-
-
-
-
