@@ -18,9 +18,3 @@ comments: false
 　　书目：H. Hoehner, Herod Antipas, 1972。
 
 J.D.D.
-
-
-
-
-
-

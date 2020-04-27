@@ -17,16 +17,6 @@ comments: false
 
 　　这肯定是启示录中至少某些意象的含意。圣经学者对于解释这本书的正确方法，没有一致看法，但大多数同意某些异象是指恶势力与基督最后的斗争。有时，一些象征直指撒但，例如启十二3的“大红龙”获注明是指撒但（9节），但是启十一7的“兽”则没有，只是从他所作的可以看出他与撒但有密切的关连。另外也有类似的人物出现（启十三11等等）。我们在此的目的不是要鉴定那个人物是敌基督，而是要指出一个事实，本书也知道，在末日，有一个人会由撒但授以能力，与基督对敌。这可说是基督徒典型的末世观。
 
-　　书目：W. Bousset and A. H. Keane,
-
-The Antichrist Legend, 1896; art,
-
-'Antichrist' in Ebi; M. R. James, art, 'Man of Sin and Antichrist' in HDB; G. Vos, The Pauline Eschatology2, 1961，页94-135; NIDNTT 1，页124-6; G. C. Berkouwer, The Return of Christ, 1972，页260-90。
+　　书目：W. Bousset and A. H. Keane, The Antichrist Legend, 1896; art, 'Antichrist' in Ebi; M. R. James, art, 'Man of Sin and Antichrist' in HDB; G. Vos, The Pauline Eschatology2, 1961，页94-135; NIDNTT 1，页124-6; G. C. Berkouwer, The Return of Christ, 1972，页260-90。
 
 L.M.
-
-
-
-
-
-

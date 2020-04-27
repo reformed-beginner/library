@@ -43,28 +43,6 @@ comments: false
 
 　　末世应验的一个层面是先知信息的复兴，所以新约的启示文学是一种簇新的先知启示。它不再是冒名的，也不再采取一个虚构的、古人的观点；就以先知约翰为例，他以自己的名义写作（启一1），也同时摒弃了为遥远的将来而写作的常规（启廿二10）。
 
-　　书目：G. R. Beasley-Murray, Jesus and the Future, 1954; P. D.
-
-Hanson, The Dawn of Apocalyptic,
-
-1976; M. Hengel, Judaism and Hellenism,
-
-1974; K. Koch, The Rediscovery of
-
-Apocalyptic, 1970; L. Morris, Apocalyptic,
-
-1973; H. H. Rowley, The Relevance of
-
-Apocalyptic, 1944; R. J. Bauckham, Them
-
-3. 2, Jan. 1978，页10-23; D. Russell, The Method
-
-and Message of Jewish Apocalyptic, 1964。
+　　书目：G. R. Beasley-Murray, Jesus and the Future, 1954; P. D. Hanson, The Dawn of Apocalyptic, 1976; M. Hengel, Judaism and Hellenism, 1974; K. Koch, The Rediscovery of Apocalyptic, 1970; L. Morris, Apocalyptic, 1973; H. H. Rowley, The Relevance of Apocalyptic, 1944; R. J. Bauckham, Them 3. 2, Jan. 1978，页10-23; D. Russell, The Method and Message of Jewish Apocalyptic, 1964。
 
 R.J.B.
-
-
-
-
-
-

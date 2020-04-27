@@ -13,16 +13,6 @@ comments: false
 
 　　由马丁路德时代开始，亚波罗经常被认为是新约希伯来书的作者。若果他沿用他本土亚历山太的寓意释经法的话，这假设是有可能的，但却无从证实。
 
-　　书目：H. W. Montefiore, A Commentary on the Epistle to the Hebrews,
-
-1964，页9起；F. F. Bruce, New Testament
-
-History, 1969，页304起；同作者，'Apollosin the N.T.', Ekklesiastikos Pharos 57, 1975，页354起。
+　　书目：H. W. Montefiore, A Commentary on the Epistle to the Hebrews, 1964，页9起；F. F. Bruce, New Testament History, 1969，页304起；同作者，'Apollosin the N.T.', Ekklesiastikos Pharos 57, 1975，页354起。
 
 R.E.N.
-
-
-
-
-
-
