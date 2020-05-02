@@ -21,15 +21,15 @@ comments: false
 
 [序](/library/FreedomOfSimplicity/preface)<br>
 [第一部 根基](/library/FreedomOfSimplicity/01)<br>
-[第一章 简朴之复杂性](/library/FreedomOfSimplicity/0101)<br>
-[第二章 圣经根源：旧约](/library/FreedomOfSimplicity/0102)<br>
-[第三章 圣经根源：新约](/library/FreedomOfSimplicity/0103)<br>
-[第四章 圣徒论简朴](/library/FreedomOfSimplicity/0104)<br>
-[第二部 实践](/library/FreedomOfSimplicity/02)<br>
-[第五章 内在的简朴：神圣的中心](/library/FreedomOfSimplicity/0105)<br>
-[第六章 内在的简朴：圣洁的顺服](/library/FreedomOfSimplicity/0106)<br>
-[第七章 外表的简朴：起步](/library/FreedomOfSimplicity/0107)<br>
-[第八章 外表的简朴：展步](/library/FreedomOfSimplicity/0108)<br>
-[第九章 团体的简朴：教会](/library/FreedomOfSimplicity/0109)<br>
-[第十章 团体的简朴：世界](/library/FreedomOfSimplicity/0110)<br>
-[跋：简朴中的简朴](/library/FreedomOfSimplicity/0111)<br>
+[第一章 简朴之复杂性](/library/FreedomOfSimplicity/01)<br>
+[第二章 圣经根源：旧约](/library/FreedomOfSimplicity/02)<br>
+[第三章 圣经根源：新约](/library/FreedomOfSimplicity/03)<br>
+[第四章 圣徒论简朴](/library/FreedomOfSimplicity/04)<br>
+[第二部 实践](/library/FreedomOfSimplicity/05)<br>
+[第五章 内在的简朴：神圣的中心](/library/FreedomOfSimplicity/05)<br>
+[第六章 内在的简朴：圣洁的顺服](/library/FreedomOfSimplicity/06)<br>
+[第七章 外表的简朴：起步](/library/FreedomOfSimplicity/07)<br>
+[第八章 外表的简朴：展步](/library/FreedomOfSimplicity/08)<br>
+[第九章 团体的简朴：教会](/library/FreedomOfSimplicity/09)<br>
+[第十章 团体的简朴：世界](/library/FreedomOfSimplicity/10)<br>
+[跋：简朴中的简朴](/library/FreedomOfSimplicity/11)<br>
