@@ -8,7 +8,7 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> 即将到来。。。
+> 《圣经新词典》
 
 <ul class="listing">
 {% for wiki in site.wiki %}
