@@ -33,3 +33,5 @@ comments: false
 [第九章 团体的简朴：教会](/library/FreedomOfSimplicity/09)<br>
 [第十章 团体的简朴：世界](/library/FreedomOfSimplicity/10)<br>
 [跋：简朴中的简朴](/library/FreedomOfSimplicity/11)<br>
+
+## 感谢天媛姊妹和迎春姊妹提供文稿和校正。
