@@ -48,7 +48,7 @@ def _to_chinese4(num):
         return result[::-1]
 
 if __name__ == '__main__':
-    month = 10
+    month = 12
     for i in range(1,32):  # 31 or 32
         filename = '%02d' % month + '%02d' % i
         #print(filename)
